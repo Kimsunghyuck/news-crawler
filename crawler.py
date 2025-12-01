@@ -272,7 +272,8 @@ def crawl_news() -> bool:
                 
                 # max_articles 인자를 받는 파서들
                 if parser_name in ['donga_politics', 'chosun_politics', 'joongang_politics',
-                                    'donga_sports', 'chosun_sports', 'joongang_sports']:
+                                    'donga_sports', 'chosun_sports', 'joongang_sports',
+                                    'donga_economy', 'chosun_economy', 'joongang_economy']:
                     new_news = parser_func(html_content, max_articles)
                 else:
                     new_news = parser_func(html_content)

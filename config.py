@@ -72,7 +72,24 @@ NEWS_SOURCES = {
         },
     ],
     '경제': [
-        # 경제 뉴스 소스는 여기에 추가
+        {
+            'name': '중앙일보',
+            'url': 'https://www.joongang.co.kr/money',
+            'parser': 'joongang_economy',
+            'max_articles': 5
+        },
+        {
+            'name': '동아일보',
+            'url': 'https://www.donga.com/news/Economy',
+            'parser': 'donga_economy',
+            'max_articles': 5
+        },
+        {
+            'name': '조선일보',
+            'url': 'https://www.chosun.com/economy/',
+            'parser': 'chosun_economy',
+            'max_articles': 5
+        },
     ]
 }
 

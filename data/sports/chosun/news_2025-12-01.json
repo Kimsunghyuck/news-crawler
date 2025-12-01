@@ -1,11 +1,11 @@
 [
   {
-    "title": "'돌부처' 이창호, 통산 1969승조훈현 넘고 신기록",
+    "title": "'돌부처' 이창호, 통산 1969승스승 조훈현 넘어 신기록 썼다",
     "url": "https://www.chosun.com/sports/sports_general/2025/12/01/U62KPISTHJDJVIS6VYDGNCXHSE/",
     "date": "2025-12-01",
     "category": "스포츠",
     "source": "조선일보",
-    "scraped_at": "2025-12-01T07:24:59.282307",
+    "scraped_at": "2025-12-01T17:50:23.600345",
     "main_category": "스포츠"
   },
   {
@@ -27,12 +27,30 @@
     "main_category": "스포츠"
   },
   {
+    "title": "'폭행 논란' 신태용\"반가워서 표현 과했을 뿐\"",
+    "url": "https://www.chosun.com/sports/football/2025/12/01/6T2SLSNLNJFR5NHQYLV4DD2VRE/",
+    "date": "2025-12-01",
+    "category": "스포츠",
+    "source": "조선일보",
+    "scraped_at": "2025-12-01T17:50:23.600291",
+    "main_category": "스포츠"
+  },
+  {
+    "title": "MLB 통산 50경기 11승삼성, 투수 맷 매닝 영입",
+    "url": "https://www.chosun.com/sports/baseball/2025/12/01/JYFJDDJUONHSPGUM4SDVE5XRRQ/",
+    "date": "2025-12-01",
+    "category": "스포츠",
+    "source": "조선일보",
+    "scraped_at": "2025-12-01T17:50:23.600337",
+    "main_category": "스포츠"
+  },
+  {
     "title": "결승전서 유일한 패배 적립…'의성 BTS' 남자 컬링, 은메달",
     "url": "https://www.chosun.com/sports/sports_special/2025/02/14/BG4FECTTCBCNJKT4PRRTOLWEYI/",
     "date": "2025-02-14",
     "category": "스포츠",
     "source": "조선일보",
-    "scraped_at": "2025-12-01T07:24:59.282342",
+    "scraped_at": "2025-12-01T17:50:23.600314",
     "main_category": "스포츠"
   },
   {
@@ -41,7 +59,7 @@
     "date": "2025-02-14",
     "category": "스포츠",
     "source": "조선일보",
-    "scraped_at": "2025-12-01T07:24:59.282358",
+    "scraped_at": "2025-12-01T17:50:23.600324",
     "main_category": "스포츠"
   }
 ]

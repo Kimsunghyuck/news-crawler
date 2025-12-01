@@ -26,7 +26,7 @@ news-crawler/
 │       └── manual-crawl.yml     # 수동 실행 워크플로우
 ├── config.py                    # 설정 파일 (모든 카테고리/소스 정의)
 ├── crawler.py                   # 크롤링 메인 로직 + 자동 보고서 생성
-├── parser.py                    # HTML 파싱 함수 (7개 파서)
+├── parser.py                    # HTML 파싱 함수 (9개 파서)
 ├── report_generator.py          # 한국어 보고서 생성 모듈
 ├── scheduler.py                 # 로컬 자동 스케줄링 모듈 (선택)
 ├── requirements.txt             # 필요한 라이브러리
@@ -45,7 +45,13 @@ news-crawler/
 │   │   │   └── news_2025-12-01.json    # 조선일보 스포츠 (5개)
 │   │   └── joongang/
 │   │       └── news_2025-12-01.json    # 중앙일보 스포츠 (5개)
-│   └── economy/                         # 경제 (예정)
+│   └── economy/
+│       ├── donga/
+│       │   └── news_2025-12-01.json    # 동아일보 경제 (5개)
+│       ├── chosun/
+│       │   └── news_2025-12-01.json    # 조선일보 경제 (5개)
+│       └── joongang/
+│           └── news_2025-12-01.json    # 중앙일보 경제 (5개)
 ├── reports/                     # 보고서 저장 폴더
 │   ├── politics/
 │   │   ├── donga/
@@ -55,6 +61,13 @@ news-crawler/
 │   │   └── joongang/
 │   │       └── report_2025-12-01.md
 │   ├── sports/
+│   │   ├── donga/
+│   │   │   └── report_2025-12-01.md
+│   │   ├── chosun/
+│   │   │   └── report_2025-12-01.md
+│   │   └── joongang/
+│   │       └── report_2025-12-01.md
+│   ├── economy/
 │   │   ├── donga/
 │   │   │   └── report_2025-12-01.md
 │   │   ├── chosun/
@@ -166,9 +179,12 @@ schedule:
 - `reports/sports/donga/report_2025-12-01.md`
 - `reports/sports/chosun/report_2025-12-01.md`
 - `reports/sports/joongang/report_2025-12-01.md`
+- `reports/economy/donga/report_2025-12-01.md`
+- `reports/economy/chosun/report_2025-12-01.md`
+- `reports/economy/joongang/report_2025-12-01.md`
 
 **통합 보고서:**
-- `reports/combined/report_2025-12-01.md` - 전체 카테고리 통합 보고서 (30개 뉴스)
+- `reports/combined/report_2025-12-01.md` - 전체 카테고리 통합 보고서 (45개 뉴스)
 
 마크다운 형식의 보고서 포함:
 - 날짜가 포함된 제목
@@ -205,12 +221,13 @@ schedule:
 
 ### 날짜별 파일 관리
 
-**12월 1일 (총 30개 뉴스):**
+**12월 1일 (총 45개 뉴스):**
 - 정치: `data/politics/{donga,chosun,joongang}/news_2025-12-01.json` (5+5+5=15개)
 - 스포츠: `data/sports/{donga,chosun,joongang}/news_2025-12-01.json` (5+5+5=15개)
+- 경제: `data/economy/{donga,chosun,joongang}/news_2025-12-01.json` (5+5+5=15개)
 - 통합 보고서: `reports/combined/report_2025-12-01.md`
 
-**12월 2일 (총 30개 뉴스):**
+**12월 2일 (총 45개 뉴스):**
 - 동일한 구조로 `news_2025-12-02.json`, `report_2025-12-02.md` 생성
 
 각 날짜마다 독립적인 파일로 관리되어 히스토리 추적이 쉽습니다.
@@ -227,8 +244,10 @@ schedule:
 - **조선일보** (https://www.chosun.com/sports/) - "스포츠 많이 본 뉴스"
 - **중앙일보** (https://www.joongang.co.kr/sports) - "스포츠 많이 본 기사"
 
-### 경제 (예정)
-- 동아일보, 조선일보, 중앙일보 경제 섹션 (추후 추가 예정)
+### 경제 (15개 기사 - 각 5개씩)
+- **동아일보** (https://www.donga.com/news/Economy) - "많이 본 경제 뉴스"
+- **조선일보** (https://www.chosun.com/economy/) - "조선경제 많이 본 뉴스"
+- **중앙일보** (https://www.joongang.co.kr/money) - "경제 많이 본 기사"
 
 ## 🔧 수동 실행
 
@@ -328,7 +347,7 @@ cat reports/combined/report_2025-12-02.md
 
 ## 💡 활용 방법
 
-1. **정기 모니터링**: 매일 아침 9시에 최신 뉴스 자동 수집 (30개)
+1. **정기 모니터링**: 매일 아침 9시에 최신 뉴스 자동 수집 (45개)
 2. **데이터 분석**: JSON 데이터를 활용해 뉴스 트렌드 분석
 3. **보고서 확인**: 한국어 보고서로 쉽게 내용 파악
    - 개별 소스별 보고서: 특정 신문사만 집중 분석
@@ -350,13 +369,13 @@ MIT License
 
 **만든 날짜**: 2025년 12월 1일  
 **최종 업데이트**: 2025년 12월 1일  
-**상태**: ✅ 멀티 카테고리 시스템 완료 (정치, 스포츠)  
-**총 뉴스 수**: 30개 (정치 15개 + 스포츠 15개)
+**상태**: ✅ 멀티 카테고리 시스템 완료 (정치, 스포츠, 경제)  
+**총 뉴스 수**: 45개 (정치 15개 + 스포츠 15개 + 경제 15개)
 
 ## ⭐ 추천 워크플로우
 
 1. **초기 설정**: GitHub Actions 권한 설정 (1회)
-2. **자동 실행**: 매일 오전 9시 자동 크롤링 (30개 뉴스)
+2. **자동 실행**: 매일 오전 9시 자동 크롤링 (45개 뉴스)
 3. **결과 확인**: 필요할 때 `git pull`로 최신 데이터 확인
 4. **수동 실행**: 원할 때 언제든 GitHub에서 수동 실행
 5. **보고서 활용**:
@@ -375,4 +394,7 @@ MIT License
 | 스포츠 | 동아일보 | 5개 | "많이 본 스포츠 뉴스" |
 | 스포츠 | 조선일보 | 5개 | "스포츠 많이 본 뉴스" |
 | 스포츠 | 중앙일보 | 5개 | "스포츠 많이 본 기사" |
-| **합계** | **6개 소스** | **30개** | **매일 자동 업데이트** |
+| 경제 | 동아일보 | 5개 | "많이 본 경제 뉴스" |
+| 경제 | 조선일보 | 5개 | "조선경제 많이 본 뉴스" |
+| 경제 | 중앙일보 | 5개 | "경제 많이 본 기사" |
+| **합계** | **9개 소스** | **45개** | **매일 자동 업데이트** |

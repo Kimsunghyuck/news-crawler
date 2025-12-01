@@ -35,6 +35,8 @@ jobs:
         ls -la data/politics/*/
         echo "=== 스포츠 카테고리 ==="
         ls -la data/sports/*/
+        echo "=== 경제 카테고리 ==="
+        ls -la data/economy/*/
         echo "=== 보고서 ==="
         ls -la reports/combined/
         
@@ -45,7 +47,7 @@ jobs:
         git add data/ reports/ logs/
         
         if ! git diff --quiet --staged; then
-          git commit -m "🤖 자동 크롤링 (정치+스포츠 30개): $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "🤖 자동 크롤링 (정치+스포츠+경제 45개): $(date +'%Y-%m-%d %H:%M:%S')"
           git push
           echo "✅ 변경사항이 커밋되고 푸시되었습니다."
         else
