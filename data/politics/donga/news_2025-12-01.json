@@ -5,7 +5,7 @@
     "date": "2025-12-01",
     "category": "정치",
     "source": "동아일보",
-    "scraped_at": "2025-12-01T16:07:26.036602",
+    "scraped_at": "2025-12-01T07:24:43.523224",
     "main_category": "정치"
   },
   {
@@ -14,7 +14,7 @@
     "date": "2025-12-01",
     "category": "정치",
     "source": "동아일보",
-    "scraped_at": "2025-12-01T16:07:26.036623",
+    "scraped_at": "2025-12-01T07:24:43.523241",
     "main_category": "정치"
   },
   {
@@ -23,7 +23,7 @@
     "date": "2025-12-01",
     "category": "정치",
     "source": "동아일보",
-    "scraped_at": "2025-12-01T16:07:26.036631",
+    "scraped_at": "2025-12-01T07:24:43.523254",
     "main_category": "정치"
   },
   {
@@ -42,6 +42,24 @@
     "category": "정치",
     "source": "동아일보",
     "scraped_at": "2025-12-01T16:07:26.036644",
+    "main_category": "정치"
+  },
+  {
+    "title": "이화영 회유 의혹 변호사, ‘회유 진술’ 교도관 고소",
+    "url": "https://www.donga.com/news/Politics/article/all/20251201/132877820/1",
+    "date": "2025-12-01",
+    "category": "정치",
+    "source": "동아일보",
+    "scraped_at": "2025-12-01T07:24:43.523188",
+    "main_category": "정치"
+  },
+  {
+    "title": "배현진 “천박함을 천박하다 한 것, 긁혀 발작”…김계리에 응수",
+    "url": "https://www.donga.com/news/Politics/article/all/20251201/132877540/2",
+    "date": "2025-12-01",
+    "category": "정치",
+    "source": "동아일보",
+    "scraped_at": "2025-12-01T07:24:43.523211",
     "main_category": "정치"
   }
 ]

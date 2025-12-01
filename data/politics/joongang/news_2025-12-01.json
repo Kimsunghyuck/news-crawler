@@ -5,7 +5,7 @@
     "date": "2025-12-01",
     "category": "정치",
     "source": "중앙일보",
-    "scraped_at": "2025-12-01T16:07:31.627169",
+    "scraped_at": "2025-12-01T07:24:49.464836",
     "main_category": "정치"
   },
   {
@@ -14,7 +14,7 @@
     "date": "2025-12-01",
     "category": "정치",
     "source": "중앙일보",
-    "scraped_at": "2025-12-01T16:07:31.627278",
+    "scraped_at": "2025-12-01T07:24:49.465147",
     "main_category": "정치"
   },
   {
@@ -23,7 +23,7 @@
     "date": "2025-12-01",
     "category": "정치",
     "source": "중앙일보",
-    "scraped_at": "2025-12-01T16:07:31.627372",
+    "scraped_at": "2025-12-01T07:24:49.464983",
     "main_category": "정치"
   },
   {
@@ -32,7 +32,7 @@
     "date": "2025-12-01",
     "category": "정치",
     "source": "중앙일보",
-    "scraped_at": "2025-12-01T16:07:31.627471",
+    "scraped_at": "2025-12-01T07:24:49.465351",
     "main_category": "정치"
   },
   {
@@ -42,6 +42,15 @@
     "category": "정치",
     "source": "중앙일보",
     "scraped_at": "2025-12-01T16:07:31.627580",
+    "main_category": "정치"
+  },
+  {
+    "title": "與 전현희·한준호·김병주 최고위원, 지방선거 출마 이유로 사퇴",
+    "url": "https://www.joongang.co.kr/article/25386459",
+    "date": "2025-12-01",
+    "category": "정치",
+    "source": "중앙일보",
+    "scraped_at": "2025-12-01T07:24:49.465565",
     "main_category": "정치"
   }
 ]
