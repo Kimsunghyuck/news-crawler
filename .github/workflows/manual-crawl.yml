@@ -28,8 +28,6 @@ jobs:
     - name: 📊 크롤링 결과 확인
       run: |
         echo "📁 생성된 파일 목록:"
-        echo "=== AI 카테고리 ==="
-        ls -la data/ai/*/
         echo "=== 정치 카테고리 ==="
         ls -la data/politics/*/
         echo "=== 스포츠 카테고리 ==="
@@ -38,7 +36,7 @@ jobs:
         ls -la reports/combined/
         echo ""
         echo "📰 최신 뉴스 통계:"
-        python -c "import json; import glob; ai=sum([len(json.load(open(f))) for f in glob.glob('data/ai/*/*.json')]); pol=sum([len(json.load(open(f))) for f in glob.glob('data/politics/*/*.json')]); spo=sum([len(json.load(open(f))) for f in glob.glob('data/sports/*/*.json')]); print(f'AI: {ai}개, 정치: {pol}개, 스포츠: {spo}개, 총: {ai+pol+spo}개')"
+        python -c "import json; import glob; pol=sum([len(json.load(open(f))) for f in glob.glob('data/politics/*/*.json')]); spo=sum([len(json.load(open(f))) for f in glob.glob('data/sports/*/*.json')]); print(f'정치: {pol}개, 스포츠: {spo}개, 총: {pol+spo}개')"
         
     - name: 💾 결과 파일 커밋 및 푸시
       run: |
@@ -47,7 +45,7 @@ jobs:
         git add data/ reports/ logs/
         
         if ! git diff --quiet --staged; then
-          git commit -m "🤖 수동 크롤링 (AI+정치+스포츠 45개): $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "🤖 수동 크롤링 (정치+스포츠 30개): $(date +'%Y-%m-%d %H:%M:%S')"
           git push
           echo "✅ 변경사항이 커밋되고 푸시되었습니다."
         else

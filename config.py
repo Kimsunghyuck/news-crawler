@@ -5,7 +5,7 @@ AI, 정치, 스포츠, 경제 4개 카테고리별 뉴스 소스 관리
 
 # 카테고리 영문 매핑
 CATEGORY_EN_MAP = {
-    'AI': 'ai',
+    # 'AI': 'ai',  # AI는 매일 업데이트되지 않아 주석처리
     '정치': 'politics',
     '스포츠': 'sports',
     '경제': 'economy'
@@ -21,15 +21,15 @@ SOURCE_EN_MAP = {
 
 # 카테고리별 뉴스 소스 설정
 NEWS_SOURCES = {
-    'AI': [
-        {
-            'name': 'Anthropic',
-            'url': 'https://www.anthropic.com/news',
-            'parser': 'anthropic_news',  # parser.py의 parse_anthropic_news 함수 사용
-            'max_articles': 20
-        },
-        # 추가 AI 뉴스 소스는 여기에 추가
-    ],
+    # 'AI': [  # AI는 매일 업데이트되지 않아 주석처리
+    #     {
+    #         'name': 'Anthropic',
+    #         'url': 'https://www.anthropic.com/news',
+    #         'parser': 'anthropic_news',  # parser.py의 parse_anthropic_news 함수 사용
+    #         'max_articles': 20
+    #     },
+    #     # 추가 AI 뉴스 소스는 여기에 추가
+    # ],
     '정치': [
         {
             'name': '동아일보',
