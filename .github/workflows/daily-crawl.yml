@@ -34,15 +34,16 @@ jobs:
         ls -la data/
         ls -la reports/
         
-    - name: 💾 결과 파일 커밋
+    - name: 💾 결과 파일 커밋 및 푸시
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "GitHub Actions Bot"
         git add data/ reports/ logs/
-        git diff --quiet && git diff --staged --quiet || git commit -m "🤖 자동 크롤링: $(date +'%Y-%m-%d %H:%M:%S')"
         
-    - name: 📤 GitHub에 푸시
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        if ! git diff --quiet --staged; then
+          git commit -m "🤖 자동 크롤링: $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+          echo "✅ 변경사항이 커밋되고 푸시되었습니다."
+        else
+          echo "ℹ️ 새로운 변경사항이 없습니다."
+        fi
