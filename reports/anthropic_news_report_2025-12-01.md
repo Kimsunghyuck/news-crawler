@@ -1,6 +1,6 @@
 # 📰 Anthropic 뉴스 보고서 - 2025년 12월 01일
 
-**보고서 생성일**: 2025년 12월 01일 04:25
+**보고서 생성일**: 2025년 12월 01일 04:34
 **총 뉴스 개수**: 15개
 ---
 
@@ -66,61 +66,61 @@
 
 - **발표일**: 2025년 9 29일
 - **원문 링크**: [https://www.anthropic.com/news/claude-sonnet-4-5](https://www.anthropic.com/news/claude-sonnet-4-5)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 #### Introducing Claude Haiku 4.5Claude Haiku 4.5 matches state-of-the-art coding capabilities from months ago while delivering unprecedented speed and cost-efficiency for complex tasks.
 
 - **발표일**: 2025년 9 29일
 - **원문 링크**: [https://www.anthropic.com/news/claude-haiku-4-5](https://www.anthropic.com/news/claude-haiku-4-5)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 #### Anthropic raises $13B Series F at $183B post-money valuationAnthropic raised $13 billion in a Series F round at a $183 billion valuation to expand enterprise offerings, safety research, and international growth as revenue grew from $1 billion to over $5 billion in eight months.
 
 - **발표일**: 2025년 9 29일
 - **원문 링크**: [https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation](https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 #### Thoughts on America’s AI Action PlanAnthropic's response to the White House AI Action Plan supports infrastructure and safety measures while calling for stronger export controls and transparency requirements to maintain American AI leadership.
 
 - **발표일**: 2025년 9 29일
 - **원문 링크**: [https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan](https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 #### New offices in Paris and Munich expand Anthropic’s European presence
 
 - **발표일**: 2025년 11 7일
 - **원문 링크**: [https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence](https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 #### Introducing Claude Opus 4.5The best model in the world for coding, agents, and computer use, with meaningful improvements to everyday tasks like slides and spreadsheets. Claude Opus 4.5 delivers frontier performance and dramatically improved token efficiency.
 
 - **발표일**: 2025년 11 24일
 - **원문 링크**: [https://www.anthropic.com/news/claude-opus-4-5](https://www.anthropic.com/news/claude-opus-4-5)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 #### Microsoft, NVIDIA, and Anthropic announce strategic partnerships
 
 - **발표일**: 2025년 11 18일
 - **원문 링크**: [https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships](https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 #### Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa
 
 - **발표일**: 2025년 11 18일
 - **원문 링크**: [https://www.anthropic.com/news/rwandan-government-partnership-ai-education](https://www.anthropic.com/news/rwandan-government-partnership-ai-education)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 #### The state of Maryland partners with Anthropic to better serve residents
 
 - **발표일**: 2025년 11 13일
 - **원문 링크**: [https://www.anthropic.com/news/maryland-partnership](https://www.anthropic.com/news/maryland-partnership)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 #### Anthropic invests $50 billion in American AI infrastructure
 
 - **발표일**: 2025년 11 12일
 - **원문 링크**: [https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure](https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 
 ### 정책
@@ -129,13 +129,13 @@
 
 - **발표일**: 2025년 11 13일
 - **원문 링크**: [https://www.anthropic.com/news/disrupting-AI-espionage](https://www.anthropic.com/news/disrupting-AI-espionage)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 #### Responsible Scaling
 
 - **발표일**: 
 - **원문 링크**: [https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy](https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 
 ### 제품
@@ -144,13 +144,13 @@
 
 - **발표일**: 2025년 11 18일
 - **원문 링크**: [https://www.anthropic.com/news/claude-in-microsoft-foundry](https://www.anthropic.com/news/claude-in-microsoft-foundry)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 #### Measuring political bias in Claude
 
 - **발표일**: 2025년 11 13일
 - **원문 링크**: [https://www.anthropic.com/news/political-even-handedness](https://www.anthropic.com/news/political-even-handedness)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 
 ### 연구
@@ -159,7 +159,7 @@
 
 - **발표일**: 2025년 11 5일
 - **원문 링크**: [https://www.anthropic.com/news/economic-futures-uk-europe](https://www.anthropic.com/news/economic-futures-uk-europe)
-- **수집 시간**: 2025-12-01 04:25:50
+- **수집 시간**: 2025-12-01 04:34:08
 
 
 ---
