@@ -1,0 +1,48 @@
+name: Daily Anthropic News Crawl
+
+on:
+  schedule:
+    # 매일 한국시간 오전 9시 (UTC 0시)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 수동 실행 버튼 활성화
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 코드 체크아웃
+      uses: actions/checkout@v4
+      
+    - name: 🐍 Python 설정
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+        
+    - name: 📦 의존성 설치
+      run: |
+        pip install -r requirements.txt
+        
+    - name: 🕷️ 뉴스 크롤링 실행
+      run: |
+        python crawler.py
+        
+    - name: 📊 크롤링 결과 확인
+      run: |
+        echo "📁 생성된 파일 목록:"
+        ls -la data/
+        ls -la reports/
+        
+    - name: 💾 결과 파일 커밋
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions Bot"
+        git add data/ reports/ logs/
+        git diff --quiet && git diff --staged --quiet || git commit -m "🤖 자동 크롤링: $(date +'%Y-%m-%d %H:%M:%S')"
+        
+    - name: 📤 GitHub에 푸시
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
