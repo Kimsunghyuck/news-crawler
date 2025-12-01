@@ -28,9 +28,9 @@ env/
 ENV/
 .venv
 
-# Data files
-data/*.json
-data/*.csv
+# Data files - 크롤링된 데이터는 Git에 포함
+# data/*.json  # 주석 처리: 크롤링 결과를 저장하기 위해
+# data/*.csv
 
 # Log files
 logs/*.log
