@@ -1,4 +1,4 @@
-name: Daily Anthropic News Crawl
+name: Daily Multi-Category News Crawl
 
 on:
   schedule:
@@ -24,15 +24,21 @@ jobs:
       run: |
         pip install -r requirements.txt
         
-    - name: 🕷️ 뉴스 크롤링 실행
+    - name: 🕷️ 멀티 카테고리 뉴스 크롤링 실행
       run: |
         python crawler.py
         
     - name: 📊 크롤링 결과 확인
       run: |
         echo "📁 생성된 파일 목록:"
-        ls -la data/
-        ls -la reports/
+        echo "=== AI 카테고리 ==="
+        ls -la data/ai/*/
+        echo "=== 정치 카테고리 ==="
+        ls -la data/politics/*/
+        echo "=== 스포츠 카테고리 ==="
+        ls -la data/sports/*/
+        echo "=== 보고서 ==="
+        ls -la reports/combined/
         
     - name: 💾 결과 파일 커밋 및 푸시
       run: |
@@ -41,7 +47,7 @@ jobs:
         git add data/ reports/ logs/
         
         if ! git diff --quiet --staged; then
-          git commit -m "🤖 자동 크롤링: $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "🤖 자동 크롤링 (AI+정치+스포츠 45개): $(date +'%Y-%m-%d %H:%M:%S')"
           git push
           echo "✅ 변경사항이 커밋되고 푸시되었습니다."
         else
