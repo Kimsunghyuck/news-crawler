@@ -1,16 +1,17 @@
-# Anthropic 뉴스 크롤러
+# 멀티 카테고리 뉴스 크롤러
 
-Anthropic 웹사이트(https://www.anthropic.com/news)에서 최신 뉴스를 자동으로 크롤링하고 한국어 보고서로 변환하는 완전 자동화 시스템입니다.
+AI, 정치, 스포츠, 경제 등 다양한 카테고리의 뉴스를 자동으로 크롤링하고 한국어 보고서로 변환하는 완전 자동화 시스템입니다.
 
 ## 🌟 주요 기능
 
-- ✅ Anthropic 뉴스 페이지에서 최신 뉴스 자동 크롤링
-- ✅ 뉴스 제목, URL, 날짜, 카테고리 추출
+- ✅ **멀티 카테고리 지원** - AI, 정치, 스포츠, 경제 (4개 카테고리)
+- ✅ **다중 뉴스 소스** - Anthropic, 중앙일보, 동아일보, 조선일보
+- ✅ **"많이 본 뉴스" 타겟팅** - 각 신문사의 인기 기사 섹션 정확히 파싱
+- ✅ **카테고리/소스별 독립 관리** - 체계적인 폴더 구조
 - ✅ **날짜별 JSON 파일 저장** - 매일 별도 파일로 관리
-- ✅ **한국어 보고서 자동 생성** - 크롤링 후 즉시 보고서 생성
+- ✅ **한국어 보고서 자동 생성** - 개별 보고서 + 통합 보고서
 - ✅ **GitHub Actions 완전 자동화** ⭐ - 컴퓨터 안 켜도 자동 실행!
 - ✅ **매일 아침 9시 자동 실행** - GitHub 서버에서 자동 크롤링
-- ✅ **날짜별 파일 관리** - 크롤링 날짜가 파일명에 포함
 - ✅ 중복 제거 및 증분 업데이트
 - ✅ 에러 처리 및 재시도 로직
 - ✅ 상세한 로깅
@@ -23,17 +24,51 @@ news-crawler/
 │   └── workflows/
 │       ├── daily-crawl.yml      # 매일 자동 크롤링 (GitHub Actions)
 │       └── manual-crawl.yml     # 수동 실행 워크플로우
-├── config.py                    # 설정 파일
+├── config.py                    # 설정 파일 (모든 카테고리/소스 정의)
 ├── crawler.py                   # 크롤링 메인 로직 + 자동 보고서 생성
-├── parser.py                    # HTML 파싱 함수
+├── parser.py                    # HTML 파싱 함수 (7개 파서)
 ├── report_generator.py          # 한국어 보고서 생성 모듈
 ├── scheduler.py                 # 로컬 자동 스케줄링 모듈 (선택)
 ├── requirements.txt             # 필요한 라이브러리
 ├── data/                        # 크롤링 데이터 저장 폴더
-│   ├── .gitkeep
-│   └── news_2025-12-01.json    # 날짜별 뉴스 데이터
+│   ├── ai/
+│   │   └── anthropic/
+│   │       └── news_2025-12-01.json    # AI 뉴스 (15개)
+│   ├── politics/
+│   │   ├── donga/
+│   │   │   └── news_2025-12-01.json    # 동아일보 정치 (5개)
+│   │   ├── chosun/
+│   │   │   └── news_2025-12-01.json    # 조선일보 정치 (5개)
+│   │   └── joongang/
+│   │       └── news_2025-12-01.json    # 중앙일보 정치 (5개)
+│   ├── sports/
+│   │   ├── donga/
+│   │   │   └── news_2025-12-01.json    # 동아일보 스포츠 (5개)
+│   │   ├── chosun/
+│   │   │   └── news_2025-12-01.json    # 조선일보 스포츠 (5개)
+│   │   └── joongang/
+│   │       └── news_2025-12-01.json    # 중앙일보 스포츠 (5개)
+│   └── economy/                         # 경제 (예정)
 ├── reports/                     # 보고서 저장 폴더
-│   └── anthropic_news_report_2025-12-01.md
+│   ├── ai/
+│   │   └── anthropic/
+│   │       └── report_2025-12-01.md
+│   ├── politics/
+│   │   ├── donga/
+│   │   │   └── report_2025-12-01.md
+│   │   ├── chosun/
+│   │   │   └── report_2025-12-01.md
+│   │   └── joongang/
+│   │       └── report_2025-12-01.md
+│   ├── sports/
+│   │   ├── donga/
+│   │   │   └── report_2025-12-01.md
+│   │   ├── chosun/
+│   │   │   └── report_2025-12-01.md
+│   │   └── joongang/
+│   │       └── report_2025-12-01.md
+│   └── combined/
+│       └── report_2025-12-01.md    # 전체 통합 보고서
 ├── logs/                        # 로그 파일 폴더
 │   └── crawler.log
 └── docs/
@@ -102,30 +137,55 @@ schedule:
 
 ## 📊 출력 데이터
 
-### data/ 폴더
-- `news_2025-12-01.json` - 날짜별 뉴스 데이터 (JSON)
+### data/ 폴더 (카테고리/소스별 구조)
+
+**AI 카테고리:**
+- `data/ai/anthropic/news_2025-12-01.json` - Anthropic AI 뉴스 (15개)
+
+**정치 카테고리:**
+- `data/politics/donga/news_2025-12-01.json` - 동아일보 정치 "많이 본 뉴스" (5개)
+- `data/politics/chosun/news_2025-12-01.json` - 조선일보 정치 "많이 본 뉴스" (5개)
+- `data/politics/joongang/news_2025-12-01.json` - 중앙일보 정치 "많이 본 뉴스" (5개)
+
+**스포츠 카테고리:**
+- `data/sports/donga/news_2025-12-01.json` - 동아일보 스포츠 "많이 본 뉴스" (5개)
+- `data/sports/chosun/news_2025-12-01.json` - 조선일보 스포츠 "많이 본 뉴스" (5개)
+- `data/sports/joongang/news_2025-12-01.json` - 중앙일보 스포츠 "많이 본 뉴스" (5개)
 
 ```json
 [
   {
-    "title": "Introducing Claude Opus 4.5",
-    "url": "https://www.anthropic.com/news/claude-opus-4-5",
-    "date": "Nov 24, 2025",
-    "category": "Announcements",
-    "scraped_at": "2025-12-01T09:00:00"
+    "title": "정청래, 계엄 1년 또 내란몰이… \"2차 특검 검토 시점\"",
+    "url": "https://www.chosun.com/politics/assembly/2025/12/01/...",
+    "date": "2025-12-01",
+    "category": "정치",
+    "source": "조선일보",
+    "scraped_at": "2025-12-01T16:07:29.024304",
+    "main_category": "정치"
   }
 ]
 ```
 
-### reports/ 폴더
-- `anthropic_news_report_2025-12-01.md` - 날짜별 한국어 보고서
+### reports/ 폴더 (개별 + 통합 보고서)
+
+**개별 소스별 보고서:**
+- `reports/ai/anthropic/report_2025-12-01.md`
+- `reports/politics/donga/report_2025-12-01.md`
+- `reports/politics/chosun/report_2025-12-01.md`
+- `reports/politics/joongang/report_2025-12-01.md`
+- `reports/sports/donga/report_2025-12-01.md`
+- `reports/sports/chosun/report_2025-12-01.md`
+- `reports/sports/joongang/report_2025-12-01.md`
+
+**통합 보고서:**
+- `reports/combined/report_2025-12-01.md` - 전체 카테고리 통합 보고서 (45개 뉴스)
 
 마크다운 형식의 보고서 포함:
 - 날짜가 포함된 제목
-- 카테고리별 분류
-- 주요 통계
-- 최신 뉴스 하이라이트
-- 상세 뉴스 목록
+- 카테고리별/소스별 분류
+- 주요 통계 및 목차
+- 최신 뉴스 하이라이트 (전체 상위 10개)
+- 카테고리별 상세 뉴스 목록
 
 ## 🤖 자동화 방식
 
@@ -155,11 +215,34 @@ schedule:
 
 ### 날짜별 파일 관리
 
-- **12월 1일**: `news_2025-12-01.json`, `anthropic_news_report_2025-12-01.md`
-- **12월 2일**: `news_2025-12-02.json`, `anthropic_news_report_2025-12-02.md`
-- **12월 3일**: `news_2025-12-03.json`, `anthropic_news_report_2025-12-03.md`
+**12월 1일 (총 45개 뉴스):**
+- AI: `data/ai/anthropic/news_2025-12-01.json` (15개)
+- 정치: `data/politics/{donga,chosun,joongang}/news_2025-12-01.json` (5+5+5=15개)
+- 스포츠: `data/sports/{donga,chosun,joongang}/news_2025-12-01.json` (5+5+5=15개)
+- 통합 보고서: `reports/combined/report_2025-12-01.md`
+
+**12월 2일 (총 45개 뉴스):**
+- 동일한 구조로 `news_2025-12-02.json`, `report_2025-12-02.md` 생성
 
 각 날짜마다 독립적인 파일로 관리되어 히스토리 추적이 쉽습니다.
+
+## 🎯 카테고리별 뉴스 소스
+
+### AI (15개 기사)
+- **Anthropic** (https://www.anthropic.com/news) - Claude AI 관련 최신 뉴스
+
+### 정치 (15개 기사 - 각 5개씩)
+- **동아일보** (https://www.donga.com/news/Politics) - "많이 본 정치 뉴스"
+- **조선일보** (https://www.chosun.com/politics/) - "정치 많이 본 뉴스"
+- **중앙일보** (https://www.joongang.co.kr/politics) - "정치 많이 본 기사"
+
+### 스포츠 (15개 기사 - 각 5개씩)
+- **동아일보** (https://www.donga.com/news/Sports) - "많이 본 스포츠 뉴스"
+- **조선일보** (https://www.chosun.com/sports/) - "스포츠 많이 본 뉴스"
+- **중앙일보** (https://www.joongang.co.kr/sports) - "스포츠 많이 본 기사"
+
+### 경제 (예정)
+- 동아일보, 조선일보, 중앙일보 경제 섹션 (추후 추가 예정)
 
 ## 🔧 수동 실행
 
@@ -216,35 +299,57 @@ python crawler.py
 # GitHub에서 최신 데이터 받기
 git pull origin main
 
-# 오늘의 뉴스 데이터 확인
-cat data/news_2025-12-01.json
+# 오늘의 통합 보고서 확인
+cat reports/combined/report_2025-12-01.md
 
-# 오늘의 보고서 확인
-cat reports/anthropic_news_report_2025-12-01.md
+# 카테고리별 뉴스 데이터 확인
+cat data/ai/anthropic/news_2025-12-01.json
+cat data/politics/chosun/news_2025-12-01.json
+cat data/sports/joongang/news_2025-12-01.json
+```
+
+### 특정 카테고리/소스 확인
+
+```bash
+# 정치 뉴스 전체
+ls data/politics/*/news_2025-12-01.json
+
+# 스포츠 보고서 전체
+ls reports/sports/*/report_2025-12-01.md
+
+# 중앙일보 전체 (정치+스포츠)
+cat data/politics/joongang/news_2025-12-01.json
+cat data/sports/joongang/news_2025-12-01.json
 ```
 
 ### 특정 날짜 데이터 확인
 
 ```bash
-# 12월 1일 데이터
-cat data/news_2025-12-01.json
+# 12월 1일 통합 보고서
+cat reports/combined/report_2025-12-01.md
 
-# 12월 2일 데이터
-cat data/news_2025-12-02.json
+# 12월 2일 통합 보고서
+cat reports/combined/report_2025-12-02.md
 ```
 
 ## 🔄 업데이트 전략
 
 - **중복 제거**: URL 기준으로 자동 중복 제거
 - **날짜별 스냅샷**: 매일 독립적인 파일 생성
+- **카테고리/소스별 독립 관리**: 각 소스마다 별도 JSON/보고서 파일
+- **계층적 폴더 구조**: `data/{category}/{source}/news_{date}.json`
+- **통합 보고서**: 모든 카테고리를 하나의 보고서로 통합
 - **Git 히스토리**: 모든 변경사항이 Git에 기록됨
 
 ## 💡 활용 방법
 
-1. **정기 모니터링**: 매일 아침 9시에 최신 뉴스 자동 수집
+1. **정기 모니터링**: 매일 아침 9시에 최신 뉴스 자동 수집 (45개)
 2. **데이터 분석**: JSON 데이터를 활용해 뉴스 트렌드 분석
 3. **보고서 확인**: 한국어 보고서로 쉽게 내용 파악
+   - 개별 소스별 보고서: 특정 신문사만 집중 분석
+   - 통합 보고서: 전체 카테고리 한눈에 보기
 4. **히스토리 추적**: 날짜별 파일로 변화 추적
+5. **"많이 본 뉴스" 트렌드**: 각 신문사의 인기 기사 동향 파악
 
 ## 🆓 비용
 
@@ -260,13 +365,30 @@ MIT License
 
 **만든 날짜**: 2025년 12월 1일  
 **최종 업데이트**: 2025년 12월 1일  
-**상태**: ✅ 완전 자동화 완료
+**상태**: ✅ 멀티 카테고리 시스템 완료 (AI, 정치, 스포츠)  
+**총 뉴스 수**: 45개 (AI 15개 + 정치 15개 + 스포츠 15개)
 
 ## ⭐ 추천 워크플로우
 
 1. **초기 설정**: GitHub Actions 권한 설정 (1회)
-2. **자동 실행**: 매일 오전 9시 자동 크롤링
+2. **자동 실행**: 매일 오전 9시 자동 크롤링 (45개 뉴스)
 3. **결과 확인**: 필요할 때 `git pull`로 최신 데이터 확인
 4. **수동 실행**: 원할 때 언제든 GitHub에서 수동 실행
+5. **보고서 활용**:
+   - 전체 개요: `reports/combined/report_2025-12-01.md`
+   - 특정 분야: `reports/{category}/{source}/report_2025-12-01.md`
 
 **이제 컴퓨터를 끄고 다른 일을 하세요. GitHub가 알아서 크롤링합니다! 🚀**
+
+## 📊 현재 수집 현황
+
+| 카테고리 | 뉴스 소스 | 기사 수 | 특징 |
+|---------|----------|--------|------|
+| AI | Anthropic | 15개 | Claude AI 최신 뉴스 |
+| 정치 | 동아일보 | 5개 | "많이 본 정치 뉴스" |
+| 정치 | 조선일보 | 5개 | "정치 많이 본 뉴스" |
+| 정치 | 중앙일보 | 5개 | "정치 많이 본 기사" |
+| 스포츠 | 동아일보 | 5개 | "많이 본 스포츠 뉴스" |
+| 스포츠 | 조선일보 | 5개 | "스포츠 많이 본 뉴스" |
+| 스포츠 | 중앙일보 | 5개 | "스포츠 많이 본 기사" |
+| **합계** | **7개 소스** | **45개** | **매일 자동 업데이트** |

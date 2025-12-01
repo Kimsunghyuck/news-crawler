@@ -1,10 +1,80 @@
 """
-Anthropic 뉴스 크롤러 설정 파일
+멀티 카테고리 뉴스 크롤러 설정 파일
+AI, 정치, 스포츠, 경제 4개 카테고리별 뉴스 소스 관리
 """
 
-# 크롤링 대상 URL
-BASE_URL = "https://www.anthropic.com"
-NEWS_URL = f"{BASE_URL}/news"
+# 카테고리 영문 매핑
+CATEGORY_EN_MAP = {
+    'AI': 'ai',
+    '정치': 'politics',
+    '스포츠': 'sports',
+    '경제': 'economy'
+}
+
+# 소스 이름 영문 매핑
+SOURCE_EN_MAP = {
+    'Anthropic': 'anthropic',
+    '동아일보': 'donga',
+    '조선일보': 'chosun',
+    '중앙일보': 'joongang'
+}
+
+# 카테고리별 뉴스 소스 설정
+NEWS_SOURCES = {
+    'AI': [
+        {
+            'name': 'Anthropic',
+            'url': 'https://www.anthropic.com/news',
+            'parser': 'anthropic_news',  # parser.py의 parse_anthropic_news 함수 사용
+            'max_articles': 20
+        },
+        # 추가 AI 뉴스 소스는 여기에 추가
+    ],
+    '정치': [
+        {
+            'name': '동아일보',
+            'url': 'https://www.donga.com/news/Politics',
+            'parser': 'donga_politics',  # parser.py의 parse_donga_politics 함수 사용
+            'max_articles': 5
+        },
+        {
+            'name': '조선일보',
+            'url': 'https://www.chosun.com/politics/',
+            'parser': 'chosun_politics',  # parser.py의 parse_chosun_politics 함수 사용
+            'max_articles': 5
+        },
+        {
+            'name': '중앙일보',
+            'url': 'https://www.joongang.co.kr/politics',
+            'parser': 'joongang_politics',  # parser.py의 parse_joongang_politics 함수 사용
+            'max_articles': 5
+        },
+        # 추가 정치 뉴스 소스는 여기에 추가
+    ],
+    '스포츠': [
+        {
+            'name': '중앙일보',
+            'url': 'https://www.joongang.co.kr/sports',
+            'parser': 'joongang_sports',
+            'max_articles': 5
+        },
+        {
+            'name': '동아일보',
+            'url': 'https://www.donga.com/news/Sports',
+            'parser': 'donga_sports',
+            'max_articles': 5
+        },
+        {
+            'name': '조선일보',
+            'url': 'https://www.chosun.com/sports/',
+            'parser': 'chosun_sports',
+            'max_articles': 5
+        },
+    ],
+    '경제': [
+        # 경제 뉴스 소스는 여기에 추가
+    ]
+}
 
 # HTTP 요청 설정
 HEADERS = {
@@ -21,13 +91,17 @@ REQUEST_TIMEOUT = 30
 
 # 데이터 저장 경로
 DATA_DIR = "data"
-NEWS_JSON_TEMPLATE = f"{DATA_DIR}/news_{{date}}.json"  # 날짜별 파일
+# 카테고리/소스별 JSON 파일: data/{category}/{source}/news_{date}.json
+NEWS_JSON_TEMPLATE = f"{DATA_DIR}/{{category}}/{{source}}/news_{{date}}.json"
 LOGS_DIR = "logs"
 LOG_FILE = f"{LOGS_DIR}/crawler.log"
 
 # 보고서 저장 경로
 REPORT_DIR = "reports"
-REPORT_TEMPLATE = f"{REPORT_DIR}/anthropic_news_report_{{date}}.md"
+# 카테고리/소스별 보고서: reports/{category}/{source}/report_{date}.md
+REPORT_TEMPLATE = f"{REPORT_DIR}/{{category}}/{{source}}/report_{{date}}.md"
+# 통합 보고서: reports/combined/report_{date}.md
+COMBINED_REPORT_TEMPLATE = f"{REPORT_DIR}/combined/report_{{date}}.md"
 
 # 스케줄링 설정
 # 특정 시간에 실행 (매일 아침 9시)

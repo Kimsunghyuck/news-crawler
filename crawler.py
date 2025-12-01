@@ -1,6 +1,6 @@
 """
-Anthropic 뉴스 크롤러 메인 모듈
-뉴스 페이지를 크롤링하고 JSON 파일로 저장합니다.
+멀티 카테고리 뉴스 크롤러 메인 모듈
+여러 뉴스 소스를 카테고리별로 크롤링하고 JSON 파일로 저장합니다.
 """
 
 import requests
@@ -12,11 +12,12 @@ from typing import List, Dict, Optional
 import logging
 
 from config import (
-    NEWS_URL, HEADERS, REQUEST_DELAY, REQUEST_TIMEOUT,
+    NEWS_SOURCES, HEADERS, REQUEST_DELAY, REQUEST_TIMEOUT,
     DATA_DIR, NEWS_JSON_TEMPLATE, LOGS_DIR, LOG_FILE,
-    MAX_RETRIES, RETRY_DELAY, AUTO_GENERATE_REPORT
+    MAX_RETRIES, RETRY_DELAY, AUTO_GENERATE_REPORT,
+    CATEGORY_EN_MAP, SOURCE_EN_MAP, COMBINED_REPORT_TEMPLATE
 )
-from parser import parse_news_page
+import parser
 
 
 # 로깅 설정
@@ -75,55 +76,113 @@ def fetch_page(url: str, retries: int = MAX_RETRIES) -> Optional[str]:
     return None
 
 
-def get_today_json_file():
-    """오늘 날짜의 JSON 파일 경로를 반환합니다."""
-    today = datetime.now().strftime('%Y-%m-%d')
-    return NEWS_JSON_TEMPLATE.format(date=today)
-
-
-def load_existing_news() -> List[Dict[str, str]]:
+def get_category_source_path(category: str, source: str, date: str, is_report: bool = False) -> str:
     """
-    기존 뉴스 데이터를 로드합니다.
+    카테고리와 소스에 따른 파일 경로를 생성합니다.
     
+    Args:
+        category: 카테고리 (한글)
+        source: 소스 이름 (한글)
+        date: 날짜 (YYYY-MM-DD)
+        is_report: 보고서 경로 여부
+        
+    Returns:
+        파일 경로
+    """
+    category_en = CATEGORY_EN_MAP.get(category, category.lower())
+    source_en = SOURCE_EN_MAP.get(source, source.lower().replace(' ', '_'))
+    
+    if is_report:
+        from config import REPORT_TEMPLATE
+        return REPORT_TEMPLATE.format(category=category_en, source=source_en, date=date)
+    else:
+        return NEWS_JSON_TEMPLATE.format(category=category_en, source=source_en, date=date)
+
+
+def get_today_json_file():
+    """오늘 날짜의 통합 JSON 파일 경로를 반환합니다 (하위 호환성)."""
+    today = datetime.now().strftime('%Y-%m-%d')
+    # 통합 JSON은 더 이상 사용하지 않지만, 하위 호환성을 위해 유지
+    return f"{DATA_DIR}/news_{today}.json"
+
+
+def load_existing_news_by_source(category: str, source: str) -> List[Dict[str, str]]:
+    """
+    특정 카테고리/소스의 기존 뉴스 데이터를 로드합니다.
+    
+    Args:
+        category: 카테고리
+        source: 소스 이름
+        
     Returns:
         기존 뉴스 항목 리스트
     """
-    json_file = get_today_json_file()
+    today = datetime.now().strftime('%Y-%m-%d')
+    json_file = get_category_source_path(category, source, today)
     
     if os.path.exists(json_file):
         try:
             with open(json_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                logger.info(f"기존 뉴스 {len(data)} 개 로드됨")
+                logger.info(f"[{source}] 기존 뉴스 {len(data)}개 로드됨")
                 return data
         except Exception as e:
-            logger.error(f"기존 데이터 로드 실패: {e}")
+            logger.error(f"[{source}] 기존 데이터 로드 실패: {e}")
             return []
     else:
-        logger.info("기존 뉴스 데이터 없음")
+        logger.info(f"[{source}] 기존 뉴스 데이터 없음")
         return []
 
 
-def save_news(news_items: List[Dict[str, str]]):
+def save_news_by_source(category: str, source: str, news_items: List[Dict[str, str]]):
     """
-    뉴스 데이터를 JSON 파일로 저장합니다.
+    특정 카테고리/소스의 뉴스 데이터를 JSON 파일로 저장합니다.
     
     Args:
+        category: 카테고리
+        source: 소스 이름
         news_items: 저장할 뉴스 항목 리스트
     """
-    os.makedirs(DATA_DIR, exist_ok=True)
-    
     today = datetime.now().strftime('%Y-%m-%d')
-    json_file = NEWS_JSON_TEMPLATE.format(date=today)
+    json_file = get_category_source_path(category, source, today)
+    
+    # 디렉토리 생성
+    os.makedirs(os.path.dirname(json_file), exist_ok=True)
     
     try:
         with open(json_file, 'w', encoding='utf-8') as f:
             json.dump(news_items, f, ensure_ascii=False, indent=2)
         
-        logger.info(f"뉴스 {len(news_items)}개를 {json_file}에 저장 완료")
+        logger.info(f"[{source}] 뉴스 {len(news_items)}개를 {json_file}에 저장 완료")
         
     except Exception as e:
-        logger.error(f"데이터 저장 실패: {e}")
+        logger.error(f"[{source}] 데이터 저장 실패: {e}")
+
+
+def load_all_news() -> List[Dict[str, str]]:
+    """
+    모든 카테고리/소스의 뉴스를 로드하여 통합합니다.
+    
+    Returns:
+        통합된 뉴스 항목 리스트
+    """
+    all_news = []
+    today = datetime.now().strftime('%Y-%m-%d')
+    
+    for category, sources in NEWS_SOURCES.items():
+        for source_config in sources:
+            source_name = source_config['name']
+            json_file = get_category_source_path(category, source_name, today)
+            
+            if os.path.exists(json_file):
+                try:
+                    with open(json_file, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                        all_news.extend(data)
+                except Exception as e:
+                    logger.error(f"[{source_name}] 데이터 로드 실패: {e}")
+    
+    return all_news
 
 
 def merge_news(existing_news: List[Dict[str, str]], new_news: List[Dict[str, str]]) -> List[Dict[str, str]]:
@@ -160,61 +219,115 @@ def merge_news(existing_news: List[Dict[str, str]], new_news: List[Dict[str, str
 
 def crawl_news() -> bool:
     """
-    Anthropic 뉴스를 크롤링합니다.
+    모든 카테고리의 뉴스를 크롤링합니다.
     
     Returns:
         성공 여부
     """
     logger.info("=" * 60)
-    logger.info("뉴스 크롤링 시작")
+    logger.info("멀티 카테고리 뉴스 크롤링 시작")
     logger.info(f"현재 시간: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     logger.info("=" * 60)
     
     try:
-        # 1. 뉴스 페이지 가져오기
-        html_content = fetch_page(NEWS_URL)
-        if not html_content:
-            logger.error("페이지를 가져올 수 없습니다")
-            return False
+        all_news_count = 0
+        category_stats = {}
         
-        # 2. HTML 파싱
-        logger.info("HTML 파싱 중...")
-        new_news = parse_news_page(html_content)
-        logger.info(f"파싱 완료: {len(new_news)}개 뉴스 항목 발견")
+        # 각 카테고리별로 크롤링
+        for category, sources in NEWS_SOURCES.items():
+            if not sources:  # 소스가 없는 카테고리는 건너뛰기
+                logger.info(f"'{category}' 카테고리: 설정된 뉴스 소스 없음")
+                continue
+            
+            logger.info(f"\n{'='*60}")
+            logger.info(f"카테고리: {category}")
+            logger.info(f"{'='*60}")
+            
+            category_stats[category] = 0
+            
+            for source_config in sources:
+                source_name = source_config['name']
+                url = source_config['url']
+                parser_name = source_config['parser']
+                max_articles = source_config.get('max_articles', 20)
+                
+                logger.info(f"\n크롤링 소스: {source_name}")
+                logger.info(f"URL: {url}")
+                
+                # 1. 페이지 가져오기
+                html_content = fetch_page(url)
+                if not html_content:
+                    logger.error(f"{source_name} 페이지를 가져올 수 없습니다")
+                    continue
+                
+                # 2. 적절한 파서 함수 가져오기
+                try:
+                    parser_func = getattr(parser, f'parse_{parser_name}')
+                except AttributeError:
+                    logger.error(f"파서 함수 'parse_{parser_name}'를 찾을 수 없습니다")
+                    continue
+                
+                # 3. HTML 파싱
+                logger.info(f"HTML 파싱 중... (파서: {parser_name})")
+                
+                # max_articles 인자를 받는 파서들
+                if parser_name in ['donga_politics', 'chosun_politics', 'joongang_politics',
+                                    'donga_sports', 'chosun_sports', 'joongang_sports']:
+                    new_news = parser_func(html_content, max_articles)
+                else:
+                    new_news = parser_func(html_content)
+                    
+                logger.info(f"파싱 완료: {len(new_news)}개 뉴스 항목 발견")
+                
+                # 카테고리와 소스 정보 추가
+                for item in new_news:
+                    item['main_category'] = category
+                    if 'source' not in item:
+                        item['source'] = source_name
+                
+                # 4. 기존 뉴스 로드 (소스별)
+                existing_news = load_existing_news_by_source(category, source_name)
+                
+                # 5. 병합
+                merged_news = merge_news(existing_news, new_news)
+                
+                # 6. 소스별로 저장
+                save_news_by_source(category, source_name, merged_news)
+                
+                all_news_count += len(merged_news)
+                category_stats[category] += len(merged_news)
+                
+                # Rate limiting
+                time.sleep(REQUEST_DELAY)
         
-        if not new_news:
+        if all_news_count == 0:
             logger.warning("파싱된 뉴스가 없습니다")
             return False
         
-        # 3. 기존 뉴스 로드
-        existing_news = load_existing_news()
-        
-        # 4. 병합
-        merged_news = merge_news(existing_news, new_news)
-        
-        # 5. 저장
-        save_news(merged_news)
-        
-        logger.info("=" * 60)
+        logger.info("\n" + "=" * 60)
         logger.info("크롤링 완료!")
-        logger.info(f"총 뉴스 개수: {len(merged_news)}")
-        logger.info("=" * 60)
+        logger.info(f"총 뉴스 개수: {all_news_count}")
         
-        # Rate limiting
-        time.sleep(REQUEST_DELAY)
+        # 카테고리별 통계
+        logger.info("\n카테고리별 뉴스 개수:")
+        for cat, count in sorted(category_stats.items()):
+            if count > 0:
+                logger.info(f"  - {cat}: {count}개")
+        
+        logger.info("=" * 60)
         
         # 자동 보고서 생성
         if AUTO_GENERATE_REPORT:
             try:
                 logger.info("=" * 60)
-                logger.info("📝 보고서 자동 생성 시작")
+                logger.info("📝 통합 보고서 자동 생성 시작")
                 logger.info("=" * 60)
                 
-                from report_generator import generate_report_from_json
-                json_file = get_today_json_file()
-                report_file, _ = generate_report_from_json(json_file)
+                from report_generator import generate_combined_report
+                today = datetime.now().strftime('%Y-%m-%d')
+                report_file = generate_combined_report(today)
                 
-                logger.info(f"✅ 보고서 생성 완료: {report_file}")
+                logger.info(f"✅ 통합 보고서 생성 완료: {report_file}")
                 logger.info("=" * 60)
                 
             except Exception as e:
@@ -231,10 +344,10 @@ def main():
     """메인 함수 - 단일 실행용"""
     success = crawl_news()
     
-    json_file = get_today_json_file()
-    
     if success:
-        print(f"\n✓ 크롤링 성공! 데이터는 {json_file}에 저장되었습니다.")
+        print(f"\n✓ 크롤링 성공! 데이터는 카테고리/소스별 폴더에 저장되었습니다.")
+        print(f"  - 데이터: {DATA_DIR}/{{category}}/{{source}}/")
+        print(f"  - 보고서: {COMBINED_REPORT_TEMPLATE.split('/')[0]}/combined/")
     else:
         print("\n✗ 크롤링 실패. 로그를 확인하세요.")
 

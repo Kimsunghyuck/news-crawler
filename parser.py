@@ -1,18 +1,17 @@
 """
 HTML 파싱 모듈
-Anthropic 뉴스 페이지에서 뉴스 항목을 추출합니다.
+다양한 뉴스 소스에서 뉴스 항목을 추출합니다.
 """
 
 from bs4 import BeautifulSoup
 from typing import List, Dict, Optional
 from datetime import datetime
 import re
-from config import BASE_URL
 
 
-def parse_news_page(html_content: str) -> List[Dict[str, str]]:
+def parse_anthropic_news(html_content: str) -> List[Dict[str, str]]:
     """
-    뉴스 페이지 HTML을 파싱하여 뉴스 항목 리스트를 반환합니다.
+    Anthropic 뉴스 페이지 HTML을 파싱하여 뉴스 항목 리스트를 반환합니다.
     
     Args:
         html_content: 뉴스 페이지의 HTML 문자열
@@ -20,6 +19,7 @@ def parse_news_page(html_content: str) -> List[Dict[str, str]]:
     Returns:
         뉴스 항목 딕셔너리 리스트 (날짜, 카테고리, 제목, URL 포함)
     """
+    BASE_URL = "https://www.anthropic.com"
     soup = BeautifulSoup(html_content, 'lxml')
     news_items = []
     
@@ -95,6 +95,288 @@ def parse_news_page(html_content: str) -> List[Dict[str, str]]:
     return news_items
 
 
+def parse_donga_politics(html_content: str, max_articles: int = 5) -> List[Dict[str, str]]:
+    """
+    동아일보 '많이 본 정치 뉴스' 섹션에서 상위 기사 리스트를 반환합니다.
+    
+    Args:
+        html_content: 뉴스 페이지의 HTML 문자열
+        max_articles: 최대 기사 수 (기본값: 5)
+        
+    Returns:
+        뉴스 항목 딕셔너리 리스트
+    """
+    soup = BeautifulSoup(html_content, 'lxml')
+    news_items = []
+    processed_urls = set()
+    
+    # 동아일보 '많이 본 정치 뉴스' 섹션 찾기 (<h2 class="sec_tit">)
+    trending_section = soup.find('h2', class_='sec_tit', string=re.compile(r'많이 본 정치 뉴스'))
+    
+    # fallback: h2 태그를 못 찾으면 일반 text 검색
+    if not trending_section:
+        trending_section = soup.find(string=re.compile(r'많이 본 정치 뉴스'))
+    
+    if trending_section:
+        # 많이 본 뉴스 섹션 컨테이너 찾기
+        section_parent = trending_section.find_parent(['div', 'section', 'article'])
+        if section_parent:
+            # 해당 섹션 내의 뉴스 링크 찾기
+            news_links = section_parent.find_all('a', href=re.compile(r'/news/Politics/article/all/\d+/\d+/\d+'))
+            
+            for link in news_links:
+                if len(news_items) >= max_articles:
+                    break
+                    
+                url = link.get('href', '')
+                
+                if not url or url in processed_urls:
+                    continue
+                
+                # 상대 URL을 절대 URL로 변환
+                if url.startswith('/'):
+                    full_url = f"https://www.donga.com{url}"
+                else:
+                    full_url = url
+                
+                # 제목 추출
+                title = link.get_text(strip=True)
+                
+                # 제목이 너무 짧으면 다음 링크로
+                if not title or len(title) < 10:
+                    continue
+                
+                # URL에서 날짜 추출
+                date_str = ""
+                date_match = re.search(r'/(\d{8})/', url)
+                if date_match:
+                    date_num = date_match.group(1)
+                    date_str = f"{date_num[:4]}-{date_num[4:6]}-{date_num[6:8]}"
+                
+                if not date_str:
+                    date_str = datetime.now().strftime('%Y-%m-%d')
+                
+                news_item = {
+                    'title': clean_text(title),
+                    'url': full_url,
+                    'date': date_str,
+                    'category': '정치',
+                    'source': '동아일보',
+                    'scraped_at': datetime.now().isoformat()
+                }
+                
+                news_items.append(news_item)
+                processed_urls.add(url)
+    
+    return news_items[:max_articles]
+
+
+def parse_chosun_politics(html_content: str, max_articles: int = 5) -> List[Dict[str, str]]:
+    """
+    조선일보 '정치 많이 본 뉴스' 섹션에서 상위 기사 리스트를 반환합니다.
+    
+    Args:
+        html_content: 뉴스 페이지의 HTML 문자열
+        max_articles: 최대 기사 수 (기본값: 5)
+        
+    Returns:
+        뉴스 항목 딕셔너리 리스트
+    """
+    soup = BeautifulSoup(html_content, 'lxml')
+    news_items = []
+    processed_urls = set()
+    
+    # 조선일보 '정치 많이 본 뉴스' 섹션 찾기
+    trending_section = soup.find('div', class_='flex-chain__heading-title', string=re.compile(r'정치\s*많이\s*본\s*뉴스'))
+    
+    news_links = []
+    if trending_section:
+        # 2단계 상위 요소까지 탐색
+        section_container = trending_section.find_parent()
+        if section_container:
+            section_container = section_container.find_parent()
+        
+        if section_container:
+            news_links = section_container.find_all('a', href=re.compile(r'/politics/[^/]+/\d{4}/\d{2}/\d{2}/[A-Z0-9]+/?'))
+    
+    # fallback: 섹션을 못 찾으면 전체 페이지에서 검색
+    if not news_links:
+        news_links = soup.find_all('a', href=re.compile(r'/politics/[^/]+/\d{4}/\d{2}/\d{2}/[A-Z0-9]+/?'))
+    
+    for link in news_links:
+        if len(news_items) >= max_articles:
+            break
+            
+        url = link.get('href', '')
+        
+        if not url or url in processed_urls:
+            continue
+        
+        # 상대 URL을 절대 URL로 변환
+        if url.startswith('/'):
+            full_url = f"https://www.chosun.com{url}"
+        else:
+            full_url = url
+        
+        # 제목 추출
+        title = link.get_text(strip=True)
+        
+        # 제목이 너무 짧으면 다음 링크로
+        if not title or len(title) < 10:
+            continue
+        
+        # URL에서 날짜 추출 (패턴: /2025/12/01/...)
+        date_str = ""
+        date_match = re.search(r'/(\d{4})/(\d{2})/(\d{2})/', url)
+        if date_match:
+            year, month, day = date_match.groups()
+            date_str = f"{year}-{month}-{day}"
+        
+        if not date_str:
+            date_str = datetime.now().strftime('%Y-%m-%d')
+        
+        # 뉴스 항목 추가
+        news_item = {
+            'title': clean_text(title),
+            'url': full_url,
+            'date': date_str,
+            'category': '정치',
+            'source': '조선일보',
+            'scraped_at': datetime.now().isoformat()
+        }
+        
+        news_items.append(news_item)
+        processed_urls.add(url)
+    
+    return news_items[:max_articles]
+
+
+def parse_joongang_politics(html_content: str, max_articles: int = 5) -> List[Dict[str, str]]:
+    """
+    중앙일보 정치 섹션에서 상위 기사 리스트를 반환합니다.
+    
+    Args:
+        html_content: 뉴스 페이지의 HTML 문자열
+        max_articles: 최대 기사 수 (기본값: 5)
+        
+    Returns:
+        뉴스 항목 딕셔너리 리스트
+    """
+    soup = BeautifulSoup(html_content, 'lxml')
+    news_items = []
+    processed_urls = set()
+    
+    # 중앙일보 "정치 많이 본 기사" 섹션 찾기
+    # <strong class="title"> 태그 안에서 섹션 제목 찾기
+    section_title = soup.find('strong', class_='title', string=re.compile(r'정치\s*많이\s*본\s*기사'))
+    
+    if section_title:
+        # 섹션 컨테이너 찾기 (3단계 상위 요소 = section 태그)
+        section_container = section_title.find_parent()  # div
+        if section_container:
+            section_container = section_container.find_parent()  # header
+        if section_container:
+            section_container = section_container.find_parent()  # section
+        
+        if section_container:
+            # 섹션 내의 순위가 있는 링크 찾기 (1, 2, 3, 4, 5 순위)
+            for rank in range(1, max_articles + 1):
+                # 순위 번호 찾기
+                rank_elem = section_container.find(text=str(rank))
+                if rank_elem:
+                    # 순위 근처의 링크 찾기
+                    parent = rank_elem.find_parent(['li', 'div', 'article'])
+                    if parent:
+                        link = parent.find('a', href=re.compile(r'/article/\d+'))
+                        if link:
+                            url = link.get('href', '')
+                            if url and url not in processed_urls:
+                                # 상대 URL을 절대 URL로 변환
+                                if url.startswith('/'):
+                                    full_url = f"https://www.joongang.co.kr{url}"
+                                else:
+                                    full_url = url
+                                
+                                # 제목 추출
+                                title = link.get_text(strip=True)
+                                
+                                if title and len(title) >= 10 and not title.isdigit():
+                                    news_item = {
+                                        'title': clean_text(title),
+                                        'url': full_url,
+                                        'date': datetime.now().strftime('%Y-%m-%d'),
+                                        'category': '정치',
+                                        'source': '중앙일보',
+                                        'scraped_at': datetime.now().isoformat()
+                                    }
+                                    news_items.append(news_item)
+                                    processed_urls.add(url)
+    
+    # 5개가 안 되면 일반 정치 기사로 보충
+    if len(news_items) < max_articles:
+        all_links = soup.find_all('a', href=re.compile(r'/article/\d+'))
+        for link in all_links:
+            if len(news_items) >= max_articles:
+                break
+                
+            url = link.get('href', '')
+            if not url or url in processed_urls:
+                continue
+            
+            # 링크가 정치 컨텍스트에 있는지 확인
+            parent = link.find_parent(['article', 'div', 'section', 'li'])
+            is_politics = False
+            
+            if parent:
+                parent_text = str(parent)
+                if 'politics' in parent_text.lower():
+                    is_politics = True
+            
+            if not is_politics:
+                nearby_text = link.find_parent(['div', 'li'])
+                if nearby_text:
+                    text_content = nearby_text.get_text()
+                    if '정치' in text_content and not any(word in text_content for word in ['경제', '스포츠', '문화', '연예', '사회', '국제']):
+                        is_politics = True
+            
+            if not is_politics:
+                continue
+            
+            # 상대 URL을 절대 URL로 변환
+            if url.startswith('/'):
+                full_url = f"https://www.joongang.co.kr{url}"
+            else:
+                full_url = url
+            
+            # 제목 추출
+            title = link.get_text(strip=True)
+            
+            if not title or len(title) < 10 or title.isdigit():
+                continue
+            
+            news_item = {
+                'title': clean_text(title),
+                'url': full_url,
+                'date': datetime.now().strftime('%Y-%m-%d'),
+                'category': '정치',
+                'source': '중앙일보',
+                'scraped_at': datetime.now().isoformat()
+            }
+            
+            news_items.append(news_item)
+            processed_urls.add(url)
+    
+    return news_items[:max_articles]
+
+
+# 하위 호환성을 위한 별칭
+def parse_news_page(html_content: str) -> List[Dict[str, str]]:
+    """
+    parse_anthropic_news의 별칭 (하위 호환성)
+    """
+    return parse_anthropic_news(html_content)
+
+
 def parse_article_content(html_content: str) -> Optional[Dict[str, str]]:
     """
     개별 기사 페이지에서 상세 내용을 추출합니다. (선택사항)
@@ -137,3 +419,261 @@ def clean_text(text: str) -> str:
     # 앞뒤 공백 제거
     text = text.strip()
     return text
+
+
+def parse_joongang_sports(html_content: str, max_articles: int = 5) -> List[Dict[str, str]]:
+    """
+    중앙일보 '스포츠 많이 본 기사' 섹션에서 상위 기사 리스트를 반환합니다.
+    
+    Args:
+        html_content: 뉴스 페이지의 HTML 문자열
+        max_articles: 최대 기사 수 (기본값: 5)
+        
+    Returns:
+        뉴스 항목 딕셔너리 리스트
+    """
+    soup = BeautifulSoup(html_content, 'lxml')
+    news_items = []
+    processed_urls = set()
+    
+    # 중앙일보 "스포츠 많이 본 기사" 섹션 찾기
+    section_title = soup.find('strong', class_='title', string=re.compile(r'스포츠\s*많이\s*본\s*기사'))
+    
+    if section_title:
+        # 3단계 상위 요소까지 탐색 (section 태그)
+        section_container = section_title.find_parent()  # div
+        if section_container:
+            section_container = section_container.find_parent()  # header
+        if section_container:
+            section_container = section_container.find_parent()  # section
+        
+        if section_container:
+            # 순위 번호로 기사 찾기 (1, 2, 3, 4, 5)
+            for rank in range(1, max_articles + 1):
+                rank_elem = section_container.find(string=str(rank))
+                if rank_elem:
+                    parent = rank_elem.find_parent(['li', 'div', 'article'])
+                    if parent:
+                        link = parent.find('a', href=re.compile(r'/article/\d+'))
+                        if link:
+                            url = link.get('href', '')
+                            if url and url not in processed_urls:
+                                if url.startswith('/'):
+                                    full_url = f"https://www.joongang.co.kr{url}"
+                                else:
+                                    full_url = url
+                                
+                                title = link.get_text(strip=True)
+                                
+                                if title and len(title) >= 10 and not title.isdigit():
+                                    news_item = {
+                                        'title': clean_text(title),
+                                        'url': full_url,
+                                        'date': datetime.now().strftime('%Y-%m-%d'),
+                                        'category': '스포츠',
+                                        'source': '중앙일보',
+                                        'scraped_at': datetime.now().isoformat()
+                                    }
+                                    news_items.append(news_item)
+                                    processed_urls.add(url)
+    
+    # fallback: 섹션을 못 찾으면 스포츠 관련 링크 검색
+    if len(news_items) < max_articles:
+        all_links = soup.find_all('a', href=re.compile(r'/article/\d+'))
+        for link in all_links:
+            if len(news_items) >= max_articles:
+                break
+                
+            url = link.get('href', '')
+            if not url or url in processed_urls:
+                continue
+            
+            # 스포츠 컨텍스트 확인
+            parent = link.find_parent(['article', 'div', 'section', 'li'])
+            is_sports = False
+            
+            if parent:
+                parent_text = str(parent)
+                if 'sports' in parent_text.lower() or 'sport' in parent_text.lower():
+                    is_sports = True
+            
+            if not is_sports:
+                nearby_text = link.find_parent(['div', 'li'])
+                if nearby_text:
+                    text_content = nearby_text.get_text()
+                    if '스포츠' in text_content:
+                        is_sports = True
+            
+            if not is_sports:
+                continue
+            
+            if url.startswith('/'):
+                full_url = f"https://www.joongang.co.kr{url}"
+            else:
+                full_url = url
+            
+            title = link.get_text(strip=True)
+            
+            if not title or len(title) < 10 or title.isdigit():
+                continue
+            
+            news_item = {
+                'title': clean_text(title),
+                'url': full_url,
+                'date': datetime.now().strftime('%Y-%m-%d'),
+                'category': '스포츠',
+                'source': '중앙일보',
+                'scraped_at': datetime.now().isoformat()
+            }
+            news_items.append(news_item)
+            processed_urls.add(url)
+    
+    return news_items[:max_articles]
+
+
+def parse_donga_sports(html_content: str, max_articles: int = 5) -> List[Dict[str, str]]:
+    """
+    동아일보 '많이 본 스포츠 뉴스' 섹션에서 상위 기사 리스트를 반환합니다.
+    
+    Args:
+        html_content: 뉴스 페이지의 HTML 문자열
+        max_articles: 최대 기사 수 (기본값: 5)
+        
+    Returns:
+        뉴스 항목 딕셔너리 리스트
+    """
+    soup = BeautifulSoup(html_content, 'lxml')
+    news_items = []
+    processed_urls = set()
+    
+    # 동아일보 '많이 본 스포츠 뉴스' 섹션 찾기
+    trending_section = soup.find('h2', class_='sec_tit', string=re.compile(r'많이 본 스포츠 뉴스'))
+    
+    # fallback
+    if not trending_section:
+        trending_section = soup.find(string=re.compile(r'많이 본 스포츠 뉴스'))
+    
+    if trending_section:
+        section_parent = trending_section.find_parent(['div', 'section', 'article'])
+        if section_parent:
+            news_links = section_parent.find_all('a', href=re.compile(r'/news/Sports/article/all/\d+/\d+/\d+'))
+            
+            for link in news_links:
+                if len(news_items) >= max_articles:
+                    break
+                    
+                url = link.get('href', '')
+                
+                if not url or url in processed_urls:
+                    continue
+                
+                if url.startswith('/'):
+                    full_url = f"https://www.donga.com{url}"
+                else:
+                    full_url = url
+                
+                title = link.get_text(strip=True)
+                
+                if not title or len(title) < 10:
+                    continue
+                
+                # URL에서 날짜 추출
+                date_str = ""
+                date_match = re.search(r'/(\d{8})/', url)
+                if date_match:
+                    date_num = date_match.group(1)
+                    date_str = f"{date_num[:4]}-{date_num[4:6]}-{date_num[6:8]}"
+                
+                if not date_str:
+                    date_str = datetime.now().strftime('%Y-%m-%d')
+                
+                news_item = {
+                    'title': clean_text(title),
+                    'url': full_url,
+                    'date': date_str,
+                    'category': '스포츠',
+                    'source': '동아일보',
+                    'scraped_at': datetime.now().isoformat()
+                }
+                
+                news_items.append(news_item)
+                processed_urls.add(url)
+    
+    return news_items[:max_articles]
+
+
+def parse_chosun_sports(html_content: str, max_articles: int = 5) -> List[Dict[str, str]]:
+    """
+    조선일보 '스포츠 많이 본 뉴스' 섹션에서 상위 기사 리스트를 반환합니다.
+    
+    Args:
+        html_content: 뉴스 페이지의 HTML 문자열
+        max_articles: 최대 기사 수 (기본값: 5)
+        
+    Returns:
+        뉴스 항목 딕셔너리 리스트
+    """
+    soup = BeautifulSoup(html_content, 'lxml')
+    news_items = []
+    processed_urls = set()
+    
+    # 조선일보 '스포츠 많이 본 뉴스' 섹션 찾기
+    trending_section = soup.find('div', class_='flex-chain__heading-title', string=re.compile(r'스포츠\s*많이\s*본\s*뉴스'))
+    
+    news_links = []
+    if trending_section:
+        # 2단계 상위 요소까지 탐색
+        section_container = trending_section.find_parent()
+        if section_container:
+            section_container = section_container.find_parent()
+        
+        if section_container:
+            news_links = section_container.find_all('a', href=re.compile(r'/sports/[^/]+/\d{4}/\d{2}/\d{2}/[A-Z0-9]+/?'))
+    
+    # fallback
+    if not news_links:
+        news_links = soup.find_all('a', href=re.compile(r'/sports/[^/]+/\d{4}/\d{2}/\d{2}/[A-Z0-9]+/?'))
+    
+    for link in news_links:
+        if len(news_items) >= max_articles:
+            break
+            
+        url = link.get('href', '')
+        
+        if not url or url in processed_urls:
+            continue
+        
+        if url.startswith('/'):
+            full_url = f"https://www.chosun.com{url}"
+        else:
+            full_url = url
+        
+        title = link.get_text(strip=True)
+        
+        if not title or len(title) < 10:
+            continue
+        
+        # URL에서 날짜 추출
+        date_str = ""
+        date_match = re.search(r'/(\d{4})/(\d{2})/(\d{2})/', url)
+        if date_match:
+            year, month, day = date_match.groups()
+            date_str = f"{year}-{month}-{day}"
+        
+        if not date_str:
+            date_str = datetime.now().strftime('%Y-%m-%d')
+        
+        news_item = {
+            'title': clean_text(title),
+            'url': full_url,
+            'date': date_str,
+            'category': '스포츠',
+            'source': '조선일보',
+            'scraped_at': datetime.now().isoformat()
+        }
+        
+        news_items.append(news_item)
+        processed_urls.add(url)
+    
+    return news_items[:max_articles]
+
