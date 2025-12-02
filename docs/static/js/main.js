@@ -15,7 +15,7 @@ let bannerSwiper = null;
  */
 document.addEventListener('DOMContentLoaded', function() {
     initNavigation();
-    loadLatestNews();
+    loadLatestNews(currentCategory); // 현재 카테고리 전달
     
     // 기본 카테고리와 소스로 뉴스 로드
     const today = new Date().toISOString().split('T')[0];
@@ -117,6 +117,9 @@ function initNavigation() {
             
             currentCategory = targetCategory;
             currentSource = source;
+            
+            // 배너도 업데이트
+            loadLatestNews(targetCategory);
             
             updateSourceTitle(source);
             
