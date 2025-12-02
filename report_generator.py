@@ -188,29 +188,6 @@ def generate_combined_report(date: str) -> str:
         report.append(f"| {category} | {category_count}개 | {sources_str} |\n")
     report.append("\n---\n\n")
     
-    # 최신 뉴스 하이라이트 (전체에서 상위 10개)
-    all_news_flat = []
-    for category, sources_dict in all_data.items():
-        for source, news_list in sources_dict.items():
-            all_news_flat.extend(news_list)
-    
-    sorted_news = sorted(all_news_flat, key=lambda x: x.get('date', ''), reverse=True)
-    
-    report.append("## 🔥 최신 뉴스 하이라이트 (전체)\n\n")
-    for i, item in enumerate(sorted_news[:10], 1):
-        title = clean_title(item['title'])
-        date_str = item.get('date', '날짜 미상')
-        main_category = item.get('main_category', '기타')
-        source = item.get('source', '알 수 없음')
-        url = item['url']
-        
-        report.append(f"### {i}. [{main_category}] {title}\n\n")
-        report.append(f"- **출처**: {source}\n")
-        report.append(f"- **날짜**: {date_str}\n")
-        report.append(f"- **링크**: [{url}]({url})\n\n")
-    
-    report.append("---\n\n")
-    
     # 카테고리별 상세 뉴스
     report.append("## 📰 카테고리별 상세 뉴스\n\n")
     
@@ -218,12 +195,13 @@ def generate_combined_report(date: str) -> str:
         sources_dict = all_data[category]
         category_total = sum(len(news) for news in sources_dict.values())
         
-        report.append(f"### {category}\n\n")
-        report.append(f"**총 {category_total}개의 뉴스**\n\n")
+        report.append(f"\n---\n\n")
+        report.append(f"# 📌 {category}\n\n")
+        report.append(f"> **총 {category_total}개의 뉴스**\n\n")
         
         for source in sorted(sources_dict.keys()):
             news_list = sources_dict[source]
-            report.append(f"#### {source} ({len(news_list)}개)\n\n")
+            report.append(f"## 📰 **{source}** - 총 **{len(news_list)}개**\n\n")
             
             for idx, item in enumerate(news_list, 1):
                 title = clean_title(item['title'])
