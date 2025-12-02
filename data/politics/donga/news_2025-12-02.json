@@ -5,7 +5,7 @@
     "date": "2025-12-02",
     "category": "정치",
     "source": "동아일보",
-    "scraped_at": "2025-12-02T09:23:14.156086+09:00",
+    "scraped_at": "2025-12-02T09:41:37.118089+09:00",
     "main_category": "정치"
   },
   {
@@ -45,12 +45,39 @@
     "main_category": "정치"
   },
   {
-    "title": "[속보]여야, 내년 728조 예산안 합의…오후 본회의 처리",
+    "title": "[속보]예산안 ‘디데이’에 여야 합의…정부 원안 728조 유지",
     "url": "https://www.donga.com/news/Politics/article/all/20251202/132881733/2",
     "date": "2025-12-02",
     "category": "정치",
     "source": "동아일보",
-    "scraped_at": "2025-12-02T09:23:14.156051+09:00",
+    "scraped_at": "2025-12-02T09:41:37.118072+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "李대통령, 5일 충남서 ‘7번째 타운홀 미팅’…“경제의 핵심 거점”",
+    "url": "https://www.donga.com/news/Politics/article/all/20251202/132882054/1",
+    "date": "2025-12-02",
+    "category": "정치",
+    "source": "동아일보",
+    "scraped_at": "2025-12-02T09:41:37.117998+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "공군, 美 주도 인도주의 ‘크리스마스 공수작전’ 참가…외딴 섬에 구호물자 전달",
+    "url": "https://www.donga.com/news/Politics/article/all/20251202/132881991/1",
+    "date": "2025-12-02",
+    "category": "정치",
+    "source": "동아일보",
+    "scraped_at": "2025-12-02T09:41:37.118035+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "국민 10명 중 8명 “‘은둔형 외톨이’ 문제 심각…모든 연령대로 지원 확대해야”",
+    "url": "https://www.donga.com/news/Politics/article/all/20251202/132881910/1",
+    "date": "2025-12-02",
+    "category": "정치",
+    "source": "동아일보",
+    "scraped_at": "2025-12-02T09:41:37.118053+09:00",
     "main_category": "정치"
   }
 ]
