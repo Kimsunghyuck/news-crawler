@@ -3,7 +3,7 @@
 첨부된 로고 이미지를 다음 파일명으로 저장해주세요:
 
 ## 필수 로고 이미지 (4개)
-1. `shinhyeok-logo.png` - 신혁 메인 로고 (첫 번째 이미지)
+1. `shinhyeok-logo.png` - Hyeok Crawler 메인 로고 (첫 번째 이미지)
 2. `joongang-logo.png` - 중앙일보 로고 (두 번째 이미지)  
 3. `chosun-logo.png` - 조선일보 로고 (세 번째 이미지)
 4. `donga-logo.png` - 동아일보 로고 (네 번째 이미지)

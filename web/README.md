@@ -1,4 +1,4 @@
-# 신혁 뉴스 포털 웹 애플리케이션
+# Hyeok Crawler 뉴스 포털 웹 애플리케이션
 
 Flask 기반 뉴스 크롤러 웹 인터페이스
 
@@ -13,7 +13,7 @@ pip install -r ../requirements.txt
 ### 2. 로고 이미지 배치
 
 `static/images/` 폴더에 다음 이미지들을 배치하세요:
-- `shinhyeok-logo.png` - 신혁 메인 로고
+- `shinhyeok-logo.png` - Hyeok Crawler 메인 로고
 - `donga-logo.png` - 동아일보 로고
 - `chosun-logo.png` - 조선일보 로고
 - `joongang-logo.png` - 중앙일보 로고

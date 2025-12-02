@@ -1,0 +1,317 @@
+name: Test Website
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'docs/**'
+      - '.github/workflows/test-website.yml'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'docs/**'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4 lxml
+    
+    - name: Check HTML files exist
+      run: |
+        echo "Checking required files..."
+        test -f docs/index.html || exit 1
+        test -d docs/static || exit 1
+        test -d docs/data || exit 1
+        echo "✅ All required files exist"
+    
+    - name: Validate HTML structure
+      run: |
+        echo "Validating HTML structure..."
+        python3 << 'EOF'
+        from bs4 import BeautifulSoup
+        import sys
+        
+        with open('docs/index.html', 'r', encoding='utf-8') as f:
+            html = f.read()
+        
+        soup = BeautifulSoup(html, 'html.parser')
+        
+        # 필수 요소 체크
+        errors = []
+        
+        if not soup.find('nav', class_='main-navigation'):
+            errors.append("❌ Navigation not found")
+        else:
+            print("✅ Navigation found")
+        
+        if not soup.find('section', class_='banner-section'):
+            errors.append("❌ Banner section not found")
+        else:
+            print("✅ Banner section found")
+        
+        if not soup.find('section', class_='news-section'):
+            errors.append("❌ News section not found")
+        else:
+            print("✅ News section found")
+        
+        if not soup.find('footer', class_='site-footer'):
+            errors.append("❌ Footer not found")
+        else:
+            print("✅ Footer found")
+        
+        # 카테고리 메뉴 체크
+        categories = soup.find_all('li', class_='category-item')
+        if len(categories) != 3:
+            errors.append(f"❌ Expected 3 categories, found {len(categories)}")
+        else:
+            print(f"✅ Found {len(categories)} categories")
+        
+        # JavaScript 파일 체크
+        if not soup.find('script', src='static/js/main.js'):
+            errors.append("❌ main.js not found")
+        else:
+            print("✅ main.js linked")
+        
+        # CSS 파일 체크
+        if not soup.find('link', href='static/css/style.css'):
+            errors.append("❌ style.css not found")
+        else:
+            print("✅ style.css linked")
+        
+        if errors:
+            print("\n".join(errors))
+            sys.exit(1)
+        
+        print("\n✅ HTML structure validation passed!")
+        EOF
+    
+    - name: Check JavaScript syntax
+      run: |
+        echo "Checking JavaScript syntax..."
+        python3 << 'EOF'
+        import re
+        import sys
+        
+        with open('docs/static/js/main.js', 'r', encoding='utf-8') as f:
+            js_content = f.read()
+        
+        errors = []
+        
+        # 필수 함수 체크
+        required_functions = [
+            'loadNews',
+            'loadLatestNews',
+            'initNavigation',
+            'renderNewsGrid',
+            'updateSourceTitle'
+        ]
+        
+        for func in required_functions:
+            if f'function {func}' not in js_content and f'{func} =' not in js_content:
+                errors.append(f"❌ Function '{func}' not found")
+            else:
+                print(f"✅ Function '{func}' found")
+        
+        # fetch 사용 확인 (JSON 로드)
+        if 'fetch(' not in js_content:
+            errors.append("❌ fetch() not found - JSON loading may not work")
+        else:
+            print("✅ fetch() found")
+        
+        # Swiper 초기화 확인
+        if 'new Swiper' not in js_content:
+            errors.append("❌ Swiper initialization not found")
+        else:
+            print("✅ Swiper initialization found")
+        
+        if errors:
+            print("\n".join(errors))
+            sys.exit(1)
+        
+        print("\n✅ JavaScript validation passed!")
+        EOF
+    
+    - name: Check CSS files exist
+      run: |
+        echo "Checking CSS files..."
+        test -f docs/static/css/style.css || exit 1
+        echo "✅ CSS files exist"
+    
+    - name: Check image files exist
+      run: |
+        echo "Checking image files..."
+        test -f docs/static/images/mainIcon.png || exit 1
+        test -f docs/static/images/donga1.png || exit 1
+        test -f docs/static/images/chosun.png || exit 1
+        test -f docs/static/images/joongang.png || exit 1
+        test -f docs/static/images/favicon.ico || exit 1
+        echo "✅ All required images exist"
+    
+    - name: Validate JSON data structure
+      run: |
+        echo "Validating JSON data structure..."
+        python3 << 'EOF'
+        import json
+        import os
+        import sys
+        from pathlib import Path
+        
+        errors = []
+        valid_files = 0
+        
+        data_dir = Path('docs/data')
+        
+        if not data_dir.exists():
+            print("⚠️ No data directory found")
+            sys.exit(0)
+        
+        for json_file in data_dir.rglob('*.json'):
+            try:
+                with open(json_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                
+                if not isinstance(data, list):
+                    errors.append(f"❌ {json_file}: Not a list")
+                    continue
+                
+                if len(data) == 0:
+                    print(f"⚠️ {json_file}: Empty file")
+                    continue
+                
+                # 첫 번째 항목 검증
+                item = data[0]
+                required_fields = ['title', 'url', 'date', 'category', 'source']
+                
+                missing = [f for f in required_fields if f not in item]
+                if missing:
+                    errors.append(f"❌ {json_file}: Missing fields {missing}")
+                else:
+                    valid_files += 1
+                    print(f"✅ {json_file.relative_to(data_dir)}: Valid ({len(data)} items)")
+            
+            except json.JSONDecodeError as e:
+                errors.append(f"❌ {json_file}: Invalid JSON - {e}")
+            except Exception as e:
+                errors.append(f"❌ {json_file}: Error - {e}")
+        
+        if errors:
+            print("\n".join(errors))
+            sys.exit(1)
+        
+        print(f"\n✅ All {valid_files} JSON files are valid!")
+        EOF
+    
+    - name: Start HTTP server
+      run: |
+        cd docs
+        python3 -m http.server 8000 &
+        SERVER_PID=$!
+        echo "SERVER_PID=$SERVER_PID" >> $GITHUB_ENV
+        sleep 3
+        echo "✅ HTTP server started on port 8000"
+    
+    - name: Test HTTP endpoints
+      run: |
+        echo "Testing HTTP endpoints..."
+        
+        # Test index.html
+        if curl -f -s http://localhost:8000/ > /dev/null; then
+            echo "✅ index.html accessible"
+        else
+            echo "❌ index.html not accessible"
+            exit 1
+        fi
+        
+        # Test CSS
+        if curl -f -s http://localhost:8000/static/css/style.css > /dev/null; then
+            echo "✅ style.css accessible"
+        else
+            echo "❌ style.css not accessible"
+            exit 1
+        fi
+        
+        # Test JavaScript
+        if curl -f -s http://localhost:8000/static/js/main.js > /dev/null; then
+            echo "✅ main.js accessible"
+        else
+            echo "❌ main.js not accessible"
+            exit 1
+        fi
+        
+        echo "✅ All HTTP endpoints working!"
+    
+    - name: Check for broken links
+      run: |
+        echo "Checking for broken internal links..."
+        python3 << 'EOF'
+        from bs4 import BeautifulSoup
+        from pathlib import Path
+        
+        with open('docs/index.html', 'r', encoding='utf-8') as f:
+            soup = BeautifulSoup(f.read(), 'html.parser')
+        
+        errors = []
+        checked = 0
+        
+        # 로컬 링크 체크
+        for link in soup.find_all(['link', 'script', 'img'], src=True):
+            src = link.get('src') or link.get('href')
+            if src and not src.startswith(('http://', 'https://', '//', '#')):
+                file_path = Path('docs') / src
+                if not file_path.exists():
+                    errors.append(f"❌ Missing: {src}")
+                else:
+                    checked += 1
+        
+        for link in soup.find_all('link', href=True):
+            href = link.get('href')
+            if href and not href.startswith(('http://', 'https://', '//', '#')):
+                file_path = Path('docs') / href
+                if not file_path.exists():
+                    errors.append(f"❌ Missing: {href}")
+                else:
+                    checked += 1
+        
+        if errors:
+            print("\n".join(errors))
+            exit(1)
+        
+        print(f"✅ All {checked} internal links are valid!")
+        EOF
+    
+    - name: Stop HTTP server
+      if: always()
+      run: |
+        if [ ! -z "$SERVER_PID" ]; then
+          kill $SERVER_PID 2>/dev/null || true
+        fi
+    
+    - name: Summary
+      if: success()
+      run: |
+        echo "================================"
+        echo "✅ All tests passed successfully!"
+        echo "================================"
+        echo ""
+        echo "Tested components:"
+        echo "  ✅ HTML structure"
+        echo "  ✅ JavaScript functions"
+        echo "  ✅ CSS files"
+        echo "  ✅ Image assets"
+        echo "  ✅ JSON data format"
+        echo "  ✅ HTTP server"
+        echo "  ✅ Internal links"
+        echo ""
+        echo "Website is ready for deployment! 🚀"

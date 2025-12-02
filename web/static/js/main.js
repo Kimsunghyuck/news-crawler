@@ -1,5 +1,5 @@
 /**
- * 신혁 뉴스 포털 - 메인 JavaScript
+ * Hyeok Crawler 뉴스 포털 - 메인 JavaScript
  * 배너 슬라이더, 카테고리/소스 선택, 뉴스 로딩 등의 기능
  */
 

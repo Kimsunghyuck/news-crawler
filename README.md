@@ -62,8 +62,6 @@ python crawler.py
 
 ## 📊 데이터 구조
 
-## 📊 데이터 구조
-
 ### JSON 예시
 
 ```json
