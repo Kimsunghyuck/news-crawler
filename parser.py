@@ -5,8 +5,15 @@ HTML 파싱 모듈
 
 from bs4 import BeautifulSoup
 from typing import List, Dict, Optional
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 import re
+
+# 한국 시간대 (KST = UTC+9)
+KST = timezone(timedelta(hours=9))
+
+def get_kst_now():
+    """한국 시간(KST)으로 현재 시간을 반환합니다."""
+    return datetime.now(KST)
 
 
 def parse_anthropic_news(html_content: str) -> List[Dict[str, str]]:
@@ -79,7 +86,7 @@ def parse_anthropic_news(html_content: str) -> List[Dict[str, str]]:
             'url': full_url,
             'date': date_str,
             'category': category,
-            'scraped_at': datetime.now().isoformat()
+            'scraped_at': get_kst_now().isoformat()
         }
         
         news_items.append(news_item)
@@ -154,7 +161,7 @@ def parse_donga_politics(html_content: str, max_articles: int = 5) -> List[Dict[
                     date_str = f"{date_num[:4]}-{date_num[4:6]}-{date_num[6:8]}"
                 
                 if not date_str:
-                    date_str = datetime.now().strftime('%Y-%m-%d')
+                    date_str = get_kst_now().strftime('%Y-%m-%d')
                 
                 news_item = {
                     'title': clean_text(title),
@@ -162,7 +169,7 @@ def parse_donga_politics(html_content: str, max_articles: int = 5) -> List[Dict[
                     'date': date_str,
                     'category': '정치',
                     'source': '동아일보',
-                    'scraped_at': datetime.now().isoformat()
+                    'scraped_at': get_kst_now().isoformat()
                 }
                 
                 news_items.append(news_item)
@@ -233,7 +240,7 @@ def parse_chosun_politics(html_content: str, max_articles: int = 5) -> List[Dict
             date_str = f"{year}-{month}-{day}"
         
         if not date_str:
-            date_str = datetime.now().strftime('%Y-%m-%d')
+            date_str = get_kst_now().strftime('%Y-%m-%d')
         
         # 뉴스 항목 추가
         news_item = {
@@ -242,7 +249,7 @@ def parse_chosun_politics(html_content: str, max_articles: int = 5) -> List[Dict
             'date': date_str,
             'category': '정치',
             'source': '조선일보',
-            'scraped_at': datetime.now().isoformat()
+            'scraped_at': get_kst_now().isoformat()
         }
         
         news_items.append(news_item)
@@ -304,10 +311,10 @@ def parse_joongang_politics(html_content: str, max_articles: int = 5) -> List[Di
                                     news_item = {
                                         'title': clean_text(title),
                                         'url': full_url,
-                                        'date': datetime.now().strftime('%Y-%m-%d'),
+                                        'date': get_kst_now().strftime('%Y-%m-%d'),
                                         'category': '정치',
                                         'source': '중앙일보',
-                                        'scraped_at': datetime.now().isoformat()
+                                        'scraped_at': get_kst_now().isoformat()
                                     }
                                     news_items.append(news_item)
                                     processed_urls.add(url)
@@ -357,10 +364,10 @@ def parse_joongang_politics(html_content: str, max_articles: int = 5) -> List[Di
             news_item = {
                 'title': clean_text(title),
                 'url': full_url,
-                'date': datetime.now().strftime('%Y-%m-%d'),
+                'date': get_kst_now().strftime('%Y-%m-%d'),
                 'category': '정치',
                 'source': '중앙일보',
-                'scraped_at': datetime.now().isoformat()
+                'scraped_at': get_kst_now().isoformat()
             }
             
             news_items.append(news_item)
@@ -469,10 +476,10 @@ def parse_joongang_sports(html_content: str, max_articles: int = 5) -> List[Dict
                                     news_item = {
                                         'title': clean_text(title),
                                         'url': full_url,
-                                        'date': datetime.now().strftime('%Y-%m-%d'),
+                                        'date': get_kst_now().strftime('%Y-%m-%d'),
                                         'category': '스포츠',
                                         'source': '중앙일보',
-                                        'scraped_at': datetime.now().isoformat()
+                                        'scraped_at': get_kst_now().isoformat()
                                     }
                                     news_items.append(news_item)
                                     processed_urls.add(url)
@@ -520,10 +527,10 @@ def parse_joongang_sports(html_content: str, max_articles: int = 5) -> List[Dict
             news_item = {
                 'title': clean_text(title),
                 'url': full_url,
-                'date': datetime.now().strftime('%Y-%m-%d'),
+                'date': get_kst_now().strftime('%Y-%m-%d'),
                 'category': '스포츠',
                 'source': '중앙일보',
-                'scraped_at': datetime.now().isoformat()
+                'scraped_at': get_kst_now().isoformat()
             }
             news_items.append(news_item)
             processed_urls.add(url)
@@ -585,7 +592,7 @@ def parse_donga_sports(html_content: str, max_articles: int = 5) -> List[Dict[st
                     date_str = f"{date_num[:4]}-{date_num[4:6]}-{date_num[6:8]}"
                 
                 if not date_str:
-                    date_str = datetime.now().strftime('%Y-%m-%d')
+                    date_str = get_kst_now().strftime('%Y-%m-%d')
                 
                 news_item = {
                     'title': clean_text(title),
@@ -593,7 +600,7 @@ def parse_donga_sports(html_content: str, max_articles: int = 5) -> List[Dict[st
                     'date': date_str,
                     'category': '스포츠',
                     'source': '동아일보',
-                    'scraped_at': datetime.now().isoformat()
+                    'scraped_at': get_kst_now().isoformat()
                 }
                 
                 news_items.append(news_item)
@@ -661,7 +668,7 @@ def parse_chosun_sports(html_content: str, max_articles: int = 5) -> List[Dict[s
             date_str = f"{year}-{month}-{day}"
         
         if not date_str:
-            date_str = datetime.now().strftime('%Y-%m-%d')
+            date_str = get_kst_now().strftime('%Y-%m-%d')
         
         news_item = {
             'title': clean_text(title),
@@ -669,7 +676,7 @@ def parse_chosun_sports(html_content: str, max_articles: int = 5) -> List[Dict[s
             'date': date_str,
             'category': '스포츠',
             'source': '조선일보',
-            'scraped_at': datetime.now().isoformat()
+            'scraped_at': get_kst_now().isoformat()
         }
         
         news_items.append(news_item)
@@ -726,10 +733,10 @@ def parse_joongang_economy(html_content: str, max_articles: int = 5) -> List[Dic
                                     news_item = {
                                         'title': clean_text(title),
                                         'url': full_url,
-                                        'date': datetime.now().strftime('%Y-%m-%d'),
+                                        'date': get_kst_now().strftime('%Y-%m-%d'),
                                         'category': '경제',
                                         'source': '중앙일보',
-                                        'scraped_at': datetime.now().isoformat(),
+                                        'scraped_at': get_kst_now().isoformat(),
                                         'main_category': '경제'
                                     }
                                     news_items.append(news_item)
@@ -778,10 +785,10 @@ def parse_joongang_economy(html_content: str, max_articles: int = 5) -> List[Dic
             news_item = {
                 'title': clean_text(title),
                 'url': full_url,
-                'date': datetime.now().strftime('%Y-%m-%d'),
+                'date': get_kst_now().strftime('%Y-%m-%d'),
                 'category': '경제',
                 'source': '중앙일보',
-                'scraped_at': datetime.now().isoformat(),
+                'scraped_at': get_kst_now().isoformat(),
                 'main_category': '경제'
             }
             news_items.append(news_item)
@@ -844,7 +851,7 @@ def parse_donga_economy(html_content: str, max_articles: int = 5) -> List[Dict[s
                     date_str = f"{date_num[:4]}-{date_num[4:6]}-{date_num[6:8]}"
                 
                 if not date_str:
-                    date_str = datetime.now().strftime('%Y-%m-%d')
+                    date_str = get_kst_now().strftime('%Y-%m-%d')
                 
                 news_item = {
                     'title': clean_text(title),
@@ -852,7 +859,7 @@ def parse_donga_economy(html_content: str, max_articles: int = 5) -> List[Dict[s
                     'date': date_str,
                     'category': '경제',
                     'source': '동아일보',
-                    'scraped_at': datetime.now().isoformat(),
+                    'scraped_at': get_kst_now().isoformat(),
                     'main_category': '경제'
                 }
                 
@@ -921,7 +928,7 @@ def parse_chosun_economy(html_content: str, max_articles: int = 5) -> List[Dict[
             date_str = f"{year}-{month}-{day}"
         
         if not date_str:
-            date_str = datetime.now().strftime('%Y-%m-%d')
+            date_str = get_kst_now().strftime('%Y-%m-%d')
         
         news_item = {
             'title': clean_text(title),
@@ -929,7 +936,7 @@ def parse_chosun_economy(html_content: str, max_articles: int = 5) -> List[Dict[
             'date': date_str,
             'category': '경제',
             'source': '조선일보',
-            'scraped_at': datetime.now().isoformat(),
+            'scraped_at': get_kst_now().isoformat(),
             'main_category': '경제'
         }
         

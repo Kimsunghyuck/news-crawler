@@ -2,8 +2,8 @@ name: Daily Multi-Category News Crawl
 
 on:
   schedule:
-    # 매일 한국시간 오전 9시 (UTC 0시)
-    - cron: '0 0 * * *'
+    # 매일 한국시간 오전 9시 20분 (UTC 0시 20분)
+    - cron: '20 0 * * *'
   workflow_dispatch:  # 수동 실행 버튼 활성화
 
 jobs:

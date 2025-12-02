@@ -7,9 +7,16 @@ import requests
 import json
 import time
 import os
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Optional
 import logging
+
+# 한국 시간대 (KST = UTC+9)
+KST = timezone(timedelta(hours=9))
+
+def get_kst_now():
+    """한국 시간(KST)으로 현재 시간을 반환합니다."""
+    return datetime.now(KST)
 
 from config import (
     NEWS_SOURCES, HEADERS, REQUEST_DELAY, REQUEST_TIMEOUT,

@@ -19,7 +19,7 @@ def scheduled_crawl():
     """스케줄에 따라 실행되는 크롤링 작업"""
     logger.info("\n" + "=" * 60)
     logger.info("⏰ 자동 스케줄링 작업 시작")
-    logger.info(f"실행 시간: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    logger.info(f"실행 시간: {get_kst_now().strftime('%Y-%m-%d %H:%M:%S')} (KST)")
     logger.info("=" * 60 + "\n")
     
     try:

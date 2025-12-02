@@ -5,13 +5,20 @@
 
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 import re
 from config import (
     NEWS_SOURCES, CATEGORY_EN_MAP, SOURCE_EN_MAP,
     REPORT_TEMPLATE, COMBINED_REPORT_TEMPLATE, NEWS_JSON_TEMPLATE
 )
+
+# 한국 시간대 (KST = UTC+9)
+KST = timezone(timedelta(hours=9))
+
+def get_kst_now():
+    """한국 시간(KST)으로 현재 시간을 반환합니다."""
+    return datetime.now(KST)
 
 
 def get_category_source_json_path(category: str, source: str, date: str) -> str:
@@ -87,7 +94,7 @@ def generate_source_report(category: str, source: str, news_list: list, date: st
     
     report.append(f"# 📰 {category} - {source} 뉴스 보고서\n\n")
     report.append(f"**보고서 날짜**: {report_date}\n")
-    report.append(f"**보고서 생성일**: {datetime.now().strftime('%Y년 %m월 %d일 %H:%M')}\n")
+    report.append(f"**보고서 생성일**: {get_kst_now().strftime('%Y년 %m월 %d일 %H:%M')} (KST)\n")
     report.append(f"**총 뉴스 개수**: {len(news_list)}개\n")
     report.append("---\n\n")
     
@@ -99,10 +106,19 @@ def generate_source_report(category: str, source: str, news_list: list, date: st
         date_str = item.get('date', '날짜 미상')
         url = item['url']
         
+        # scraped_at을 읽기 쉬운 형식으로 변환
+        scraped_at = item.get('scraped_at', '')
+        if scraped_at:
+            # ISO 형식에서 날짜와 시간 추출 (타임존 정보 제거)
+            # 예: 2025-12-02T09:08:57.123456+09:00 -> 2025-12-02 09:08:57
+            scraped_time = scraped_at.split('.')[0].replace('T', ' ')
+        else:
+            scraped_time = '수집 시간 미상'
+        
         report.append(f"### {idx}. {title}\n\n")
         report.append(f"- **날짜**: {date_str}\n")
         report.append(f"- **링크**: [{url}]({url})\n")
-        report.append(f"- **수집 시간**: {item.get('scraped_at', '')[:19].replace('T', ' ')}\n\n")
+        report.append(f"- **수집 시간**: {scraped_time}\n\n")
     
     # 푸터
     report.append("---\n\n")
@@ -149,7 +165,7 @@ def generate_combined_report(date: str) -> str:
     total_count = sum(len(news) for sources in all_data.values() for news in sources.values())
     
     report.append(f"# 📰 종합 뉴스 보고서 - {report_date}\n\n")
-    report.append(f"**보고서 생성일**: {datetime.now().strftime('%Y년 %m월 %d일 %H:%M')}\n")
+    report.append(f"**보고서 생성일**: {get_kst_now().strftime('%Y년 %m월 %d일 %H:%M')} (KST)\n")
     report.append(f"**총 뉴스 개수**: {total_count}개\n")
     report.append("---\n\n")
     
@@ -253,7 +269,7 @@ def generate_combined_report(date: str) -> str:
 
 def main():
     """메인 함수"""
-    today = datetime.now().strftime('%Y-%m-%d')
+    today = get_kst_now().strftime('%Y-%m-%d')
     
     print("=" * 60)
     print("📰 종합 뉴스 보고서 생성기")
