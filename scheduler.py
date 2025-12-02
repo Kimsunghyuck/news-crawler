@@ -10,6 +10,7 @@ from datetime import datetime
 
 from config import CRAWL_TIME
 from crawler import crawl_news, setup_logging
+from report_generator import get_kst_now
 
 
 logger = setup_logging()
