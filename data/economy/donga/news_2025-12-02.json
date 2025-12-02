@@ -59,7 +59,7 @@
     "date": "2025-12-02",
     "category": "경제",
     "source": "동아일보",
-    "scraped_at": "2025-12-02T09:42:19.101268+09:00",
+    "scraped_at": "2025-12-02T10:00:48.277773+09:00",
     "main_category": "경제"
   },
   {
@@ -68,7 +68,7 @@
     "date": "2025-12-02",
     "category": "경제",
     "source": "동아일보",
-    "scraped_at": "2025-12-02T09:42:19.101298+09:00",
+    "scraped_at": "2025-12-02T10:00:48.277791+09:00",
     "main_category": "경제"
   },
   {
@@ -77,7 +77,7 @@
     "date": "2025-12-02",
     "category": "경제",
     "source": "동아일보",
-    "scraped_at": "2025-12-02T09:42:19.101313+09:00",
+    "scraped_at": "2025-12-02T10:00:48.277805+09:00",
     "main_category": "경제"
   },
   {
@@ -87,6 +87,24 @@
     "category": "경제",
     "source": "동아일보",
     "scraped_at": "2025-12-02T09:42:19.101331+09:00",
+    "main_category": "경제"
+  },
+  {
+    "title": "제주평화연구원, 회기간회의 개최… 트럼프 2기 국제질서 재편과 외교 전략 점검",
+    "url": "https://www.donga.com/news/Economy/article/all/20251202/132882238/1",
+    "date": "2025-12-02",
+    "category": "경제",
+    "source": "동아일보",
+    "scraped_at": "2025-12-02T10:00:48.277731+09:00",
+    "main_category": "경제"
+  },
+  {
+    "title": "외인·기관 ‘사자’에 코스피 3950선 회복…SK하이닉스, 2.6%↑[개장시황]",
+    "url": "https://www.donga.com/news/Economy/article/all/20251202/132882100/1",
+    "date": "2025-12-02",
+    "category": "경제",
+    "source": "동아일보",
+    "scraped_at": "2025-12-02T10:00:48.277759+09:00",
     "main_category": "경제"
   }
 ]
