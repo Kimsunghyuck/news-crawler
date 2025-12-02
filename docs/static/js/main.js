@@ -73,6 +73,9 @@ function initNavigation() {
             const category = this.dataset.category;
             currentCategory = category;
             
+            // 배너도 해당 카테고리로 업데이트
+            loadLatestNews(category);
+            
             const selectedDate = document.getElementById('date-select').value;
             loadNews(category, currentSource, selectedDate);
         });
@@ -153,28 +156,25 @@ function updateSourceTitle(source) {
 }
 
 /**
- * 최신 뉴스 로드 (배너용) - JSON 파일에서 직접 로드
+ * 최신 뉴스 로드 (배너용) - 현재 선택된 카테고리의 기사만 표시
  */
-async function loadLatestNews() {
+async function loadLatestNews(category = currentCategory) {
     try {
         const today = new Date().toISOString().split('T')[0];
         const sources = ['donga', 'chosun', 'joongang'];
-        const categories = ['politics', 'sports', 'economy'];
         
         let allNews = [];
         
-        // 모든 소스와 카테고리에서 뉴스 수집
-        for (const category of categories) {
-            for (const source of sources) {
-                try {
-                    const response = await fetch(`data/${category}/${source}/news_${today}.json`);
-                    if (response.ok) {
-                        const data = await response.json();
-                        allNews = allNews.concat(data.slice(0, 2)); // 각 소스에서 2개씩
-                    }
-                } catch (e) {
-                    console.log(`No data for ${category}/${source}`);
+        // 현재 카테고리의 모든 소스에서 뉴스 수집
+        for (const source of sources) {
+            try {
+                const response = await fetch(`data/${category}/${source}/news_${today}.json`);
+                if (response.ok) {
+                    const data = await response.json();
+                    allNews = allNews.concat(data.slice(0, 2)); // 각 소스에서 2개씩
                 }
+            } catch (e) {
+                console.log(`No data for ${category}/${source}`);
             }
         }
         
@@ -197,19 +197,22 @@ function renderBannerSlides(newsItems) {
     
     if (!wrapper) return;
     
-    wrapper.innerHTML = newsItems.map(item => `
+    wrapper.innerHTML = newsItems.map(item => {
+        const categoryClass = getCategoryClass(item.category || item.main_category);
+        return `
         <div class="swiper-slide banner-slide">
             <img src="${getNewsImage(item)}" 
                  alt="${escapeHtml(item.title)}" 
                  class="banner-image"
                  onerror="this.src='static/images/no-image.png'">
             <div class="banner-overlay">
-                <span class="banner-category">${escapeHtml(item.category || item.main_category)}</span>
+                <span class="banner-category ${categoryClass}">${escapeHtml(item.category || item.main_category)}</span>
                 <h2 class="banner-title">${escapeHtml(item.title)}</h2>
                 <p class="banner-source">${escapeHtml(item.source)} · ${formatDate(item.date)}</p>
             </div>
         </div>
-    `).join('');
+        `;
+    }).join('');
     
     // Swiper 재초기화
     setTimeout(() => {
@@ -265,7 +268,9 @@ async function loadNews(category, source, date) {
 function renderNewsGrid(newsItems) {
     const gridEl = document.getElementById('news-grid');
     
-    gridEl.innerHTML = newsItems.map(item => `
+    gridEl.innerHTML = newsItems.map(item => {
+        const categoryClass = getCategoryClass(item.category || item.main_category);
+        return `
         <article class="news-card" onclick="window.open('${escapeHtml(item.url)}', '_blank')">
             <div class="news-card-image-wrapper">
                 <img src="${getNewsImage(item)}" 
@@ -284,7 +289,7 @@ function renderNewsGrid(newsItems) {
             </div>
             <div class="news-card-content">
                 <div class="news-card-header">
-                    <span class="news-card-category">${escapeHtml(item.category || item.main_category)}</span>
+                    <span class="news-card-category ${categoryClass}">${escapeHtml(item.category || item.main_category)}</span>
                     <span class="news-card-date">${formatDate(item.date)}</span>
                 </div>
                 <h3 class="news-card-title">${escapeHtml(item.title)}</h3>
@@ -294,7 +299,8 @@ function renderNewsGrid(newsItems) {
                 </div>
             </div>
         </article>
-    `).join('');
+        `;
+    }).join('');
 }
 
 /**
@@ -363,6 +369,22 @@ function escapeHtml(text) {
     };
     
     return text.replace(/[&<>"']/g, m => map[m]);
+}
+
+/**
+ * 카테고리명을 CSS 클래스로 변환
+ */
+function getCategoryClass(category) {
+    const categoryMap = {
+        '정치': 'politics',
+        'politics': 'politics',
+        '스포츠': 'sports',
+        'sports': 'sports',
+        '경제': 'economy',
+        'economy': 'economy'
+    };
+    
+    return categoryMap[category] || 'politics';
 }
 
 /**

@@ -286,12 +286,30 @@ img {
 
 .banner-category {
     display: inline-block;
-    background: var(--accent-color);
     padding: 0.35rem 0.75rem;
     border-radius: 20px;
     font-size: 0.85rem;
     font-weight: 600;
     margin-bottom: var(--spacing-xs);
+}
+
+/* 카테고리별 색상 */
+.banner-category.politics,
+.news-card-category.politics {
+    background: #3498db; /* 파란색 */
+    color: white;
+}
+
+.banner-category.sports,
+.news-card-category.sports {
+    background: #e74c3c; /* 빨간색 */
+    color: white;
+}
+
+.banner-category.economy,
+.news-card-category.economy {
+    background: #27ae60; /* 초록색 */
+    color: white;
 }
 
 .banner-title {
@@ -495,8 +513,6 @@ img {
 
 .news-card-category {
     display: inline-block;
-    background: var(--secondary-color);
-    color: white;
     padding: 0.25rem 0.75rem;
     border-radius: 15px;
     font-size: 0.8rem;
