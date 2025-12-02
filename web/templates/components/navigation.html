@@ -1,0 +1,45 @@
+<nav class="main-navigation">
+    <div class="container">
+        <div class="nav-content">
+            <!-- Logo -->
+            <div class="nav-logo">
+                <a href="/">
+                    <img src="{{ url_for('static', filename='images/mainIcon.png') }}" alt="신혁 로고">
+                </a>
+            </div>
+            
+            <!-- Categories with Shared Dropdown -->
+            <ul class="categories">
+                <li class="category-item" data-category="politics">
+                    <div class="category-title">정치</div>
+                </li>
+                
+                <li class="category-item" data-category="sports">
+                    <div class="category-title">스포츠</div>
+                </li>
+                
+                <li class="category-item" data-category="economy">
+                    <div class="category-title">경제</div>
+                </li>
+            </ul>
+            
+            <!-- Shared Dropdown Menu -->
+            <div class="shared-dropdown">
+                <ul class="source-list">
+                    <li class="source-item" data-source="donga">
+                        <img src="{{ url_for('static', filename='images/donga1.png') }}" alt="동아일보" class="source-logo">
+                        <span>동아일보</span>
+                    </li>
+                    <li class="source-item" data-source="chosun">
+                        <img src="{{ url_for('static', filename='images/chosun.png') }}" alt="조선일보" class="source-logo">
+                        <span>조선일보</span>
+                    </li>
+                    <li class="source-item" data-source="joongang">
+                        <img src="{{ url_for('static', filename='images/joongang.png') }}" alt="중앙일보" class="source-logo">
+                        <span>중앙일보</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>

@@ -1,21 +1,13 @@
 [
   {
-    "title": "53세에 회사 떠나는 김부장의 현실, 70%는 다른 일 한다",
+    "title": "\"슬프고 짠해\" 53세에 퇴직한 김부장…그후 70%는 이렇게 산다",
     "url": "https://www.joongang.co.kr/article/25386723",
     "date": "2025-12-02",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-02T10:07:03.875916+09:00",
-    "main_category": "경제"
-  },
-  {
-    "title": "그랜저 220만원, 아이오닉9 630만원…국내車 '눈물의 세일' 왜",
-    "url": "https://www.joongang.co.kr/article/25386581",
-    "date": "2025-12-02",
-    "category": "경제",
-    "source": "중앙일보",
-    "scraped_at": "2025-12-02T10:07:03.876248+09:00",
-    "main_category": "경제"
+    "scraped_at": "2025-12-02T16:10:54.703631+09:00",
+    "main_category": "경제",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/18b05b36-947b-432a-a61d-529ed7dcb0ed.jpg"
   },
   {
     "title": "[단독] 현대차그룹 계열사 '희망퇴직' 돌입…경력 재설계 프로그램 공지",
@@ -23,25 +15,38 @@
     "date": "2025-12-02",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-02T10:07:03.876083+09:00",
-    "main_category": "경제"
+    "scraped_at": "2025-12-02T16:10:54.703728+09:00",
+    "main_category": "경제",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/01/2821112b-bb6c-4676-9f0e-b5fb3562664c.jpg"
   },
   {
-    "title": "인텔 간 TSMC 전설…대만 \"충신이 반역자로\" 발칵 뒤집혔다",
-    "url": "https://www.joongang.co.kr/article/25386577",
+    "title": "환율발 인플레, 민생물가 비명…기름값 5.9%↑고등어 13%↑",
+    "url": "https://www.joongang.co.kr/article/25386786",
     "date": "2025-12-02",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-02T10:07:03.876436+09:00",
-    "main_category": "경제"
+    "scraped_at": "2025-12-02T16:10:54.703816+09:00",
+    "main_category": "경제",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/dbfb5003-d8fe-4f94-84fa-24e91460c0d5.jpg"
   },
   {
-    "title": "'막대한 투자' 자랑하더니 보안 허술…'김범석 책임론' 커진다",
-    "url": "https://www.joongang.co.kr/article/25386606",
+    "title": "박대준 쿠팡 대표 \"퇴사 중국 직원, 인증 시스템 개발자였다\"",
+    "url": "https://www.joongang.co.kr/article/25386801",
     "date": "2025-12-02",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-02T10:07:03.876660+09:00",
-    "main_category": "경제"
+    "scraped_at": "2025-12-02T16:10:54.703911+09:00",
+    "main_category": "경제",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/02/8b87ff47-89a6-43ef-8f24-0c160675a7b3.jpg"
+  },
+  {
+    "title": "박대준 쿠팡 대표 \"한국 법인 대표로서 끝까지 책임 지겠다\"",
+    "url": "https://www.joongang.co.kr/article/25386775",
+    "date": "2025-12-02",
+    "category": "경제",
+    "source": "중앙일보",
+    "scraped_at": "2025-12-02T16:10:54.704020+09:00",
+    "main_category": "경제",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/02/ea826612-a6af-40b3-b1e6-dbddb0c8b9ac.jpg"
   }
 ]

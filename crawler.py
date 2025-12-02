@@ -10,6 +10,8 @@ import os
 from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Optional
 import logging
+from bs4 import BeautifulSoup
+import re
 
 # 한국 시간대 (KST = UTC+9)
 KST = timezone(timedelta(hours=9))
@@ -44,6 +46,57 @@ def setup_logging():
 
 
 logger = setup_logging()
+
+
+def extract_article_image(article_url: str, source: str) -> str:
+    """
+    기사 URL에서 대표 이미지를 추출합니다.
+    
+    Args:
+        article_url: 기사 URL
+        source: 뉴스 소스 이름
+        
+    Returns:
+        이미지 URL 문자열 (없으면 빈 문자열)
+    """
+    try:
+        response = requests.get(article_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'lxml')
+        
+        image_url = ""
+        
+        # Open Graph 이미지 메타 태그 (가장 일반적)
+        og_image = soup.find('meta', property='og:image')
+        if og_image:
+            image_url = og_image.get('content', '')
+        
+        # Twitter 카드 이미지
+        if not image_url:
+            twitter_image = soup.find('meta', attrs={'name': 'twitter:image'})
+            if twitter_image:
+                image_url = twitter_image.get('content', '')
+        
+        # 기사 본문의 첫 번째 이미지
+        if not image_url:
+            article_body = soup.find(['article', 'div'], class_=re.compile(r'article|content|body'))
+            if article_body:
+                img_tag = article_body.find('img')
+                if img_tag:
+                    image_url = img_tag.get('src', '') or img_tag.get('data-src', '')
+        
+        # 상대 URL을 절대 URL로 변환
+        if image_url and image_url.startswith('/'):
+            from urllib.parse import urlparse
+            parsed = urlparse(article_url)
+            base_url = f"{parsed.scheme}://{parsed.netloc}"
+            image_url = f"{base_url}{image_url}"
+        
+        return image_url
+        
+    except Exception as e:
+        logger.debug(f"이미지 추출 실패 ({article_url}): {e}")
+        return ""
 
 
 def fetch_page(url: str, retries: int = MAX_RETRIES) -> Optional[str]:
@@ -286,6 +339,13 @@ def crawl_news() -> bool:
                     new_news = parser_func(html_content)
                     
                 logger.info(f"파싱 완료: {len(new_news)}개 뉴스 항목 발견")
+                
+                # 각 뉴스 항목의 기사 URL에서 이미지 추출
+                for item in new_news:
+                    if not item.get('image_url'):  # 이미지 URL이 없는 경우에만
+                        image_url = extract_article_image(item['url'], source_name)
+                        item['image_url'] = image_url
+                        time.sleep(0.5)  # 과도한 요청 방지
                 
                 # 카테고리와 소스 정보 추가
                 for item in new_news:

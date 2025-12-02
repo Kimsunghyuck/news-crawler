@@ -16,6 +16,39 @@ def get_kst_now():
     return datetime.now(KST)
 
 
+def extract_image_url(link_element, base_url: str = "") -> str:
+    """
+    링크 요소에서 이미지 URL을 추출합니다.
+    
+    Args:
+        link_element: BeautifulSoup 링크 요소
+        base_url: 기본 URL (상대 경로를 절대 경로로 변환)
+        
+    Returns:
+        이미지 URL 문자열
+    """
+    image_url = ""
+    
+    # 1. 링크 내부의 img 태그 찾기
+    img_tag = link_element.find('img')
+    if img_tag:
+        image_url = img_tag.get('src', '') or img_tag.get('data-src', '') or img_tag.get('data-lazy-src', '')
+    
+    # 2. 링크 부모 요소에서 이미지 찾기
+    if not image_url:
+        parent_elem = link_element.find_parent(['li', 'div', 'article'])
+        if parent_elem:
+            img_tag = parent_elem.find('img')
+            if img_tag:
+                image_url = img_tag.get('src', '') or img_tag.get('data-src', '') or img_tag.get('data-lazy-src', '')
+    
+    # 상대 URL을 절대 URL로 변환
+    if image_url and base_url and image_url.startswith('/'):
+        image_url = f"{base_url}{image_url}"
+    
+    return image_url
+
+
 def parse_anthropic_news(html_content: str) -> List[Dict[str, str]]:
     """
     Anthropic 뉴스 페이지 HTML을 파싱하여 뉴스 항목 리스트를 반환합니다.
@@ -153,6 +186,9 @@ def parse_donga_politics(html_content: str, max_articles: int = 5) -> List[Dict[
                 if not title or len(title) < 10:
                     continue
                 
+                # 이미지 URL 추출
+                image_url = extract_image_url(link, "https://www.donga.com")
+                
                 # URL에서 날짜 추출
                 date_str = ""
                 date_match = re.search(r'/(\d{8})/', url)
@@ -169,6 +205,7 @@ def parse_donga_politics(html_content: str, max_articles: int = 5) -> List[Dict[
                     'date': date_str,
                     'category': '정치',
                     'source': '동아일보',
+                    'image_url': image_url,
                     'scraped_at': get_kst_now().isoformat()
                 }
                 
@@ -232,6 +269,9 @@ def parse_chosun_politics(html_content: str, max_articles: int = 5) -> List[Dict
         if not title or len(title) < 10:
             continue
         
+        # 이미지 URL 추출
+        image_url = extract_image_url(link, "https://www.chosun.com")
+        
         # URL에서 날짜 추출 (패턴: /2025/12/01/...)
         date_str = ""
         date_match = re.search(r'/(\d{4})/(\d{2})/(\d{2})/', url)
@@ -249,6 +289,7 @@ def parse_chosun_politics(html_content: str, max_articles: int = 5) -> List[Dict
             'date': date_str,
             'category': '정치',
             'source': '조선일보',
+            'image_url': image_url,
             'scraped_at': get_kst_now().isoformat()
         }
         
@@ -308,12 +349,16 @@ def parse_joongang_politics(html_content: str, max_articles: int = 5) -> List[Di
                                 title = link.get_text(strip=True)
                                 
                                 if title and len(title) >= 10 and not title.isdigit():
+                                    # 이미지 URL 추출
+                                    image_url = extract_image_url(link, "https://www.joongang.co.kr")
+                                    
                                     news_item = {
                                         'title': clean_text(title),
                                         'url': full_url,
                                         'date': get_kst_now().strftime('%Y-%m-%d'),
                                         'category': '정치',
                                         'source': '중앙일보',
+                                        'image_url': image_url,
                                         'scraped_at': get_kst_now().isoformat()
                                     }
                                     news_items.append(news_item)
@@ -361,12 +406,16 @@ def parse_joongang_politics(html_content: str, max_articles: int = 5) -> List[Di
             if not title or len(title) < 10 or title.isdigit():
                 continue
             
+            # 이미지 URL 추출
+            image_url = extract_image_url(link, "https://www.joongang.co.kr")
+            
             news_item = {
                 'title': clean_text(title),
                 'url': full_url,
                 'date': get_kst_now().strftime('%Y-%m-%d'),
                 'category': '정치',
                 'source': '중앙일보',
+                'image_url': image_url,
                 'scraped_at': get_kst_now().isoformat()
             }
             
@@ -584,6 +633,9 @@ def parse_donga_sports(html_content: str, max_articles: int = 5) -> List[Dict[st
                 if not title or len(title) < 10:
                     continue
                 
+                # 이미지 URL 추출
+                image_url = extract_image_url(link, "https://www.donga.com")
+                
                 # URL에서 날짜 추출
                 date_str = ""
                 date_match = re.search(r'/(\d{8})/', url)
@@ -600,6 +652,7 @@ def parse_donga_sports(html_content: str, max_articles: int = 5) -> List[Dict[st
                     'date': date_str,
                     'category': '스포츠',
                     'source': '동아일보',
+                    'image_url': image_url,
                     'scraped_at': get_kst_now().isoformat()
                 }
                 

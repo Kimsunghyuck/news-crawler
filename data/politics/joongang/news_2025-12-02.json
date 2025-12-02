@@ -5,7 +5,18 @@
     "date": "2025-12-02",
     "category": "정치",
     "source": "중앙일보",
-    "scraped_at": "2025-12-02T10:06:31.726018+09:00",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/d5f1a82d-534c-4751-b224-37cbd8e00c64.jpg",
+    "scraped_at": "2025-12-02T16:10:21.010866+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "李 \"쿠데타, 나치 전범처럼 처벌\"…계엄 1년 하루전 작심 발언",
+    "url": "https://www.joongang.co.kr/article/25386822",
+    "date": "2025-12-02",
+    "category": "정치",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/dd10e73a-6d09-40c8-9528-2450708ef7fb.jpg",
+    "scraped_at": "2025-12-02T16:10:21.011446+09:00",
     "main_category": "정치"
   },
   {
@@ -14,43 +25,28 @@
     "date": "2025-12-02",
     "category": "정치",
     "source": "중앙일보",
-    "scraped_at": "2025-12-02T10:06:31.726173+09:00",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/02/ffc2794c-9938-494f-a52c-338c0e285d7a.jpg",
+    "scraped_at": "2025-12-02T16:10:21.011695+09:00",
     "main_category": "정치"
   },
   {
-    "title": "與 \"젠슨 황 같은 후보 없다\"…오세훈 저격수 나선 자천타천 10여명",
-    "url": "https://www.joongang.co.kr/article/25386718",
+    "title": "李 \"종교재단 정치개입은 헌법 위반…日처럼 해산명령 검토\"",
+    "url": "https://www.joongang.co.kr/article/25386799",
     "date": "2025-12-02",
     "category": "정치",
     "source": "중앙일보",
-    "scraped_at": "2025-12-02T10:06:31.726534+09:00",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/02/a90d8be8-4a62-44a4-8a64-1b05100ed2dc.jpg",
+    "scraped_at": "2025-12-02T16:10:21.012091+09:00",
     "main_category": "정치"
   },
   {
-    "title": "[단독] 김민기 \"작년 2월 계엄 조짐, 2차 징후도 있었다\" 비화 공개",
-    "url": "https://www.joongang.co.kr/article/25386725",
+    "title": "'성추행 의혹' 장경태, 무고 맞고소…\"남친 행패 부려 자리 떴다\"",
+    "url": "https://www.joongang.co.kr/article/25386765",
     "date": "2025-12-02",
     "category": "정치",
     "source": "중앙일보",
-    "scraped_at": "2025-12-02T10:06:31.726342+09:00",
-    "main_category": "정치"
-  },
-  {
-    "title": "한미, 정상회담 후 첫 고위급 회담…원잠 등 팩트시트 조속가동 합의",
-    "url": "https://www.joongang.co.kr/article/25386736",
-    "date": "2025-12-02",
-    "category": "정치",
-    "source": "중앙일보",
-    "scraped_at": "2025-12-02T09:23:20.688979+09:00",
-    "main_category": "정치"
-  },
-  {
-    "title": "[속보] 여야, 예산안 디데이 당일 전격 합의…728조 정부 원안 유지",
-    "url": "https://www.joongang.co.kr/article/25386751",
-    "date": "2025-12-02",
-    "category": "정치",
-    "source": "중앙일보",
-    "scraped_at": "2025-12-02T10:06:31.726830+09:00",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/02/1061a6c5-d508-41f9-959c-e9c58b589331.jpg",
+    "scraped_at": "2025-12-02T16:10:21.012242+09:00",
     "main_category": "정치"
   }
 ]
