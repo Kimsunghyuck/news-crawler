@@ -1,5 +1,5 @@
 /**
- * 신혁 뉴스 포털 - GitHub Pages 정적 버전
+ * Hyeok Crawler 뉴스 포털 - GitHub Pages 정적 버전
  * JSON 파일을 직접 로드하여 표시
  */
 
