@@ -257,6 +257,8 @@ jobs:
         for link in soup.find_all(['link', 'script', 'img'], src=True):
             src = link.get('src') or link.get('href')
             if src and not src.startswith(('http://', 'https://', '//', '#')):
+                # Remove query parameters (e.g., ?v=2)
+                src = src.split('?')[0]
                 file_path = Path('docs') / src
                 if not file_path.exists():
                     errors.append(f"❌ Missing: {src}")
@@ -266,6 +268,8 @@ jobs:
         for link in soup.find_all('link', href=True):
             href = link.get('href')
             if href and not href.startswith(('http://', 'https://', '//', '#')):
+                # Remove query parameters (e.g., ?v=2)
+                href = href.split('?')[0]
                 file_path = Path('docs') / href
                 if not file_path.exists():
                     errors.append(f"❌ Missing: {href}")
