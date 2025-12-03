@@ -278,6 +278,21 @@ img {
     color: white;
 }
 
+.ticker-category.society {
+    background: #9b59b6;
+    color: white;
+}
+
+.ticker-category.international {
+    background: #fa11b4;
+    color: white;
+}
+
+.ticker-category.culture {
+    background: #ffde0b;
+    color: #333333;
+}
+
 .ticker-title {
     color: white;
     font-size: 1rem;
@@ -351,6 +366,18 @@ img {
 
 .category-label.economy {
     background-color: #27ae60;
+}
+
+.category-label.society {
+    background-color: #9b59b6;
+}
+
+.category-label.international {
+    background-color: #fa11b4;
+}
+
+.category-label.culture {
+    background-color: #ffde0b;
 }
 
 .date-selector-controls {
@@ -478,6 +505,19 @@ img {
 
 .news-card-category.economy {
     background-color: #27ae60;
+}
+
+.news-card-category.society {
+    background-color: #9b59b6;
+}
+
+.news-card-category.international {
+    background-color: #fa11b4;
+}
+
+.news-card-category.culture {
+    background-color: #ffde0b;
+    color: #333333;
 }
 
 .news-card-date {

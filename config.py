@@ -8,7 +8,10 @@ CATEGORY_EN_MAP = {
     # 'AI': 'ai',  # AI는 매일 업데이트되지 않아 주석처리
     '정치': 'politics',
     '스포츠': 'sports',
-    '경제': 'economy'
+    '경제': 'economy',
+    '사회': 'society',
+    '국제': 'international',
+    '문화': 'culture'
 }
 
 # 소스 이름 영문 매핑
@@ -88,6 +91,66 @@ NEWS_SOURCES = {
             'name': '조선일보',
             'url': 'https://www.chosun.com/economy/',
             'parser': 'chosun_economy',
+            'max_articles': 5
+        },
+    ],
+    '사회': [
+        {
+            'name': '조선일보',
+            'url': 'https://www.chosun.com/national/',
+            'parser': 'chosun_society',
+            'max_articles': 5
+        },
+        {
+            'name': '중앙일보',
+            'url': 'https://www.joongang.co.kr/society',
+            'parser': 'joongang_society',
+            'max_articles': 5
+        },
+        {
+            'name': '동아일보',
+            'url': 'https://www.donga.com/news/Society',
+            'parser': 'donga_society',
+            'max_articles': 5
+        },
+    ],
+    '국제': [
+        {
+            'name': '조선일보',
+            'url': 'https://www.chosun.com/international/',
+            'parser': 'chosun_international',
+            'max_articles': 5
+        },
+        {
+            'name': '중앙일보',
+            'url': 'https://www.joongang.co.kr/world',
+            'parser': 'joongang_international',
+            'max_articles': 5
+        },
+        {
+            'name': '동아일보',
+            'url': 'https://www.donga.com/news/Inter',
+            'parser': 'donga_international',
+            'max_articles': 5
+        },
+    ],
+    '문화': [
+        {
+            'name': '조선일보',
+            'url': 'https://www.chosun.com/culture-style/',
+            'parser': 'chosun_culture',
+            'max_articles': 5
+        },
+        {
+            'name': '중앙일보',
+            'url': 'https://www.joongang.co.kr/culture',
+            'parser': 'joongang_culture',
+            'max_articles': 5
+        },
+        {
+            'name': '동아일보',
+            'url': 'https://www.donga.com/news/Culture',
+            'parser': 'donga_culture',
             'max_articles': 5
         },
     ]

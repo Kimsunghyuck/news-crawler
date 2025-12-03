@@ -118,7 +118,10 @@ function updateSourceTitle(source, category = null) {
     const categoryNames = {
         'politics': '정치',
         'sports': '스포츠',
-        'economy': '경제'
+        'economy': '경제',
+        'society': '사회',
+        'international': '국제',
+        'culture': '문화'
     };
     
     const sourceLogoElement = document.getElementById('source-logo');
@@ -335,7 +338,13 @@ function getCategoryClass(category) {
         '스포츠': 'sports',
         'sports': 'sports',
         '경제': 'economy',
-        'economy': 'economy'
+        'economy': 'economy',
+        '사회': 'society',
+        'society': 'society',
+        '국제': 'international',
+        'international': 'international',
+        '문화': 'culture',
+        'culture': 'culture'
     };
     
     return categoryMap[category] || 'politics';
@@ -382,12 +391,15 @@ if (newsGrid) {
  * 뉴스 티커 초기화 및 로드
  */
 async function initNewsTicker(date) {
-    const categories = ['politics', 'sports', 'economy'];
+    const categories = ['politics', 'sports', 'economy', 'society', 'international', 'culture'];
     const sources = ['donga', 'chosun', 'joongang'];
     const categoryLabels = {
         politics: '정치',
         sports: '스포츠',
-        economy: '경제'
+        economy: '경제',
+        society: '사회',
+        international: '국제',
+        culture: '문화'
     };
     
     let allNews = [];

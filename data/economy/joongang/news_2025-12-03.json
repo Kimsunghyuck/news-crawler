@@ -5,9 +5,9 @@
     "date": "2025-12-03",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-03T09:42:27.647974+09:00",
+    "scraped_at": "2025-12-03T15:13:13.563859+09:00",
     "main_category": "경제",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/03/12e530f2-6ee4-4212-b017-bb06c118bddb.jpg"
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/65507c58-c81e-414f-bed7-92e76e955a40.jpg"
   },
   {
     "title": "\"슬프고 짠해\" 53세에 퇴직한 김부장…그후 70%는 이렇게 산다",
@@ -15,7 +15,7 @@
     "date": "2025-12-03",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-03T09:42:27.648114+09:00",
+    "scraped_at": "2025-12-03T15:13:13.563949+09:00",
     "main_category": "경제",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/18b05b36-947b-432a-a61d-529ed7dcb0ed.jpg"
   },
@@ -35,9 +35,9 @@
     "date": "2025-12-03",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-03T09:42:27.648451+09:00",
+    "scraped_at": "2025-12-03T15:13:13.564033+09:00",
     "main_category": "경제",
-    "image_url": ""
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/03/cfec97e7-476e-40ec-811d-926a8003f461.jpg"
   },
   {
     "title": "골목주행 vs 고속주행…테슬라·GM 반자율주행 누가 똑똑할까",
@@ -45,8 +45,18 @@
     "date": "2025-12-03",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-03T09:42:27.648662+09:00",
+    "scraped_at": "2025-12-03T15:13:13.564135+09:00",
     "main_category": "경제",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/03/f38493db-c7df-489c-8056-3c648a384a58.jpg"
+  },
+  {
+    "title": "10인치 탭 아니네, 좌·우 접으니 ‘주머니 폰’",
+    "url": "https://www.joongang.co.kr/article/25386996",
+    "date": "2025-12-03",
+    "category": "경제",
+    "source": "중앙일보",
+    "scraped_at": "2025-12-03T15:13:13.564240+09:00",
+    "main_category": "경제",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/03/0ca4fe06-afb8-416b-98b4-a4d2d257f0c1.jpg"
   }
 ]
