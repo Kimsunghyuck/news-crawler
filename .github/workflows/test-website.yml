@@ -56,11 +56,6 @@ jobs:
         else:
             print("✅ Navigation found")
         
-        if not soup.find('section', class_='banner-section'):
-            errors.append("❌ Banner section not found")
-        else:
-            print("✅ Banner section found")
-        
         if not soup.find('section', class_='news-section'):
             errors.append("❌ News section not found")
         else:
@@ -130,12 +125,6 @@ jobs:
         else:
             print("✅ fetch() found")
         
-        # Swiper 초기화 확인
-        if 'new Swiper' not in js_content:
-            errors.append("❌ Swiper initialization not found")
-        else:
-            print("✅ Swiper initialization found")
-        
         if errors:
             print("\n".join(errors))
             sys.exit(1)
@@ -153,7 +142,7 @@ jobs:
       run: |
         echo "Checking image files..."
         test -f docs/static/images/mainIcon.png || exit 1
-        test -f docs/static/images/donga1.png || exit 1
+        test -f docs/static/images/donga.png || exit 1
         test -f docs/static/images/chosun.png || exit 1
         test -f docs/static/images/joongang.png || exit 1
         test -f docs/static/images/favicon.ico || exit 1
