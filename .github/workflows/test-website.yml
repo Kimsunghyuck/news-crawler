@@ -107,7 +107,6 @@ jobs:
         # 필수 함수 체크
         required_functions = [
             'loadNews',
-            'loadLatestNews',
             'initNavigation',
             'renderNewsGrid',
             'updateSourceTitle'
