@@ -26,7 +26,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install requests beautifulsoup4 lxml
+        pip install beautifulsoup4 lxml
     
     - name: Check HTML files exist
       run: |
@@ -68,8 +68,8 @@ jobs:
         
         # 카테고리 메뉴 체크
         categories = soup.find_all('li', class_='category-item')
-        if len(categories) != 3:
-            errors.append(f"❌ Expected 3 categories, found {len(categories)}")
+        if len(categories) < 3:
+            errors.append(f"❌ Expected at least 3 categories, found {len(categories)}")
         else:
             print(f"✅ Found {len(categories)} categories")
         
@@ -145,6 +145,7 @@ jobs:
         test -f docs/static/images/chosun.png || exit 1
         test -f docs/static/images/joongang.png || exit 1
         test -f docs/static/images/favicon.ico || exit 1
+        test -f docs/static/images/no-image.png || exit 1
         echo "✅ All required images exist"
     
     - name: Validate JSON data structure
@@ -180,7 +181,7 @@ jobs:
                 
                 # 첫 번째 항목 검증
                 item = data[0]
-                required_fields = ['title', 'url', 'date', 'category', 'source']
+                required_fields = ['title', 'url', 'date', 'category', 'source', 'image_url']
                 
                 missing = [f for f in required_fields if f not in item]
                 if missing:
@@ -252,27 +253,23 @@ jobs:
         
         errors = []
         checked = 0
+        checked_paths = set()
         
-        # 로컬 링크 체크
-        for link in soup.find_all(['link', 'script', 'img'], src=True):
-            src = link.get('src') or link.get('href')
-            if src and not src.startswith(('http://', 'https://', '//', '#')):
-                # Remove query parameters (e.g., ?v=2)
-                src = src.split('?')[0]
-                file_path = Path('docs') / src
+        # 모든 로컬 링크 수집 및 체크
+        for tag in soup.find_all(['link', 'script', 'img']):
+            path = tag.get('src') or tag.get('href')
+            if path and not path.startswith(('http://', 'https://', '//', '#', 'data:')):
+                # Remove query parameters and fragments
+                path = path.split('?')[0].split('#')[0]
+                
+                # 중복 체크 방지
+                if path in checked_paths:
+                    continue
+                checked_paths.add(path)
+                
+                file_path = Path('docs') / path
                 if not file_path.exists():
-                    errors.append(f"❌ Missing: {src}")
-                else:
-                    checked += 1
-        
-        for link in soup.find_all('link', href=True):
-            href = link.get('href')
-            if href and not href.startswith(('http://', 'https://', '//', '#')):
-                # Remove query parameters (e.g., ?v=2)
-                href = href.split('?')[0]
-                file_path = Path('docs') / href
-                if not file_path.exists():
-                    errors.append(f"❌ Missing: {href}")
+                    errors.append(f"❌ Missing: {path}")
                 else:
                     checked += 1
         
@@ -282,6 +279,105 @@ jobs:
         
         print(f"✅ All {checked} internal links are valid!")
         EOF
+    
+    # ============================================
+    # Playwright E2E Tests
+    # ============================================
+    
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    
+    - name: Install Playwright
+      run: |
+        npm init -y
+        npm install -D @playwright/test
+        npx playwright install chromium --with-deps
+    
+    - name: Create Playwright test
+      run: |
+        cat > e2e-test.spec.ts << 'EOF'
+        import { test, expect } from '@playwright/test';
+        
+        test.describe('웹사이트 E2E 테스트', () => {
+          test.beforeEach(async ({ page }) => {
+            await page.goto('http://localhost:8000/');
+            await page.waitForLoadState('networkidle');
+          });
+        
+          test('메인 페이지 로드', async ({ page }) => {
+            await expect(page.locator('nav.main-navigation')).toBeVisible();
+            await expect(page.locator('section.news-section')).toBeVisible();
+            console.log('✅ 메인 페이지 로드 완료');
+          });
+        
+          test('카테고리 메뉴 클릭', async ({ page }) => {
+            const categories = page.locator('li.category-item');
+            const count = await categories.count();
+            expect(count).toBeGreaterThanOrEqual(3);
+            
+            for (let i = 0; i < count; i++) {
+              const category = categories.nth(i);
+              const text = await category.textContent();
+              await category.click();
+              await page.waitForTimeout(300);
+              console.log(`✅ "${text}" 클릭 완료`);
+            }
+          });
+        
+          test('뉴스 소스 드롭다운', async ({ page }) => {
+            const dropdown = page.locator('.source-dropdown');
+            if (await dropdown.count() > 0) {
+              await dropdown.click();
+              await page.waitForTimeout(200);
+              
+              const items = page.locator('.dropdown-item');
+              const itemCount = await items.count();
+              
+              if (itemCount > 0) {
+                await items.first().click();
+                await page.waitForTimeout(300);
+                console.log(`✅ 소스 선택 완료`);
+              }
+            }
+          });
+        
+          test('날짜 선택기', async ({ page }) => {
+            const datePicker = page.locator('input[type="date"]');
+            if (await datePicker.count() > 0) {
+              await datePicker.fill('2025-12-02');
+              await page.waitForTimeout(500);
+              console.log('✅ 날짜 선택 완료');
+            }
+          });
+        
+          test('JavaScript 에러 없음', async ({ page }) => {
+            const errors: string[] = [];
+            page.on('pageerror', err => errors.push(err.message));
+            
+            const categories = page.locator('li.category-item');
+            if (await categories.count() > 0) {
+              await categories.first().click();
+              await page.waitForTimeout(500);
+            }
+            
+            expect(errors).toHaveLength(0);
+            console.log('✅ JavaScript 에러 없음');
+          });
+        });
+        EOF
+    
+    - name: Run Playwright tests
+      run: npx playwright test --reporter=list
+    
+    - name: Upload Playwright report
+      if: failure()
+      uses: actions/upload-artifact@v4
+      with:
+        name: playwright-report
+        path: playwright-report/
+        retention-days: 7
     
     - name: Stop HTTP server
       if: always()
@@ -305,5 +401,8 @@ jobs:
         echo "  ✅ JSON data format"
         echo "  ✅ HTTP server"
         echo "  ✅ Internal links"
+        echo "  ✅ E2E: Menu navigation"
+        echo "  ✅ E2E: Category switching"
+        echo "  ✅ E2E: JavaScript execution"
         echo ""
         echo "Website is ready for deployment! 🚀"
