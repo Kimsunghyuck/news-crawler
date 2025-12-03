@@ -6,6 +6,7 @@
 // 현재 선택된 카테고리와 소스
 let currentCategory = 'politics';
 let currentSource = 'donga';
+let tickerSwiper = null;
 
 /**
  * 페이지 로드 시 초기화
@@ -19,6 +20,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // 기본 카테고리와 소스로 뉴스 로드
     const today = new Date().toISOString().split('T')[0];
     loadNews(currentCategory, currentSource, today);
+    
+    // 뉴스 티커 초기화
+    initNewsTicker(today);
 });
 
 /**
@@ -372,4 +376,128 @@ const gridObserver = new MutationObserver(function() {
 const newsGrid = document.getElementById('news-grid');
 if (newsGrid) {
     gridObserver.observe(newsGrid, { childList: true });
+}
+
+/**
+ * 뉴스 티커 초기화 및 로드
+ */
+async function initNewsTicker(date) {
+    const categories = ['politics', 'sports', 'economy'];
+    const sources = ['donga', 'chosun', 'joongang'];
+    const categoryLabels = {
+        politics: '정치',
+        sports: '스포츠',
+        economy: '경제'
+    };
+    
+    let allNews = [];
+    
+    // 모든 카테고리와 소스에서 뉴스 수집
+    for (const category of categories) {
+        for (const source of sources) {
+            try {
+                const response = await fetch(`data/${category}/${source}/news_${date}.json`);
+                if (response.ok) {
+                    const data = await response.json();
+                    // JSON이 배열 형태이므로 data를 직접 사용
+                    const newsWithCategory = data.map(item => ({
+                        ...item,
+                        category: category,
+                        categoryLabel: categoryLabels[category],
+                        source: source
+                    }));
+                    allNews = allNews.concat(newsWithCategory);
+                }
+            } catch (error) {
+                console.log(`티커 뉴스 로드 실패: ${category}/${source}`, error);
+            }
+        }
+    }
+    
+    console.log('티커 뉴스 로드 완료:', allNews.length, '개');
+    
+    // 뉴스를 랜덤하게 섞기
+    allNews = shuffleArray(allNews);
+    
+    // 티커에 뉴스 표시
+    displayTickerNews(allNews);
+}
+
+/**
+ * 배열 섞기 (Fisher-Yates shuffle)
+ */
+function shuffleArray(array) {
+    const newArray = [...array];
+    for (let i = newArray.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+    }
+    return newArray;
+}
+
+/**
+ * 티커에 뉴스 표시
+ */
+function displayTickerNews(newsItems) {
+    const tickerWrapper = document.getElementById('ticker-wrapper');
+    if (!tickerWrapper) {
+        console.error('티커 래퍼를 찾을 수 없습니다');
+        return;
+    }
+    
+    if (!newsItems || newsItems.length === 0) {
+        console.warn('표시할 뉴스가 없습니다');
+        return;
+    }
+    
+    tickerWrapper.innerHTML = '';
+    
+    console.log('티커에 표시할 뉴스:', newsItems.length, '개');
+    
+    newsItems.forEach((item, index) => {
+        const slide = document.createElement('div');
+        slide.className = 'swiper-slide';
+        
+        slide.innerHTML = `
+            <div class="ticker-item" data-url="${item.url}">
+                <span class="ticker-category ${item.category}">${item.categoryLabel}</span>
+                <span class="ticker-title">${item.title}</span>
+            </div>
+        `;
+        
+        tickerWrapper.appendChild(slide);
+    });
+    
+    console.log('슬라이드 생성 완료:', tickerWrapper.children.length, '개');
+    
+    // Swiper 초기화 또는 재초기화
+    if (tickerSwiper) {
+        tickerSwiper.destroy(true, true);
+    }
+    
+    tickerSwiper = new Swiper('.news-ticker-swiper', {
+        direction: 'vertical',
+        slidesPerView: 1,
+        spaceBetween: 0,
+        loop: newsItems.length >= 3,
+        loopedSlides: newsItems.length,
+        autoplay: {
+            delay: 4500,
+            disableOnInteraction: false,
+        },
+        speed: 1200,
+        allowTouchMove: true,
+    });
+    
+    console.log('Swiper 초기화 완료');
+    
+    // 티커 아이템 클릭 이벤트
+    document.querySelectorAll('.ticker-item').forEach(item => {
+        item.addEventListener('click', function() {
+            const url = this.getAttribute('data-url');
+            if (url) {
+                window.open(url, '_blank');
+            }
+        });
+    });
 }

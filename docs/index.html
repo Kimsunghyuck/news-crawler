@@ -61,6 +61,15 @@
         </div>
     </nav>
     
+    <!-- News Ticker Banner -->
+    <div class="news-ticker-banner">
+        <div class="swiper news-ticker-swiper">
+            <div class="swiper-wrapper" id="ticker-wrapper">
+                <!-- 뉴스 티커 아이템이 JavaScript로 동적 생성됩니다 -->
+            </div>
+        </div>
+    </div>
+    
     <!-- News Section -->
     <section class="news-section">
         <div class="container">
@@ -166,6 +175,7 @@
             // 날짜 변경 시 뉴스 다시 로드
             dateInput.addEventListener('change', function() {
                 loadNews(currentCategory, currentSource, this.value);
+                initNewsTicker(this.value); // 티커도 업데이트
             });
         });
     </script>
