@@ -509,8 +509,8 @@ img {
 /* ===== Responsive Design ===== */
 @media (max-width: 1200px) {
     .category-title {
-        padding: 1.5rem 2rem;
-        font-size: 1.1rem;
+        padding: 1.5rem 1.5rem;
+        font-size: 1rem;
     }
     
     .news-grid {
@@ -519,12 +519,38 @@ img {
 }
 
 @media (max-width: 992px) {
-    .banner-swiper {
-        height: 450px;
+    /* 네비게이션 세로 배치 시작 */
+    .nav-content {
+        flex-direction: column;
+        gap: 0;
+        padding: 0;
     }
     
-    .banner-title {
-        font-size: 1.5rem;
+    .nav-logo {
+        position: static;
+        width: 100%;
+        text-align: center;
+        padding: var(--spacing-sm);
+        border-bottom: 1px solid #e0e0e0;
+    }
+    
+    .nav-logo img {
+        margin: 0 auto;
+    }
+    
+    .categories {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    .category-title {
+        padding: 1.2rem 1.5rem;
+        font-size: 0.95rem;
+    }
+    
+    .shared-dropdown {
+        left: 50%;
+        transform: translateX(-50%) translateY(-20px);
     }
     
     .footer-content {
@@ -537,18 +563,7 @@ img {
 }
 
 @media (max-width: 768px) {
-    .nav-content {
-        flex-direction: column;
-        gap: 0;
-    }
-    
-    .nav-logo {
-        padding: var(--spacing-sm);
-        width: 100%;
-        text-align: center;
-        border-bottom: 1px solid #333;
-    }
-    
+    /* 모바일에서 카테고리도 세로 배치 */
     .categories {
         flex-direction: column;
         width: 100%;
@@ -556,28 +571,38 @@ img {
     
     .category-item {
         width: 100%;
+        border-bottom: 1px solid #e0e0e0;
+    }
+    
+    .category-item:last-child {
+        border-bottom: none;
     }
     
     .category-title {
-        padding: 1rem;
+        padding: 1.2rem;
         text-align: center;
+        width: 100%;
     }
     
-    .source-dropdown {
+    .shared-dropdown {
         position: static;
-        opacity: 1;
-        visibility: visible;
         transform: none;
-        box-shadow: none;
-        border-top: 1px solid #333;
+        margin-top: 0;
         border-radius: 0;
+        border-top: none;
+        border-left: 3px solid #00ff88;
+        background: #f8f9fa;
         display: none;
-        background: #1a1a1a;
     }
     
-    .category-item:hover .source-dropdown,
-    .category-item.active .source-dropdown {
+    .category-item:hover .shared-dropdown,
+    .category-item.active .shared-dropdown {
         display: block;
+    }
+    
+    .source-item {
+        text-align: left;
+        padding: 0.8rem 2rem;
     }
     
     .news-grid {
