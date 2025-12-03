@@ -216,13 +216,6 @@ img {
     gap: 1rem;
 }
 
-.news-source-title img {
-    width: 40px;
-    height: 40px;
-    object-fit: contain;
-    border-radius: 8px;
-}
-
 .news-source-title h2 {
     font-size: 1.5rem;
     font-weight: 700;
@@ -230,24 +223,37 @@ img {
     margin: 0;
     display: flex;
     align-items: center;
+    gap: 0.6rem;
+}
+
+.news-source-title img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    border-radius: 8px;
+    order: 0;
 }
 
 .category-label {
-    font-size: 1.5rem;
-    font-weight: 700;
-    margin-left: 0.25rem;
+    display: inline-block;
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    color: white;
+    letter-spacing: 0.3px;
 }
 
 .category-label.politics {
-    color: #3498db;
+    background-color: #3498db;
 }
 
 .category-label.sports {
-    color: #e74c3c;
+    background-color: #e74c3c;
 }
 
 .category-label.economy {
-    color: #27ae60;
+    background-color: #27ae60;
 }
 
 .date-selector-controls {
@@ -361,6 +367,20 @@ img {
     border-radius: 15px;
     font-size: 0.8rem;
     font-weight: 600;
+    color: white;
+}
+
+/* 카테고리별 배경색 */
+.news-card-category.politics {
+    background-color: #3498db;
+}
+
+.news-card-category.sports {
+    background-color: #e74c3c;
+}
+
+.news-card-category.economy {
+    background-color: #27ae60;
 }
 
 .news-card-date {

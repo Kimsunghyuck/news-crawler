@@ -131,9 +131,9 @@ function updateSourceTitle(source, category = null) {
         const targetCategory = category || currentCategory;
         const sourceNameElement = document.getElementById('source-name');
         
-        // innerHTML을 사용하여 언론사 이름과 카테고리 함께 업데이트
+        // HTML 구조: 카테고리 배지 > 로고 > 신문사 이름 순서
         if (sourceNameElement && sourceNames[source]) {
-            sourceNameElement.innerHTML = `${sourceNames[source]}<span id="category-label" class="category-label ${targetCategory}">(${categoryNames[targetCategory] || '정치'})</span>`;
+            sourceNameElement.innerHTML = `<span id="category-label" class="category-label ${targetCategory}">${categoryNames[targetCategory] || '정치'}</span><img id="source-logo" src="${sourceLogos[source]}" alt="${sourceNames[source]}">${sourceNames[source]}`;
         }
     }
 }
