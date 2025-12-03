@@ -7,49 +7,19 @@
 let currentCategory = 'politics';
 let currentSource = 'donga';
 
-// Swiper 인스턴스
-let bannerSwiper = null;
-
 /**
  * 페이지 로드 시 초기화
  */
 document.addEventListener('DOMContentLoaded', function() {
     initNavigation();
-    loadLatestNews(currentCategory); // 현재 카테고리 전달
+    
+    // 초기 카테고리 라벨 설정
+    updateSourceTitle(currentSource, currentCategory);
     
     // 기본 카테고리와 소스로 뉴스 로드
     const today = new Date().toISOString().split('T')[0];
     loadNews(currentCategory, currentSource, today);
 });
-
-/**
- * 배너 Swiper 초기화
- */
-function initBannerSwiper() {
-    // 기존 Swiper 인스턴스 제거
-    if (bannerSwiper) {
-        bannerSwiper.destroy(true, true);
-    }
-    
-    bannerSwiper = new Swiper('.banner-swiper', {
-        loop: true,
-        slidesPerView: 1,
-        spaceBetween: 0,
-        speed: 800,
-        autoplay: {
-            delay: 5000,
-            disableOnInteraction: false,
-        },
-        pagination: {
-            el: '.swiper-pagination',
-            clickable: true,
-        },
-        navigation: {
-            nextEl: '.swiper-button-next',
-            prevEl: '.swiper-button-prev',
-        },
-    });
-}
 
 /**
  * 네비게이션 이벤트 리스너 설정
@@ -73,8 +43,7 @@ function initNavigation() {
             const category = this.dataset.category;
             currentCategory = category;
             
-            // 배너도 해당 카테고리로 업데이트
-            loadLatestNews(category);
+            updateSourceTitle(currentSource, category);
             
             const selectedDate = document.getElementById('date-select').value;
             loadNews(category, currentSource, selectedDate);
@@ -118,10 +87,7 @@ function initNavigation() {
             currentCategory = targetCategory;
             currentSource = source;
             
-            // 배너도 업데이트
-            loadLatestNews(targetCategory);
-            
-            updateSourceTitle(source);
+            updateSourceTitle(source, targetCategory);
             
             const selectedDate = document.getElementById('date-select').value;
             loadNews(targetCategory, source, selectedDate);
@@ -132,7 +98,7 @@ function initNavigation() {
 /**
  * 신문사 제목과 로고 업데이트
  */
-function updateSourceTitle(source) {
+function updateSourceTitle(source, category = null) {
     const sourceNames = {
         'donga': '동아일보',
         'chosun': '조선일보',
@@ -140,88 +106,41 @@ function updateSourceTitle(source) {
     };
     
     const sourceLogos = {
-        'donga': 'static/images/donga1.png',
-        'chosun': 'static/images/chosun.png',
-        'joongang': 'static/images/joongang.png'
+        'donga': 'static/images/donga.png?v=2',
+        'chosun': 'static/images/chosun.png?v=2',
+        'joongang': 'static/images/joongang.png?v=2'
     };
     
-    const sourceNameElement = document.getElementById('source-name');
+    const categoryNames = {
+        'politics': '정치',
+        'sports': '스포츠',
+        'economy': '경제'
+    };
+    
     const sourceLogoElement = document.getElementById('source-logo');
+    const categoryLabelElement = document.getElementById('category-label');
     
-    if (sourceNameElement && sourceNames[source]) {
-        sourceNameElement.textContent = sourceNames[source];
-    }
-    
+    // 로고 업데이트
     if (sourceLogoElement && sourceLogos[source]) {
         sourceLogoElement.src = sourceLogos[source];
         sourceLogoElement.alt = sourceNames[source];
     }
-}
-
-/**
- * 최신 뉴스 로드 (배너용) - 현재 선택된 카테고리의 기사만 표시
- */
-async function loadLatestNews(category = currentCategory) {
-    try {
-        const today = new Date().toISOString().split('T')[0];
-        const sources = ['donga', 'chosun', 'joongang'];
+    
+    // 카테고리 라벨 업데이트
+    if (categoryLabelElement) {
+        const targetCategory = category || currentCategory;
+        const sourceNameElement = document.getElementById('source-name');
         
-        let allNews = [];
-        
-        // 현재 카테고리의 모든 소스에서 뉴스 수집
-        for (const source of sources) {
-            try {
-                const response = await fetch(`data/${category}/${source}/news_${today}.json`);
-                if (response.ok) {
-                    const data = await response.json();
-                    allNews = allNews.concat(data.slice(0, 2)); // 각 소스에서 2개씩
-                }
-            } catch (e) {
-                console.log(`No data for ${category}/${source}`);
-            }
+        // innerHTML을 사용하여 언론사 이름과 카테고리 함께 업데이트
+        if (sourceNameElement && sourceNames[source]) {
+            sourceNameElement.innerHTML = `${sourceNames[source]}<span id="category-label" class="category-label ${targetCategory}">(${categoryNames[targetCategory] || '정치'})</span>`;
         }
-        
-        // 최신 4개만 선택
-        const latestNews = allNews.slice(0, 4);
-        
-        if (latestNews.length > 0) {
-            renderBannerSlides(latestNews);
-        }
-    } catch (error) {
-        console.error('Error loading latest news:', error);
     }
 }
 
 /**
- * 배너 슬라이드 렌더링
+ * 최신 뉴스 관련 함수 제거 - 히어로 섹션으로 대체
  */
-function renderBannerSlides(newsItems) {
-    const wrapper = document.getElementById('banner-wrapper');
-    
-    if (!wrapper) return;
-    
-    wrapper.innerHTML = newsItems.map(item => {
-        const categoryClass = getCategoryClass(item.category || item.main_category);
-        return `
-        <div class="swiper-slide banner-slide">
-            <img src="${getNewsImage(item)}" 
-                 alt="${escapeHtml(item.title)}" 
-                 class="banner-image"
-                 onerror="this.src='static/images/no-image.png'">
-            <div class="banner-overlay">
-                <span class="banner-category ${categoryClass}">${escapeHtml(item.category || item.main_category)}</span>
-                <h2 class="banner-title">${escapeHtml(item.title)}</h2>
-                <p class="banner-source">${escapeHtml(item.source)} · ${formatDate(item.date)}</p>
-            </div>
-        </div>
-        `;
-    }).join('');
-    
-    // Swiper 재초기화
-    setTimeout(() => {
-        initBannerSwiper();
-    }, 100);
-}
 
 /**
  * 뉴스 데이터 로드 - JSON 파일에서 직접 로드
@@ -255,14 +174,42 @@ async function loadNews(category, source, date) {
             emptyEl.style.display = 'none';
         } else {
             gridEl.innerHTML = '';
-            emptyEl.style.display = 'block';
+            showEmptyState(date);
         }
     } catch (error) {
         console.error('Error loading news:', error);
         loadingEl.style.display = 'none';
         gridEl.innerHTML = '';
-        emptyEl.style.display = 'block';
+        showEmptyState(date);
     }
+}
+
+/**
+ * 빈 상태 메시지 표시 (오늘/과거 날짜 구분)
+ */
+function showEmptyState(selectedDate) {
+    const emptyEl = document.getElementById('empty-state');
+    const titleEl = document.getElementById('empty-state-title');
+    const descEl = document.getElementById('empty-state-description');
+    
+    // 오늘 날짜 확인
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    
+    const selected = new Date(selectedDate);
+    selected.setHours(0, 0, 0, 0);
+    
+    // 오늘 날짜인 경우 크롤링 전 메시지 표시
+    if (selected.getTime() === today.getTime()) {
+        titleEl.textContent = '오늘의 기사가 아직 업데이트되지 않았습니다';
+        descEl.textContent = '매일 오전 9시 20분에 업데이트됩니다';
+    } else {
+        // 과거 날짜인 경우 기본 메시지
+        titleEl.textContent = '해당 날짜의 기사가 존재하지 않습니다';
+        descEl.textContent = '다른 날짜를 선택해주세요';
+    }
+    
+    emptyEl.style.display = 'block';
 }
 
 /**
@@ -332,12 +279,12 @@ function getNewsImage(item) {
  */
 function getSourceLogo(source) {
     const sourceLogos = {
-        '동아일보': 'static/images/donga1.png',
-        'donga': 'static/images/donga1.png',
-        '조선일보': 'static/images/chosun.png',
-        'chosun': 'static/images/chosun.png',
-        '중앙일보': 'static/images/joongang.png',
-        'joongang': 'static/images/joongang.png',
+        '동아일보': 'static/images/donga.png?v=2',
+        'donga': 'static/images/donga.png?v=2',
+        '조선일보': 'static/images/chosun.png?v=2',
+        'chosun': 'static/images/chosun.png?v=2',
+        '중앙일보': 'static/images/joongang.png?v=2',
+        'joongang': 'static/images/joongang.png?v=2',
     };
     
     return sourceLogos[source] || 'static/images/no-image.png';

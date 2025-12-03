@@ -47,15 +47,12 @@
                 <div class="shared-dropdown">
                     <ul class="source-list">
                         <li class="source-item" data-source="donga">
-                            <img src="static/images/donga1.png" alt="동아일보" class="source-logo">
                             <span>동아일보</span>
                         </li>
                         <li class="source-item" data-source="chosun">
-                            <img src="static/images/chosun.png" alt="조선일보" class="source-logo">
                             <span>조선일보</span>
                         </li>
                         <li class="source-item" data-source="joongang">
-                            <img src="static/images/joongang.png" alt="중앙일보" class="source-logo">
                             <span>중앙일보</span>
                         </li>
                     </ul>
@@ -63,18 +60,6 @@
             </div>
         </div>
     </nav>
-
-    <!-- Banner Slider -->
-    <section class="banner-section">
-        <div class="banner-swiper swiper">
-            <div class="swiper-wrapper" id="banner-wrapper">
-                <!-- Banner slides will be dynamically inserted here -->
-            </div>
-            <div class="swiper-pagination"></div>
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
-        </div>
-    </section>
     
     <!-- News Section -->
     <section class="news-section">
@@ -82,8 +67,8 @@
             <!-- Date Selector with Source Title -->
             <div class="date-selector-wrapper">
                 <div class="news-source-title">
-                    <img id="source-logo" src="static/images/donga1.png" alt="신문사 로고">
-                    <h2 id="source-name">동아일보</h2>
+                    <img id="source-logo" src="static/images/donga.png?v=2" alt="신문사 로고">
+                    <h2 id="source-name">동아일보<span id="category-label" class="category-label">(정치)</span></h2>
                 </div>
                 <div class="date-selector-controls">
                     <label for="date-select">날짜 선택:</label>
@@ -116,8 +101,8 @@
                         <line x1="12" y1="18" x2="12" y2="12"></line>
                         <line x1="9" y1="15" x2="15" y2="15"></line>
                     </svg>
-                    <h3>해당 날짜에 대한 기사가 존재하지 않습니다</h3>
-                    <p>다른 날짜를 선택해주세요</p>
+                    <h3 id="empty-state-title">해당 날짜의 기사가 존재하지 않습니다</h3>
+                    <p id="empty-state-description">다른 날짜를 선택해주세요</p>
                 </div>
             </div>
         </div>
