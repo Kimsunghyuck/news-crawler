@@ -6,7 +6,7 @@
     "category": "정치",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/7b5a79da-754e-4eb3-b566-2aceeb3c7d25.jpg",
-    "scraped_at": "2025-12-03T15:00:23.571114+09:00",
+    "scraped_at": "2025-12-03T15:12:35.485185+09:00",
     "main_category": "정치"
   },
   {
@@ -16,7 +16,7 @@
     "category": "정치",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/56c57d20-d10c-448c-8c3b-b90f821778a6.jpg",
-    "scraped_at": "2025-12-03T15:00:23.570988+09:00",
+    "scraped_at": "2025-12-03T15:12:35.484632+09:00",
     "main_category": "정치"
   },
   {
@@ -26,7 +26,7 @@
     "category": "정치",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/6ebeeb33-b0e6-4bd2-a8b7-5b3bb158256f.jpg",
-    "scraped_at": "2025-12-03T15:00:23.571349+09:00",
+    "scraped_at": "2025-12-03T15:12:35.484906+09:00",
     "main_category": "정치"
   },
   {
@@ -50,13 +50,13 @@
     "main_category": "정치"
   },
   {
-    "title": "장동혁 '계엄 사과' 거부하자…\"고개 들기 어렵다\" 野 사과 릴레이",
+    "title": "장동혁 '계엄 사과' 거부하자…\"국민께 참회\" 국힘 개별 사과 릴레이",
     "url": "https://www.joongang.co.kr/article/25387112",
     "date": "2025-12-03",
     "category": "정치",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/03/18ea187c-fe9f-496a-8e43-1265afa3725c.jpg",
-    "scraped_at": "2025-12-03T15:00:23.571230+09:00",
+    "scraped_at": "2025-12-03T15:12:35.484338+09:00",
     "main_category": "정치"
   },
   {
@@ -67,6 +67,16 @@
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/03/4a75ebd2-e3d5-4f34-9db8-f514b17a361b.jpg",
     "scraped_at": "2025-12-03T15:00:23.572553+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "李 “내란은 현재도 진압 과정”…계엄 1년, 통합 메시지 없었다",
+    "url": "https://www.joongang.co.kr/article/25387114",
+    "date": "2025-12-03",
+    "category": "정치",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/b63f7865-f8df-4385-ac19-9e585c81554c.jpg",
+    "scraped_at": "2025-12-03T15:12:35.485500+09:00",
     "main_category": "정치"
   }
 ]

@@ -56,7 +56,7 @@
     "category": "정치",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/03/132892382.3.jpg",
-    "scraped_at": "2025-12-03T15:00:07.379603+09:00",
+    "scraped_at": "2025-12-03T15:12:18.970389+09:00",
     "main_category": "정치"
   },
   {
@@ -66,7 +66,7 @@
     "category": "정치",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/03/132891637.1.jpg",
-    "scraped_at": "2025-12-03T15:00:07.379678+09:00",
+    "scraped_at": "2025-12-03T15:12:18.970437+09:00",
     "main_category": "정치"
   },
   {
@@ -76,7 +76,7 @@
     "category": "정치",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/03/132891939.1.jpg",
-    "scraped_at": "2025-12-03T15:00:07.379733+09:00",
+    "scraped_at": "2025-12-03T15:12:18.970480+09:00",
     "main_category": "정치"
   },
   {
@@ -97,6 +97,26 @@
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/03/132891879.1.jpg",
     "scraped_at": "2025-12-03T15:00:07.379824+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "김재섭 “장동혁, 반성커녕 계몽령 선언…尹 용서 못 해”",
+    "url": "https://www.donga.com/news/Politics/article/all/20251203/132893212/1",
+    "date": "2025-12-03",
+    "category": "정치",
+    "source": "동아일보",
+    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/10/23/132621479.1.jpg",
+    "scraped_at": "2025-12-03T15:12:18.970266+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "정성호 “계엄 반성 없이 선동 어어가는 세력 철저히 청산할것”",
+    "url": "https://www.donga.com/news/Politics/article/all/20251203/132893016/2",
+    "date": "2025-12-03",
+    "category": "정치",
+    "source": "동아일보",
+    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/03/132893017.2.jpg",
+    "scraped_at": "2025-12-03T15:12:18.970339+09:00",
     "main_category": "정치"
   }
 ]

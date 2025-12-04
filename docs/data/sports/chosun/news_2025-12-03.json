@@ -25,7 +25,7 @@
     "date": "2025-12-03",
     "category": "스포츠",
     "source": "조선일보",
-    "scraped_at": "2025-12-03T15:00:48.405178+09:00",
+    "scraped_at": "2025-12-03T15:13:03.745941+09:00",
     "image_url": "https://www.chosun.com/resizer/v2/GAYWEOBSMFTDQMDCHA3TSMBUMQ.jpg?auth=04cf66261db2b012e39f0e65d8acca0e1d00ab090fd6cc74d0ac93887ea35796&width=700&height=367&focal=404,73",
     "main_category": "스포츠"
   },
@@ -45,8 +45,18 @@
     "date": "2025-12-03",
     "category": "스포츠",
     "source": "조선일보",
-    "scraped_at": "2025-12-03T15:00:48.405166+09:00",
+    "scraped_at": "2025-12-03T15:13:03.745929+09:00",
     "image_url": "https://www.chosun.com/resizer/v2/6OP6JHFFYJKWDLCHQH2SJCTHJM.jpg?auth=57812955d1d51487291a0fa48009366016550ed06066512ea7261bf3d86576f9&width=1200&height=630&smart=true",
+    "main_category": "스포츠"
+  },
+  {
+    "title": "류현진·김도영 합류WBC 1차 캠프국내 선수 29명 확정",
+    "url": "https://www.chosun.com/sports/baseball/2025/12/03/TMER5HLSGVA55GXLPO5MHWXTYY/",
+    "date": "2025-12-03",
+    "category": "스포츠",
+    "source": "조선일보",
+    "scraped_at": "2025-12-03T15:13:03.745850+09:00",
+    "image_url": "https://www.chosun.com/resizer/v2/BNXH6PMIUFA33ABNWUFAT3OSOM.jpg?auth=7eb32bed2faf20889c868b6de259b00a3db74d040bbb9376a6c3a92e06d73022&width=1200&height=630&smart=true",
     "main_category": "스포츠"
   },
   {
@@ -55,7 +65,7 @@
     "date": "2025-02-14",
     "category": "스포츠",
     "source": "조선일보",
-    "scraped_at": "2025-12-03T15:00:48.405123+09:00",
+    "scraped_at": "2025-12-03T15:13:03.745889+09:00",
     "image_url": "https://www.chosun.com/resizer/v2/6EPJ4KPUXZLRHJDTERB56V4MCE.jpg?auth=642644f19ebddfdcb9478149ea1b9f9ee7f21080777aa416eb3847d6d06fb4cd&width=1200&height=630&smart=true",
     "main_category": "스포츠"
   },
@@ -65,7 +75,7 @@
     "date": "2025-02-14",
     "category": "스포츠",
     "source": "조선일보",
-    "scraped_at": "2025-12-03T15:00:48.405141+09:00",
+    "scraped_at": "2025-12-03T15:13:03.745903+09:00",
     "image_url": "https://www.chosun.com/resizer/v2/3Z4RZYFUUBOUBLHQLYASWXRVBM.jpg?auth=eab0304cf1d3c79dd9a0a939c50600e8abb2cf842f31288a893e357235b48ac9&width=1200&height=630&focal=1142,1150",
     "main_category": "스포츠"
   }
