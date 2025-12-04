@@ -11,7 +11,7 @@
 }
 
 :root {
-    /* Colors */
+    /* Colors - Light Mode */
     --primary-color: #2c3e50;
     --secondary-color: #3498db;
     --accent-color: #e74c3c;
@@ -20,6 +20,12 @@
     --bg-light: #f8f9fa;
     --bg-white: #ffffff;
     --border-color: #e1e8ed;
+    --nav-bg: #ffffff;
+    --nav-text: #333333;
+    --card-bg: #ffffff;
+    --footer-bg: #ffffff;
+    --ticker-bg-start: #2c3e50;
+    --ticker-bg-end: #1a252f;
     
     /* Spacing */
     --spacing-xs: 0.5rem;
@@ -35,6 +41,22 @@
     --transition: all 0.3s ease;
 }
 
+/* Dark Mode */
+[data-theme="dark"] {
+    --primary-color: #e8eaed;
+    --text-primary: #e8eaed;
+    --text-secondary: #9aa0a6;
+    --bg-light: #1a1a1a;
+    --bg-white: #2d2d2d;
+    --border-color: #3c4043;
+    --nav-bg: #2d2d2d;
+    --nav-text: #e8eaed;
+    --card-bg: #2d2d2d;
+    --footer-bg: #2d2d2d;
+    --ticker-bg-start: #1a1a1a;
+    --ticker-bg-end: #0d0d0d;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -45,6 +67,7 @@ body {
     background-color: var(--bg-light);
     line-height: 1.6;
     overflow-x: hidden;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .container {
@@ -67,13 +90,14 @@ img {
 
 /* ===== Navigation Styles ===== */
 .main-navigation {
-    background: #ffffff;
-    border-bottom: 1px solid #e0e0e0;
+    background: var(--nav-bg);
+    border-bottom: 1px solid var(--border-color);
     padding: 0;
     position: sticky;
     top: 0;
     z-index: 1000;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+    transition: background-color 0.3s ease;
 }
 
 .nav-content {
@@ -81,19 +105,101 @@ img {
     align-items: center;
     justify-content: center;
     gap: var(--spacing-lg);
+    position: relative;
 }
 
-.nav-logo {
-    padding: var(--spacing-sm) 0;
-    flex-shrink: 0;
+/* Action Buttons Group */
+.nav-actions {
     position: absolute;
-    left: var(--spacing-lg);
+    right: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
 }
 
-.nav-logo img {
-    height: 50px;
-    width: auto;
+/* Theme Toggle Button */
+.theme-toggle {
+    background: var(--bg-light);
+    border: 2px solid var(--border-color);
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    padding: 0;
+}
+
+.theme-toggle:hover {
+    transform: rotate(15deg) scale(1.1);
+    border-color: #00ff88;
+}
+
+.theme-toggle .sun-icon {
+    display: none;
+    color: var(--text-primary);
+}
+
+.theme-toggle .moon-icon {
     display: block;
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .theme-toggle .sun-icon {
+    display: block;
+}
+
+[data-theme="dark"] .theme-toggle .moon-icon {
+    display: none;
+}
+
+/* Bookmark Page Button */
+.bookmark-page-btn {
+    background: var(--bg-light);
+    border: 2px solid var(--border-color);
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    padding: 0;
+    color: var(--text-primary);
+    position: relative;
+}
+
+.bookmark-page-btn svg {
+    stroke: var(--text-primary);
+    transition: all 0.3s ease;
+}
+
+.bookmark-page-btn:hover {
+    transform: scale(1.1);
+    border-color: #FFD700;
+    background: #FFD700;
+    color: #fff;
+}
+
+.bookmark-page-btn:hover svg {
+    stroke: #fff;
+}
+
+.bookmark-count {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background: #e74c3c;
+    color: white;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 0.15rem 0.4rem;
+    border-radius: 10px;
+    min-width: 18px;
+    text-align: center;
 }
 
 .categories {
@@ -116,7 +222,7 @@ img {
     padding: 1.8rem 2.5rem;
     cursor: pointer;
     transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    color: #333333;
+    color: var(--nav-text);
     position: relative;
     user-select: none;
     letter-spacing: 0.5px;
@@ -135,9 +241,9 @@ img {
     top: 100%;
     left: 50%;
     transform: translateX(-50%) translateY(-20px);
-    background: rgba(255, 255, 255, 0.98);
+    background: var(--nav-bg);
     backdrop-filter: blur(10px);
-    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
     opacity: 0;
     visibility: hidden;
     transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
@@ -166,8 +272,8 @@ img {
     padding: 1rem 2rem;
     cursor: pointer;
     transition: all 0.3s ease;
-    color: #333333;
-    border-bottom: 1px solid #f0f0f0;
+    color: var(--nav-text);
+    border-bottom: 1px solid var(--border-color);
     text-align: center;
 }
 
@@ -176,12 +282,12 @@ img {
 }
 
 .source-item:hover {
-    background: #f8f9fa;
+    background: var(--bg-light);
     color: #00ff88;
 }
 
 .source-item.active {
-    background: #e8f4f8;
+    background: var(--bg-light);
     color: #00ff88;
     font-weight: 700;
 }
@@ -193,11 +299,12 @@ img {
 
 /* ===== News Ticker Banner ===== */
 .news-ticker-banner {
-    background: linear-gradient(135deg, #2c3e50 0%, #1a252f 100%);
+    background: linear-gradient(135deg, var(--ticker-bg-start) 0%, var(--ticker-bg-end) 100%);
     padding: 0.8rem 0;
     box-shadow: 0 2px 8px rgba(44, 62, 80, 0.5);
     position: relative;
     overflow: hidden;
+    transition: background 0.3s ease;
 }
 
 .news-ticker-banner::before {
@@ -317,9 +424,10 @@ img {
     gap: var(--spacing-md);
     margin-bottom: var(--spacing-lg);
     padding: var(--spacing-md) var(--spacing-lg);
-    background: var(--bg-white);
+    background: var(--card-bg);
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transition: background-color 0.3s ease;
 }
 
 .news-source-title {
@@ -401,6 +509,37 @@ img {
     cursor: pointer;
     transition: var(--transition);
     background: var(--bg-light);
+    color: var(--text-primary);
+}
+
+/* 날짜 선택 아이콘 스타일 */
+.date-selector-wrapper input[type="date"]::-webkit-calendar-picker-indicator {
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+}
+
+.date-selector-wrapper input[type="date"]::-webkit-calendar-picker-indicator:hover {
+    opacity: 1;
+}
+
+/* 다크모드에서 날짜 선택 아이콘 밝게 */
+[data-theme="dark"] .date-selector-wrapper input[type="date"] {
+    color-scheme: dark;
+    background: var(--bg-white);
+}
+
+[data-theme="dark"] .date-selector-wrapper input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(1) brightness(2);
+    cursor: pointer;
+    opacity: 1;
+}
+
+/* Firefox용 날짜 선택 아이콘 */
+[data-theme="dark"] .date-selector-wrapper input[type="date"]::-moz-calendar-picker-indicator {
+    filter: invert(1) brightness(2);
+    cursor: pointer;
+    opacity: 1;
 }
 
 .date-selector-wrapper input[type="date"]:focus {
@@ -417,19 +556,149 @@ img {
 }
 
 .news-card {
-    background: var(--bg-white);
+    background: var(--card-bg);
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
     transition: var(--transition);
-    cursor: pointer;
     display: flex;
     flex-direction: column;
+    position: relative;
 }
 
 .news-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* Bookmark Button in Card */
+.bookmark-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(255, 255, 255, 0.95);
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.bookmark-btn:hover {
+    transform: scale(1.15) rotate(10deg);
+    background: #FFD700;
+}
+
+.bookmark-btn .bookmark-icon {
+    fill: none;
+    stroke: #666;
+    transition: all 0.3s ease;
+}
+
+.bookmark-btn:hover .bookmark-icon {
+    stroke: #FFD700;
+}
+
+.bookmark-btn.bookmarked {
+    background: #FFD700;
+    animation: bookmarkPulse 0.4s ease;
+}
+
+@keyframes bookmarkPulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+}
+
+.bookmark-btn.bookmarked .bookmark-icon {
+    fill: #FFD700;
+    stroke: #FFF;
+}
+
+[data-theme="dark"] .bookmark-btn {
+    background: rgba(45, 45, 45, 0.95);
+}
+
+[data-theme="dark"] .bookmark-btn .bookmark-icon {
+    stroke: #9aa0a6;
+}
+
+[data-theme="dark"] .bookmark-btn:hover .bookmark-icon {
+    stroke: #FFD700;
+}
+
+[data-theme="dark"] .bookmark-btn.bookmarked {
+    background: #FFD700;
+}
+
+[data-theme="dark"] .bookmark-btn.bookmarked .bookmark-icon {
+    fill: #FFD700;
+    stroke: #FFF;
+}
+
+/* Share Button in Card */
+.share-btn {
+    position: absolute;
+    top: 10px;
+    right: 55px; /* 북마크 버튼 옆 */
+    background: rgba(255, 255, 255, 0.95);
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.share-btn:hover {
+    transform: scale(1.15);
+    background: #00D9FF;
+}
+
+.share-btn .share-icon {
+    stroke: #666;
+    transition: all 0.3s ease;
+}
+
+.share-btn:hover .share-icon {
+    stroke: #FFF;
+}
+
+.share-btn:active {
+    animation: sharePulse 0.4s ease;
+}
+
+@keyframes sharePulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+}
+
+[data-theme="dark"] .share-btn {
+    background: rgba(45, 45, 45, 0.95);
+}
+
+[data-theme="dark"] .share-btn .share-icon {
+    stroke: #9aa0a6;
+}
+
+[data-theme="dark"] .share-btn:hover {
+    background: #00D9FF;
+}
+
+[data-theme="dark"] .share-btn:hover .share-icon {
+    stroke: #FFF;
 }
 
 .news-card-image-wrapper {
@@ -534,10 +803,151 @@ img {
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    color: var(--text-primary);
 }
 
 .news-card-source {
     display: none;
+}
+
+/* ===== Bookmark Modal ===== */
+.bookmark-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 2000;
+    animation: fadeIn 0.3s ease;
+}
+
+.bookmark-modal.active {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.bookmark-modal-content {
+    background: var(--card-bg);
+    border-radius: 20px;
+    width: 90%;
+    max-width: 1200px;
+    max-height: 85vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    animation: slideUp 0.4s ease;
+    box-shadow: 0 10px 50px rgba(0, 0, 0, 0.3);
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.bookmark-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--spacing-md);
+    border-bottom: 2px solid var(--border-color);
+}
+
+.bookmark-modal-header h2 {
+    font-size: 1.8rem;
+    color: var(--text-primary);
+    margin: 0;
+}
+
+.close-modal-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    color: var(--text-primary);
+}
+
+.close-modal-btn:hover {
+    transform: rotate(90deg);
+    color: #e74c3c;
+}
+
+.bookmark-modal-body {
+    padding: var(--spacing-md);
+    overflow-y: auto;
+    flex: 1;
+}
+
+.bookmark-empty-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--spacing-xl);
+    text-align: center;
+    color: var(--text-secondary);
+}
+
+.bookmark-empty-state svg {
+    margin-bottom: var(--spacing-md);
+    opacity: 0.5;
+}
+
+.bookmark-empty-state h3 {
+    font-size: 1.5rem;
+    margin-bottom: var(--spacing-sm);
+    color: var(--text-primary);
+}
+
+.bookmark-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--spacing-md);
+}
+
+/* Toast Message */
+.toast-message {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%) translateY(100px);
+    background: rgba(0, 0, 0, 0.85);
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    font-size: 1rem;
+    font-weight: 600;
+    z-index: 3000;
+    opacity: 0;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.toast-message.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
+
+[data-theme="dark"] .toast-message {
+    background: rgba(255, 255, 255, 0.9);
+    color: #333;
 }
 
 /* ===== Loading & States ===== */
@@ -610,12 +1020,13 @@ img {
 
 /* ===== Footer Styles ===== */
 .site-footer {
-    background: #ffffff;
-    color: #333333;
+    background: var(--footer-bg);
+    color: var(--text-primary);
     padding: var(--spacing-lg) 0 var(--spacing-md);
     margin-top: var(--spacing-xl);
-    border-top: 1px solid #e0e0e0;
+    border-top: 1px solid var(--border-color);
     box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05);
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .footer-content {
@@ -630,7 +1041,7 @@ img {
 }
 
 .copyright {
-    color: rgba(0, 0, 0, 0.6);
+    color: var(--text-secondary);
     font-size: 0.9rem;
 }
 
@@ -654,7 +1065,7 @@ img {
 }
 
 .link-group a {
-    color: rgba(0, 0, 0, 0.7);
+    color: var(--text-secondary);
     transition: var(--transition);
 }
 
@@ -728,7 +1139,7 @@ img {
     
     .category-item {
         width: 100%;
-        border-bottom: 1px solid #e0e0e0;
+        border-bottom: 1px solid var(--border-color);
     }
     
     .category-item:last-child {
@@ -748,7 +1159,7 @@ img {
         border-radius: 0;
         border-top: none;
         border-left: 3px solid #00ff88;
-        background: #f8f9fa;
+        background: var(--bg-light);
         display: none;
     }
     
@@ -783,6 +1194,23 @@ img {
     .footer-links {
         grid-template-columns: 1fr;
     }
+    
+    /* 액션 버튼 그룹 모바일 위치 조정 */
+    .nav-actions {
+        position: static;
+        margin: 1rem auto;
+        justify-content: center;
+    }
+    
+    /* 북마크 모달 모바일 */
+    .bookmark-modal-content {
+        width: 95%;
+        max-height: 90vh;
+    }
+    
+    .bookmark-grid {
+        grid-template-columns: 1fr;
+    }
 }
 
 @media (max-width: 480px) {
@@ -797,5 +1225,20 @@ img {
     
     .news-card-title {
         font-size: 1rem;
+    }
+    
+    .bookmark-modal-header h2 {
+        font-size: 1.3rem;
+    }
+    
+    .bookmark-btn {
+        width: 35px;
+        height: 35px;
+    }
+    
+    .share-btn {
+        width: 35px;
+        height: 35px;
+        right: 45px;
     }
 }

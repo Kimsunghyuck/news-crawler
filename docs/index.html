@@ -14,22 +14,12 @@
     
     <!-- Custom CSS -->
     <link rel="stylesheet" href="static/css/style.css">
-    
-    <!-- Swiper JS -->
-    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 </head>
 <body>
     <!-- Navigation -->
     <nav class="main-navigation">
         <div class="container">
             <div class="nav-content">
-                <!-- Logo -->
-                <div class="nav-logo">
-                    <a href="index.html">
-                        <img src="static/images/mainIcon.png" alt="Hyeok Crawler 로고">
-                    </a>
-                </div>
-                
                 <!-- Categories -->
                 <ul class="categories">
                     <li class="category-item" data-category="politics">
@@ -51,6 +41,35 @@
                         <span class="category-title">문화</span>
                     </li>
                 </ul>
+                
+                <!-- Action Buttons -->
+                <div class="nav-actions">
+                    <!-- Dark Mode Toggle -->
+                    <button id="theme-toggle" class="theme-toggle" aria-label="다크모드 전환">
+                        <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="5"></circle>
+                            <line x1="12" y1="1" x2="12" y2="3"></line>
+                            <line x1="12" y1="21" x2="12" y2="23"></line>
+                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                            <line x1="1" y1="12" x2="3" y2="12"></line>
+                            <line x1="21" y1="12" x2="23" y2="12"></line>
+                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                        </svg>
+                        <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                        </svg>
+                    </button>
+                    
+                    <!-- Bookmark Button -->
+                    <button id="bookmark-page-btn" class="bookmark-page-btn" aria-label="내 북마크">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+                        </svg>
+                        <span class="bookmark-count" id="bookmark-count">0</span>
+                    </button>
+                </div>
                 
                 <!-- Shared Dropdown -->
                 <div class="shared-dropdown">
@@ -75,6 +94,33 @@
         <div class="swiper news-ticker-swiper">
             <div class="swiper-wrapper" id="ticker-wrapper">
                 <!-- 뉴스 티커 아이템이 JavaScript로 동적 생성됩니다 -->
+            </div>
+        </div>
+    </div>
+    
+    <!-- Bookmark Modal -->
+    <div id="bookmark-modal" class="bookmark-modal">
+        <div class="bookmark-modal-content">
+            <div class="bookmark-modal-header">
+                <h2>📚 내 북마크</h2>
+                <button id="close-bookmark-modal" class="close-modal-btn" aria-label="닫기">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="bookmark-modal-body">
+                <div id="bookmark-empty-state" class="bookmark-empty-state">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+                    </svg>
+                    <h3>저장된 북마크가 없습니다</h3>
+                    <p>관심있는 기사의 별 아이콘을 클릭해보세요</p>
+                </div>
+                <div id="bookmark-grid" class="bookmark-grid">
+                    <!-- Bookmarked items will be rendered here -->
+                </div>
             </div>
         </div>
     </div>
@@ -130,9 +176,6 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-info">
-                    <div class="footer-logo">
-                        <img src="static/images/mainIcon.png" alt="Hyeok 로고">
-                    </div>
                     <p class="copyright">© 2025 Hyeok Crawler. All Rights Reserved.</p>
                 </div>
                 
@@ -171,7 +214,9 @@
         </div>
     </footer>
 
-    <!-- Custom JavaScript -->
+    <!-- Scripts -->
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="static/js/main.js"></script>
     <script>
         // 현재 날짜를 기본값으로 설정
