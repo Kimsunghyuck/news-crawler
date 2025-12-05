@@ -171,24 +171,41 @@ jobs:
                 with open(json_file, 'r', encoding='utf-8') as f:
                     data = json.load(f)
                 
-                if not isinstance(data, list):
-                    errors.append(f"❌ {json_file}: Not a list")
-                    continue
-                
-                if len(data) == 0:
-                    print(f"⚠️ {json_file}: Empty file")
-                    continue
-                
-                # 첫 번째 항목 검증
-                item = data[0]
-                required_fields = ['title', 'url', 'date', 'category', 'source', 'image_url']
-                
-                missing = [f for f in required_fields if f not in item]
-                if missing:
-                    errors.append(f"❌ {json_file}: Missing fields {missing}")
+                # 트렌드 파일은 객체 형태, 뉴스 파일은 리스트 형태
+                if 'trends' in str(json_file):
+                    # 트렌드 파일 검증
+                    if not isinstance(data, dict):
+                        errors.append(f"❌ {json_file}: Not a dictionary")
+                        continue
+                    
+                    required_fields = ['date', 'generated_at', 'daily_top_keywords', 'category_keywords']
+                    missing = [f for f in required_fields if f not in data]
+                    if missing:
+                        errors.append(f"❌ {json_file}: Missing fields {missing}")
+                    else:
+                        valid_files += 1
+                        keyword_count = len(data.get('daily_top_keywords', []))
+                        print(f"✅ {json_file.relative_to(data_dir)}: Valid ({keyword_count} keywords)")
                 else:
-                    valid_files += 1
-                    print(f"✅ {json_file.relative_to(data_dir)}: Valid ({len(data)} items)")
+                    # 뉴스 파일 검증
+                    if not isinstance(data, list):
+                        errors.append(f"❌ {json_file}: Not a list")
+                        continue
+                    
+                    if len(data) == 0:
+                        print(f"⚠️ {json_file}: Empty file")
+                        continue
+                    
+                    # 첫 번째 항목 검증
+                    item = data[0]
+                    required_fields = ['title', 'url', 'date', 'category', 'source', 'image_url']
+                    
+                    missing = [f for f in required_fields if f not in item]
+                    if missing:
+                        errors.append(f"❌ {json_file}: Missing fields {missing}")
+                    else:
+                        valid_files += 1
+                        print(f"✅ {json_file.relative_to(data_dir)}: Valid ({len(data)} items)")
             
             except json.JSONDecodeError as e:
                 errors.append(f"❌ {json_file}: Invalid JSON - {e}")
