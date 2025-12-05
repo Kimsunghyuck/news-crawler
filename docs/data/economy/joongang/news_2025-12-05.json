@@ -5,7 +5,7 @@
     "date": "2025-12-05",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-05T15:06:31.310677+09:00",
+    "scraped_at": "2025-12-05T19:07:48.747411+09:00",
     "main_category": "경제",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/99d35ced-0d31-4eab-8c6d-1725d5566740.jpg"
   },
@@ -15,7 +15,7 @@
     "date": "2025-12-05",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-05T15:06:31.310525+09:00",
+    "scraped_at": "2025-12-05T19:07:48.747110+09:00",
     "main_category": "경제",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/5d6e3a0e-1105-47d3-9256-b96f6367f811.jpg"
   },
@@ -25,9 +25,9 @@
     "date": "2025-12-05",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-05T15:06:31.310837+09:00",
+    "scraped_at": "2025-12-05T19:07:48.747807+09:00",
     "main_category": "경제",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/5b0b5c5e-f2e8-4937-9583-1d24a48879aa.jpg"
+    "image_url": ""
   },
   {
     "title": "“아들, 22억 아파트 싸게 넘길게” 2주택자 아빠의 3억 절세 비법",
@@ -35,9 +35,9 @@
     "date": "2025-12-05",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-05T15:06:31.311039+09:00",
+    "scraped_at": "2025-12-05T19:07:48.747251+09:00",
     "main_category": "경제",
-    "image_url": ""
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/04/ed75fa55-b5ae-44f7-9d1f-99f5b26a53bd.jpg"
   },
   {
     "title": "엔비디아 천하 흔드는 빅테크들…\"누가 이기든 K반도체 수혜\"",
@@ -58,5 +58,15 @@
     "scraped_at": "2025-12-05T15:06:31.311257+09:00",
     "main_category": "경제",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/04/26c1b1ba-7743-4b90-a3c1-cf0dddacb2f3.jpg"
+  },
+  {
+    "title": "엔비디아·AMD \"15% 떼도 팔래\", 美 상원 '中수출금지법' 발의...'칩 내전' 재점화",
+    "url": "https://www.joongang.co.kr/article/25387720",
+    "date": "2025-12-05",
+    "category": "경제",
+    "source": "중앙일보",
+    "scraped_at": "2025-12-05T19:07:48.747595+09:00",
+    "main_category": "경제",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/c4dc042e-63c6-48c0-b7ed-768cb71ba45a.jpg"
   }
 ]

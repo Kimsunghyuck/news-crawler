@@ -1,14 +1,66 @@
 {
   "date": "2025-12-05",
-  "generated_at": "2025-12-05T15:10:26.208221+09:00",
+  "generated_at": "2025-12-05T19:11:30.441230+09:00",
   "daily_top_keywords": [
     {
+      "word": "서울",
+      "count": 9
+    },
+    {
       "word": "한국",
+      "count": 7
+    },
+    {
+      "word": "의혹",
+      "count": 6
+    },
+    {
+      "word": "논란",
       "count": 5
     },
     {
-      "word": "서울",
+      "word": "억원",
       "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "수도권",
+      "count": 5
+    },
+    {
+      "word": "경찰",
+      "count": 5
+    },
+    {
+      "word": "남자",
+      "count": 5
+    },
+    {
+      "word": "계약",
+      "count": 5
+    },
+    {
+      "word": "최초",
+      "count": 5
+    },
+    {
+      "word": "개최",
+      "count": 4
+    },
+    {
+      "word": "개월",
+      "count": 4
+    },
+    {
+      "word": "국민",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
     },
     {
       "word": "친윤",
@@ -27,64 +79,20 @@
       "count": 4
     },
     {
-      "word": "수도권",
-      "count": 4
-    },
-    {
-      "word": "경찰",
-      "count": 4
-    },
-    {
-      "word": "영화",
-      "count": 3
-    },
-    {
-      "word": "데뷔",
-      "count": 3
-    },
-    {
-      "word": "논란",
-      "count": 3
-    },
-    {
-      "word": "억원",
-      "count": 3
-    },
-    {
-      "word": "개월",
-      "count": 3
-    },
-    {
-      "word": "조폭",
-      "count": 3
-    },
-    {
-      "word": "누나",
-      "count": 3
-    },
-    {
-      "word": "의혹",
-      "count": 3
-    },
-    {
-      "word": "정부",
-      "count": 3
-    },
-    {
-      "word": "취임",
-      "count": 3
-    },
-    {
-      "word": "반도체",
-      "count": 3
-    },
-    {
       "word": "논의",
-      "count": 3
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
+      {
+        "word": "대통령",
+        "count": 5
+      },
+      {
+        "word": "정부",
+        "count": 4
+      },
       {
         "word": "친윤",
         "count": 4
@@ -96,49 +104,41 @@
       {
         "word": "장동혁",
         "count": 4
-      },
-      {
-        "word": "누나",
-        "count": 3
-      },
-      {
-        "word": "정부",
-        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "최초",
-        "count": 3
-      },
-      {
         "word": "남자",
+        "count": 5
+      },
+      {
+        "word": "계약",
+        "count": 5
+      },
+      {
+        "word": "한국",
+        "count": 4
+      },
+      {
+        "word": "최초",
+        "count": 4
+      },
+      {
+        "word": "우승",
         "count": 3
-      },
-      {
-        "word": "감독",
-        "count": 3
-      },
-      {
-        "word": "하나은행",
-        "count": 2
-      },
-      {
-        "word": "돌풍",
-        "count": 2
       }
     ],
     "economy": [
+      {
+        "word": "스타링크",
+        "count": 3
+      },
       {
         "word": "청년",
         "count": 2
       },
       {
         "word": "그룹",
-        "count": 2
-      },
-      {
-        "word": "스타링크",
         "count": 2
       },
       {
@@ -153,7 +153,7 @@
     "society": [
       {
         "word": "경찰",
-        "count": 4
+        "count": 5
       },
       {
         "word": "서울",
@@ -161,25 +161,25 @@
       },
       {
         "word": "수능",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "만점",
-        "count": 2
+        "word": "조희대",
+        "count": 3
       },
       {
-        "word": "논의",
-        "count": 2
+        "word": "만에",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 2
+        "count": 3
       },
       {
         "word": "논란",
-        "count": 2
+        "count": 3
       },
       {
         "word": "억만장자",
@@ -200,19 +200,19 @@
         "count": 3
       },
       {
+        "word": "정국",
+        "count": 2
+      },
+      {
+        "word": "에스파",
+        "count": 2
+      },
+      {
+        "word": "윈터",
+        "count": 2
+      },
+      {
         "word": "마동석",
-        "count": 2
-      },
-      {
-        "word": "액션",
-        "count": 2
-      },
-      {
-        "word": "영화",
-        "count": 2
-      },
-      {
-        "word": "박진영",
         "count": 2
       }
     ]

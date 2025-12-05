@@ -6,7 +6,7 @@
     "category": "국제",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/50ff8c86-f84a-41cd-ab34-faaf0a91c091.jpg",
-    "scraped_at": "2025-12-05T15:08:39.168672+09:00",
+    "scraped_at": "2025-12-05T19:09:49.855912+09:00",
     "main_category": "국제"
   },
   {
@@ -45,8 +45,8 @@
     "date": "2025-12-05",
     "category": "국제",
     "source": "중앙일보",
-    "image_url": "",
-    "scraped_at": "2025-12-05T15:08:39.169553+09:00",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/22e301ad-6356-4102-b33d-3e031690b3c4.jpg",
+    "scraped_at": "2025-12-05T19:09:49.855708+09:00",
     "main_category": "국제"
   },
   {
@@ -56,7 +56,7 @@
     "category": "국제",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/e0bcd025-d375-47b7-98d9-a87206226819.jpg",
-    "scraped_at": "2025-12-05T15:08:39.168856+09:00",
+    "scraped_at": "2025-12-05T19:09:49.855516+09:00",
     "main_category": "국제"
   },
   {
@@ -65,8 +65,18 @@
     "date": "2025-12-05",
     "category": "국제",
     "source": "중앙일보",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/f617d43b-7475-4f22-8024-7a5a9f876ce5.jpg",
-    "scraped_at": "2025-12-05T15:08:39.169072+09:00",
+    "image_url": "",
+    "scraped_at": "2025-12-05T19:09:49.856429+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "“우크라 어린이 강제북송…러시아군이 납치한 2명 보냈다”",
+    "url": "https://www.joongang.co.kr/article/25387615",
+    "date": "2025-12-05",
+    "category": "국제",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/2aa9e554-6f1e-4fa6-ab30-8336166d229a.jpg",
+    "scraped_at": "2025-12-05T19:09:49.856168+09:00",
     "main_category": "국제"
   }
 ]

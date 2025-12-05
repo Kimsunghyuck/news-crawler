@@ -46,17 +46,17 @@
     "category": "국제",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/T7ZMWVYJYVBHNMUCJQ5WMH3XGQ.jpg?auth=8cda6904731fb9343b9c53d98ef850730ef618a83a7cdc913376eba740c4d5c7&width=1090&height=572&smart=true",
-    "scraped_at": "2025-12-05T15:08:29.611948+09:00",
+    "scraped_at": "2025-12-05T19:09:41.040123+09:00",
     "main_category": "국제"
   },
   {
-    "title": "\"日 여행 때 편해\"… 여권에 커버 씌우는 중국인들",
+    "title": "\"대만인인 척 日 가면 편해\" 여권 커버 씌우는 중국인들",
     "url": "https://www.chosun.com/international/international_general/2025/12/05/ZBEIJ52QFNG7XFCNAQDO2KT3EI/",
     "date": "2025-12-05",
     "category": "국제",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/QSBBEUVB2NAWDND246KRMTA3LY.jpg?auth=522fbd2dd0a72239812f334ff7cf9704ac5d1cb758bfb6e95c287c6a8ce3ed59&width=774&height=406&focal=388,285",
-    "scraped_at": "2025-12-05T15:08:29.611747+09:00",
+    "scraped_at": "2025-12-05T19:09:41.039904+09:00",
     "main_category": "국제"
   },
   {
@@ -66,7 +66,7 @@
     "category": "국제",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/HYSIS6MVBVHDPCHNQDB6OOOBHM.jpg?auth=9a502a12bb5264e280c6e4ee5e74f57cbf37ba007c48e85a6eb1d512cb624262&width=768&height=403&smart=true",
-    "scraped_at": "2025-12-05T15:08:29.611861+09:00",
+    "scraped_at": "2025-12-05T19:09:41.040017+09:00",
     "main_category": "국제"
   },
   {
@@ -77,6 +77,26 @@
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/MYZTMNDDMQZDMNRWMM4WCNTFME.jpg?auth=ce853914220440dde72161d0c66821012ec3a56db5ad7a0ad1ef7275d4dd6081&width=1200&height=630&smart=true",
     "scraped_at": "2025-12-05T15:08:29.611905+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "트럼프 2기 새 국가안보전략북한은 한 번도 언급 안 했다",
+    "url": "https://www.chosun.com/international/us/2025/12/05/7TMKTBJ3HVGTHBKMZAJMLS4NBI/",
+    "date": "2025-12-05",
+    "category": "국제",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/KCYOR6ENDZDQZIVQDGEV2FPR2U.png?auth=c304c97873298cbfe0b9589ef742afbd388e269fb0e5776332198b98e130f3f3&width=616&height=323&focal=330,149",
+    "scraped_at": "2025-12-05T19:09:41.039966+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "美 보란 듯 밀착하는 푸틴·모디잠수함·전투기 군사 협력 논의",
+    "url": "https://www.chosun.com/international/international_general/2025/12/05/PA3F2BZV5BFNTKFM3M5FV7LBI4/",
+    "date": "2025-12-05",
+    "category": "국제",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/OYRJQBTATVKDBL46JKRXI4IDWQ.jpg?auth=5a39a736cb11bd58328b8a7f860c83cf257a45b71ddf99d97baba3f28e355d91&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-05T19:09:41.040077+09:00",
     "main_category": "국제"
   }
 ]

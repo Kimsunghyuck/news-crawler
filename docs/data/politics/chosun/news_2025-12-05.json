@@ -50,13 +50,13 @@
     "main_category": "정치"
   },
   {
-    "title": "박지원, '현지 누나' 논란에 \"형·누나는 민주당 언어\"",
+    "title": "박지원, '현지 누나' 논란에\"형·누나는 민주당 언어\"",
     "url": "https://www.chosun.com/politics/politics_general/2025/12/05/CFIJOFFZ2ZGH3F7MMV73FIWGBM/",
     "date": "2025-12-05",
     "category": "정치",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/MZSTKMBUGM4TCNRWGUYGCMTFGE.jpg?auth=cd34136566023922f28e0b5f282d5a4e3f8674554bd8cc2086343dc6d6d5e66d&width=1200&height=630&smart=true",
-    "scraped_at": "2025-12-05T15:04:32.499307+09:00",
+    "scraped_at": "2025-12-05T19:06:07.060399+09:00",
     "main_category": "정치"
   },
   {
@@ -66,7 +66,7 @@
     "category": "정치",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/TPHARSRX6RKGRGKRRNL4HHUTBI.jpg?auth=cbc454fb182c23e1ab76fb0c43506ffcea2238c64437a8e9a799d9f832c54407&width=1200&height=630&focal=1688,892",
-    "scraped_at": "2025-12-05T15:04:32.499373+09:00",
+    "scraped_at": "2025-12-05T19:06:07.060353+09:00",
     "main_category": "정치"
   },
   {
@@ -97,6 +97,36 @@
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/GI2TKNLDMI4DSYZWMVSDSYRRGE.jpg?auth=0997188bfbee3dcef82503f89c97065d21d574e4ce281682b81db04f8c154143&width=1200&height=630&smart=true",
     "scraped_at": "2025-12-05T15:04:32.499517+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "李대통령 \"서울·수도권 집값 욕 먹는데, 대책이 없다\"",
+    "url": "https://www.chosun.com/politics/blue_house/2025/12/05/66PF4GVHXFBHFBWZS3QJZXXOSA/",
+    "date": "2025-12-05",
+    "category": "정치",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/ZV5ZHHCKCVOKHLUEZ62QQFM2GU.jpg?auth=24847f4725676c8ad15c97f266eff98f401b173f75624da142162706bcf5ae7f&width=1200&height=630&focal=267,163",
+    "scraped_at": "2025-12-05T19:06:07.060229+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "민주당 '1인 1표제' 결국 부결정청래 \"당원께 사과드린다\"",
+    "url": "https://www.chosun.com/politics/assembly/2025/12/05/W7H3ZT3W45GTHCRTQIJAA4INUQ/",
+    "date": "2025-12-05",
+    "category": "정치",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/GQ2TCZLGGAZTCOBXMNTDEOJRHA.jpg?auth=41f883c0cc7b6dfcd110cb5da15861eba661cd512fc885c56b3338ed3039e03b&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-05T19:06:07.060297+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "강형석 농식품부 차관 면직대통령실 \"부당한 권한 행사\"",
+    "url": "https://www.chosun.com/politics/blue_house/2025/12/05/OOD6JOZOXZGRDPTELVONFY4POA/",
+    "date": "2025-12-05",
+    "category": "정치",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/X6V2MTNCWJE7FHAHJO5L7F4D24.jpg?auth=7863749461a9af895124e51ee568e6879f2213c676beaf71ea13619fbf4e7f40&width=576&height=302&focal=287,137",
+    "scraped_at": "2025-12-05T19:06:07.060442+09:00",
     "main_category": "정치"
   }
 ]
