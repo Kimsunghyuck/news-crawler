@@ -488,6 +488,95 @@ img {
     visibility: visible;
 }
 
+/* Trend Panel Tabs */
+.trend-tabs {
+    display: flex;
+    background: var(--bg-secondary);
+    padding: 0.5rem 1rem;
+    gap: 0.5rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.trend-tab {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    background: transparent;
+    border: none;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.trend-tab:hover {
+    background: var(--card-hover-bg);
+    color: var(--text-primary);
+}
+
+.trend-tab.active {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+}
+
+/* Statistics Dashboard Styles */
+.stats-overview {
+    margin-bottom: 2rem;
+}
+
+.stats-summary-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.stat-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    color: white;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+}
+
+.stat-icon {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.stat-value {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+}
+
+.stat-label {
+    font-size: 0.85rem;
+    opacity: 0.9;
+}
+
+.chart-container {
+    position: relative;
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-top: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    height: 300px;
+}
+
+.chart-container canvas {
+    max-height: 100%;
+}
+
 /* 트렌드 패널 */
 .trend-panel {
     position: fixed;

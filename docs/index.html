@@ -101,7 +101,7 @@
     <!-- Trend Panel -->
     <div id="trend-panel" class="trend-panel">
         <div class="trend-panel-header">
-            <h2>🔥 오늘의 트렌드</h2>
+            <h2 id="trend-panel-title">🔥 오늘의 트렌드</h2>
             <button id="trend-close-btn" class="trend-close-btn">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <line x1="18" y1="6" x2="6" y2="18"></line>
@@ -109,7 +109,15 @@
                 </svg>
             </button>
         </div>
-        <div class="trend-panel-content">
+        
+        <!-- Tab Navigation -->
+        <div class="trend-tabs">
+            <button class="trend-tab active" data-tab="trends">🔥 트렌드</button>
+            <button class="trend-tab" data-tab="statistics">📊 통계</button>
+        </div>
+        
+        <!-- Trend Content -->
+        <div class="trend-panel-content" id="trends-content">
             <div class="trend-section">
                 <h3>전체 키워드 Top 10</h3>
                 <div id="trend-keywords-list" class="trend-keywords-list">
@@ -120,6 +128,51 @@
                 <h3>카테고리별 키워드</h3>
                 <div id="trend-categories" class="trend-categories">
                     <!-- 동적으로 생성 -->
+                </div>
+            </div>
+        </div>
+        
+        <!-- Statistics Content -->
+        <div class="trend-panel-content" id="statistics-content" style="display: none;">
+            <div class="stats-overview">
+                <h3>오늘의 뉴스 현황</h3>
+                <div class="stats-summary-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon">📰</div>
+                        <div class="stat-value" id="total-articles">0</div>
+                        <div class="stat-label">총 기사 수</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">📑</div>
+                        <div class="stat-value" id="total-categories">6</div>
+                        <div class="stat-label">카테고리</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">🏢</div>
+                        <div class="stat-value" id="total-sources">3</div>
+                        <div class="stat-label">신문사</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="trend-section">
+                <h3>카테고리별 분포</h3>
+                <div class="chart-container">
+                    <canvas id="category-pie-chart"></canvas>
+                </div>
+            </div>
+            
+            <div class="trend-section">
+                <h3>신문사별 기사 수</h3>
+                <div class="chart-container">
+                    <canvas id="source-bar-chart"></canvas>
+                </div>
+            </div>
+            
+            <div class="trend-section">
+                <h3>최근 7일 기사 트렌드</h3>
+                <div class="chart-container">
+                    <canvas id="weekly-line-chart"></canvas>
                 </div>
             </div>
         </div>
@@ -254,6 +307,7 @@
     <!-- Scripts -->
     <!-- Scripts -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
     <script src="static/js/main.js"></script>
 </body>
 </html>

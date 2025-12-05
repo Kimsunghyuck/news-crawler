@@ -1,13 +1,15 @@
 # Copilot Instructions - News Crawler
 
 ## 프로젝트 개요
-한국 3대 언론사(동아일보, 조선일보, 중앙일보)에서 정치/스포츠/경제 뉴스를 자동 수집하는 크롤러 및 정적 웹사이트. GitHub Actions로 매일 자동 실행되며, GitHub Pages로 무료 호스팅.
+한국 3대 언론사(동아일보, 조선일보, 중앙일보)에서 6개 카테고리 뉴스를 자동 수집하는 크롤러 및 정적 웹사이트. GitHub Actions로 하루 3번 자동 실행되며, GitHub Pages로 무료 호스팅. 트렌드 분석 및 통계 대시보드 포함.
 
 ## 핵심 아키텍처
 
 ### 데이터 파이프라인
 ```
 crawler.py → parser.py → data/{category}/{source}/news_{date}.json
+    ↓
+analyzer.py → docs/data/trends/trends_{date}.json
     ↓
 report_generator.py → reports/{category}/{source}/report_{date}.md
     ↓
@@ -114,15 +116,52 @@ def parse_{source}_{category}(html_content: str) -> List[Dict[str, str]]:
 
 ### 파일별 역할
 - `crawler.py`: HTTP 요청 + 이미지 추출 + JSON 저장
-- `parser.py`: HTML → 뉴스 항목 딕셔너리 (1000+ 줄, 9개 파서 함수)
+- `parser.py`: HTML → 뉴스 항목 딕셔너리 (1000+ 줄, 18개 파서 함수)
+- `analyzer.py`: 트렌드 키워드 분석 + 빈도 집계
 - `report_generator.py`: JSON → 마크다운 보고서
 - `config.py`: 모든 설정의 단일 진실 소스 (SSOT)
+- `docs/static/js/main.js`: 프론트엔드 로직 (트렌드 패널, 통계 대시보드, 북마크)
+
+### 주요 기능
+- **트렌드 분석**: 한글 키워드 추출 (정규식) + 빈도 분석 + 불용어 필터링
+- **통계 대시보드**: Chart.js 기반 데이터 시각화
+  - 카테고리별 분포 (파이 차트)
+  - 신문사별 비교 (바 차트)
+  - 최근 7일 트렌드 (라인 차트)
+- **북마크**: LocalStorage 기반 즐겨찾기 (최대 100개)
+- **다크모드**: CSS 변수 기반 테마 전환
 
 ### 테스트 명령어
 ```powershell
+# 크롤링 실행
+python crawler.py
+
+# 트렌드 분석
+python analyzer.py
+
 # 특정 날짜 보고서 생성
 python report_generator.py
+
+# 로컬 웹서버
+cd docs; python -m http.server 8000
 
 # 스케줄러 실행 (매일 자동화, Ctrl+C로 종료)
 python scheduler.py
 ```
+
+## 최신 업데이트 (v6.0 - 2025-12-05)
+
+### 통계 대시보드
+- Chart.js 3.9.1 통합
+- 탭 네비게이션 (트렌드/통계)
+- 3가지 차트 유형:
+  - `renderCategoryPieChart()`: 카테고리 분포
+  - `renderSourceBarChart()`: 신문사 비교
+  - `renderWeeklyLineChart()`: 7일 트렌드
+- `collectDailyStats()`: 일간 통계 수집
+- `collectWeeklyStats()`: 주간 통계 수집 (미래 날짜 제외)
+
+### 최적화
+- 404 에러 최소화: 존재하는 날짜만 요청
+- 중복 제거: URL 기반 자동 처리
+- 성능: 병렬 fetch 요청 (async/await)

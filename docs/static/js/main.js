@@ -903,6 +903,7 @@ function initTrendPanel() {
     const trendPanel = document.getElementById('trend-panel');
     const trendOverlay = document.getElementById('trend-overlay');
     const trendCloseBtn = document.getElementById('trend-close-btn');
+    const trendTabs = document.querySelectorAll('.trend-tab');
     
     // 트렌드 버튼 클릭
     trendBtn.addEventListener('click', async function() {
@@ -924,6 +925,36 @@ function initTrendPanel() {
     trendOverlay.addEventListener('click', function() {
         trendPanel.classList.remove('active');
         trendOverlay.classList.remove('active');
+    });
+    
+    // 탭 전환 이벤트
+    trendTabs.forEach(tab => {
+        tab.addEventListener('click', async function() {
+            const tabType = this.getAttribute('data-tab');
+            
+            // 탭 활성화 상태 변경
+            trendTabs.forEach(t => t.classList.remove('active'));
+            this.classList.add('active');
+            
+            // 콘텐츠 전환
+            const trendsContent = document.getElementById('trends-content');
+            const statisticsContent = document.getElementById('statistics-content');
+            
+            if (tabType === 'trends') {
+                trendsContent.style.display = 'block';
+                statisticsContent.style.display = 'none';
+                document.getElementById('trend-panel-title').textContent = '🔥 오늘의 트렌드';
+            } else if (tabType === 'statistics') {
+                trendsContent.style.display = 'none';
+                statisticsContent.style.display = 'block';
+                document.getElementById('trend-panel-title').textContent = '📊 통계 대시보드';
+                
+                // 통계 데이터 로드
+                const dateInput = document.getElementById('date-select');
+                const selectedDate = dateInput.value;
+                await loadStatisticsData(selectedDate);
+            }
+        });
     });
 }
 
@@ -1107,5 +1138,355 @@ function displayTickerNews(newsItems) {
                 window.open(url, '_blank');
             }
         });
+    });
+}
+
+/* =============================================================================
+   통계 대시보드 함수
+============================================================================= */
+
+let categoryPieChart = null;
+let sourceBarChart = null;
+let weeklyLineChart = null;
+
+/**
+ * 통계 데이터 로드 및 차트 렌더링
+ */
+async function loadStatisticsData(date) {
+    try {
+        // 카테고리별 및 신문사별 통계 수집
+        const dailyStats = await collectDailyStats(date);
+        
+        // 요약 통계 표시
+        document.getElementById('total-articles').textContent = dailyStats.totalArticles;
+        
+        // 차트 렌더링
+        renderCategoryPieChart(dailyStats.categoryData);
+        renderSourceBarChart(dailyStats.sourceData);
+        
+        // 주간 트렌드 데이터 수집 및 렌더링
+        const weeklyStats = await collectWeeklyStats(date);
+        renderWeeklyLineChart(weeklyStats);
+        
+    } catch (error) {
+        console.error('통계 데이터 로드 실패:', error);
+    }
+}
+
+/**
+ * 일간 통계 데이터 수집
+ */
+async function collectDailyStats(date) {
+    const categories = ['politics', 'sports', 'economy', 'society', 'international', 'culture'];
+    const sources = ['donga', 'chosun', 'joongang'];
+    
+    const categoryData = {};
+    const sourceData = {};
+    let totalArticles = 0;
+    
+    // 카테고리별 데이터 수집
+    for (const category of categories) {
+        let categoryCount = 0;
+        
+        for (const source of sources) {
+            try {
+                const response = await fetch(`data/${category}/${source}/news_${date}.json`);
+                if (response.ok) {
+                    const newsData = await response.json();
+                    const articleCount = newsData.length;
+                    
+                    categoryCount += articleCount;
+                    sourceData[source] = (sourceData[source] || 0) + articleCount;
+                    totalArticles += articleCount;
+                }
+                // 404는 정상 - 해당 날짜 데이터가 없는 경우
+            } catch (error) {
+                // 네트워크 오류만 로깅
+            }
+        }
+        
+        if (categoryCount > 0) {
+            categoryData[category] = categoryCount;
+        }
+    }
+    
+    return {
+        totalArticles,
+        categoryData,
+        sourceData
+    };
+}
+
+/**
+ * 주간 통계 데이터 수집 (선택된 날짜 기준 과거 데이터)
+ */
+async function collectWeeklyStats(endDate) {
+    const labels = [];
+    const dateCounts = [];
+    
+    const end = new Date(endDate);
+    
+    // 선택된 날짜부터 과거 6일까지 (총 7개 포인트)
+    // 단, 미래 날짜는 제외
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    
+    for (let i = 6; i >= 0; i--) {
+        const date = new Date(end);
+        date.setDate(date.getDate() - i);
+        
+        // 미래 날짜는 건너뜀
+        if (date > today) {
+            continue;
+        }
+        
+        const dateStr = date.toISOString().split('T')[0];
+        
+        // 데이터 수집 (없으면 0으로 처리)
+        const dailyStats = await collectDailyStats(dateStr);
+        if (dailyStats.totalArticles > 0) {
+            labels.push(dateStr.substring(5)); // MM-DD 형식
+            dateCounts.push(dailyStats.totalArticles);
+        }
+    }
+    
+    return {
+        labels: labels,
+        data: dateCounts
+    };
+}
+
+/**
+ * 카테고리별 파이 차트 렌더링
+ */
+function renderCategoryPieChart(categoryData) {
+    const categoryNames = {
+        politics: '정치',
+        sports: '스포츠',
+        economy: '경제',
+        society: '사회',
+        international: '국제',
+        culture: '문화'
+    };
+    
+    const labels = Object.keys(categoryData).map(key => categoryNames[key] || key);
+    const data = Object.values(categoryData);
+    
+    const ctx = document.getElementById('category-pie-chart').getContext('2d');
+    
+    // 기존 차트 파괴
+    if (categoryPieChart) {
+        categoryPieChart.destroy();
+    }
+    
+    categoryPieChart = new Chart(ctx, {
+        type: 'pie',
+        data: {
+            labels: labels,
+            datasets: [{
+                data: data,
+                backgroundColor: [
+                    'rgba(54, 162, 235, 0.8)',   // 정치
+                    'rgba(75, 192, 192, 0.8)',   // 스포츠
+                    'rgba(255, 206, 86, 0.8)',   // 경제
+                    'rgba(153, 102, 255, 0.8)',  // 사회
+                    'rgba(255, 159, 64, 0.8)',   // 국제
+                    'rgba(255, 99, 132, 0.8)'    // 문화
+                ],
+                borderColor: 'rgba(255, 255, 255, 0.2)',
+                borderWidth: 2
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        color: getComputedStyle(document.documentElement).getPropertyValue('--text-primary').trim(),
+                        padding: 15,
+                        font: {
+                            size: 12,
+                            family: "'Noto Sans KR', sans-serif"
+                        }
+                    }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            const label = context.label || '';
+                            const value = context.parsed || 0;
+                            const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                            const percentage = ((value / total) * 100).toFixed(1);
+                            return `${label}: ${value}개 (${percentage}%)`;
+                        }
+                    }
+                }
+            }
+        }
+    });
+}
+
+/**
+ * 신문사별 바 차트 렌더링
+ */
+function renderSourceBarChart(sourceData) {
+    const sourceNames = {
+        donga: '동아일보',
+        chosun: '조선일보',
+        joongang: '중앙일보'
+    };
+    
+    const labels = Object.keys(sourceData).map(key => sourceNames[key] || key);
+    const data = Object.values(sourceData);
+    
+    const ctx = document.getElementById('source-bar-chart').getContext('2d');
+    
+    // 기존 차트 파괴
+    if (sourceBarChart) {
+        sourceBarChart.destroy();
+    }
+    
+    sourceBarChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: labels,
+            datasets: [{
+                label: '기사 수',
+                data: data,
+                backgroundColor: [
+                    'rgba(54, 162, 235, 0.8)',
+                    'rgba(255, 99, 132, 0.8)',
+                    'rgba(75, 192, 192, 0.8)'
+                ],
+                borderColor: [
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 99, 132, 1)',
+                    'rgba(75, 192, 192, 1)'
+                ],
+                borderWidth: 2
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    ticks: {
+                        stepSize: 5,
+                        color: getComputedStyle(document.documentElement).getPropertyValue('--text-secondary').trim(),
+                        font: {
+                            family: "'Noto Sans KR', sans-serif"
+                        }
+                    },
+                    grid: {
+                        color: 'rgba(128, 128, 128, 0.1)'
+                    }
+                },
+                x: {
+                    ticks: {
+                        color: getComputedStyle(document.documentElement).getPropertyValue('--text-primary').trim(),
+                        font: {
+                            family: "'Noto Sans KR', sans-serif"
+                        }
+                    },
+                    grid: {
+                        display: false
+                    }
+                }
+            },
+            plugins: {
+                legend: {
+                    display: false
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return `${context.parsed.y}개`;
+                        }
+                    }
+                }
+            }
+        }
+    });
+}
+
+/**
+ * 주간 트렌드 라인 차트 렌더링
+ */
+function renderWeeklyLineChart(weeklyStats) {
+    const ctx = document.getElementById('weekly-line-chart').getContext('2d');
+    
+    // 기존 차트 파괴
+    if (weeklyLineChart) {
+        weeklyLineChart.destroy();
+    }
+    
+    weeklyLineChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: weeklyStats.labels,
+            datasets: [{
+                label: '기사 수',
+                data: weeklyStats.data,
+                borderColor: 'rgba(54, 162, 235, 1)',
+                backgroundColor: 'rgba(54, 162, 235, 0.1)',
+                borderWidth: 3,
+                fill: true,
+                tension: 0.4,
+                pointBackgroundColor: 'rgba(54, 162, 235, 1)',
+                pointBorderColor: '#fff',
+                pointBorderWidth: 2,
+                pointRadius: 5,
+                pointHoverRadius: 7
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    ticks: {
+                        stepSize: 10,
+                        color: getComputedStyle(document.documentElement).getPropertyValue('--text-secondary').trim(),
+                        font: {
+                            family: "'Noto Sans KR', sans-serif"
+                        }
+                    },
+                    grid: {
+                        color: 'rgba(128, 128, 128, 0.1)'
+                    }
+                },
+                x: {
+                    ticks: {
+                        color: getComputedStyle(document.documentElement).getPropertyValue('--text-primary').trim(),
+                        font: {
+                            family: "'Noto Sans KR', sans-serif"
+                        }
+                    },
+                    grid: {
+                        color: 'rgba(128, 128, 128, 0.05)'
+                    }
+                }
+            },
+            plugins: {
+                legend: {
+                    display: false
+                },
+                tooltip: {
+                    callbacks: {
+                        title: function(context) {
+                            return `${context[0].label}`;
+                        },
+                        label: function(context) {
+                            return `${context.parsed.y}개`;
+                        }
+                    }
+                }
+            }
+        }
     });
 }
