@@ -6,7 +6,7 @@
     "category": "국제",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/50ff8c86-f84a-41cd-ab34-faaf0a91c091.jpg",
-    "scraped_at": "2025-12-05T09:44:06.574449+09:00",
+    "scraped_at": "2025-12-05T15:08:39.168672+09:00",
     "main_category": "국제"
   },
   {
@@ -15,8 +15,8 @@
     "date": "2025-12-05",
     "category": "국제",
     "source": "중앙일보",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/d1708112-6711-4c56-a781-67fc995c6d54.jpg",
-    "scraped_at": "2025-12-05T09:44:06.574626+09:00",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/ab4cce4d-6823-4f37-9a84-e30dd1cdffcf.jpg",
+    "scraped_at": "2025-12-05T15:08:39.169300+09:00",
     "main_category": "국제"
   },
   {
@@ -45,8 +45,28 @@
     "date": "2025-12-05",
     "category": "국제",
     "source": "중앙일보",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/22e301ad-6356-4102-b33d-3e031690b3c4.jpg",
-    "scraped_at": "2025-12-05T09:44:06.575268+09:00",
+    "image_url": "",
+    "scraped_at": "2025-12-05T15:08:39.169553+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "1명 태어날 때 3명 죽는다…우크라 패전보다 두려운 '인구붕괴 쇼크'",
+    "url": "https://www.joongang.co.kr/article/25387712",
+    "date": "2025-12-05",
+    "category": "국제",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/e0bcd025-d375-47b7-98d9-a87206226819.jpg",
+    "scraped_at": "2025-12-05T15:08:39.168856+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "'세계 매력적 여행지' 서울 10위 올랐다…5년 연속 1위는 어디",
+    "url": "https://www.joongang.co.kr/article/25387672",
+    "date": "2025-12-05",
+    "category": "국제",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/f617d43b-7475-4f22-8024-7a5a9f876ce5.jpg",
+    "scraped_at": "2025-12-05T15:08:39.169072+09:00",
     "main_category": "국제"
   }
 ]

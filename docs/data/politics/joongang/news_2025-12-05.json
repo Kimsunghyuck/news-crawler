@@ -6,7 +6,7 @@
     "category": "정치",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/0d45e982-6d80-46e7-8557-742225342eaf.jpg",
-    "scraped_at": "2025-12-05T09:41:43.671763+09:00",
+    "scraped_at": "2025-12-05T15:04:41.915601+09:00",
     "main_category": "정치"
   },
   {
@@ -16,7 +16,7 @@
     "category": "정치",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/32c048a5-d260-45e2-bf3f-718835d0c263.jpg",
-    "scraped_at": "2025-12-05T09:41:43.672025+09:00",
+    "scraped_at": "2025-12-05T15:04:41.916003+09:00",
     "main_category": "정치"
   },
   {
@@ -47,6 +47,36 @@
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/f58d6a7d-3abf-4fda-8201-8585b89bae2d.jpg",
     "scraped_at": "2025-12-05T09:41:43.672670+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "장동혁 면전에 대고 \"똥 묻은 개\"…친윤 윤한홍 작심 비판, 왜",
+    "url": "https://www.joongang.co.kr/article/25387684",
+    "date": "2025-12-05",
+    "category": "정치",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/1f0f9b03-f6dc-44ce-92fe-d90ad5fd79f2.jpg",
+    "scraped_at": "2025-12-05T15:04:41.915789+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "李, 'AI 버블' 조언 구하자…손정의 \"인류는 금붕어, AI는 인간될 것\"",
+    "url": "https://www.joongang.co.kr/article/25387721",
+    "date": "2025-12-05",
+    "category": "정치",
+    "source": "중앙일보",
+    "image_url": "",
+    "scraped_at": "2025-12-05T15:04:41.916235+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "보고 없이 대북전단 살포 의혹…국방부, 국군심리전단 조사 본격화",
+    "url": "https://www.joongang.co.kr/article/25387676",
+    "date": "2025-12-05",
+    "category": "정치",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/852da586-9601-4b26-95aa-2a644217785e.jpg",
+    "scraped_at": "2025-12-05T15:04:41.916487+09:00",
     "main_category": "정치"
   }
 ]

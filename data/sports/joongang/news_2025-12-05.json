@@ -5,7 +5,7 @@
     "date": "2025-12-05",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-05T09:42:25.305752+09:00",
+    "scraped_at": "2025-12-05T15:05:23.936934+09:00",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/04/562ddfeb-2d90-4316-9e84-d348a9d1f553.jpg",
     "main_category": "스포츠"
   },
@@ -15,7 +15,7 @@
     "date": "2025-12-05",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-05T09:42:25.305888+09:00",
+    "scraped_at": "2025-12-05T15:05:23.937094+09:00",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202511/cc5803a5-42a0-46c4-a012-a74a0bef6bb8.png",
     "main_category": "스포츠"
   },
@@ -35,8 +35,8 @@
     "date": "2025-12-05",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-05T09:42:25.306216+09:00",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/edbbbe2e-6359-418b-b7da-5ae6b4596b6e.jpg",
+    "scraped_at": "2025-12-05T15:05:23.937255+09:00",
+    "image_url": "",
     "main_category": "스포츠"
   },
   {
@@ -45,8 +45,18 @@
     "date": "2025-12-05",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-05T09:42:25.306407+09:00",
+    "scraped_at": "2025-12-05T15:05:23.937648+09:00",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/0fd47d38-360a-40cf-8998-80e8173c0594.jpg",
+    "main_category": "스포츠"
+  },
+  {
+    "title": "조규성 헤딩골-이한범 헤딩 도움...덴마크 미트윌란 5-1 대승",
+    "url": "https://www.joongang.co.kr/article/25387661",
+    "date": "2025-12-05",
+    "category": "스포츠",
+    "source": "중앙일보",
+    "scraped_at": "2025-12-05T15:05:23.937439+09:00",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/05/36358b00-80b8-4fec-ada3-4cbe46d68d89.jpg",
     "main_category": "스포츠"
   }
 ]

@@ -1,112 +1,116 @@
 {
   "date": "2025-12-05",
-  "generated_at": "2025-12-05T10:41:33.387623+09:00",
+  "generated_at": "2025-12-05T15:10:26.208221+09:00",
   "daily_top_keywords": [
     {
       "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "서울",
+      "count": 5
+    },
+    {
+      "word": "친윤",
+      "count": 4
+    },
+    {
+      "word": "윤한홍",
+      "count": 4
+    },
+    {
+      "word": "장동혁",
+      "count": 4
+    },
+    {
+      "word": "계엄",
+      "count": 4
+    },
+    {
+      "word": "수도권",
+      "count": 4
+    },
+    {
+      "word": "경찰",
+      "count": 4
+    },
+    {
+      "word": "영화",
       "count": 3
     },
     {
-      "word": "남자",
+      "word": "데뷔",
       "count": 3
     },
     {
-      "word": "감독",
+      "word": "논란",
       "count": 3
-    },
-    {
-      "word": "남편",
-      "count": 2
     },
     {
       "word": "억원",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "추성훈",
-      "count": 2
-    },
-    {
-      "word": "청년",
-      "count": 2
-    },
-    {
-      "word": "기업",
-      "count": 2
-    },
-    {
-      "word": "논의",
-      "count": 2
-    },
-    {
-      "word": "일자리",
-      "count": 2
-    },
-    {
-      "word": "만원",
-      "count": 2
-    },
-    {
-      "word": "엔비디아",
-      "count": 2
-    },
-    {
-      "word": "억류",
-      "count": 2
-    },
-    {
-      "word": "국민",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
+      "word": "개월",
+      "count": 3
     },
     {
       "word": "조폭",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "있다는",
-      "count": 2
+      "word": "누나",
+      "count": 3
     },
     {
-      "word": "사체",
-      "count": 2
+      "word": "의혹",
+      "count": 3
     },
     {
-      "word": "처리",
-      "count": 2
+      "word": "정부",
+      "count": 3
     },
     {
-      "word": "김현지",
-      "count": 2
+      "word": "취임",
+      "count": 3
+    },
+    {
+      "word": "반도체",
+      "count": 3
+    },
+    {
+      "word": "논의",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "김현지",
-        "count": 2
+        "word": "친윤",
+        "count": 4
       },
       {
-        "word": "김남국과",
-        "count": 2
+        "word": "윤한홍",
+        "count": 4
+      },
+      {
+        "word": "장동혁",
+        "count": 4
       },
       {
         "word": "누나",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "동생",
-        "count": 2
-      },
-      {
-        "word": "사이",
-        "count": 2
+        "word": "정부",
+        "count": 3
       }
     ],
     "sports": [
+      {
+        "word": "최초",
+        "count": 3
+      },
       {
         "word": "남자",
         "count": 3
@@ -116,15 +120,11 @@
         "count": 3
       },
       {
-        "word": "최초",
+        "word": "하나은행",
         "count": 2
       },
       {
-        "word": "외국인",
-        "count": 2
-      },
-      {
-        "word": "양현종은",
+        "word": "돌풍",
         "count": 2
       }
     ],
@@ -134,42 +134,42 @@
         "count": 2
       },
       {
-        "word": "일자리",
+        "word": "그룹",
         "count": 2
       },
       {
-        "word": "만원",
+        "word": "스타링크",
         "count": 2
       },
       {
-        "word": "한국",
-        "count": 1
+        "word": "산업부",
+        "count": 2
       },
       {
-        "word": "관세",
-        "count": 1
+        "word": "반도체",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "기준",
-        "count": 2
-      },
-      {
         "word": "경찰",
+        "count": 4
+      },
+      {
+        "word": "서울",
+        "count": 3
+      },
+      {
+        "word": "수능",
         "count": 2
       },
       {
-        "word": "오늘의",
+        "word": "만점",
         "count": 2
       },
       {
-        "word": "운세",
+        "word": "논의",
         "count": 2
-      },
-      {
-        "word": "장경태",
-        "count": 1
       }
     ],
     "international": [
@@ -178,42 +178,42 @@
         "count": 2
       },
       {
+        "word": "논란",
+        "count": 2
+      },
+      {
+        "word": "억만장자",
+        "count": 2
+      },
+      {
+        "word": "의회",
+        "count": 2
+      },
+      {
         "word": "사체",
         "count": 2
-      },
-      {
-        "word": "처리",
-        "count": 2
-      },
-      {
-        "word": "억류",
-        "count": 1
-      },
-      {
-        "word": "국민",
-        "count": 1
       }
     ],
     "culture": [
       {
-        "word": "추성훈",
+        "word": "데뷔",
+        "count": 3
+      },
+      {
+        "word": "마동석",
         "count": 2
       },
       {
-        "word": "뉴진스와",
-        "count": 1
+        "word": "액션",
+        "count": 2
       },
       {
-        "word": "결별한",
-        "count": 1
+        "word": "영화",
+        "count": 2
       },
       {
-        "word": "민희진",
-        "count": 1
-      },
-      {
-        "word": "보이그룹",
-        "count": 1
+        "word": "박진영",
+        "count": 2
       }
     ]
   }
