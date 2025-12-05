@@ -32,6 +32,12 @@ jobs:
       run: |
         python crawler.py
         
+    - name: 📊 트렌드 분석 실행
+      run: |
+        echo "📈 트렌드 키워드 분석 중..."
+        python analyzer.py
+        echo "✅ 트렌드 분석 완료"
+        
     - name: 📋 GitHub Pages용 데이터 복사
       run: |
         echo "📂 docs 폴더로 데이터 복사 중..."
@@ -41,16 +47,17 @@ jobs:
     - name: 📊 크롤링 결과 확인
       run: |
         echo "📁 생성된 파일 목록:"
-        echo "=== 정치 카테고리 ==="
-        ls -la data/politics/*/
-        echo "=== 스포츠 카테고리 ==="
-        ls -la data/sports/*/
-        echo "=== 경제 카테고리 ==="
-        ls -la data/economy/*/
+        echo "=== 6개 카테고리 ==="
+        ls -la data/politics/*/ 2>/dev/null || echo "정치: 없음"
+        ls -la data/sports/*/ 2>/dev/null || echo "스포츠: 없음"
+        ls -la data/economy/*/ 2>/dev/null || echo "경제: 없음"
+        ls -la data/society/*/ 2>/dev/null || echo "사회: 없음"
+        ls -la data/international/*/ 2>/dev/null || echo "국제: 없음"
+        ls -la data/culture/*/ 2>/dev/null || echo "문화: 없음"
+        echo "=== 트렌드 데이터 ==="
+        ls -la docs/data/trends/ 2>/dev/null || echo "트렌드: 없음"
         echo "=== 보고서 ==="
-        ls -la reports/combined/
-        echo "=== GitHub Pages 데이터 ==="
-        ls -la docs/data/politics/*/
+        ls -la reports/combined/ 2>/dev/null || echo "보고서: 없음"
         
     - name: 💾 결과 파일 커밋 및 푸시
       run: |
@@ -59,7 +66,7 @@ jobs:
         git add data/ reports/ logs/ docs/data/
         
         if ! git diff --quiet --staged; then
-          git commit -m "🤖 자동 크롤링 (전체 카테고리): $(TZ='Asia/Seoul' date +'%Y-%m-%d %H:%M:%S KST')"
+          git commit -m "🤖 자동 크롤링 (6개 카테고리 + 트렌드): $(TZ='Asia/Seoul' date +'%Y-%m-%d %H:%M:%S KST')"
           git push
           echo "✅ 변경사항이 커밋되고 푸시되었습니다."
         else

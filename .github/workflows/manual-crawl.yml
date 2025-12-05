@@ -25,29 +25,42 @@ jobs:
       run: |
         python crawler.py
         
+    - name: 📊 트렌드 분석 실행
+      run: |
+        echo "📈 트렌드 키워드 분석 중..."
+        python analyzer.py
+        echo "✅ 트렌드 분석 완료"
+        
+    - name: 📋 GitHub Pages용 데이터 복사
+      run: |
+        echo "📂 docs 폴더로 데이터 복사 중..."
+        cp -r data/* docs/data/
+        echo "✅ 데이터 복사 완료"
+        
     - name: 📊 크롤링 결과 확인
       run: |
         echo "📁 생성된 파일 목록:"
-        echo "=== 정치 카테고리 ==="
-        ls -la data/politics/*/
-        echo "=== 스포츠 카테고리 ==="
-        ls -la data/sports/*/
-        echo "=== 경제 카테고리 ==="
-        ls -la data/economy/*/
+        echo "=== 6개 카테고리 ==="
+        for cat in politics sports economy society international culture; do
+          echo "--- $cat ---"
+          ls -la data/$cat/*/ 2>/dev/null || echo "데이터 없음"
+        done
+        echo "=== 트렌드 데이터 ==="
+        ls -la docs/data/trends/ 2>/dev/null || echo "트렌드: 없음"
         echo "=== 보고서 ==="
-        ls -la reports/combined/
+        ls -la reports/combined/ 2>/dev/null || echo "보고서: 없음"
         echo ""
         echo "📰 최신 뉴스 통계:"
-        python -c "import json; import glob; pol=sum([len(json.load(open(f))) for f in glob.glob('data/politics/*/*.json')]); spo=sum([len(json.load(open(f))) for f in glob.glob('data/sports/*/*.json')]); eco=sum([len(json.load(open(f))) for f in glob.glob('data/economy/*/*.json')]); print(f'정치: {pol}개, 스포츠: {spo}개, 경제: {eco}개, 총: {pol+spo+eco}개')"
+        python -c "import json; import glob; cats=['politics','sports','economy','society','international','culture']; totals={c:sum([len(json.load(open(f))) for f in glob.glob(f'data/{c}/*/*.json')]) for c in cats}; print('\n'.join([f'{c}: {totals[c]}개' for c in cats])); print(f'\n총: {sum(totals.values())}개')"
         
     - name: 💾 결과 파일 커밋 및 푸시
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "GitHub Actions Bot"
-        git add data/ reports/ logs/
+        git add data/ reports/ logs/ docs/data/
         
         if ! git diff --quiet --staged; then
-          git commit -m "🤖 수동 크롤링 (정치+스포츠+경제 45개): $(TZ='Asia/Seoul' date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "🤖 수동 크롤링 (6개 카테고리 + 트렌드): $(TZ='Asia/Seoul' date +'%Y-%m-%d %H:%M:%S')"
           git push
           echo "✅ 변경사항이 커밋되고 푸시되었습니다."
         else

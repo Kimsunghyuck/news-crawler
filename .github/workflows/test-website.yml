@@ -109,7 +109,11 @@ jobs:
             'loadNews',
             'initNavigation',
             'renderNewsGrid',
-            'updateSourceTitle'
+            'updateSourceTitle',
+            'initTrendPanel',
+            'loadStatisticsData',
+            'collectDailyStats',
+            'renderCategoryPieChart'
         ]
         
         for func in required_functions:
@@ -326,7 +330,14 @@ jobs:
           test('메인 페이지 로드', async ({ page }) => {
             await expect(page.locator('nav.main-navigation')).toBeVisible();
             await expect(page.locator('section.news-section')).toBeVisible();
+            await expect(page.locator('footer.site-footer')).toBeVisible();
             console.log('✅ 메인 페이지 로드 완료');
+          });
+        
+          test('트렌드 버튼 존재', async ({ page }) => {
+            const trendBtn = page.locator('#trend-btn');
+            await expect(trendBtn).toBeVisible();
+            console.log('✅ 트렌드 버튼 확인');
           });
         
           test('카테고리 메뉴 클릭', async ({ page }) => {
@@ -412,14 +423,15 @@ jobs:
         echo ""
         echo "Tested components:"
         echo "  ✅ HTML structure"
-        echo "  ✅ JavaScript functions"
+        echo "  ✅ JavaScript functions (8개)"
         echo "  ✅ CSS files"
         echo "  ✅ Image assets"
-        echo "  ✅ JSON data format"
+        echo "  ✅ JSON data format (뉴스 + 트렌드)"
         echo "  ✅ HTTP server"
         echo "  ✅ Internal links"
         echo "  ✅ E2E: Menu navigation"
         echo "  ✅ E2E: Category switching"
+        echo "  ✅ E2E: Trend button"
         echo "  ✅ E2E: JavaScript execution"
         echo ""
         echo "Website is ready for deployment! 🚀"
