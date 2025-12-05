@@ -18,17 +18,36 @@ document.addEventListener('DOMContentLoaded', function() {
     initTheme();
     initBookmarks();
     initNavigation();
+    initDatePicker();
     
     // 초기 카테고리 라벨 설정
     updateSourceTitle(currentSource, currentCategory);
-    
-    // 기본 카테고리와 소스로 뉴스 로드
-    const today = new Date().toISOString().split('T')[0];
-    loadNews(currentCategory, currentSource, today);
-    
-    // 뉴스 티커 초기화
-    initNewsTicker(today);
 });
+
+/**
+ * 날짜 선택기 초기화 (index.html에서 호출)
+ */
+function initDatePicker() {
+    const dateInput = document.getElementById('date-select');
+    const today = new Date();
+    const yyyy = today.getFullYear();
+    const mm = String(today.getMonth() + 1).padStart(2, '0');
+    const dd = String(today.getDate()).padStart(2, '0');
+    const todayStr = `${yyyy}-${mm}-${dd}`;
+    
+    dateInput.value = todayStr;
+    dateInput.max = todayStr;
+    
+    // 날짜 변경 시 뉴스 다시 로드
+    dateInput.addEventListener('change', function() {
+        loadNews(currentCategory, currentSource, this.value);
+        initNewsTicker(this.value);
+    });
+    
+    // 초기 뉴스 로드 (날짜 선택기 초기화 후)
+    loadNews(currentCategory, currentSource, todayStr);
+    initNewsTicker(todayStr);
+}
 
 /**
  * 다크모드 초기화 및 토글

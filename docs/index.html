@@ -218,23 +218,5 @@
     <!-- Scripts -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="static/js/main.js"></script>
-    <script>
-        // 현재 날짜를 기본값으로 설정
-        document.addEventListener('DOMContentLoaded', function() {
-            const dateInput = document.getElementById('date-select');
-            const today = new Date();
-            const yyyy = today.getFullYear();
-            const mm = String(today.getMonth() + 1).padStart(2, '0');
-            const dd = String(today.getDate()).padStart(2, '0');
-            dateInput.value = `${yyyy}-${mm}-${dd}`;
-            dateInput.max = `${yyyy}-${mm}-${dd}`;
-            
-            // 날짜 변경 시 뉴스 다시 로드
-            dateInput.addEventListener('change', function() {
-                loadNews(currentCategory, currentSource, this.value);
-                initNewsTicker(this.value); // 티커도 업데이트
-            });
-        });
-    </script>
 </body>
 </html>

@@ -1,77 +1,70 @@
-# Hyeok Crawler
+# Hyeok News Crawler
 
-주요 언론사(동아일보, 조선일보, 중앙일보)의 6개 카테고리 뉴스를 자동 수집하는 크롤러 및 웹 포털입니다.
+한국 3대 언론사(동아일보, 조선일보, 중앙일보)의 뉴스를 자동 수집하는 크롤러 및 웹 포털입니다.  
+GitHub Actions로 매일 자동 실행되며, GitHub Pages로 무료 호스팅됩니다.
 
 ## 🌟 주요 기능
 
-- **뉴스 티커 배너**: 실시간 뉴스 헤드라인을 세로 슬라이드로 표시 (네이버 증권 스타일)
-- **자동 크롤링**: 6개 카테고리(정치/스포츠/경제/사회/국제/문화) × 3개 언론사 = 매일 90개 뉴스 수집
-- **이미지 추출**: 각 기사의 대표 이미지 자동 수집 (Open Graph)
-- **웹 포털**: 반응형 UI, 카테고리/언론사/날짜 필터링
-- **GitHub Pages**: 정적 사이트로 무료 호스팅 가능
-- **GitHub Actions**: 매일 오전 9시 20분 자동 실행
-
-## 🎨 UI 기능
-
-### 뉴스 티커 배너
-- 모든 카테고리의 최신 뉴스를 세로 슬라이드로 표시
-- 카테고리별 색상 뱃지 (정치: 파란색, 스포츠: 빨간색, 경제: 초록색, 사회: 보라색, 국제: 핫핑크, 문화: 노란색)
-- 4.5초 간격으로 자동 전환 (1.2초 부드러운 애니메이션)
-- 티커 클릭 시 해당 기사로 이동
-- 반응형 디자인 (모바일 최적화)
-
-### 반응형 네비게이션
-- 데스크톱: 로고(좌측) + 카테고리 중앙 정렬
-- 992px 이하: 로고(상단) + 카테고리 가로 배치
-- 768px 이하: 로고 + 카테고리 세로 배치 (전체 화면)
+- **자동 크롤링**: 6개 카테고리 × 3개 언론사 = 매일 90개 뉴스 자동 수집
+- **이미지 추출**: Open Graph/Twitter Card 메타데이터 기반 썸네일 추출
+- **뉴스 티커**: 최신 헤드라인을 세로 슬라이드 애니메이션으로 표시
+- **정적 웹사이트**: 카테고리/언론사/날짜별 필터링 기능
+- **완전 자동화**: GitHub Actions 스케줄러 (매일 오전 9:20 KST)
 
 ## 📁 프로젝트 구조
 
 ```
 news-crawler/
-├── docs/                    # GitHub Pages 정적 사이트
+├── crawler.py              # HTTP 요청 + 이미지 추출 + JSON 저장
+├── parser.py               # HTML 파싱 (18개 파서 함수)
+├── report_generator.py     # 마크다운 보고서 생성
+├── scheduler.py            # 로컬 스케줄러 (테스트용)
+├── config.py               # 중앙 설정 (SSOT)
+├── requirements.txt        # Python 의존성
+├── data/                   # 원본 JSON 데이터
+│   └── {category}/{source}/news_{date}.json
+├── docs/                   # GitHub Pages 정적 사이트
 │   ├── index.html          # 메인 페이지
 │   ├── static/             # CSS, JS, 이미지
-│   └── data/               # JSON 뉴스 데이터
-├── crawler.py              # 크롤링 + 이미지 추출
-├── parser.py               # HTML 파싱
-├── report_generator.py     # 보고서 생성
-├── config.py               # 설정
-├── data/                   # 원본 데이터
-└── reports/                # 보고서
+│   └── data/               # JSON 복사본 (배포용)
+├── reports/                # 마크다운 보고서
+│   ├── combined/           # 전체 리포트
+│   └── {category}/{source}/report_{date}.md
+└── .github/workflows/      # GitHub Actions
+    ├── daily-crawl.yml     # 매일 09:20 자동 실행
+    └── manual-crawl.yml    # 수동 트리거
 ```
 
 ## 🚀 빠른 시작
 
-### 로컬 테스트
+### 1. 크롤링 실행
 
-```bash
-# docs 폴더에서 HTTP 서버 실행
-cd docs
-python -m http.server 8000
-
-# 브라우저에서 localhost:8000 접속
-```
-
-### 크롤링 실행
-
-```bash
-# 필요한 라이브러리 설치
+```powershell
+# 의존성 설치
 pip install -r requirements.txt
 
 # 크롤링 실행 (90개 뉴스 + 이미지)
 python crawler.py
 ```
 
-### GitHub Pages 배포
+### 2. 로컬 웹서버 테스트
 
-1. **저장소 Public으로 변경** (Settings → Danger Zone)
-2. **GitHub Pages 활성화**:
-   - Settings → Pages
+```powershell
+# GitHub Pages 미리보기
+cd docs
+python -m http.server 8000
+# → http://localhost:8000
+```
+
+### 3. GitHub Pages 배포
+
+1. **저장소 Public으로 변경**
+2. **Settings → Pages**
    - Source: Deploy from a branch
    - Branch: `main`, Folder: `/docs`
-   - Save
-3. 완료! `https://<username>.github.io/<repo-name>` 에서 확인
+3. **Settings → Actions → General**
+   - Workflow permissions: **Read and write permissions** 체크
+4. 완료! `https://<username>.github.io/<repo-name>`
 
 상세 가이드: [`docs/GITHUB_PAGES_SETUP.md`](docs/GITHUB_PAGES_SETUP.md)
 
@@ -93,27 +86,76 @@ python crawler.py
 ]
 ```
 
-## 🛠️ 기술 스택
+## 🛠️ 기술 스택 및 아키텍처
 
-- **Frontend**: HTML5, CSS3, Vanilla JavaScript
-- **UI Library**: Swiper.js (뉴스 티커 슬라이더)
-- **Backend**: Python, BeautifulSoup4, Requests
-- **Hosting**: GitHub Pages (정적 사이트)
-- **Automation**: GitHub Actions (매일 오전 9시 20분 KST)
+### Frontend
+- **HTML5 + CSS3**: 반응형 레이아웃 (Flexbox, Grid)
+- **Vanilla JavaScript**: 비동기 데이터 로딩 (Fetch API)
+- **Swiper.js 11.1.14**: 뉴스 티커 세로 슬라이드 애니메이션
+
+### Backend (Python 3.x)
+- **BeautifulSoup4 (lxml)**: HTML 파싱 엔진
+- **Requests**: HTTP 클라이언트 (User-Agent 헤더 포함)
+- **datetime (KST)**: 한국 표준시 타임존 처리
+
+### 크롤링 원리
+1. **HTTP 요청**: `requests.get()` + 재시도 로직 (3회, 5초 지연)
+2. **HTML 파싱**: 언론사별 CSS 셀렉터로 뉴스 링크 추출
+3. **이미지 추출**: Open Graph → Twitter Card → 본문 첫 이미지 순서로 fallback
+4. **데이터 저장**: JSON 포맷 (`data/{category}/{source}/news_{date}.json`)
+
+### 자동화
+- **GitHub Actions**: cron 스케줄러 (`0 20 * * *` UTC = 09:20 KST)
+- **배포 파이프라인**: `data/` → `docs/data/` 복사 후 자동 커밋/푸시
+
+### 호스팅
+- **GitHub Pages**: 정적 사이트 무료 호스팅 (`/docs` 폴더)
+
+
+## 📅 개발 일지
+
+### Day 1-2: 초기 설계 (2025-12-02)
+- 프로젝트 구조 설계 및 3개 카테고리(정치/스포츠/경제) 크롤러 구현
+- BeautifulSoup4 기반 파서 9개 함수 작성 (동아/조선/중앙 × 3 카테고리)
+- `config.py` 중앙 집중식 설정 시스템 구축
+- Open Graph 이미지 추출 로직 개발
+- JSON 데이터 저장 구조 확립 (`data/{category}/{source}/`)
+
+### Day 3: 확장 및 자동화 (2025-12-03)
+- 3개 카테고리 추가: 사회/국제/문화 (총 18개 파서 함수)
+- GitHub Actions 워크플로우 설정 (daily-crawl.yml, manual-crawl.yml)
+- 마크다운 보고서 생성기 개발 (`report_generator.py`)
+- KST 타임존 처리 표준화 (`get_kst_now()`)
+- 에러 핸들링 및 로깅 시스템 구축
+
+### Day 4: 웹 포털 및 UI (2025-12-04)
+- GitHub Pages 정적 사이트 구축 (`docs/index.html`)
+- 뉴스 티커 배너 개발 (Swiper.js 세로 슬라이드)
+- 카테고리별 색상 뱃지 시스템 (6개 카테고리)
+- 반응형 네비게이션 (데스크톱/태블릿/모바일)
+- 날짜/카테고리/언론사 필터링 기능
+- 이미지 fallback 처리 (로딩 실패 시 placeholder)
+
+### Day 5: 최적화 및 문서화 (2025-12-05)
+- README 최신화 (기술 스택, 아키텍처, 개발 일지)
+- 크롤링 재시도 로직 강화 (MAX_RETRIES=3)
+- 이미지 URL 검증 로직 추가
+- GitHub Actions 권한 설정 가이드 작성
+- 프로젝트 전체 문서 정리
 
 ## 📈 수집 현황
 
-| 카테고리 | 언론사 | 기사 수 | 이미지 | 티커 표시 |
-|---------|--------|--------|--------|----------|
+| 카테고리 | 언론사 | 기사 수 | 이미지 | 자동화 |
+|---------|--------|--------|--------|--------|
 | 정치 | 동아/조선/중앙 | 15개 | ✅ | ✅ |
 | 스포츠 | 동아/조선/중앙 | 15개 | ✅ | ✅ |
 | 경제 | 동아/조선/중앙 | 15개 | ✅ | ✅ |
 | 사회 | 동아/조선/중앙 | 15개 | ✅ | ✅ |
 | 국제 | 동아/조선/중앙 | 15개 | ✅ | ✅ |
 | 문화 | 동아/조선/중앙 | 15개 | ✅ | ✅ |
-| **합계** | **18개 소스** | **90개** | **90개** | **90개** |
+| **합계** | **18개 소스** | **90개/일** | **90개** | **매일 09:20** |
 
 ---
 
-**최종 업데이트**: 2025년 12월 3일  
-**버전**: 3.0 (사회/국제/문화 카테고리 추가)
+**최종 업데이트**: 2025년 12월 5일  
+**버전**: 4.0 (최적화 및 문서화 완료)
