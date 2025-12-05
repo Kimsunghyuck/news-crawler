@@ -82,10 +82,19 @@ def parse_{source}_{category}(html_content: str) -> List[Dict[str, str]]:
 - 재시도: `MAX_RETRIES=3`, `RETRY_DELAY=5` (config.py)
 - 로깅: `logs/crawler.log` (INFO 레벨)
 
+### 중복 제거 로직
+- **merge_news()**: URL 기반 중복 자동 제거
+- 하루 3번 크롤링 시 같은 날짜 파일에 누적 저장
+- 중복 기사는 최신 정보로 업데이트
+- 최종 저장: 유니크한 기사만 날짜순 정렬
+
 ## GitHub Actions 자동화
 
 ### 워크플로우
-- **daily-crawl.yml**: 매일 한국시간 오전 9:20 실행 (cron: `20 0 * * *` UTC)
+- **daily-crawl.yml**: 하루 3번 자동 실행 (KST 기준)
+  - 오전 9:20 (cron: `20 0 * * *` UTC)
+  - 오후 3:00 (cron: `0 6 * * *` UTC) 
+  - 저녁 7:00 (cron: `0 10 * * *` UTC)
 - **manual-crawl.yml**: 수동 트리거 가능
 - 중요: Settings → Actions → General에서 "Read and write permissions" 필수
 

@@ -286,7 +286,9 @@ def crawl_news() -> bool:
     """
     logger.info("=" * 60)
     logger.info("멀티 카테고리 뉴스 크롤링 시작")
-    logger.info(f"현재 시간: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    kst_now = get_kst_now()
+    logger.info(f"현재 시간 (KST): {kst_now.strftime('%Y-%m-%d %H:%M:%S')}")
+    logger.info(f"실행 시간대: {kst_now.strftime('%p %I시')} KST".replace('AM', '오전').replace('PM', '오후'))
     logger.info("=" * 60)
     
     try:

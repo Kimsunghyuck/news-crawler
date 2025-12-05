@@ -4,6 +4,10 @@ on:
   schedule:
     # 매일 한국시간 오전 9시 20분 (UTC 0시 20분)
     - cron: '20 0 * * *'
+    # 매일 한국시간 오후 3시 (UTC 6시)
+    - cron: '0 6 * * *'
+    # 매일 한국시간 저녁 7시 (UTC 10시)
+    - cron: '0 10 * * *'
   workflow_dispatch:  # 수동 실행 버튼 활성화
 
 jobs:
@@ -55,7 +59,7 @@ jobs:
         git add data/ reports/ logs/ docs/data/
         
         if ! git diff --quiet --staged; then
-          git commit -m "🤖 자동 크롤링 (정치+스포츠+경제 45개): $(TZ='Asia/Seoul' date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "🤖 자동 크롤링 (전체 카테고리): $(TZ='Asia/Seoul' date +'%Y-%m-%d %H:%M:%S KST')"
           git push
           echo "✅ 변경사항이 커밋되고 푸시되었습니다."
         else
