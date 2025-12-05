@@ -44,6 +44,14 @@
                 
                 <!-- Action Buttons -->
                 <div class="nav-actions">
+                    <!-- Bookmark Button -->
+                    <button id="bookmark-page-btn" class="bookmark-page-btn" aria-label="내 북마크">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+                        </svg>
+                        <span class="bookmark-count" id="bookmark-count">0</span>
+                    </button>
+                    
                     <!-- Dark Mode Toggle -->
                     <button id="theme-toggle" class="theme-toggle" aria-label="다크모드 전환">
                         <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -62,12 +70,13 @@
                         </svg>
                     </button>
                     
-                    <!-- Bookmark Button -->
-                    <button id="bookmark-page-btn" class="bookmark-page-btn" aria-label="내 북마크">
+                    <!-- Trend Button -->
+                    <button id="trend-btn" class="trend-btn" aria-label="트렌드 분석">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+                            <path d="M3 3v18h18"></path>
+                            <path d="m19 9-5 5-4-4-3 3"></path>
                         </svg>
-                        <span class="bookmark-count" id="bookmark-count">0</span>
+                        <span class="trend-badge" id="trend-badge"></span>
                     </button>
                 </div>
                 
@@ -88,6 +97,34 @@
             </div>
         </div>
     </nav>
+    
+    <!-- Trend Panel -->
+    <div id="trend-panel" class="trend-panel">
+        <div class="trend-panel-header">
+            <h2>🔥 오늘의 트렌드</h2>
+            <button id="trend-close-btn" class="trend-close-btn">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+            </button>
+        </div>
+        <div class="trend-panel-content">
+            <div class="trend-section">
+                <h3>전체 키워드 Top 10</h3>
+                <div id="trend-keywords-list" class="trend-keywords-list">
+                    <!-- 동적으로 생성 -->
+                </div>
+            </div>
+            <div class="trend-section">
+                <h3>카테고리별 키워드</h3>
+                <div id="trend-categories" class="trend-categories">
+                    <!-- 동적으로 생성 -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="trend-overlay" class="trend-overlay"></div>
     
     <!-- News Ticker Banner -->
     <div class="news-ticker-banner">

@@ -155,6 +155,60 @@ img {
     display: none;
 }
 
+/* Trend Button */
+.trend-btn {
+    background: var(--bg-light);
+    border: 2px solid var(--border-color);
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    padding: 0;
+    color: var(--text-primary);
+    position: relative;
+}
+
+.trend-btn svg {
+    stroke: var(--text-primary);
+    transition: all 0.3s ease;
+}
+
+.trend-btn:hover {
+    transform: scale(1.1);
+    border-color: #667eea;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.trend-btn:hover svg {
+    stroke: #fff;
+}
+
+.trend-badge {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    font-size: 0.65rem;
+    font-weight: 700;
+    padding: 0.15rem 0.35rem;
+    border-radius: 10px;
+    min-width: 18px;
+    text-align: center;
+    opacity: 0;
+    transform: scale(0);
+    transition: all 0.3s ease;
+}
+
+.trend-badge.visible {
+    opacity: 1;
+    transform: scale(1);
+}
+
 /* Bookmark Page Button */
 .bookmark-page-btn {
     background: var(--bg-light);
@@ -408,6 +462,217 @@ img {
     line-height: 1.5;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
     text-align: center;
+}
+
+/* 트렌드 키워드 티커 스타일 (사용 안 함 - 옵션3) */
+
+/* 트렌드 키워드 티커 스타일 (사용 안 함 - 옵션3) */
+
+/* 트렌드 패널 오버레이 */
+.trend-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    z-index: 2000;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+
+.trend-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* 트렌드 패널 */
+.trend-panel {
+    position: fixed;
+    top: 0;
+    right: -450px;
+    width: 450px;
+    height: 100vh;
+    background: var(--card-bg);
+    box-shadow: -4px 0 20px rgba(0, 0, 0, 0.3);
+    z-index: 2001;
+    transition: right 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.trend-panel.active {
+    right: 0;
+}
+
+.trend-panel-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 2rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.trend-panel-header h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+.trend-close-btn {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: white;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.trend-close-btn:hover {
+    background: rgba(255, 255, 255, 0.3);
+    transform: rotate(90deg);
+}
+
+.trend-panel-content {
+    flex: 1;
+    overflow-y: auto;
+    padding: 2rem;
+}
+
+.trend-section {
+    margin-bottom: 2rem;
+}
+
+.trend-section h3 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+/* 전체 키워드 리스트 */
+.trend-keywords-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+
+.trend-keyword-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    background: var(--bg-light);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.trend-keyword-item:hover {
+    transform: translateX(5px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.trend-rank {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 50%;
+    font-weight: 700;
+    font-size: 0.9rem;
+}
+
+.trend-word {
+    flex: 1;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.trend-count-badge {
+    padding: 0.3rem 0.8rem;
+    background: rgba(102, 126, 234, 0.1);
+    color: #667eea;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+/* 카테고리별 키워드 */
+.trend-categories {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+}
+
+.trend-category-box {
+    background: var(--bg-light);
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+.trend-category-box h4.category-badge {
+    display: inline-block;
+    padding: 0.4rem 0.9rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    margin-bottom: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.category-keywords-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.category-keyword {
+    padding: 0.4rem 0.8rem;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 12px;
+    font-size: 0.9rem;
+    color: var(--text-primary);
+}
+
+.category-keyword small {
+    color: var(--text-secondary);
+    font-weight: 600;
+}
+
+.trend-empty, .trend-error {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-secondary);
+    font-style: italic;
+}
+
+/* 반응형 */
+@media (max-width: 768px) {
+    .trend-panel {
+        width: 100%;
+        right: -100%;
+    }
+    
+    .trend-btn span {
+        display: none;
+    }
 }
 
 /* ===== Banner Section ===== */

@@ -19,10 +19,38 @@ document.addEventListener('DOMContentLoaded', function() {
     initBookmarks();
     initNavigation();
     initDatePicker();
+    initTrendPanel();
+    loadInitialTrendBadge();
     
     // 초기 카테고리 라벨 설정
     updateSourceTitle(currentSource, currentCategory);
 });
+
+/**
+ * 초기 트렌드 배지 로드
+ */
+async function loadInitialTrendBadge() {
+    const today = new Date();
+    const yyyy = today.getFullYear();
+    const mm = String(today.getMonth() + 1).padStart(2, '0');
+    const dd = String(today.getDate()).padStart(2, '0');
+    const todayStr = `${yyyy}-${mm}-${dd}`;
+    
+    try {
+        const response = await fetch(`data/trends/trends_${todayStr}.json`);
+        if (response.ok) {
+            const trendData = await response.json();
+            const trendBadge = document.getElementById('trend-badge');
+            
+            if (trendData.daily_top_keywords.length > 0) {
+                trendBadge.textContent = trendData.daily_top_keywords[0].word;
+                trendBadge.classList.add('visible');
+            }
+        }
+    } catch (error) {
+        console.log('초기 트렌드 배지 로드 실패:', error);
+    }
+}
 
 /**
  * 날짜 선택기 초기화 (index.html에서 호출)
@@ -821,7 +849,7 @@ if (newsGrid) {
 }
 
 /**
- * 뉴스 티커 초기화 및 로드
+ * 뉴스 티커 초기화 및 로드 - 트렌드 없이 뉴스만
  */
 async function initNewsTicker(date) {
     const categories = ['politics', 'sports', 'economy', 'society', 'international', 'culture'];
@@ -844,7 +872,6 @@ async function initNewsTicker(date) {
                 const response = await fetch(`data/${category}/${source}/news_${date}.json`);
                 if (response.ok) {
                     const data = await response.json();
-                    // JSON이 배열 형태이므로 data를 직접 사용
                     const newsWithCategory = data.map(item => ({
                         ...item,
                         category: category,
@@ -864,8 +891,141 @@ async function initNewsTicker(date) {
     // 뉴스를 랜덤하게 섞기
     allNews = shuffleArray(allNews);
     
-    // 티커에 뉴스 표시
+    // 티커에 뉴스만 표시
     displayTickerNews(allNews);
+}
+
+/**
+ * 트렌드 패널 초기화
+ */
+function initTrendPanel() {
+    const trendBtn = document.getElementById('trend-btn');
+    const trendPanel = document.getElementById('trend-panel');
+    const trendOverlay = document.getElementById('trend-overlay');
+    const trendCloseBtn = document.getElementById('trend-close-btn');
+    
+    // 트렌드 버튼 클릭
+    trendBtn.addEventListener('click', async function() {
+        const dateInput = document.getElementById('date-select');
+        const selectedDate = dateInput.value;
+        
+        await loadTrendPanelData(selectedDate);
+        trendPanel.classList.add('active');
+        trendOverlay.classList.add('active');
+    });
+    
+    // 닫기 버튼 클릭
+    trendCloseBtn.addEventListener('click', function() {
+        trendPanel.classList.remove('active');
+        trendOverlay.classList.remove('active');
+    });
+    
+    // 오버레이 클릭
+    trendOverlay.addEventListener('click', function() {
+        trendPanel.classList.remove('active');
+        trendOverlay.classList.remove('active');
+    });
+}
+
+/**
+ * 트렌드 패널 데이터 로드
+ */
+async function loadTrendPanelData(date) {
+    try {
+        const response = await fetch(`data/trends/trends_${date}.json`);
+        if (response.ok) {
+            const trendData = await response.json();
+            
+            // Top 키워드 배지 업데이트
+            const trendBadge = document.getElementById('trend-badge');
+            if (trendData.daily_top_keywords.length > 0) {
+                trendBadge.textContent = trendData.daily_top_keywords[0].word;
+                trendBadge.classList.add('visible');
+            } else {
+                trendBadge.classList.remove('visible');
+            }
+            
+            // 전체 키워드 리스트 표시
+            displayTrendKeywords(trendData.daily_top_keywords);
+            
+            // 카테고리별 키워드 표시
+            displayCategoryKeywords(trendData.category_keywords);
+        }
+    } catch (error) {
+        console.log('트렌드 데이터 로드 실패:', error);
+        
+        // 에러 메시지 표시
+        const keywordsList = document.getElementById('trend-keywords-list');
+        keywordsList.innerHTML = '<p class="trend-error">트렌드 데이터를 불러올 수 없습니다.</p>';
+    }
+}
+
+/**
+ * 전체 키워드 리스트 표시
+ */
+function displayTrendKeywords(keywords) {
+    const keywordsList = document.getElementById('trend-keywords-list');
+    
+    if (!keywords || keywords.length === 0) {
+        keywordsList.innerHTML = '<p class="trend-empty">키워드가 없습니다.</p>';
+        return;
+    }
+    
+    keywordsList.innerHTML = keywords.map((kw, index) => `
+        <div class="trend-keyword-item">
+            <span class="trend-rank">${index + 1}</span>
+            <span class="trend-word">${kw.word}</span>
+            <span class="trend-count-badge">${kw.count}회</span>
+        </div>
+    `).join('');
+}
+
+/**
+ * 카테고리별 키워드 표시
+ */
+function displayCategoryKeywords(categoryKeywords) {
+    const categoriesDiv = document.getElementById('trend-categories');
+    
+    const categoryNames = {
+        politics: '정치',
+        sports: '스포츠',
+        economy: '경제',
+        society: '사회',
+        international: '국제',
+        culture: '문화'
+    };
+    
+    categoriesDiv.innerHTML = Object.entries(categoryKeywords).map(([category, keywords]) => {
+        const keywordsHTML = keywords.slice(0, 5).map(kw => 
+            `<span class="category-keyword">${kw.word} <small>(${kw.count})</small></span>`
+        ).join('');
+        
+        return `
+            <div class="trend-category-box">
+                <h4 class="category-badge ${category}">${categoryNames[category]}</h4>
+                <div class="category-keywords-list">
+                    ${keywordsHTML || '<span class="trend-empty">키워드 없음</span>'}
+                </div>
+            </div>
+        `;
+    }).join('');
+}
+
+/**
+ * 트렌드 키워드 로드 (사용 안 함 - 옵션1용)
+ */
+async function loadTrendKeywords(date) {
+    try {
+        const response = await fetch(`data/trends/trends_${date}.json`);
+        if (response.ok) {
+            const trendData = await response.json();
+            console.log('트렌드 키워드 로드 완료:', trendData.daily_top_keywords.length, '개');
+            return trendData.daily_top_keywords.slice(0, 5); // 상위 5개만
+        }
+    } catch (error) {
+        console.log('트렌드 키워드 로드 실패 (파일 없음):', error);
+    }
+    return [];
 }
 
 /**
@@ -881,7 +1041,7 @@ function shuffleArray(array) {
 }
 
 /**
- * 티커에 뉴스 표시
+ * 티커에 뉴스 표시 - 트렌드 제거
  */
 function displayTickerNews(newsItems) {
     const tickerWrapper = document.getElementById('ticker-wrapper');
@@ -899,6 +1059,7 @@ function displayTickerNews(newsItems) {
     
     console.log('티커에 표시할 뉴스:', newsItems.length, '개');
     
+    // 뉴스 슬라이드만 추가
     newsItems.forEach((item, index) => {
         const slide = document.createElement('div');
         slide.className = 'swiper-slide';
@@ -920,12 +1081,14 @@ function displayTickerNews(newsItems) {
         tickerSwiper.destroy(true, true);
     }
     
+    const totalSlides = tickerWrapper.children.length;
+    
     tickerSwiper = new Swiper('.news-ticker-swiper', {
         direction: 'vertical',
         slidesPerView: 1,
         spaceBetween: 0,
-        loop: newsItems.length >= 3,
-        loopedSlides: newsItems.length,
+        loop: totalSlides >= 3,
+        loopedSlides: totalSlides,
         autoplay: {
             delay: 4500,
             disableOnInteraction: false,

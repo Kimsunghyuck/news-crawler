@@ -403,6 +403,23 @@ def crawl_news() -> bool:
             except Exception as e:
                 logger.error(f"보고서 생성 실패: {e}", exc_info=True)
         
+        # 트렌드 데이터 자동 생성
+        try:
+            logger.info("=" * 60)
+            logger.info("📊 트렌드 분석 데이터 생성 시작")
+            logger.info("=" * 60)
+            
+            from analyzer import save_trend_data
+            today = get_kst_now().strftime('%Y-%m-%d')
+            trend_file = save_trend_data(today)
+            
+            if trend_file:
+                logger.info(f"✅ 트렌드 데이터 생성 완료: {trend_file}")
+            logger.info("=" * 60)
+            
+        except Exception as e:
+            logger.error(f"트렌드 데이터 생성 실패: {e}", exc_info=True)
+        
         return True
         
     except Exception as e:
