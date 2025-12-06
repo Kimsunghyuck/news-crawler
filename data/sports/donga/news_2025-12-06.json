@@ -56,7 +56,7 @@
     "category": "스포츠",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132913339.1.jpg",
-    "scraped_at": "2025-12-06T15:05:46.783083+09:00",
+    "scraped_at": "2025-12-06T19:07:02.051625+09:00",
     "main_category": "스포츠"
   },
   {
@@ -67,6 +67,46 @@
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132913315.1.jpg",
     "scraped_at": "2025-12-06T15:05:46.783164+09:00",
+    "main_category": "스포츠"
+  },
+  {
+    "title": "한국 탁구, 혼성단체 월드컵서 독일에 석패…4위로 추락",
+    "url": "https://www.donga.com/news/Sports/article/all/20251206/132913551/1",
+    "date": "2025-12-06",
+    "category": "스포츠",
+    "source": "동아일보",
+    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132913552.1.jpg",
+    "scraped_at": "2025-12-06T19:07:02.051333+09:00",
+    "main_category": "스포츠"
+  },
+  {
+    "title": "‘타마요 24점’ 프로농구 LG, 현대모비스 꺾고 단독 선두 질주",
+    "url": "https://www.donga.com/news/Sports/article/all/20251206/132913542/1",
+    "date": "2025-12-06",
+    "category": "스포츠",
+    "source": "동아일보",
+    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132913543.1.jpg",
+    "scraped_at": "2025-12-06T19:07:02.051416+09:00",
+    "main_category": "스포츠"
+  },
+  {
+    "title": "‘이해란 31점’ 삼성생명, BNK 65-62 제압…공동 3위 도약",
+    "url": "https://www.donga.com/news/Sports/article/all/20251206/132913529/1",
+    "date": "2025-12-06",
+    "category": "스포츠",
+    "source": "동아일보",
+    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132913530.1.jpg",
+    "scraped_at": "2025-12-06T19:07:02.051485+09:00",
+    "main_category": "스포츠"
+  },
+  {
+    "title": "‘SSG 이적’ 김재환 “마음고생한 두산 팬들께 죄송…후회 없이 최선”",
+    "url": "https://www.donga.com/news/Sports/article/all/20251206/132913491/1",
+    "date": "2025-12-06",
+    "category": "스포츠",
+    "source": "동아일보",
+    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132913492.1.jpg",
+    "scraped_at": "2025-12-06T19:07:02.051558+09:00",
     "main_category": "스포츠"
   }
 ]

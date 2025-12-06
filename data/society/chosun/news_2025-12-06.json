@@ -66,7 +66,7 @@
     "category": "사회",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/GEYTAMRRG44GIYJQGVSDGNJXMM.jpg?auth=f06184e99ffee2005db6ff5b5f7923363ccc853b122b3e8209ad447e47642363&width=1200&height=630&smart=true",
-    "scraped_at": "2025-12-06T15:07:12.655433+09:00",
+    "scraped_at": "2025-12-06T19:08:15.945218+09:00",
     "main_category": "사회"
   },
   {
@@ -87,6 +87,46 @@
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/VGA2XROFUVFGTBRNK3KZCLS5ZA.jpg?auth=5a5d5aa358dd77e083e1b2db14400a5c15427fe51f57c301586cfe5a9e3844d9&width=1200&height=630&smart=true",
     "scraped_at": "2025-12-06T15:07:12.655520+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "쿠팡·통신사 잇단 유출… 정부, 정보보호 인증 손본다",
+    "url": "https://www.chosun.com/national/national_general/2025/12/06/GSILCOMSUBET7O72HS6BVKPSOA/",
+    "date": "2025-12-06",
+    "category": "사회",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/WRGN6Q7QVROAXDQZXRCNJDJ4QI.JPG?auth=c1564dee1825b23343eb90a7c601ca1778effe06456013ebc88528012fdda9d1&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-06T19:08:15.945154+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "중국 보따리상의 수상한 검정비닐 '10억 금괴' 밀반입, 처벌은 집유",
+    "url": "https://www.chosun.com/national/incident/2025/12/06/U2PIZZGMKVEMHPTXM334Y43TII/",
+    "date": "2025-12-06",
+    "category": "사회",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/AZWLNE2CUVC4BNXL5R7VBKVCJY.jpg?auth=a7568636bc0268e954cb229badff6d3e91391dffa8ecacec5e6daf561998e24a&width=623&height=327&smart=true",
+    "scraped_at": "2025-12-06T19:08:15.945268+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "경북 칠곡 섬유 공장서 화재4개동 태우고 3시간 만에 초진",
+    "url": "https://www.chosun.com/national/incident/2025/12/06/3P6TO4AKMJD6RCUSWO4UXGCYTE/",
+    "date": "2025-12-06",
+    "category": "사회",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/3AQ6EHYGSZLPTBLZLUBYDEMFCU.jpg?auth=ace639804b41838094c7f80119c3e1d0784c993f97dafed285622d1c2061af17&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-06T19:08:15.945316+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "서울고검, '쌍방울 대북송금' 증인 안부수 구속영장 청구",
+    "url": "https://www.chosun.com/national/court_law/2025/12/06/J7AJBGZOVBE5PP6TBP32OCAAGE/",
+    "date": "2025-12-06",
+    "category": "사회",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/VXBNAL2KRPA7V36N42JJOBEH2E.jpg?auth=4054dba08a4965196aa5b90f7d1e1bc9d655c56f55db7d58a0fce42c7031cfd6&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-06T19:08:15.945359+09:00",
     "main_category": "사회"
   }
 ]

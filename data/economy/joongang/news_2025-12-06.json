@@ -5,7 +5,7 @@
     "date": "2025-12-06",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-06T15:06:11.497492+09:00",
+    "scraped_at": "2025-12-06T19:07:19.530128+09:00",
     "main_category": "경제",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/81cb0ede-3a61-4c59-82a5-7cbcc0263a85.jpg"
   },
@@ -15,7 +15,7 @@
     "date": "2025-12-06",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-06T15:06:11.497807+09:00",
+    "scraped_at": "2025-12-06T19:07:19.530883+09:00",
     "main_category": "경제",
     "image_url": ""
   },
@@ -25,7 +25,7 @@
     "date": "2025-12-06",
     "category": "경제",
     "source": "중앙일보",
-    "scraped_at": "2025-12-06T15:06:11.497650+09:00",
+    "scraped_at": "2025-12-06T19:07:19.530446+09:00",
     "main_category": "경제",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/66e7212d-6f63-4173-a1af-86bd47cffa30.jpg"
   },
@@ -58,5 +58,25 @@
     "scraped_at": "2025-12-06T15:06:11.497988+09:00",
     "main_category": "경제",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/17ce539b-7d40-4941-9dab-575428f952ba.jpg"
+  },
+  {
+    "title": "91년 전 레시피 지키며 진화…천안의 성심당 '할머니 호두과자' [비크닉]",
+    "url": "https://www.joongang.co.kr/article/25387942",
+    "date": "2025-12-06",
+    "category": "경제",
+    "source": "중앙일보",
+    "scraped_at": "2025-12-06T19:07:19.530277+09:00",
+    "main_category": "경제",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/84dd6d19-0af1-4cff-940f-6e1ec2ab19ea.jpg"
+  },
+  {
+    "title": "개인정보 또 샜다…LG유플 '익시오' 고객 36명 통화내역 유출",
+    "url": "https://www.joongang.co.kr/article/25387948",
+    "date": "2025-12-06",
+    "category": "경제",
+    "source": "중앙일보",
+    "scraped_at": "2025-12-06T19:07:19.530644+09:00",
+    "main_category": "경제",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/ac9130fb-56c1-4139-b911-270784720d03.jpg"
   }
 ]

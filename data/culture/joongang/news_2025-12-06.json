@@ -6,7 +6,7 @@
     "category": "문화",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/8bab2889-6cff-4ed3-8348-3cd8fc90ac3a.jpg",
-    "scraped_at": "2025-12-06T15:09:38.613131+09:00",
+    "scraped_at": "2025-12-06T19:10:10.516071+09:00",
     "main_category": "문화"
   },
   {
@@ -16,7 +16,7 @@
     "category": "문화",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/eb3470d9-8505-4ac3-b14f-7034fe263213.jpg",
-    "scraped_at": "2025-12-06T15:09:38.613315+09:00",
+    "scraped_at": "2025-12-06T19:10:10.516523+09:00",
     "main_category": "문화"
   },
   {
@@ -55,8 +55,8 @@
     "date": "2025-12-06",
     "category": "문화",
     "source": "중앙일보",
-    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/a0879e60-23ee-45fe-a6d1-a092b9aec0c9.jpg",
-    "scraped_at": "2025-12-06T15:09:38.613814+09:00",
+    "image_url": "",
+    "scraped_at": "2025-12-06T19:10:10.516808+09:00",
     "main_category": "문화"
   },
   {
@@ -65,8 +65,18 @@
     "date": "2025-12-06",
     "category": "문화",
     "source": "중앙일보",
-    "image_url": "",
-    "scraped_at": "2025-12-06T15:09:38.614069+09:00",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/55c8028e-3e73-4838-9a33-dbaae2c0b4f1.jpg",
+    "scraped_at": "2025-12-06T19:10:10.516283+09:00",
+    "main_category": "문화"
+  },
+  {
+    "title": "\"떼강도 짓하다 빵 가고\"…미성년 범죄 인정한 조진웅, 과거 댓글 재조명",
+    "url": "https://www.joongang.co.kr/article/25387945",
+    "date": "2025-12-06",
+    "category": "문화",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/08af9547-83e5-4f54-8f08-7aa8f53508e9.jpg",
+    "scraped_at": "2025-12-06T19:10:10.515875+09:00",
     "main_category": "문화"
   }
 ]

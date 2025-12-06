@@ -1,25 +1,49 @@
 {
   "date": "2025-12-06",
-  "generated_at": "2025-12-06T15:10:29.197937+09:00",
+  "generated_at": "2025-12-06T19:10:58.516446+09:00",
   "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 8
+    },
     {
       "word": "의혹",
       "count": 6
     },
     {
       "word": "한국",
-      "count": 5
+      "count": 6
     },
     {
       "word": "멕시코",
+      "count": 6
+    },
+    {
+      "word": "통일교",
       "count": 5
+    },
+    {
+      "word": "손흥민",
+      "count": 5
+    },
+    {
+      "word": "표제",
+      "count": 4
+    },
+    {
+      "word": "정청래",
+      "count": 4
     },
     {
       "word": "서울",
       "count": 4
     },
     {
-      "word": "손흥민",
+      "word": "쿠팡",
+      "count": 4
+    },
+    {
+      "word": "진화",
       "count": 4
     },
     {
@@ -35,74 +59,50 @@
       "count": 3
     },
     {
+      "word": "출산",
+      "count": 3
+    },
+    {
+      "word": "둘째",
+      "count": 3
+    },
+    {
       "word": "요구",
       "count": 3
     },
     {
+      "word": "조진웅",
+      "count": 3
+    },
+    {
+      "word": "위로",
+      "count": 3
+    },
+    {
       "word": "위헌",
-      "count": 3
-    },
-    {
-      "word": "표제",
-      "count": 3
-    },
-    {
-      "word": "정청래",
-      "count": 3
-    },
-    {
-      "word": "송언석",
-      "count": 3
-    },
-    {
-      "word": "통일교",
-      "count": 3
-    },
-    {
-      "word": "특검",
-      "count": 3
-    },
-    {
-      "word": "내란재판부",
-      "count": 3
-    },
-    {
-      "word": "반도체",
-      "count": 3
-    },
-    {
-      "word": "쿠팡",
-      "count": 3
-    },
-    {
-      "word": "진화",
-      "count": 3
-    },
-    {
-      "word": "우승",
       "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "표제",
+        "count": 4
+      },
+      {
+        "word": "정청래",
+        "count": 4
+      },
+      {
+        "word": "통일교",
+        "count": 4
+      },
+      {
         "word": "위헌",
         "count": 3
       },
       {
-        "word": "표제",
-        "count": 3
-      },
-      {
-        "word": "정청래",
-        "count": 3
-      },
-      {
-        "word": "송언석",
-        "count": 3
-      },
-      {
-        "word": "통일교",
+        "word": "리더십",
         "count": 3
       }
     ],
@@ -116,16 +116,16 @@
         "count": 4
       },
       {
-        "word": "토트넘",
-        "count": 2
+        "word": "연장",
+        "count": 3
       },
       {
-        "word": "남자",
-        "count": 2
+        "word": "도스",
+        "count": 3
       },
       {
-        "word": "대회",
-        "count": 2
+        "word": "산토스",
+        "count": 3
       }
     ],
     "economy": [
@@ -156,26 +156,26 @@
         "count": 3
       },
       {
+        "word": "칠곡",
+        "count": 3
+      },
+      {
+        "word": "화재",
+        "count": 3
+      },
+      {
+        "word": "만에",
+        "count": 3
+      },
+      {
         "word": "수능",
-        "count": 2
-      },
-      {
-        "word": "서울",
-        "count": 2
-      },
-      {
-        "word": "고통",
-        "count": 2
-      },
-      {
-        "word": "없이",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "멕시코",
-        "count": 5
+        "count": 6
       },
       {
         "word": "죽음의",
@@ -200,19 +200,19 @@
         "count": 3
       },
       {
-        "word": "케데헌",
+        "word": "출산",
+        "count": 3
+      },
+      {
+        "word": "둘째",
+        "count": 3
+      },
+      {
+        "word": "결혼식",
         "count": 2
       },
       {
-        "word": "갑질",
-        "count": 2
-      },
-      {
-        "word": "의혹",
-        "count": 2
-      },
-      {
-        "word": "매니저들",
+        "word": "이장우",
         "count": 2
       }
     ]

@@ -36,7 +36,7 @@
     "category": "정치",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/JJQ2L7SWEFMSFA7DX6B2BBZYUU.JPG?auth=2b5008697c9d897765f6ec7bc718179292493f63fed03585bd8066501d4bfee0&width=1200&height=630&smart=true",
-    "scraped_at": "2025-12-06T15:04:13.722820+09:00",
+    "scraped_at": "2025-12-06T19:05:32.594959+09:00",
     "main_category": "정치"
   },
   {
@@ -56,7 +56,7 @@
     "category": "정치",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/MRRGKY3DMI3DIYZTHAYTOMJVMQ.jpg?auth=80b0dde5be880c7f941029a9a115cfc6f58f94e942c8bf01aed18dd5a378a447&width=1200&height=630&smart=true",
-    "scraped_at": "2025-12-06T15:04:13.722679+09:00",
+    "scraped_at": "2025-12-06T19:05:32.594867+09:00",
     "main_category": "정치"
   },
   {
@@ -66,7 +66,27 @@
     "category": "정치",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/MJTGGMBSMVQTKNJYMUYTSYJSGE.jpg?auth=33a9bbc9b550eaf2bf31c66d29c40322325e5f92306a1dc737ddb194cde4c781&width=1200&height=630&smart=true",
-    "scraped_at": "2025-12-06T15:04:13.722733+09:00",
+    "scraped_at": "2025-12-06T19:05:32.594914+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "'국민 北억류' 모른다는 李… 나경원, 규탄 결의안 발의",
+    "url": "https://www.chosun.com/politics/assembly/2025/12/06/CN6QTSKQIVEO3G3CF7FRARI5YM/",
+    "date": "2025-12-06",
+    "category": "정치",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/GLYETCOPJJGJXAU7W4VB6NODPM.jpg?auth=ad4f6255fae42c51de5222b8c9dad87cd8ab9fed042a2764faf76046cb79ee7a&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-06T19:05:32.594737+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "국힘 \"통일교 돈, 민주는 괜찮나\"민주 \"국힘처럼 불법 후원 아냐\"",
+    "url": "https://www.chosun.com/politics/assembly/2025/12/06/5VH4RGNREBEFZL7TR62C53FYMQ/",
+    "date": "2025-12-06",
+    "category": "정치",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/ME4WGNLEGI2WEZJSMZQWKZDBGE.jpg?auth=060fcb7814218e04cbcd33d2d096a888d9be87e2ec89dec7c6036dbc559ef13f&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-06T19:05:32.594810+09:00",
     "main_category": "정치"
   },
   {

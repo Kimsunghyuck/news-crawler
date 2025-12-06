@@ -5,8 +5,8 @@
     "date": "2025-12-06",
     "category": "사회",
     "source": "중앙일보",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/08af9547-83e5-4f54-8f08-7aa8f53508e9.jpg",
-    "scraped_at": "2025-12-06T15:07:22.237626+09:00",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/eaeb9c85-3a6d-4778-a88f-e1af47d48e0c.jpg",
+    "scraped_at": "2025-12-06T19:08:22.454163+09:00",
     "main_category": "사회"
   },
   {
@@ -16,7 +16,7 @@
     "category": "사회",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/35c8b15e-8166-43a4-bead-8a463322231e.jpg",
-    "scraped_at": "2025-12-06T15:07:22.237810+09:00",
+    "scraped_at": "2025-12-06T19:08:22.454374+09:00",
     "main_category": "사회"
   },
   {
@@ -46,7 +46,27 @@
     "category": "사회",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/3750e300-ef73-4c9e-9719-024ef0e9e5ca.jpg",
-    "scraped_at": "2025-12-06T15:07:22.238007+09:00",
+    "scraped_at": "2025-12-06T19:08:22.453965+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "\"통일교, 민주당에 수천만원\" 진술 받고도…수사 덮은 김건희특검",
+    "url": "https://www.joongang.co.kr/article/25387935",
+    "date": "2025-12-06",
+    "category": "사회",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/4381aa23-f8cc-40c4-b257-a106c5e9514e.jpg",
+    "scraped_at": "2025-12-06T19:08:22.454609+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "야구로 번 돈 다 날렸다? '양신' 양준혁, 연매출 30억 '방신' 됐다",
+    "url": "https://www.joongang.co.kr/article/25387933",
+    "date": "2025-12-06",
+    "category": "사회",
+    "source": "중앙일보",
+    "image_url": "",
+    "scraped_at": "2025-12-06T19:08:22.454903+09:00",
     "main_category": "사회"
   }
 ]

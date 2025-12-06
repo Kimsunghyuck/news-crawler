@@ -56,7 +56,7 @@
     "category": "국제",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132913456.1.jpg",
-    "scraped_at": "2025-12-06T15:09:09.456254+09:00",
+    "scraped_at": "2025-12-06T19:09:56.346960+09:00",
     "main_category": "국제"
   },
   {
@@ -66,7 +66,7 @@
     "category": "국제",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132913375.1.jpg",
-    "scraped_at": "2025-12-06T15:09:09.456333+09:00",
+    "scraped_at": "2025-12-06T19:09:56.347026+09:00",
     "main_category": "국제"
   },
   {
@@ -76,7 +76,7 @@
     "category": "국제",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132913357.1.jpg",
-    "scraped_at": "2025-12-06T15:09:09.456398+09:00",
+    "scraped_at": "2025-12-06T19:09:56.347094+09:00",
     "main_category": "국제"
   },
   {
@@ -90,13 +90,23 @@
     "main_category": "국제"
   },
   {
+    "title": "북한땅에 ‘이것’ 뿌린 덴마크 남성 “노동수용소 갈뻔…사과문 쓰고 출국”",
+    "url": "https://www.donga.com/news/Inter/article/all/20251206/132913469/2",
+    "date": "2025-12-06",
+    "category": "국제",
+    "source": "동아일보",
+    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132913472.2.jpg",
+    "scraped_at": "2025-12-06T19:09:56.346879+09:00",
+    "main_category": "국제"
+  },
+  {
     "title": "‘日서 흉기 난동’ 중국 남성, 체포 뒤 카메라 향해 손 흔들어",
     "url": "https://www.donga.com/news/Inter/article/all/20251205/132909025/2",
     "date": "2025-12-05",
     "category": "국제",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/05/132909377.3.png",
-    "scraped_at": "2025-12-06T15:09:09.456465+09:00",
+    "scraped_at": "2025-12-06T19:09:56.347158+09:00",
     "main_category": "국제"
   }
 ]

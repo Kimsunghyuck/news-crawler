@@ -6,7 +6,7 @@
     "category": "국제",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/db27228a-3e89-4ce3-aabc-d4175d3b17e6.jpg",
-    "scraped_at": "2025-12-06T15:08:23.102725+09:00",
+    "scraped_at": "2025-12-06T19:09:17.044640+09:00",
     "main_category": "국제"
   },
   {
@@ -16,7 +16,7 @@
     "category": "국제",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/e9b90f33-4744-406c-a2e2-b9692aa22cc3.jpg",
-    "scraped_at": "2025-12-06T15:08:23.102537+09:00",
+    "scraped_at": "2025-12-06T19:09:17.044225+09:00",
     "main_category": "국제"
   },
   {
@@ -55,8 +55,28 @@
     "date": "2025-12-06",
     "category": "국제",
     "source": "중앙일보",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/5ca82ba8-2e82-499a-9bf3-d960ffa989bb.jpg",
-    "scraped_at": "2025-12-06T15:08:23.103147+09:00",
+    "image_url": "",
+    "scraped_at": "2025-12-06T19:09:17.045178+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "'손흥민 갈빗살'도 등장했었는데…\"멕시코 영웅, 이젠 적으로\"",
+    "url": "https://www.joongang.co.kr/article/25387943",
+    "date": "2025-12-06",
+    "category": "국제",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/62d156fc-d5fb-4a43-a80f-a70ec7c22dc6.jpg",
+    "scraped_at": "2025-12-06T19:09:17.044426+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "“머스크 스페이스X 기업가치 최대 1100조원”…IPO도 검토",
+    "url": "https://www.joongang.co.kr/article/25387939",
+    "date": "2025-12-06",
+    "category": "국제",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/10afd91e-03d4-4ac8-a03a-d9d4d14ab8d3.jpg",
+    "scraped_at": "2025-12-06T19:09:17.044906+09:00",
     "main_category": "국제"
   }
 ]
