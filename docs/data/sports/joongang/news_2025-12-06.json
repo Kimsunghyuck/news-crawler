@@ -5,7 +5,7 @@
     "date": "2025-12-06",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-06T09:40:07.818787+09:00",
+    "scraped_at": "2025-12-06T15:05:04.863679+09:00",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/04/562ddfeb-2d90-4316-9e84-d348a9d1f553.jpg",
     "main_category": "스포츠"
   },
@@ -15,7 +15,7 @@
     "date": "2025-12-06",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-06T09:40:07.818933+09:00",
+    "scraped_at": "2025-12-06T15:05:04.863981+09:00",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/fa5c46bd-1367-456f-8bb1-2955cdde8147.jpg",
     "main_category": "스포츠"
   },
@@ -25,7 +25,7 @@
     "date": "2025-12-06",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-06T09:40:07.819104+09:00",
+    "scraped_at": "2025-12-06T15:05:04.864163+09:00",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/7ffad3df-70ab-4a53-9e82-cd4a6c421a80.jpg",
     "main_category": "스포츠"
   },
@@ -35,7 +35,7 @@
     "date": "2025-12-06",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-06T09:40:07.819290+09:00",
+    "scraped_at": "2025-12-06T15:05:04.864369+09:00",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202511/cc5803a5-42a0-46c4-a012-a74a0bef6bb8.png",
     "main_category": "스포츠"
   },
@@ -46,6 +46,16 @@
     "category": "스포츠",
     "source": "중앙일보",
     "scraped_at": "2025-12-06T09:40:07.819503+09:00",
+    "image_url": "",
+    "main_category": "스포츠"
+  },
+  {
+    "title": "손흥민 소속팀 LAFC, 새 사령탑에 도스 산토스 감독 선임",
+    "url": "https://www.joongang.co.kr/article/25387924",
+    "date": "2025-12-06",
+    "category": "스포츠",
+    "source": "중앙일보",
+    "scraped_at": "2025-12-06T15:05:04.863822+09:00",
     "image_url": "",
     "main_category": "스포츠"
   }

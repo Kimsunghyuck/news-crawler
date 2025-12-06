@@ -36,7 +36,37 @@
     "category": "정치",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/JJQ2L7SWEFMSFA7DX6B2BBZYUU.JPG?auth=2b5008697c9d897765f6ec7bc718179292493f63fed03585bd8066501d4bfee0&width=1200&height=630&smart=true",
-    "scraped_at": "2025-12-06T09:39:20.863563+09:00",
+    "scraped_at": "2025-12-06T15:04:13.722820+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "송언석 \"與 통일교 금품수수 수사\" 한동훈 \"특검 해산\"",
+    "url": "https://www.chosun.com/politics/assembly/2025/12/06/A3NEWAIGJJFJTI2QATSOD3YG7U/",
+    "date": "2025-12-06",
+    "category": "정치",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/ME4WGNLEGI2WEZJSMZQWKZDBGE.jpg?auth=060fcb7814218e04cbcd33d2d096a888d9be87e2ec89dec7c6036dbc559ef13f&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-06T15:04:13.722611+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "국힘 \"전국 법원장들도 반헌법적'내란재판부' 우려… 귀 기울여야\"",
+    "url": "https://www.chosun.com/politics/assembly/2025/12/06/4DTPJVTQUJCJVNVM4QBOYAIXV4/",
+    "date": "2025-12-06",
+    "category": "정치",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/MRRGKY3DMI3DIYZTHAYTOMJVMQ.jpg?auth=80b0dde5be880c7f941029a9a115cfc6f58f94e942c8bf01aed18dd5a378a447&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-06T15:04:13.722679+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "민주 \"내란 재판 지연하는 사법부,각성하고 국민 앞에 사과해야\"",
+    "url": "https://www.chosun.com/politics/assembly/2025/12/06/E7GFCAW5UNH7NHTKTZIY2OD6EA/",
+    "date": "2025-12-06",
+    "category": "정치",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/MJTGGMBSMVQTKNJYMUYTSYJSGE.jpg?auth=33a9bbc9b550eaf2bf31c66d29c40322325e5f92306a1dc737ddb194cde4c781&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-06T15:04:13.722733+09:00",
     "main_category": "정치"
   },
   {
@@ -46,7 +76,7 @@
     "category": "정치",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/ZV5ZHHCKCVOKHLUEZ62QQFM2GU.jpg?auth=24847f4725676c8ad15c97f266eff98f401b173f75624da142162706bcf5ae7f&width=1200&height=630&focal=267,163",
-    "scraped_at": "2025-12-06T09:39:20.863473+09:00",
+    "scraped_at": "2025-12-06T15:04:13.722778+09:00",
     "main_category": "정치"
   }
 ]

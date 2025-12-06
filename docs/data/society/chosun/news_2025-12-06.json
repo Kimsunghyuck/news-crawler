@@ -1,12 +1,12 @@
 [
   {
-    "title": "매달 700㎞ 달린다… 안전화 신고 훈련하는 낭만 러너",
+    "title": "막노동 뛰며 매달 700㎞ 뛴다새벽을 가르는 '낭만 마라토너'",
     "url": "https://www.chosun.com/national/weekend/2025/12/06/PGIV4WSDGBBDXERPU6SJSLG5SA/",
     "date": "2025-12-06",
     "category": "사회",
     "source": "조선일보",
-    "image_url": "https://www.chosun.com/resizer/v2/2AKSVUX56JF77G3M2YH5SJEKIY.jpg?auth=9b67fb25c4c0ce253c103353e0e5de3ec9614bcd6513d3b26ec03f848fe7597b&width=1200&height=630&focal=2515,972",
-    "scraped_at": "2025-12-06T09:41:58.924034+09:00",
+    "image_url": "https://www.chosun.com/resizer/v2/6SUV2FGFK5HBZJCBSEBQLQTAWM.jpg?auth=c8846753497cccf892948abfa1f63630928e75ef117b4633a5f736bb78c7f2bb&width=1200&height=630&focal=3175,637",
+    "scraped_at": "2025-12-06T15:07:12.655381+09:00",
     "main_category": "사회"
   },
   {
@@ -47,6 +47,46 @@
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/IGOYXT3W2BDS3D7QAPFKHXD3BY.jpg?auth=28550211b1bd57dce2f7ee71982e586fa965b719471cc062c8d73373dfc1d68a&width=1200&height=630&smart=true",
     "scraped_at": "2025-12-06T09:41:58.924237+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "\"고통 없이 인간은 진화 못해\" 장교 이재용 장남 좌우명",
+    "url": "https://www.chosun.com/national/national_general/2025/12/06/43HF4YVZQZHHZHWFXGFGORDCVU/",
+    "date": "2025-12-06",
+    "category": "사회",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/55A6AAJWLJB2NJX363YFMOJ3NE.png?auth=0e9c373273bf8a873fa87f934b7cbb8a1facbf61e101afe0982bfc227eb224aa&width=754&height=395&smart=true",
+    "scraped_at": "2025-12-06T15:07:12.655319+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "'검찰청 폐지 후 중수청 가겠다'응답한 검사는 고작 0.8% 뿐",
+    "url": "https://www.chosun.com/national/court_law/2025/12/06/ANS2Z6FNBRBULG3VJ5NVFKH7HE/",
+    "date": "2025-12-06",
+    "category": "사회",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/GEYTAMRRG44GIYJQGVSDGNJXMM.jpg?auth=f06184e99ffee2005db6ff5b5f7923363ccc853b122b3e8209ad447e47642363&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-06T15:07:12.655433+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "불법 체류자만 고용한 그 놈…성매매·마약 투약 40대 징역형",
+    "url": "https://www.chosun.com/national/incident/2025/12/06/WHVYAJ4AX5A4JKXNZCOFNLRSOI/",
+    "date": "2025-12-06",
+    "category": "사회",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/ITR73JEUPBGFBAQ64FT3UZ5SPY.jpg?auth=eb561ea6bf2ad8d5f19c5b10b833c1fac6d995342a39d3ac30f6bcecae4bc144&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-06T15:07:12.655477+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "전국 흐리고 곳곳 눈비…추위 풀렸지만 빙판길 주의해야",
+    "url": "https://www.chosun.com/national/welfare-medical/2025/12/06/MFRX6377TFEHZIGDYONSXCCIZY/",
+    "date": "2025-12-06",
+    "category": "사회",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/VGA2XROFUVFGTBRNK3KZCLS5ZA.jpg?auth=5a5d5aa358dd77e083e1b2db14400a5c15427fe51f57c301586cfe5a9e3844d9&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-06T15:07:12.655520+09:00",
     "main_category": "사회"
   }
 ]

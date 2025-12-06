@@ -6,7 +6,7 @@
     "category": "스포츠",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132912898.1.jpg",
-    "scraped_at": "2025-12-06T09:40:47.076045+09:00",
+    "scraped_at": "2025-12-06T15:05:46.783230+09:00",
     "main_category": "스포츠"
   },
   {
@@ -16,7 +16,7 @@
     "category": "스포츠",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132912184.3.jpg",
-    "scraped_at": "2025-12-06T09:40:47.076126+09:00",
+    "scraped_at": "2025-12-06T15:05:46.783300+09:00",
     "main_category": "스포츠"
   },
   {
@@ -26,7 +26,7 @@
     "category": "스포츠",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132912895.1.jpg",
-    "scraped_at": "2025-12-06T09:40:47.076193+09:00",
+    "scraped_at": "2025-12-06T15:05:46.783364+09:00",
     "main_category": "스포츠"
   },
   {
@@ -47,6 +47,26 @@
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132910199.4.jpg",
     "scraped_at": "2025-12-06T09:40:47.076328+09:00",
+    "main_category": "스포츠"
+  },
+  {
+    "title": "손흥민 뛰는 LA FC, 도스 산토스 수석코치 감독으로 선임",
+    "url": "https://www.donga.com/news/Sports/article/all/20251206/132913338/1",
+    "date": "2025-12-06",
+    "category": "스포츠",
+    "source": "동아일보",
+    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132913339.1.jpg",
+    "scraped_at": "2025-12-06T15:05:46.783083+09:00",
+    "main_category": "스포츠"
+  },
+  {
+    "title": "빙속 이나현, 월드컵 3차 대회 여자 1000m 8위…시즌 첫 ‘톱10’",
+    "url": "https://www.donga.com/news/Sports/article/all/20251206/132913314/1",
+    "date": "2025-12-06",
+    "category": "스포츠",
+    "source": "동아일보",
+    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/06/132913315.1.jpg",
+    "scraped_at": "2025-12-06T15:05:46.783164+09:00",
     "main_category": "스포츠"
   }
 ]

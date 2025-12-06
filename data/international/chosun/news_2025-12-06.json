@@ -16,7 +16,7 @@
     "category": "국제",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/OB5THMKAGFCE3KC4MFQO4RYMNA.gif?auth=7c1e40ca5661975686fc0daf1cdb50ca590c9ae7051ee9f7f376b88e2e5dbc27&width=700&height=367&focal=340,133",
-    "scraped_at": "2025-12-06T09:42:55.229767+09:00",
+    "scraped_at": "2025-12-06T15:08:14.331461+09:00",
     "main_category": "국제"
   },
   {
@@ -26,7 +26,7 @@
     "category": "국제",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/WTYDIZULEBFC7DZ7OPCIZ57RIY.jpg?auth=8f1f66f0bb4a59dae397d7827012af58e963eef97eb224b89b003bd5e7e1b17b&width=691&height=362&smart=true",
-    "scraped_at": "2025-12-06T09:42:55.229821+09:00",
+    "scraped_at": "2025-12-06T15:08:14.331512+09:00",
     "main_category": "국제"
   },
   {
@@ -36,7 +36,7 @@
     "category": "국제",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/OJ3IF47SGBENRJSVXA7BAADIIE.jpg?auth=76c9109d80a3585684c56565b1508f649a189a1b505675ec66f879b180335292&width=1200&height=630&focal=3402,822",
-    "scraped_at": "2025-12-06T09:42:55.229869+09:00",
+    "scraped_at": "2025-12-06T15:08:14.331580+09:00",
     "main_category": "국제"
   },
   {
@@ -46,7 +46,17 @@
     "category": "국제",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/MZTGMMTFMRRTANRWGZRDINTDGQ.jpg?auth=d6521f5e51ff24190d98cba7f4a8aada93013547acadc07b1a03309393dd629d&width=1200&height=630&smart=true",
-    "scraped_at": "2025-12-06T09:42:55.229912+09:00",
+    "scraped_at": "2025-12-06T15:08:14.331625+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "죽은 도시도 살려낸 거장, 프랭크 게리 별세",
+    "url": "https://www.chosun.com/international/international_general/2025/12/06/5JCI7GMV6NBXNBRZUMEZH7YH3Q/",
+    "date": "2025-12-06",
+    "category": "국제",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/OXDSFHD6IRMJDI4S6DPVBNTG5M.jpg?auth=253ecd8702b735cf95bffa9fd7d696e1dd81870e0cbef8ccf897c889c311d2bb&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-06T15:08:14.331399+09:00",
     "main_category": "국제"
   }
 ]
