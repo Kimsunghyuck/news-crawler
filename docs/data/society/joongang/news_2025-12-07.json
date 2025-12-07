@@ -6,7 +6,7 @@
     "category": "사회",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/9e92b0f7-cfdf-4c40-b231-c01fc08d0553.jpg",
-    "scraped_at": "2025-12-07T09:48:14.190979+09:00",
+    "scraped_at": "2025-12-07T15:07:18.246534+09:00",
     "main_category": "사회"
   },
   {
@@ -16,7 +16,7 @@
     "category": "사회",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/ec294a16-3c22-4314-9fb2-dbd82deaa605.jpg",
-    "scraped_at": "2025-12-07T09:48:14.191170+09:00",
+    "scraped_at": "2025-12-07T15:07:18.246719+09:00",
     "main_category": "사회"
   },
   {
@@ -25,8 +25,8 @@
     "date": "2025-12-07",
     "category": "사회",
     "source": "중앙일보",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/ff5031de-a2e9-4df1-aaf1-b348923b38b1.jpg",
-    "scraped_at": "2025-12-07T09:48:14.191370+09:00",
+    "image_url": "",
+    "scraped_at": "2025-12-07T15:07:18.247160+09:00",
     "main_category": "사회"
   },
   {
@@ -36,7 +36,7 @@
     "category": "사회",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/484b4806-c5ca-4754-b6e4-930e387b0d5f.jpg",
-    "scraped_at": "2025-12-07T09:48:14.191607+09:00",
+    "scraped_at": "2025-12-07T15:07:18.247409+09:00",
     "main_category": "사회"
   },
   {
@@ -47,6 +47,16 @@
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/475b811e-3654-480a-a760-00167ce276c2.jpg",
     "scraped_at": "2025-12-07T09:48:14.191861+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "이 문자 받으면 즉시 삭제하세요…'쿠팡 사태' 악용 피싱 등장",
+    "url": "https://www.joongang.co.kr/article/25387982",
+    "date": "2025-12-07",
+    "category": "사회",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/2ab954bd-f4e5-46a9-9b03-6d8b2cce1959.jpg",
+    "scraped_at": "2025-12-07T15:07:18.246934+09:00",
     "main_category": "사회"
   }
 ]

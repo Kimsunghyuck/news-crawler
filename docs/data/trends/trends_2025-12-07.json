@@ -1,17 +1,45 @@
 {
   "date": "2025-12-07",
-  "generated_at": "2025-12-07T09:50:26.579868+09:00",
+  "generated_at": "2025-12-07T15:10:56.027924+09:00",
   "daily_top_keywords": [
     {
-      "word": "조진웅",
-      "count": 5
+      "word": "만원",
+      "count": 7
     },
     {
-      "word": "통일교",
-      "count": 4
+      "word": "조진웅",
+      "count": 6
+    },
+    {
+      "word": "논란",
+      "count": 6
+    },
+    {
+      "word": "쿠팡",
+      "count": 6
     },
     {
       "word": "의혹",
+      "count": 5
+    },
+    {
+      "word": "국힘",
+      "count": 5
+    },
+    {
+      "word": "대변인",
+      "count": 4
+    },
+    {
+      "word": "감사원장",
+      "count": 4
+    },
+    {
+      "word": "내란재판부",
+      "count": 4
+    },
+    {
+      "word": "통일교",
       "count": 4
     },
     {
@@ -19,94 +47,70 @@
       "count": 4
     },
     {
+      "word": "은퇴",
+      "count": 3
+    },
+    {
+      "word": "박나래",
+      "count": 3
+    },
+    {
+      "word": "사생활",
+      "count": 3
+    },
+    {
+      "word": "범죄",
+      "count": 3
+    },
+    {
       "word": "이유",
       "count": 3
     },
     {
-      "word": "주민",
+      "word": "자위대",
       "count": 3
     },
     {
-      "word": "만원",
+      "word": "피소",
       "count": 3
     },
     {
-      "word": "손흥민",
+      "word": "위헌",
       "count": 3
     },
     {
-      "word": "은퇴",
-      "count": 2
-    },
-    {
-      "word": "최초",
-      "count": 2
-    },
-    {
-      "word": "논란",
-      "count": 2
-    },
-    {
-      "word": "박나래",
-      "count": 2
-    },
-    {
-      "word": "논란에",
-      "count": 2
-    },
-    {
-      "word": "올해의",
-      "count": 2
-    },
-    {
-      "word": "범죄",
-      "count": 2
-    },
-    {
-      "word": "과거",
-      "count": 2
-    },
-    {
-      "word": "한동훈",
-      "count": 2
-    },
-    {
-      "word": "특검",
-      "count": 2
-    },
-    {
-      "word": "국민",
-      "count": 2
-    },
-    {
-      "word": "내란재판부",
-      "count": 2
+      "word": "시간",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "국힘",
+        "count": 5
+      },
+      {
+        "word": "감사원장",
+        "count": 4
+      },
+      {
+        "word": "내란재판부",
+        "count": 4
+      },
+      {
         "word": "통일교",
         "count": 4
       },
       {
-        "word": "의혹",
+        "word": "피소",
         "count": 3
-      },
-      {
-        "word": "한동훈",
-        "count": 2
-      },
-      {
-        "word": "특검",
-        "count": 2
-      },
-      {
-        "word": "국민",
-        "count": 2
       }
     ],
     "sports": [
+      {
+        "word": "경기",
+        "count": 2
+      },
       {
         "word": "남자",
         "count": 2
@@ -122,82 +126,82 @@
       {
         "word": "감독",
         "count": 2
-      },
-      {
-        "word": "손흥민",
-        "count": 2
       }
     ],
     "economy": [
+      {
+        "word": "만원",
+        "count": 4
+      },
+      {
+        "word": "쿠팡",
+        "count": 3
+      },
       {
         "word": "버블",
         "count": 2
       },
       {
-        "word": "뚫린",
+        "word": "걱정",
         "count": 2
       },
       {
-        "word": "앞으로",
-        "count": 1
-      },
-      {
-        "word": "산후도우미",
-        "count": 1
-      },
-      {
-        "word": "바우처",
-        "count": 1
+        "word": "투자",
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "부부",
+        "count": 3
+      },
+      {
+        "word": "훈련",
+        "count": 3
+      },
       {
         "word": "주민",
         "count": 3
       },
       {
-        "word": "부부",
+        "word": "창원",
         "count": 2
       },
       {
-        "word": "교수들도",
-        "count": 1
-      },
-      {
-        "word": "걸린",
-        "count": 1
-      },
-      {
-        "word": "국어",
-        "count": 1
+        "word": "아파트",
+        "count": 2
       }
     ],
     "international": [
+      {
+        "word": "레이더",
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 3
+      },
       {
         "word": "시간",
         "count": 2
       },
       {
-        "word": "만원",
+        "word": "국방",
         "count": 2
       },
       {
-        "word": "러시아",
+        "word": "같은",
         "count": 2
-      },
-      {
-        "word": "멕시코",
-        "count": 2
-      },
-      {
-        "word": "풋볼",
-        "count": 1
       }
     ],
     "culture": [
       {
         "word": "조진웅",
         "count": 4
+      },
+      {
+        "word": "사생활",
+        "count": 3
       },
       {
         "word": "은퇴",
@@ -208,12 +212,8 @@
         "count": 2
       },
       {
-        "word": "선언에",
-        "count": 1
-      },
-      {
-        "word": "이정석",
-        "count": 1
+        "word": "박나래",
+        "count": 2
       }
     ]
   }

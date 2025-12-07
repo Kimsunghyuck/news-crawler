@@ -6,7 +6,7 @@
     "category": "문화",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/08af9547-83e5-4f54-8f08-7aa8f53508e9.jpg",
-    "scraped_at": "2025-12-07T09:49:39.465274+09:00",
+    "scraped_at": "2025-12-07T15:10:05.180134+09:00",
     "main_category": "문화"
   },
   {
@@ -16,7 +16,7 @@
     "category": "문화",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/8bab2889-6cff-4ed3-8348-3cd8fc90ac3a.jpg",
-    "scraped_at": "2025-12-07T09:49:39.465457+09:00",
+    "scraped_at": "2025-12-07T15:10:05.180758+09:00",
     "main_category": "문화"
   },
   {
@@ -26,7 +26,7 @@
     "category": "문화",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/02/01e0f47b-9093-4050-9f95-ebedcf199777.jpg",
-    "scraped_at": "2025-12-07T09:49:39.465680+09:00",
+    "scraped_at": "2025-12-07T15:10:05.180519+09:00",
     "main_category": "문화"
   },
   {
@@ -47,6 +47,26 @@
     "source": "중앙일보",
     "image_url": "",
     "scraped_at": "2025-12-07T09:49:39.466176+09:00",
+    "main_category": "문화"
+  },
+  {
+    "title": "시상식서 사생활 논란 꺼낸 이이경 \"용의자 무조건 잡는다\"",
+    "url": "https://www.joongang.co.kr/article/25387986",
+    "date": "2025-12-07",
+    "category": "문화",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/b70d5894-9d50-4714-8006-0be130b6b846.jpg",
+    "scraped_at": "2025-12-07T15:10:05.180318+09:00",
+    "main_category": "문화"
+  },
+  {
+    "title": "조세호, 조폭 친분설 강력 부인…\"지인일 뿐, 선물 받은 적 없다\"",
+    "url": "https://www.joongang.co.kr/article/25387667",
+    "date": "2025-12-07",
+    "category": "문화",
+    "source": "중앙일보",
+    "image_url": "",
+    "scraped_at": "2025-12-07T15:10:05.181031+09:00",
     "main_category": "문화"
   }
 ]

@@ -6,7 +6,7 @@
     "category": "국제",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/07/132914157.1.png",
-    "scraped_at": "2025-12-07T09:49:26.319786+09:00",
+    "scraped_at": "2025-12-07T15:09:29.071926+09:00",
     "main_category": "국제"
   },
   {
@@ -15,18 +15,18 @@
     "date": "2025-12-07",
     "category": "국제",
     "source": "동아일보",
-    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/07/132913873.1.jpg",
-    "scraped_at": "2025-12-07T09:49:26.319864+09:00",
+    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/07/132914225.1.jpg",
+    "scraped_at": "2025-12-07T15:09:29.071993+09:00",
     "main_category": "국제"
   },
   {
-    "title": "中, 군축백서서 ‘한반도 비핵화’ 사라져…북핵 ‘암묵적 용인’ 여부 주목",
+    "title": "中, 군축백서에 ‘한반도 비핵화’ 빠져…북핵 ‘암묵적 용인’ 해석",
     "url": "https://www.donga.com/news/Inter/article/all/20251207/132914000/1",
     "date": "2025-12-07",
     "category": "국제",
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/07/132914038.1.jpg",
-    "scraped_at": "2025-12-07T09:49:26.319930+09:00",
+    "scraped_at": "2025-12-07T15:09:29.072057+09:00",
     "main_category": "국제"
   },
   {
@@ -40,6 +40,16 @@
     "main_category": "국제"
   },
   {
+    "title": "中전투기 ‘의도적 도발’…日자위대 F-15에 2차례 레이더 쐈다",
+    "url": "https://www.donga.com/news/Inter/article/all/20251207/132914816/1",
+    "date": "2025-12-07",
+    "category": "국제",
+    "source": "동아일보",
+    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/07/132915126.1.jpg",
+    "scraped_at": "2025-12-07T15:09:29.071859+09:00",
+    "main_category": "국제"
+  },
+  {
     "title": "푸틴 방인 선물?…인도, 3조원대 러시아 ‘핵잠’ 임대 계약 최종 타결",
     "url": "https://www.donga.com/news/Inter/article/all/20251205/132909260/2",
     "date": "2025-12-05",
@@ -47,6 +57,16 @@
     "source": "동아일보",
     "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/05/132909261.2.jpg",
     "scraped_at": "2025-12-07T09:49:26.319998+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "“화장실 갈 때마다 긴장”…3000만원 보석 삼킨 절도범 결국 6일만에",
+    "url": "https://www.donga.com/news/Inter/article/all/20251205/132909822/2",
+    "date": "2025-12-05",
+    "category": "국제",
+    "source": "동아일보",
+    "image_url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/05/132909810.3.png",
+    "scraped_at": "2025-12-07T15:09:29.071769+09:00",
     "main_category": "국제"
   }
 ]

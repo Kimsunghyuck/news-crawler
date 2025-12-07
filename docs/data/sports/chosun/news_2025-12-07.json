@@ -30,12 +30,32 @@
     "main_category": "스포츠"
   },
   {
+    "title": "살라, 3경기 연속 벤치에 폭발\"팀 위해 많은 일 했는데…\"",
+    "url": "https://www.chosun.com/sports/world-football/2025/12/07/MY4WKODDHEYTKNJXMRQWGZJQGQ/",
+    "date": "2025-12-07",
+    "category": "스포츠",
+    "source": "조선일보",
+    "scraped_at": "2025-12-07T15:05:49.333909+09:00",
+    "image_url": "https://www.chosun.com/resizer/v2/KKKFHE7HWBFXFNXEGBQT73LXSY.jpg?auth=cd822751b940bdfd641c0ea68a8a54c6b618007f7818e0a83c5062c689a17d50&width=560&height=294&smart=true",
+    "main_category": "스포츠"
+  },
+  {
+    "title": "폰세 영입한 토론토,김하성까지 영입할까",
+    "url": "https://www.chosun.com/sports/world-baseball/2025/12/07/HEYWIYLEMUZDQZLFMU2TQMZYMI/",
+    "date": "2025-12-07",
+    "category": "스포츠",
+    "source": "조선일보",
+    "scraped_at": "2025-12-07T15:05:49.333923+09:00",
+    "image_url": "https://www.chosun.com/resizer/v2/CAVG26HCFBDKPDUMH6BDJZIETY.jpg?auth=7bbbc4ab5e678573faa39bb8f77f7ae716e20c38506b3b92c98f65e6144125ff&width=549&height=288&smart=true",
+    "main_category": "스포츠"
+  },
+  {
     "title": "결승전서 유일한 패배 적립…'의성 BTS' 남자 컬링, 은메달",
     "url": "https://www.chosun.com/sports/sports_special/2025/02/14/BG4FECTTCBCNJKT4PRRTOLWEYI/",
     "date": "2025-02-14",
     "category": "스포츠",
     "source": "조선일보",
-    "scraped_at": "2025-12-07T09:47:01.466201+09:00",
+    "scraped_at": "2025-12-07T15:05:49.333848+09:00",
     "image_url": "https://www.chosun.com/resizer/v2/6EPJ4KPUXZLRHJDTERB56V4MCE.jpg?auth=642644f19ebddfdcb9478149ea1b9f9ee7f21080777aa416eb3847d6d06fb4cd&width=1200&height=630&smart=true",
     "main_category": "스포츠"
   },
@@ -45,7 +65,7 @@
     "date": "2025-02-14",
     "category": "스포츠",
     "source": "조선일보",
-    "scraped_at": "2025-12-07T09:47:01.466217+09:00",
+    "scraped_at": "2025-12-07T15:05:49.333883+09:00",
     "image_url": "https://www.chosun.com/resizer/v2/3Z4RZYFUUBOUBLHQLYASWXRVBM.jpg?auth=eab0304cf1d3c79dd9a0a939c50600e8abb2cf842f31288a893e357235b48ac9&width=1200&height=630&focal=1142,1150",
     "main_category": "스포츠"
   }
