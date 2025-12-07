@@ -6,7 +6,7 @@
     "category": "문화",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/08af9547-83e5-4f54-8f08-7aa8f53508e9.jpg",
-    "scraped_at": "2025-12-07T15:10:05.180134+09:00",
+    "scraped_at": "2025-12-07T19:10:37.845096+09:00",
     "main_category": "문화"
   },
   {
@@ -26,7 +26,7 @@
     "category": "문화",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/02/01e0f47b-9093-4050-9f95-ebedcf199777.jpg",
-    "scraped_at": "2025-12-07T15:10:05.180519+09:00",
+    "scraped_at": "2025-12-07T19:10:37.845708+09:00",
     "main_category": "문화"
   },
   {
@@ -56,7 +56,7 @@
     "category": "문화",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/b70d5894-9d50-4714-8006-0be130b6b846.jpg",
-    "scraped_at": "2025-12-07T15:10:05.180318+09:00",
+    "scraped_at": "2025-12-07T19:10:37.845283+09:00",
     "main_category": "문화"
   },
   {
@@ -67,6 +67,26 @@
     "source": "중앙일보",
     "image_url": "",
     "scraped_at": "2025-12-07T15:10:05.181031+09:00",
+    "main_category": "문화"
+  },
+  {
+    "title": "'형사·국민특사' 배우의 배신…방송가 '조진웅 지우기' 후폭풍",
+    "url": "https://www.joongang.co.kr/article/25388039",
+    "date": "2025-12-07",
+    "category": "문화",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/5e1c1010-64de-426f-b4f0-0b06df6dc809.jpg",
+    "scraped_at": "2025-12-07T19:10:37.845484+09:00",
+    "main_category": "문화"
+  },
+  {
+    "title": "'갑질 의혹' 박나래 측 \"전 매니저들, 퇴사 이후 수억 요구\"",
+    "url": "https://www.joongang.co.kr/article/25387805",
+    "date": "2025-12-07",
+    "category": "문화",
+    "source": "중앙일보",
+    "image_url": "",
+    "scraped_at": "2025-12-07T19:10:37.845962+09:00",
     "main_category": "문화"
   }
 ]

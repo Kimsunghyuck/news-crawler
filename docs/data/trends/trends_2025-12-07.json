@@ -1,17 +1,25 @@
 {
   "date": "2025-12-07",
-  "generated_at": "2025-12-07T15:10:56.027924+09:00",
+  "generated_at": "2025-12-07T19:11:27.994813+09:00",
   "daily_top_keywords": [
     {
+      "word": "조진웅",
+      "count": 11
+    },
+    {
       "word": "만원",
+      "count": 9
+    },
+    {
+      "word": "박나래",
       "count": 7
     },
     {
-      "word": "조진웅",
-      "count": 6
+      "word": "논란",
+      "count": 7
     },
     {
-      "word": "논란",
+      "word": "의혹",
       "count": 6
     },
     {
@@ -19,12 +27,16 @@
       "count": 6
     },
     {
-      "word": "의혹",
+      "word": "국힘",
       "count": 5
     },
     {
-      "word": "국힘",
+      "word": "통일교",
       "count": 5
+    },
+    {
+      "word": "범죄",
+      "count": 4
     },
     {
       "word": "대변인",
@@ -35,11 +47,27 @@
       "count": 4
     },
     {
+      "word": "김호철",
+      "count": 4
+    },
+    {
       "word": "내란재판부",
       "count": 4
     },
     {
-      "word": "통일교",
+      "word": "강훈식",
+      "count": 4
+    },
+    {
+      "word": "추경호",
+      "count": 4
+    },
+    {
+      "word": "기소",
+      "count": 4
+    },
+    {
+      "word": "국민연금",
       "count": 4
     },
     {
@@ -47,40 +75,12 @@
       "count": 4
     },
     {
-      "word": "은퇴",
-      "count": 3
+      "word": "유럽",
+      "count": 4
     },
     {
-      "word": "박나래",
-      "count": 3
-    },
-    {
-      "word": "사생활",
-      "count": 3
-    },
-    {
-      "word": "범죄",
-      "count": 3
-    },
-    {
-      "word": "이유",
-      "count": 3
-    },
-    {
-      "word": "자위대",
-      "count": 3
-    },
-    {
-      "word": "피소",
-      "count": 3
-    },
-    {
-      "word": "위헌",
-      "count": 3
-    },
-    {
-      "word": "시간",
-      "count": 3
+      "word": "레이더",
+      "count": 4
     }
   ],
   "category_keywords": {
@@ -90,25 +90,29 @@
         "count": 5
       },
       {
+        "word": "통일교",
+        "count": 5
+      },
+      {
         "word": "감사원장",
+        "count": 4
+      },
+      {
+        "word": "김호철",
         "count": 4
       },
       {
         "word": "내란재판부",
         "count": 4
-      },
-      {
-        "word": "통일교",
-        "count": 4
-      },
-      {
-        "word": "피소",
-        "count": 3
       }
     ],
     "sports": [
       {
         "word": "경기",
+        "count": 2
+      },
+      {
+        "word": "토트넘",
         "count": 2
       },
       {
@@ -122,10 +126,6 @@
       {
         "word": "멕시코",
         "count": 2
-      },
-      {
-        "word": "감독",
-        "count": 2
       }
     ],
     "economy": [
@@ -138,43 +138,47 @@
         "count": 3
       },
       {
+        "word": "조원",
+        "count": 2
+      },
+      {
         "word": "버블",
         "count": 2
       },
       {
         "word": "걱정",
         "count": 2
-      },
-      {
-        "word": "투자",
-        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "박나래",
+        "count": 4
+      },
       {
         "word": "부부",
         "count": 3
       },
       {
-        "word": "훈련",
+        "word": "추경호",
         "count": 3
       },
       {
-        "word": "주민",
+        "word": "불구속",
         "count": 3
       },
       {
-        "word": "창원",
-        "count": 2
-      },
-      {
-        "word": "아파트",
-        "count": 2
+        "word": "기소",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "레이더",
+        "count": 4
+      },
+      {
+        "word": "국방",
         "count": 3
       },
       {
@@ -182,22 +186,22 @@
         "count": 3
       },
       {
-        "word": "시간",
-        "count": 2
+        "word": "전투기",
+        "count": 3
       },
       {
-        "word": "국방",
-        "count": 2
-      },
-      {
-        "word": "같은",
-        "count": 2
+        "word": "유럽",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "조진웅",
-        "count": 4
+        "count": 5
+      },
+      {
+        "word": "박나래",
+        "count": 3
       },
       {
         "word": "사생활",
@@ -209,10 +213,6 @@
       },
       {
         "word": "최초",
-        "count": 2
-      },
-      {
-        "word": "박나래",
         "count": 2
       }
     ]

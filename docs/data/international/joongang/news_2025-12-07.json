@@ -6,7 +6,7 @@
     "category": "국제",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/afd5f8a1-e3e6-4ac2-937a-f2a0a5d93e83.jpg",
-    "scraped_at": "2025-12-07T15:08:15.934738+09:00",
+    "scraped_at": "2025-12-07T19:09:39.269036+09:00",
     "main_category": "국제"
   },
   {
@@ -56,7 +56,7 @@
     "category": "국제",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/7dfbf2d8-7ccd-4ec9-aebf-4fa8ef0475d0.jpg",
-    "scraped_at": "2025-12-07T15:08:15.934939+09:00",
+    "scraped_at": "2025-12-07T19:09:39.269242+09:00",
     "main_category": "국제"
   },
   {
@@ -66,7 +66,27 @@
     "category": "국제",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/026465fa-dcda-4b86-a393-fcf900499eef.jpg",
-    "scraped_at": "2025-12-07T15:08:15.935136+09:00",
+    "scraped_at": "2025-12-07T19:09:39.269444+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "\"한국같은 '모범 동맹'에 특혜\" 美국방, 유럽에 '방위비 증액' 압박",
+    "url": "https://www.joongang.co.kr/article/25388020",
+    "date": "2025-12-07",
+    "category": "국제",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/41d84fa9-fb49-4669-8612-164cfd7f5e1e.jpg",
+    "scraped_at": "2025-12-07T19:09:39.269674+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "\"中, 日전투기 두 차례 레이더 조사\"…日 \"위험한 행위\" 강력 항의",
+    "url": "https://www.joongang.co.kr/article/25388007",
+    "date": "2025-12-07",
+    "category": "국제",
+    "source": "중앙일보",
+    "image_url": "",
+    "scraped_at": "2025-12-07T19:09:39.269936+09:00",
     "main_category": "국제"
   }
 ]

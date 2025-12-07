@@ -46,7 +46,7 @@
     "category": "문화",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/GYYGMNZTME3WIMBQGA3DGNZVGQ.jpg?auth=cfde15db1f78cfa5d77884bcbdc9fb9be806a5a79ff676fc455bd1df5e7278f4&width=719&height=377&smart=true",
-    "scraped_at": "2025-12-07T15:09:40.002130+09:00",
+    "scraped_at": "2025-12-07T19:10:30.607474+09:00",
     "main_category": "문화"
   },
   {
@@ -56,7 +56,7 @@
     "category": "문화",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/SYLSVQP7YRCQVB7YKDPLYBQKVA.jpg?auth=767df5582e99fe468c0a21af85171206812e62911640d08ee0029336b7eba2f6&width=700&height=367&smart=true",
-    "scraped_at": "2025-12-07T15:09:40.002193+09:00",
+    "scraped_at": "2025-12-07T19:10:30.607536+09:00",
     "main_category": "문화"
   },
   {
@@ -67,6 +67,26 @@
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/E737ISFGOZAZDJ4VDVZSFTUFFA.jpg?auth=1316920e4ca4fd46b0849de6da862a5b75fb9fb6ff6e53b1de3a53f20616207f&width=530&height=278&smart=true",
     "scraped_at": "2025-12-07T15:09:40.002254+09:00",
+    "main_category": "문화"
+  },
+  {
+    "title": "전신마비 구족화가 남동생…황신혜 \"27년 함께한 올케 존경해\"",
+    "url": "https://www.chosun.com/entertainments/celebrity/2025/12/07/L6RNRFQXENHWHEZIYXPOKV52BU/",
+    "date": "2025-12-07",
+    "category": "문화",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/5H6ZOLGNCWNH7NMLE4ACDMJU2Y.jpg?auth=6bea622d54857d0463d06c1b2cc10c01697ea472d981152b43cb5eb06eab1584&width=690&height=362&focal=269,481",
+    "scraped_at": "2025-12-07T19:10:30.607327+09:00",
+    "main_category": "문화"
+  },
+  {
+    "title": "85세 알 파치노 결혼반지 포착상대는 '54세 연하' 연인?",
+    "url": "https://www.chosun.com/entertainments/enter_general/2025/12/07/GE3GKMZQMJQWEYZWGQZGMMDEGE/",
+    "date": "2025-12-07",
+    "category": "문화",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/MMZTMNLDG5STQZDEGUZTQZRRMM.jpg?auth=15de0102c09a7bb166be83fbb8c5eb340dd5f5fb4ae2857a5570c6b61180e353&width=530&height=278&focal=293,184",
+    "scraped_at": "2025-12-07T19:10:30.607410+09:00",
     "main_category": "문화"
   }
 ]

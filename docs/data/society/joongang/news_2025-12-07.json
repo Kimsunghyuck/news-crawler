@@ -6,7 +6,7 @@
     "category": "사회",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/9e92b0f7-cfdf-4c40-b231-c01fc08d0553.jpg",
-    "scraped_at": "2025-12-07T15:07:18.246534+09:00",
+    "scraped_at": "2025-12-07T19:08:19.743218+09:00",
     "main_category": "사회"
   },
   {
@@ -46,7 +46,7 @@
     "category": "사회",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/475b811e-3654-480a-a760-00167ce276c2.jpg",
-    "scraped_at": "2025-12-07T09:48:14.191861+09:00",
+    "scraped_at": "2025-12-07T19:08:19.743400+09:00",
     "main_category": "사회"
   },
   {
@@ -55,8 +55,28 @@
     "date": "2025-12-07",
     "category": "사회",
     "source": "중앙일보",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/2ab954bd-f4e5-46a9-9b03-6d8b2cce1959.jpg",
-    "scraped_at": "2025-12-07T15:07:18.246934+09:00",
+    "image_url": "",
+    "scraped_at": "2025-12-07T19:08:19.743597+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "\"청소년 시절 잘못, 언제까지 책임\" 일각서 조진웅 옹호론",
+    "url": "https://www.joongang.co.kr/article/25387991",
+    "date": "2025-12-07",
+    "category": "사회",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/8c7cf870-5fc8-4dcc-b280-0dee509a17d5.jpg",
+    "scraped_at": "2025-12-07T19:08:19.743820+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "전 매니저 \"박나래母 2000만원 송금\" 박나래 \"몰랐다\"…무슨일",
+    "url": "https://www.joongang.co.kr/article/25387996",
+    "date": "2025-12-07",
+    "category": "사회",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/823a03a8-552c-40ea-9ecb-939c35f61b14.jpg",
+    "scraped_at": "2025-12-07T19:08:19.744088+09:00",
     "main_category": "사회"
   }
 ]
