@@ -1,17 +1,37 @@
 {
   "date": "2025-12-08",
-  "generated_at": "2025-12-08T09:48:34.479926+09:00",
+  "generated_at": "2025-12-08T15:10:05.638065+09:00",
   "daily_top_keywords": [
     {
+      "word": "조진웅",
+      "count": 6
+    },
+    {
       "word": "박나래",
+      "count": 6
+    },
+    {
+      "word": "특검",
       "count": 5
     },
     {
-      "word": "조진웅",
-      "count": 3
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "회장",
+      "count": 4
     },
     {
       "word": "결혼",
+      "count": 3
+    },
+    {
+      "word": "의혹",
       "count": 3
     },
     {
@@ -23,11 +43,35 @@
       "count": 3
     },
     {
+      "word": "위헌",
+      "count": 3
+    },
+    {
+      "word": "내란재판부",
+      "count": 3
+    },
+    {
+      "word": "추진",
+      "count": 3
+    },
+    {
+      "word": "민주당",
+      "count": 3
+    },
+    {
+      "word": "통일교",
+      "count": 3
+    },
+    {
+      "word": "감독",
+      "count": 3
+    },
+    {
       "word": "계약",
       "count": 3
     },
     {
-      "word": "만에",
+      "word": "시리즈",
       "count": 3
     },
     {
@@ -35,51 +79,7 @@
       "count": 3
     },
     {
-      "word": "회장",
-      "count": 3
-    },
-    {
-      "word": "오늘의",
-      "count": 2
-    },
-    {
-      "word": "운세",
-      "count": 2
-    },
-    {
-      "word": "이봉원",
-      "count": 2
-    },
-    {
-      "word": "이혼",
-      "count": 2
-    },
-    {
-      "word": "안당한",
-      "count": 2
-    },
-    {
-      "word": "항암",
-      "count": 2
-    },
-    {
-      "word": "박미선",
-      "count": 2
-    },
-    {
-      "word": "비밀",
-      "count": 2
-    },
-    {
-      "word": "감사원장",
-      "count": 2
-    },
-    {
-      "word": "후보자에",
-      "count": 2
-    },
-    {
-      "word": "김호철",
+      "word": "해체",
       "count": 2
     }
   ],
@@ -90,23 +90,35 @@
         "count": 3
       },
       {
-        "word": "감사원장",
-        "count": 2
+        "word": "위헌",
+        "count": 3
       },
       {
-        "word": "후보자에",
-        "count": 2
+        "word": "내란재판부",
+        "count": 3
       },
       {
-        "word": "김호철",
-        "count": 2
+        "word": "특검",
+        "count": 3
       },
       {
-        "word": "민변회장",
-        "count": 2
+        "word": "추진",
+        "count": 3
       }
     ],
     "sports": [
+      {
+        "word": "시리즈",
+        "count": 3
+      },
+      {
+        "word": "투수",
+        "count": 2
+      },
+      {
+        "word": "시즌",
+        "count": 2
+      },
       {
         "word": "남자",
         "count": 2
@@ -114,24 +126,16 @@
       {
         "word": "만에",
         "count": 2
-      },
-      {
-        "word": "우승",
-        "count": 2
-      },
-      {
-        "word": "공동",
-        "count": 2
-      },
-      {
-        "word": "홍명보호",
-        "count": 1
       }
     ],
     "economy": [
       {
         "word": "계약",
         "count": 3
+      },
+      {
+        "word": "만에",
+        "count": 2
       },
       {
         "word": "공급",
@@ -144,10 +148,6 @@
       {
         "word": "임차료",
         "count": 1
-      },
-      {
-        "word": "체납",
-        "count": 1
       }
     ],
     "society": [
@@ -156,29 +156,29 @@
         "count": 4
       },
       {
+        "word": "특검",
+        "count": 2
+      },
+      {
+        "word": "핵심",
+        "count": 2
+      },
+      {
+        "word": "증인",
+        "count": 2
+      },
+      {
         "word": "주사이모",
-        "count": 2
-      },
-      {
-        "word": "나왔다는",
-        "count": 2
-      },
-      {
-        "word": "포강의대는",
-        "count": 2
-      },
-      {
-        "word": "의사단체",
         "count": 2
       }
     ],
     "international": [
       {
-        "word": "포르셰",
-        "count": 3
+        "word": "회장",
+        "count": 4
       },
       {
-        "word": "회장",
+        "word": "포르셰",
         "count": 3
       },
       {
@@ -197,22 +197,22 @@
     "culture": [
       {
         "word": "조진웅",
+        "count": 3
+      },
+      {
+        "word": "해체",
         "count": 2
       },
       {
-        "word": "이봉원",
+        "word": "수만번",
         "count": 2
       },
       {
-        "word": "이혼",
+        "word": "고민",
         "count": 2
       },
       {
-        "word": "안당한",
-        "count": 2
-      },
-      {
-        "word": "이유",
+        "word": "토로",
         "count": 2
       }
     ]

@@ -16,7 +16,7 @@
     "category": "국제",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/OLLO3IKOINH6RIJENJNRC7CGJE.png?auth=e614413cb9136e30ee244f341e94adece8e493b128347df882c7dcacac971d0b&width=1200&height=630&smart=true",
-    "scraped_at": "2025-12-08T09:45:47.475721+09:00",
+    "scraped_at": "2025-12-08T15:08:16.993061+09:00",
     "main_category": "국제"
   },
   {
@@ -26,7 +26,7 @@
     "category": "국제",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/3BY6KSNLGNKQPELYADAAWXYVC4.jpg?auth=a47e52bfe3c3fb2938ece341fad370e5a9975be01c1af8833b9ca091fce5b33b&width=1200&height=630&smart=true",
-    "scraped_at": "2025-12-08T09:45:47.475770+09:00",
+    "scraped_at": "2025-12-08T15:08:16.993109+09:00",
     "main_category": "국제"
   },
   {
@@ -46,7 +46,27 @@
     "category": "국제",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/DZILWLG7YZE7XISMDEFHBIW6PA.jpg?auth=367ae0048221b22810cc879471c32edd8bc539c78f4cf8dcbda4d3fad9a4952a&width=503&height=264&smart=true",
-    "scraped_at": "2025-12-08T09:45:47.475859+09:00",
+    "scraped_at": "2025-12-08T15:08:16.993217+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "李에 北억류자 물은 기자 \"가짜뉴스 유포자라며 비난\"",
+    "url": "https://www.chosun.com/international/us/2025/12/08/DG25VGSFVZBFNAOSKMJM4QHITA/",
+    "date": "2025-12-08",
+    "category": "국제",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/CFGORAGQPFFZ3MPBDDKWMUCHUA.jpg?auth=e411a0372f90eb4d7d519d1d89472a506dd88361f42b1a88847687a115294912&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-08T15:08:16.993001+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "\"성별 알려주면 의사면허 박탈\"'남아 선호' 베트남 특단의 대책",
+    "url": "https://www.chosun.com/international/international_general/2025/12/08/AECJRBTVNRCSLPGZHUYYRBLTUA/",
+    "date": "2025-12-08",
+    "category": "국제",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/RZ22UJERGNNQTGRRLJBG7TKOKM.jpg?auth=4b6b71f6caf273157fe19d2b3b707751ee08f68411ea4bc7121c14992d11d0e2&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-08T15:08:16.993154+09:00",
     "main_category": "국제"
   }
 ]

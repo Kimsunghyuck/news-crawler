@@ -6,7 +6,7 @@
     "category": "사회",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/08/c39cc386-1df9-422b-94f4-40d2a4e5005c.jpg",
-    "scraped_at": "2025-12-08T09:44:56.188271+09:00",
+    "scraped_at": "2025-12-08T15:07:29.062944+09:00",
     "main_category": "사회"
   },
   {
@@ -16,17 +16,17 @@
     "category": "사회",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/33f1c94e-e9ff-4dd6-9406-5a8a851186a8.png",
-    "scraped_at": "2025-12-08T09:44:56.188475+09:00",
+    "scraped_at": "2025-12-08T15:07:29.063127+09:00",
     "main_category": "사회"
   },
   {
-    "title": "[단독] 김만배 화천대유 통장에만 3000억…성남시, 가압류 신청",
+    "title": "[단독] 김만배 화천대유 통장에만 3000억…성남시 가압류 신청 목록 공개",
     "url": "https://www.joongang.co.kr/article/25388154",
     "date": "2025-12-08",
     "category": "사회",
     "source": "중앙일보",
-    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/4e864897-aba6-4058-a842-2d8e13c24195.png",
-    "scraped_at": "2025-12-08T09:44:56.188684+09:00",
+    "image_url": "",
+    "scraped_at": "2025-12-08T15:07:29.063830+09:00",
     "main_category": "사회"
   },
   {
@@ -35,8 +35,8 @@
     "date": "2025-12-08",
     "category": "사회",
     "source": "중앙일보",
-    "image_url": "",
-    "scraped_at": "2025-12-08T09:44:56.188910+09:00",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/04e44b67-d4e2-4b58-914e-ed9994c4ffa0.png",
+    "scraped_at": "2025-12-08T15:07:29.063568+09:00",
     "main_category": "사회"
   },
   {
@@ -47,6 +47,16 @@
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/9e153403-aee5-427c-b5e0-c7c78f41a72f.png",
     "scraped_at": "2025-12-08T09:44:56.189162+09:00",
+    "main_category": "사회"
+  },
+  {
+    "title": "\"이래서 장교 입대했나\"…이재용 장남 '놀라운 좌우명' 화제",
+    "url": "https://www.joongang.co.kr/article/25388179",
+    "date": "2025-12-08",
+    "category": "사회",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/479c506e-5a48-4127-8ea3-72fa2732d6ab.png",
+    "scraped_at": "2025-12-08T15:07:29.063342+09:00",
     "main_category": "사회"
   }
 ]

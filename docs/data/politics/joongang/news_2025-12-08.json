@@ -6,7 +6,7 @@
     "category": "정치",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/4601e98b-1b1b-4975-9501-9330dc78b553.png",
-    "scraped_at": "2025-12-08T09:41:58.118419+09:00",
+    "scraped_at": "2025-12-08T15:04:46.903109+09:00",
     "main_category": "정치"
   },
   {
@@ -16,7 +16,7 @@
     "category": "정치",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/8cefa78a-26cb-4451-9ecd-703f787424d4.png",
-    "scraped_at": "2025-12-08T09:41:58.118610+09:00",
+    "scraped_at": "2025-12-08T15:04:46.902906+09:00",
     "main_category": "정치"
   },
   {
@@ -25,8 +25,8 @@
     "date": "2025-12-08",
     "category": "정치",
     "source": "중앙일보",
-    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/bb45a220-e3c8-474e-8f3e-1ea95a3d0176.png",
-    "scraped_at": "2025-12-08T09:41:58.118812+09:00",
+    "image_url": "",
+    "scraped_at": "2025-12-08T15:04:46.903611+09:00",
     "main_category": "정치"
   },
   {
@@ -47,6 +47,26 @@
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/a69f8888-9868-4600-a446-2d4c454df6e7.jpg",
     "scraped_at": "2025-12-08T09:41:58.119288+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "\"李정부 지지한 연예인 입틀막\"...與 '조진웅 구하기 총력전' 왜",
+    "url": "https://www.joongang.co.kr/article/25388203",
+    "date": "2025-12-08",
+    "category": "정치",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/aecca275-508d-402f-ae0c-54fdc37f466a.png",
+    "scraped_at": "2025-12-08T15:04:46.902715+09:00",
+    "main_category": "정치"
+  },
+  {
+    "title": "추미애, 법사위원장직 사의 표명…경기지사 출마 본격화",
+    "url": "https://www.joongang.co.kr/article/25388181",
+    "date": "2025-12-08",
+    "category": "정치",
+    "source": "중앙일보",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/ee9815b9-1b67-4c6b-8f3d-b8e234c672ea.png",
+    "scraped_at": "2025-12-08T15:04:46.903356+09:00",
     "main_category": "정치"
   }
 ]
