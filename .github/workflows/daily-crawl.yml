@@ -38,6 +38,12 @@ jobs:
         python analyzer.py
         echo "✅ 트렌드 분석 완료"
         
+    - name: 🗑️ 기존 타임스탬프 없는 파일 삭제
+      run: |
+        echo "🗑️ 타임스탬프 없는 기존 파일 삭제 중..."
+        find docs/data -type f -name "news_*[0-9].json" ! -name "*_*-*.json" -delete || true
+        echo "✅ 기존 파일 삭제 완료"
+
     - name: 📋 GitHub Pages용 데이터 복사
       run: |
         echo "📂 docs 폴더로 데이터 복사 중..."
@@ -46,14 +52,16 @@ jobs:
         
     - name: 📊 크롤링 결과 확인
       run: |
-        echo "📁 생성된 파일 목록:"
-        echo "=== 6개 카테고리 ==="
-        ls -la data/politics/*/ 2>/dev/null || echo "정치: 없음"
-        ls -la data/sports/*/ 2>/dev/null || echo "스포츠: 없음"
-        ls -la data/economy/*/ 2>/dev/null || echo "경제: 없음"
-        ls -la data/society/*/ 2>/dev/null || echo "사회: 없음"
-        ls -la data/international/*/ 2>/dev/null || echo "국제: 없음"
-        ls -la data/culture/*/ 2>/dev/null || echo "문화: 없음"
+        echo "📁 생성된 파일 목록 (타임스탬프 포함):"
+        echo "=== 오늘 생성된 타임스탬프 파일 ==="
+        TODAY=$(TZ='Asia/Seoul' date +'%Y-%m-%d')
+        find data -type f -name "news_${TODAY}_*.json" | head -10
+        echo ""
+        echo "=== 카테고리별 파일 개수 ==="
+        for category in politics sports economy society international culture; do
+          count=$(find data/$category -type f -name "news_*_*.json" 2>/dev/null | wc -l)
+          echo "$category: $count 개"
+        done
         echo "=== 트렌드 데이터 ==="
         ls -la docs/data/trends/ 2>/dev/null || echo "트렌드: 없음"
         echo "=== 보고서 ==="
