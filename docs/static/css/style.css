@@ -108,6 +108,43 @@ img {
     position: relative;
 }
 
+/* Logo Styles */
+.site-logo {
+    position: absolute;
+    left: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 0;
+    transition: opacity 0.3s ease;
+}
+
+.site-logo:hover {
+    opacity: 0.75;
+}
+
+.site-logo img {
+    height: 36px;
+    width: auto;
+    transition: filter 0.3s ease;
+    mix-blend-mode: multiply;
+    /* 회색 배경을 투명하게 처리 */
+}
+
+/* Dark Mode - Invert logo colors */
+[data-theme="dark"] .site-logo img {
+    filter: invert(1) brightness(1.1);
+    mix-blend-mode: screen;
+    /* 다크모드에서는 screen 모드로 전환 */
+}
+
+.logo-text {
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--nav-text);
+    white-space: nowrap;
+}
+
 /* Action Buttons Group */
 .nav-actions {
     position: absolute;
