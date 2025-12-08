@@ -189,3 +189,9 @@ python -m http.server 8000
 
 **최종 업데이트**: 2025년 12월 5일  
 **버전**: 6.0 (통계 대시보드 추가)
+
+## 크롤링 데이터 파일명 규칙
+- 하루 3회 크롤링: 09:20, 15:00, 19:00 (KST)
+- 파일명: `news_YYYY-MM-DD_HH-MM.json` (예: `news_2025-12-05_09-20.json`)
+- 파일명 생성 함수: `get_crawl_time_str()` (config.py 등에서 import)
+- JS에서도 동일 규칙 적용: `getLatestCrawlTime()`

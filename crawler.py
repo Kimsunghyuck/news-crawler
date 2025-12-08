@@ -27,6 +27,7 @@ from config import (
     CATEGORY_EN_MAP, SOURCE_EN_MAP, COMBINED_REPORT_TEMPLATE
 )
 import parser
+from parser import get_crawl_time_str
 
 
 # 로깅 설정
@@ -136,27 +137,30 @@ def fetch_page(url: str, retries: int = MAX_RETRIES) -> Optional[str]:
     return None
 
 
-def get_category_source_path(category: str, source: str, date: str, is_report: bool = False) -> str:
+def get_category_source_path(category: str, source: str, date: str, time: str = None, is_report: bool = False) -> str:
     """
     카테고리와 소스에 따른 파일 경로를 생성합니다.
-    
+
     Args:
         category: 카테고리 (한글)
         source: 소스 이름 (한글)
         date: 날짜 (YYYY-MM-DD)
+        time: 크롤링 시간 (09-20, 15-00, 19-00 중 하나, 선택적)
         is_report: 보고서 경로 여부
-        
+
     Returns:
         파일 경로
     """
     category_en = CATEGORY_EN_MAP.get(category, category.lower())
     source_en = SOURCE_EN_MAP.get(source, source.lower().replace(' ', '_'))
-    
+
     if is_report:
         from config import REPORT_TEMPLATE
         return REPORT_TEMPLATE.format(category=category_en, source=source_en, date=date)
     else:
-        return NEWS_JSON_TEMPLATE.format(category=category_en, source=source_en, date=date)
+        if time is None:
+            time = get_crawl_time_str()
+        return NEWS_JSON_TEMPLATE.format(category=category_en, source=source_en, date=date, time=time)
 
 
 def get_today_json_file():

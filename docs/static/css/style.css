@@ -1633,3 +1633,147 @@ img {
         right: 45px;
     }
 }
+
+/* ===== Home Dashboard Styles ===== */
+.home-dashboard {
+    padding: var(--spacing-lg) 0;
+    min-height: 80vh;
+}
+
+.home-header {
+    text-align: center;
+    margin-bottom: var(--spacing-lg);
+}
+
+.home-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.home-subtitle {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+}
+
+.home-section {
+    margin-bottom: var(--spacing-xl);
+}
+
+.home-section h2 {
+    font-size: 1.8rem;
+    margin-bottom: var(--spacing-md);
+    color: var(--text-primary);
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+/* 신문사별 비교 그리드 */
+.comparison-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--spacing-md);
+    margin-bottom: var(--spacing-lg);
+}
+
+.comparison-column {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: var(--spacing-md);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.comparison-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: var(--spacing-md);
+    padding-bottom: var(--spacing-sm);
+    border-bottom: 2px solid var(--border-color);
+}
+
+.comparison-header img {
+    height: 24px;
+    width: auto;
+}
+
+.comparison-header h3 {
+    font-size: 1.2rem;
+    color: var(--text-primary);
+}
+
+.comparison-article {
+    padding: var(--spacing-sm) 0;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.comparison-article:last-child {
+    border-bottom: none;
+}
+
+.comparison-article-category {
+    display: inline-block;
+    font-size: 0.75rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 12px;
+    margin-bottom: 0.3rem;
+    font-weight: 600;
+}
+
+/* 카테고리별 색상 */
+.comparison-article-category.politics {
+    background-color: #3498db;
+    color: white;
+}
+
+.comparison-article-category.sports {
+    background-color: #e74c3c;
+    color: white;
+}
+
+.comparison-article-category.economy {
+    background-color: #27ae60;
+    color: white;
+}
+
+.comparison-article-category.society {
+    background-color: #9b59b6;
+    color: white;
+}
+
+.comparison-article-category.international {
+    background-color: #fa11b4;
+    color: white;
+}
+
+.comparison-article-category.culture {
+    background-color: #ffde0b;
+    color: #333333;
+}
+
+.comparison-article-title {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--text-primary);
+    line-height: 1.4;
+    margin-bottom: 0.3rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.comparison-article-time {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+}
+
+@media (max-width: 968px) {
+    .comparison-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .home-header h1 {
+        font-size: 2rem;
+    }
+}

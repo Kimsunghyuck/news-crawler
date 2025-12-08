@@ -7,6 +7,7 @@
 let currentCategory = 'politics';
 let currentSource = 'donga';
 let tickerSwiper = null;
+let isHomeView = true; // 홈 화면 표시 여부
 
 // 북마크 관리
 let bookmarks = [];
@@ -20,7 +21,9 @@ document.addEventListener('DOMContentLoaded', function() {
     initNavigation();
     initDatePicker();
     initTrendPanel();
+    initLogoClick();
     loadInitialTrendBadge();
+    loadHomeDashboard(); // 홈 화면 로드
     
     // 초기 카테고리 라벨 설정
     updateSourceTitle(currentSource, currentCategory);
@@ -119,6 +122,15 @@ function initNavigation() {
             const category = this.dataset.category;
             currentCategory = category;
             
+            // 홈 뷰에서 뉴스 뷰로 전환
+            showNewsView();
+            
+            // 카테고리 활성화
+            document.querySelectorAll('.category-item').forEach(cat => {
+                cat.classList.remove('active');
+            });
+            this.classList.add('active');
+            
             updateSourceTitle(currentSource, category);
             
             const selectedDate = document.getElementById('date-select').value;
@@ -153,6 +165,9 @@ function initNavigation() {
             
             const source = this.dataset.source;
             const targetCategory = hoveredCategory || currentCategory;
+            
+            // 홈 뷰에서 뉴스 뷰로 전환
+            showNewsView();
             
             document.querySelectorAll('.source-item').forEach(src => {
                 src.classList.remove('active');
@@ -1490,3 +1505,356 @@ function renderWeeklyLineChart(weeklyStats) {
         }
     });
 }
+
+/**
+ * 로고 클릭 이벤트 초기화
+ */
+function initLogoClick() {
+    const logo = document.querySelector('.site-logo');
+    if (logo) {
+        logo.addEventListener('click', function(e) {
+            e.preventDefault();
+            showHomeDashboard();
+        });
+    }
+}
+
+/**
+ * 홈 대시보드 표시
+ */
+function showHomeDashboard() {
+    isHomeView = true;
+    document.getElementById('home-dashboard').style.display = 'block';
+    document.querySelector('.news-section').style.display = 'none';
+    document.querySelector('.news-ticker-banner').style.display = 'none';
+    
+    // 카테고리 선택 해제
+    document.querySelectorAll('.category-item').forEach(item => {
+        item.classList.remove('active');
+    });
+    
+    // 스크롤 상단 이동
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    
+    // 홈 대시보드 데이터 로드
+    loadHomeDashboard();
+}
+
+/**
+ * 뉴스 뷰 표시
+ */
+function showNewsView() {
+    isHomeView = false;
+    document.getElementById('home-dashboard').style.display = 'none';
+    document.querySelector('.news-section').style.display = 'block';
+    document.querySelector('.news-ticker-banner').style.display = 'block';
+}
+
+/**
+ * 홈 대시보드 데이터 로드
+ */
+async function loadHomeDashboard() {
+    const today = new Date();
+    const yyyy = today.getFullYear();
+    const mm = String(today.getMonth() + 1).padStart(2, '0');
+    const dd = String(today.getDate()).padStart(2, '0');
+    const todayStr = `${yyyy}-${mm}-${dd}`;
+    
+    console.log('홈 대시보드 로드 시작:', todayStr);
+    
+    // 오전 9시 이전인지 체크
+    const currentHour = today.getHours();
+    const isBeforeUpdate = currentHour < 9;
+    
+    console.log(`현재 시각: ${currentHour}시, 업데이트 전: ${isBeforeUpdate}`);
+    
+    if (isBeforeUpdate) {
+        showUpdateScheduleMessage(today);
+        // 티커도 숨기기
+        document.querySelector('.news-ticker-banner').style.display = 'none';
+        return;
+    }
+    
+    // 오전 9시 이후: 실제 데이터 로드
+    const loadedDate = await tryLoadNewsData(todayStr);
+    
+    if (loadedDate) {
+        updateHomeDateLabel(todayStr, false);
+        // 티커 표시
+        document.querySelector('.news-ticker-banner').style.display = 'block';
+    } else {
+        showNoDataMessage();
+        // 티커 숨기기
+        document.querySelector('.news-ticker-banner').style.display = 'none';
+    }
+}
+
+/**
+ * 업데이트 예정 메시지 표시
+ */
+function showUpdateScheduleMessage(currentDate) {
+    const container = document.getElementById('newspaper-comparison-grid');
+    const currentHour = currentDate.getHours();
+    const currentMinute = currentDate.getMinutes();
+    
+    // 9시까지 남은 시간 계산
+    const updateHour = 9;
+    let hoursLeft = updateHour - currentHour;
+    let minutesLeft = 60 - currentMinute;
+    
+    if (minutesLeft === 60) {
+        minutesLeft = 0;
+    } else {
+        hoursLeft -= 1;
+    }
+    
+    const timeLeftText = hoursLeft > 0 
+        ? `약 ${hoursLeft}시간 ${minutesLeft}분 후` 
+        : `약 ${minutesLeft}분 후`;
+    
+    // 헤더 업데이트
+    const homeHeader = document.querySelector('.home-header h1');
+    const homeSubtitle = document.querySelector('.home-subtitle');
+    
+    homeHeader.textContent = '⏰ 뉴스 업데이트 대기 중';
+    homeSubtitle.innerHTML = `오늘의 뉴스는 <strong>오전 9시</strong>부터 업데이트됩니다 (${timeLeftText})`;
+    homeSubtitle.style.color = 'var(--accent-color)';
+    
+    // 안내 메시지
+    container.innerHTML = `
+        <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 2rem;">
+            <div style="background: var(--bg-light); border-radius: 16px; padding: 3rem; max-width: 600px; margin: 0 auto; border: 2px dashed var(--border-color);">
+                <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin: 0 auto 1.5rem; color: var(--secondary-color);">
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <polyline points="12 6 12 12 16 14"></polyline>
+                </svg>
+                <h2 style="color: var(--text-primary); margin-bottom: 1rem; font-size: 1.8rem;">📰 뉴스 크롤링 준비 중</h2>
+                <p style="color: var(--text-secondary); font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
+                    오늘의 뉴스는 <strong style="color: var(--secondary-color);">매일 오전 9시</strong>부터<br>
+                    자동으로 수집되어 업데이트됩니다.
+                </p>
+                <div style="background: var(--card-bg); padding: 1.5rem; border-radius: 12px; margin-top: 2rem;">
+                    <div style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 0.5rem;">업데이트까지 남은 시간</div>
+                    <div id="countdown-timer" style="font-size: 2.5rem; font-weight: 700; color: var(--secondary-color);">
+                        ${hoursLeft.toString().padStart(2, '0')}:${minutesLeft.toString().padStart(2, '0')}
+                    </div>
+                </div>
+                <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
+                    <p style="color: var(--text-secondary); font-size: 0.95rem;">
+                        💡 그동안 카테고리를 클릭하여<br>어제의 뉴스를 확인할 수 있습니다
+                    </p>
+                </div>
+            </div>
+        </div>
+    `;
+    
+    // 카운트다운 타이머 시작
+    startCountdown(hoursLeft, minutesLeft);
+}
+
+/**
+ * 카운트다운 타이머
+ */
+let countdownInterval = null; // 전역 변수로 관리
+
+function startCountdown(hours, minutes) {
+    // 기존 타이머가 있으면 제거
+    if (countdownInterval) {
+        clearInterval(countdownInterval);
+        countdownInterval = null;
+    }
+    
+    let totalSeconds = hours * 3600 + minutes * 60;
+    
+    countdownInterval = setInterval(() => {
+        totalSeconds--;
+        
+        if (totalSeconds <= 0) {
+            clearInterval(countdownInterval);
+            countdownInterval = null;
+            // 시간이 되면 자동으로 새로고침 (한 번만)
+            console.log('업데이트 시간 도달 - 새로고침');
+            location.reload();
+            return;
+        }
+        
+        const h = Math.floor(totalSeconds / 3600);
+        const m = Math.floor((totalSeconds % 3600) / 60);
+        const s = totalSeconds % 60;
+        
+        const timerElement = document.getElementById('countdown-timer');
+        if (timerElement) {
+            timerElement.textContent = `${h.toString().padStart(2, '0')}:${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
+        }
+    }, 1000);
+}
+
+/**
+ * 특정 날짜의 뉴스 데이터 로드 시도
+ */
+async function tryLoadNewsData(dateStr) {
+    // 크롤링 시간대별 파일명 자동 선택
+    const crawlTime = getLatestCrawlTime();
+    // 예시: news_2025-12-05_09-20.json
+    const fileName = `news_${dateStr}_${crawlTime}.json`;
+    // 실제 경로: docs/data/{category}/{source}/news_{date}_{crawlTime}.json
+    
+    try {
+        const categories = ['politics', 'sports', 'economy', 'society', 'international', 'culture'];
+        const sources = ['donga', 'chosun', 'joongang'];
+        
+        const allNews = [];
+        const newspaperNews = { donga: [], chosun: [], joongang: [] };
+        let hasData = false;
+        
+        for (const category of categories) {
+            for (const source of sources) {
+                try {
+                    const response = await fetch(`data/${category}/${source}/${fileName}`);
+                    if (response.ok) {
+                        const news = await response.json();
+                        if (news.length > 0) {
+                            hasData = true;
+                            console.log(`로드 성공: ${category}/${source} - ${news.length}개`);
+                            news.forEach(article => {
+                                article.category_en = category;
+                                article.source_en = source;
+                            });
+                            allNews.push(...news);
+                            // 각 카테고리에서 1개씩만 추가
+                            newspaperNews[source].push(news[0]);
+                        }
+                    } else {
+                        console.log(`로드 실패 (${response.status}): ${category}/${source}`);
+                    }
+                } catch (error) {
+                    console.log(`로드 에러: ${category}/${source}:`, error);
+                }
+            }
+        }
+        
+        if (hasData) {
+            console.log(`전체 뉴스: ${allNews.length}개`);
+            console.log('신문사별 뉴스:', {
+                donga: newspaperNews.donga.length,
+                chosun: newspaperNews.chosun.length,
+                joongang: newspaperNews.joongang.length
+            });
+            
+            // 신문사별 헤드라인 렌더링
+            renderNewspaperComparison(newspaperNews);
+            
+            return dateStr;
+        }
+        
+        return null;
+        
+    } catch (error) {
+        console.error('뉴스 데이터 로드 실패:', error);
+        return null;
+    }
+}
+
+/**
+ * 홈 화면 날짜 라벨 업데이트
+ */
+function updateHomeDateLabel(dateStr, isYesterday) {
+    const homeHeader = document.querySelector('.home-header h1');
+    const homeSubtitle = document.querySelector('.home-subtitle');
+    
+    if (isYesterday) {
+        const [year, month, day] = dateStr.split('-');
+        homeHeader.textContent = `📰 ${month}월 ${day}일의 뉴스`;
+        homeSubtitle.textContent = '오늘의 뉴스는 오전 9시 이후 업데이트됩니다';
+        homeSubtitle.style.color = 'var(--accent-color)';
+    } else {
+        homeHeader.textContent = '📰 오늘의 뉴스';
+        homeSubtitle.textContent = '모든 카테고리의 최신 소식을 한눈에 확인하세요';
+        homeSubtitle.style.color = 'var(--text-secondary)';
+    }
+}
+
+/**
+ * 데이터 없음 메시지 표시
+ */
+function showNoDataMessage() {
+    const container = document.getElementById('newspaper-comparison-grid');
+    container.innerHTML = `
+        <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 2rem;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin: 0 auto 1rem; color: var(--text-secondary);">
+                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+            </svg>
+            <h3 style="color: var(--text-primary); margin-bottom: 0.5rem;">뉴스 데이터를 불러올 수 없습니다</h3>
+            <p style="color: var(--text-secondary);">잠시 후 다시 시도해주세요</p>
+        </div>
+    `;
+}
+
+/**
+ * 신문사별 헤드라인 비교 렌더링
+ */
+function renderNewspaperComparison(newspaperNews) {
+    const container = document.getElementById('newspaper-comparison-grid');
+    const sourceNames = {
+        'donga': '동아일보',
+        'chosun': '조선일보',
+        'joongang': '중앙일보'
+    };
+    const sourceLogos = {
+        'donga': 'static/images/donga.png?v=2',
+        'chosun': 'static/images/chosun.png?v=2',
+        'joongang': 'static/images/joongang.png?v=2'
+    };
+    
+    const categoryNames = {
+        'politics': '정치',
+        'sports': '스포츠',
+        'economy': '경제',
+        'society': '사회',
+        'international': '국제',
+        'culture': '문화'
+    };
+    
+    container.innerHTML = Object.keys(newspaperNews).map(source => {
+        const articles = newspaperNews[source];
+        return `
+            <div class="comparison-column">
+                <div class="comparison-header">
+                    <img src="${sourceLogos[source]}" alt="${sourceNames[source]}">
+                    <h3>${sourceNames[source]}</h3>
+                </div>
+                ${articles.map(article => {
+                    const time = article.scraped_at ? new Date(article.scraped_at).toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' }) : '';
+                    return `
+                        <div class="comparison-article">
+                            <span class="comparison-article-category ${article.category_en}">${categoryNames[article.category_en] || article.category}</span>
+                            <div class="comparison-article-title">${article.title}</div>
+                            <div class="comparison-article-time">${time}</div>
+                        </div>
+                    `;
+                }).join('')}
+            </div>
+        `;
+    }).join('');
+}
+
+// 크롤링 시간대별 파일명 선택
+function getLatestCrawlTime() {
+    const now = new Date();
+    const hour = now.getHours();
+    const minute = now.getMinutes();
+    // 크롤링 시간대: 09:20, 15:00, 19:00
+    if (hour < 9 || (hour === 9 && minute < 20)) {
+        // 9:20 이전: 전날 마지막 데이터 사용 (별도 처리 필요)
+        return '19-00';
+    } else if (hour < 15 || (hour === 15 && minute < 0)) {
+        return '09-20';
+    } else if (hour < 19 || (hour === 19 && minute < 0)) {
+        return '15-00';
+    } else {
+        return '19-00';
+    }
+}
+
+

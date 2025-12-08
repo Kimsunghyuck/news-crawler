@@ -171,8 +171,8 @@ REQUEST_TIMEOUT = 30
 
 # 데이터 저장 경로
 DATA_DIR = "data"
-# 카테고리/소스별 JSON 파일: data/{category}/{source}/news_{date}.json
-NEWS_JSON_TEMPLATE = f"{DATA_DIR}/{{category}}/{{source}}/news_{{date}}.json"
+# 카테고리/소스별 JSON 파일: data/{category}/{source}/news_{date}_{time}.json
+NEWS_JSON_TEMPLATE = f"{DATA_DIR}/{{category}}/{{source}}/news_{{date}}_{{time}}.json"
 LOGS_DIR = "logs"
 LOG_FILE = f"{LOGS_DIR}/crawler.log"
 

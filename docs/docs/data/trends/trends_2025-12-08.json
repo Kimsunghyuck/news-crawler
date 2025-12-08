@@ -1,0 +1,220 @@
+{
+  "date": "2025-12-08",
+  "generated_at": "2025-12-08T16:09:43.808092+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "박나래",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "특검",
+      "count": 4
+    },
+    {
+      "word": "논란",
+      "count": 3
+    },
+    {
+      "word": "열었다",
+      "count": 3
+    },
+    {
+      "word": "조진웅",
+      "count": 3
+    },
+    {
+      "word": "복귀한",
+      "count": 2
+    },
+    {
+      "word": "박시후",
+      "count": 2
+    },
+    {
+      "word": "출신",
+      "count": 2
+    },
+    {
+      "word": "갑질",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "활동",
+      "count": 2
+    },
+    {
+      "word": "중단",
+      "count": 2
+    },
+    {
+      "word": "전국",
+      "count": 2
+    },
+    {
+      "word": "커뮤니티",
+      "count": 2
+    },
+    {
+      "word": "논의",
+      "count": 2
+    },
+    {
+      "word": "이유",
+      "count": 2
+    },
+    {
+      "word": "비밀",
+      "count": 2
+    },
+    {
+      "word": "코레일",
+      "count": 2
+    },
+    {
+      "word": "통합",
+      "count": 2
+    }
+  ],
+  "category_keywords": {
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "특검",
+        "count": 2
+      },
+      {
+        "word": "조진웅",
+        "count": 2
+      },
+      {
+        "word": "헌재법",
+        "count": 1
+      },
+      {
+        "word": "개정안",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "시리즈",
+        "count": 2
+      },
+      {
+        "word": "죽음의",
+        "count": 2
+      },
+      {
+        "word": "전골든스테이트",
+        "count": 1
+      },
+      {
+        "word": "떠올라",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "코레일",
+        "count": 2
+      },
+      {
+        "word": "통합",
+        "count": 2
+      },
+      {
+        "word": "집단소송",
+        "count": 2
+      },
+      {
+        "word": "세입자",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "박나래",
+        "count": 3
+      },
+      {
+        "word": "특검",
+        "count": 2
+      },
+      {
+        "word": "협박",
+        "count": 2
+      },
+      {
+        "word": "전국",
+        "count": 1
+      },
+      {
+        "word": "법원장들",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "회장",
+        "count": 2
+      },
+      {
+        "word": "억류자",
+        "count": 1
+      },
+      {
+        "word": "물은",
+        "count": 1
+      },
+      {
+        "word": "가짜뉴스",
+        "count": 1
+      },
+      {
+        "word": "유포자라며",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "복귀한",
+        "count": 2
+      },
+      {
+        "word": "박시후",
+        "count": 2
+      },
+      {
+        "word": "논란",
+        "count": 2
+      },
+      {
+        "word": "열었다",
+        "count": 2
+      }
+    ]
+  }
+}
