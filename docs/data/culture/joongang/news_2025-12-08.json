@@ -6,7 +6,7 @@
     "category": "문화",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/689aea3e-3ee8-49b9-8d17-22c65de2de76.png",
-    "scraped_at": "2025-12-08T19:10:11.631252+09:00",
+    "scraped_at": "2025-12-08T15:09:18.038437+09:00",
     "main_category": "문화"
   },
   {
@@ -16,7 +16,7 @@
     "category": "문화",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/b70d5894-9d50-4714-8006-0be130b6b846.jpg",
-    "scraped_at": "2025-12-08T19:10:11.631424+09:00",
+    "scraped_at": "2025-12-08T15:09:18.038824+09:00",
     "main_category": "문화"
   },
   {
@@ -26,7 +26,7 @@
     "category": "문화",
     "source": "중앙일보",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/06/08af9547-83e5-4f54-8f08-7aa8f53508e9.jpg",
-    "scraped_at": "2025-12-08T19:10:11.631601+09:00",
+    "scraped_at": "2025-12-08T15:09:18.038621+09:00",
     "main_category": "문화"
   },
   {
@@ -35,8 +35,8 @@
     "date": "2025-12-08",
     "category": "문화",
     "source": "중앙일보",
-    "image_url": "",
-    "scraped_at": "2025-12-08T09:47:43.308299+09:00",
+    "image_url": "https://pds.joongang.co.kr/news/FbMetaImage/202512/a0879e60-23ee-45fe-a6d1-a092b9aec0c9.jpg",
+    "scraped_at": "2025-12-08T15:09:18.039048+09:00",
     "main_category": "문화"
   },
   {
@@ -50,23 +50,13 @@
     "main_category": "문화"
   },
   {
-    "title": "10년 만에 스크린 복귀한 박시후, 가정파탄 의혹에 입 열었다",
-    "url": "https://www.joongang.co.kr/article/25388256",
+    "title": "[단독] '사유의 방' 건축가, 용인에 이우환 미술관 만든다",
+    "url": "https://www.joongang.co.kr/article/25388156",
     "date": "2025-12-08",
     "category": "문화",
     "source": "중앙일보",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/08/bc4805a1-2aa8-4159-8939-173cac808b0f.jpg",
-    "scraped_at": "2025-12-08T19:10:11.631806+09:00",
-    "main_category": "문화"
-  },
-  {
-    "title": "‘1분 작곡’으로 수백 벌고, 故 김성재가 노래하고…AI가 바꾼 음악 생태계",
-    "url": "https://www.joongang.co.kr/article/25388302",
-    "date": "2025-12-08",
-    "category": "문화",
-    "source": "중앙일보",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/08/6b815672-4760-4f2d-96e0-5ef052bdf9be.jpg",
-    "scraped_at": "2025-12-08T19:10:11.632039+09:00",
+    "image_url": "",
+    "scraped_at": "2025-12-08T15:09:18.039320+09:00",
     "main_category": "문화"
   }
 ]

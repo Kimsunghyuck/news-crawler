@@ -5,7 +5,7 @@
     "date": "2025-12-08",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-08T19:07:42.189806+09:00",
+    "scraped_at": "2025-12-08T15:05:26.534538+09:00",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/c38d66ec-64c1-47da-aa99-108ec0996ef7.jpg",
     "main_category": "스포츠"
   },
@@ -15,7 +15,7 @@
     "date": "2025-12-08",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-08T19:07:42.190075+09:00",
+    "scraped_at": "2025-12-08T15:05:26.534843+09:00",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/04/562ddfeb-2d90-4316-9e84-d348a9d1f553.jpg",
     "main_category": "스포츠"
   },
@@ -25,7 +25,7 @@
     "date": "2025-12-08",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-08T09:42:40.810423+09:00",
+    "scraped_at": "2025-12-08T15:05:26.535029+09:00",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/08/be6ac565-5dfc-4d66-937b-4af7324837bf.jpg",
     "main_category": "스포츠"
   },
@@ -35,7 +35,7 @@
     "date": "2025-12-08",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-08T19:07:42.189933+09:00",
+    "scraped_at": "2025-12-08T15:05:26.534682+09:00",
     "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/07/b1bc538b-50f9-4e09-a256-c827cf31a6ce.jpg",
     "main_category": "스포츠"
   },
@@ -55,18 +55,8 @@
     "date": "2025-12-08",
     "category": "스포츠",
     "source": "중앙일보",
-    "scraped_at": "2025-12-08T19:07:42.190240+09:00",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/08/7c62fc2a-caf1-44d4-90c5-6485b924acdb.jpg",
-    "main_category": "스포츠"
-  },
-  {
-    "title": "월드컵 한국 멕시코서 3경기... 고산지대 스포츠의 과학",
-    "url": "https://www.joongang.co.kr/article/25388228",
-    "date": "2025-12-08",
-    "category": "스포츠",
-    "source": "중앙일보",
-    "scraped_at": "2025-12-08T19:07:42.190437+09:00",
-    "image_url": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202512/08/e97fe39e-412f-49c7-91e5-fa0a68030f2f.jpg",
+    "scraped_at": "2025-12-08T15:05:26.535258+09:00",
+    "image_url": "",
     "main_category": "스포츠"
   }
 ]

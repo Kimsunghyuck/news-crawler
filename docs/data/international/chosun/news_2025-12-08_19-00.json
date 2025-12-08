@@ -16,7 +16,7 @@
     "category": "국제",
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/OLLO3IKOINH6RIJENJNRC7CGJE.png?auth=e614413cb9136e30ee244f341e94adece8e493b128347df882c7dcacac971d0b&width=1200&height=630&smart=true",
-    "scraped_at": "2025-12-08T09:45:47.475721+09:00",
+    "scraped_at": "2025-12-08T19:09:06.310107+09:00",
     "main_category": "국제"
   },
   {
@@ -47,6 +47,46 @@
     "source": "조선일보",
     "image_url": "https://www.chosun.com/resizer/v2/DZILWLG7YZE7XISMDEFHBIW6PA.jpg?auth=367ae0048221b22810cc879471c32edd8bc539c78f4cf8dcbda4d3fad9a4952a&width=503&height=264&smart=true",
     "scraped_at": "2025-12-08T09:45:47.475859+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "체르노빌서 방사능 노출?… '푸른 개들' 비밀 밝혀졌다",
+    "url": "https://www.chosun.com/international/international_general/2025/12/08/I5FZLK67ZNEJPAE6C74QGEDN3Y/",
+    "date": "2025-12-08",
+    "category": "국제",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/XQ2TE7RFLBEZHH3D6LMX6Q3EY4.jpg?auth=fd0f2b9e81d9875e0955b99538a4f78ae1123b438a8f117b693993951d6940e0&width=750&height=393&focal=373,234",
+    "scraped_at": "2025-12-08T19:09:06.310009+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "李대통령에 北 억류자 물은 기자\"가짜뉴스 유포자라며 위협받아\"",
+    "url": "https://www.chosun.com/international/us/2025/12/08/DG25VGSFVZBFNAOSKMJM4QHITA/",
+    "date": "2025-12-08",
+    "category": "국제",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/CFGORAGQPFFZ3MPBDDKWMUCHUA.jpg?auth=e411a0372f90eb4d7d519d1d89472a506dd88361f42b1a88847687a115294912&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-08T19:09:06.310064+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "루브르, 이번엔 물 샜다\"희귀 도서 400권 손상\"",
+    "url": "https://www.chosun.com/international/international_general/2025/12/08/BKRQMTKCTNAXTJUYG7USDJXITI/",
+    "date": "2025-12-08",
+    "category": "국제",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/X6DWIUYP2BLL5L324XCAN4QVPM.jpg?auth=7c6091dfbbeadeb21f64ff774d722d72f546f649a0864db0fc6939a5fae08729&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-08T19:09:06.310144+09:00",
+    "main_category": "국제"
+  },
+  {
+    "title": "\"성별 알려주면 의사면허 박탈\"'남아 선호' 베트남 특단의 대책",
+    "url": "https://www.chosun.com/international/international_general/2025/12/08/AECJRBTVNRCSLPGZHUYYRBLTUA/",
+    "date": "2025-12-08",
+    "category": "국제",
+    "source": "조선일보",
+    "image_url": "https://www.chosun.com/resizer/v2/RZ22UJERGNNQTGRRLJBG7TKOKM.jpg?auth=4b6b71f6caf273157fe19d2b3b707751ee08f68411ea4bc7121c14992d11d0e2&width=1200&height=630&smart=true",
+    "scraped_at": "2025-12-08T19:09:06.310181+09:00",
     "main_category": "국제"
   }
 ]
