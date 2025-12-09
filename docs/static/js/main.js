@@ -1626,7 +1626,10 @@ async function loadHomeDashboard() {
         document.querySelector('.news-ticker-banner').style.display = 'none';
         return;
     }
-    
+
+    // 로딩 시작: 스켈레톤 UI 표시
+    showSkeletonLoading();
+
     // 오전 9시 이후: 실제 데이터 로드
     const loadedDate = await tryLoadNewsData(todayStr);
     
@@ -1907,6 +1910,31 @@ function getLatestCrawlTime() {
     } else {
         return '19-00';
     }
+}
+
+/**
+ * 스켈레톤 로딩 UI 표시
+ */
+function showSkeletonLoading() {
+    const container = document.getElementById('newspaper-comparison-grid');
+    const sources = ['donga', 'chosun', 'joongang'];
+
+    container.innerHTML = sources.map(() => `
+        <div class="skeleton-column">
+            <div class="skeleton-header">
+                <div class="skeleton skeleton-logo"></div>
+                <div class="skeleton skeleton-title"></div>
+            </div>
+            ${Array(6).fill(0).map(() => `
+                <div class="skeleton-article">
+                    <div class="skeleton skeleton-category"></div>
+                    <div class="skeleton skeleton-article-title"></div>
+                    <div class="skeleton skeleton-article-title-2"></div>
+                    <div class="skeleton skeleton-time"></div>
+                </div>
+            `).join('')}
+        </div>
+    `).join('');
 }
 
 

@@ -1772,8 +1772,85 @@ img {
     .comparison-grid {
         grid-template-columns: 1fr;
     }
-    
+
     .home-header h1 {
         font-size: 2rem;
     }
+}
+
+/* ===== Skeleton Loading UI ===== */
+.skeleton {
+    background: linear-gradient(90deg,
+        var(--border-color) 25%,
+        var(--bg-light) 50%,
+        var(--border-color) 75%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+    border-radius: 4px;
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+.skeleton-column {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.skeleton-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.skeleton-logo {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+}
+
+.skeleton-title {
+    width: 120px;
+    height: 24px;
+}
+
+.skeleton-article {
+    margin-bottom: 1rem;
+    padding: 0.75rem 0;
+}
+
+.skeleton-category {
+    width: 60px;
+    height: 20px;
+    margin-bottom: 0.5rem;
+    border-radius: 12px;
+}
+
+.skeleton-article-title {
+    width: 100%;
+    height: 16px;
+    margin-bottom: 0.3rem;
+}
+
+.skeleton-article-title-2 {
+    width: 80%;
+    height: 16px;
+    margin-bottom: 0.5rem;
+}
+
+.skeleton-time {
+    width: 50px;
+    height: 14px;
 }
