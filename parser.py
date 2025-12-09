@@ -17,18 +17,15 @@ def get_kst_now():
 
 
 def get_crawl_time_str():
+    """
+    현재 시간을 크롤링 시간 문자열로 반환합니다.
+    파일명에 사용되는 형식: HH-MM
+
+    Returns:
+        시간 문자열 (예: "09-20", "15-00", "19-00")
+    """
     now = get_kst_now()
-    hour = now.hour
-    minute = now.minute
-    # 크롤링 시간대: 09:20, 15:00, 19:00
-    if hour < 9 or (hour == 9 and minute < 20):
-        return '19-00'
-    elif hour < 15 or (hour == 15 and minute < 0):
-        return '09-20'
-    elif hour < 19 or (hour == 19 and minute < 0):
-        return '15-00'
-    else:
-        return '19-00'
+    return now.strftime('%H-%M')
 
 
 def extract_image_url(link_element, base_url: str = "") -> str:

@@ -12,6 +12,7 @@ from config import (
     NEWS_SOURCES, CATEGORY_EN_MAP, SOURCE_EN_MAP,
     REPORT_TEMPLATE, COMBINED_REPORT_TEMPLATE, NEWS_JSON_TEMPLATE
 )
+from parser import get_crawl_time_str
 
 # 한국 시간대 (KST = UTC+9)
 KST = timezone(timedelta(hours=9))
@@ -21,27 +22,26 @@ def get_kst_now():
     return datetime.now(KST)
 
 
-def get_crawl_time_str():
-    """크롤링 시간대 문자열을 반환합니다."""
-    now = get_kst_now()
-    hour = now.hour
-    minute = now.minute
-    # 크롤링 시간대: 09:20, 15:00, 19:00
-    if hour < 9 or (hour == 9 and minute < 20):
-        return '19-00'
-    elif hour < 15 or (hour == 15 and minute < 0):
-        return '09-20'
-    elif hour < 19 or (hour == 19 and minute < 0):
-        return '15-00'
-    else:
-        return '19-00'
+def get_category_source_json_path(category: str, source: str, date: str, time: str = None) -> str:
+    """
+    카테고리/소스별 JSON 파일 경로 생성
 
+    Args:
+        category: 카테고리
+        source: 소스 이름
+        date: 날짜 (YYYY-MM-DD)
+        time: 크롤링 시간 (HH-MM), None이면 현재 시간 사용
 
-def get_category_source_json_path(category: str, source: str, date: str) -> str:
-    """카테고리/소스별 JSON 파일 경로 생성"""
+    Returns:
+        JSON 파일 경로
+    """
     category_en = CATEGORY_EN_MAP.get(category, category.lower())
     source_en = SOURCE_EN_MAP.get(source, source.lower().replace(' ', '_'))
-    return NEWS_JSON_TEMPLATE.format(category=category_en, source=source_en, date=date)
+
+    if time is None:
+        time = get_crawl_time_str()
+
+    return NEWS_JSON_TEMPLATE.format(category=category_en, source=source_en, date=date, time=time)
 
 
 def load_all_news_by_date(date: str) -> dict:

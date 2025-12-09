@@ -237,34 +237,46 @@ function updateSourceTitle(source, category = null) {
  */
 
 /**
- * 뉴스 데이터 로드 - JSON 파일에서 직접 로드
+ * 뉴스 데이터 로드 - JSON 파일에서 직접 로드 (3개 시간대 모두)
  */
 async function loadNews(category, source, date) {
     const loadingEl = document.getElementById('loading-spinner');
     const errorEl = document.getElementById('error-message');
     const emptyEl = document.getElementById('empty-state');
     const gridEl = document.getElementById('news-grid');
-    
+
     // 로딩 상태 표시
     loadingEl.style.display = 'flex';
     errorEl.style.display = 'none';
     emptyEl.style.display = 'none';
     gridEl.innerHTML = '';
-    
+
     try {
-        // JSON 파일 경로
-        const response = await fetch(`data/${category}/${source}/news_${date}.json`);
-        
-        if (!response.ok) {
-            throw new Error('Data not found');
+        // 3개 시간대 데이터 모두 로드
+        const times = ['09-20', '15-00', '19-00'];
+        let allNews = [];
+
+        for (const time of times) {
+            try {
+                const response = await fetch(`data/${category}/${source}/news_${date}_${time}.json`);
+                if (response.ok) {
+                    const data = await response.json();
+                    allNews = allNews.concat(data);
+                    console.log(`[${source}] ${time} 데이터 로드: ${data.length}개`);
+                }
+            } catch (error) {
+                console.log(`[${source}] ${time} 데이터 없음`);
+            }
         }
-        
-        const data = await response.json();
-        
+
+        // 중복 제거 (URL 기준)
+        const uniqueNews = removeDuplicateNews(allNews);
+        console.log(`[${source}] 총 ${allNews.length}개 → 중복 제거 후 ${uniqueNews.length}개`);
+
         loadingEl.style.display = 'none';
-        
-        if (data && data.length > 0) {
-            renderNewsGrid(data);
+
+        if (uniqueNews && uniqueNews.length > 0) {
+            renderNewsGrid(uniqueNews);
             emptyEl.style.display = 'none';
         } else {
             gridEl.innerHTML = '';
@@ -805,6 +817,23 @@ async function shareNews(newsItem) {
 }
 
 /**
+ * 뉴스 배열에서 중복 제거 (URL 기준)
+ */
+function removeDuplicateNews(newsArray) {
+    const seen = new Map();
+
+    newsArray.forEach(item => {
+        const url = item.url;
+        // URL이 같으면 중복으로 간주, 최신 것만 유지
+        if (!seen.has(url)) {
+            seen.set(url, item);
+        }
+    });
+
+    return Array.from(seen.values());
+}
+
+/**
  * 카테고리명을 CSS 클래스로 변환
  */
 function getCategoryClass(category) {
@@ -822,7 +851,7 @@ function getCategoryClass(category) {
         '문화': 'culture',
         'culture': 'culture'
     };
-    
+
     return categoryMap[category] || 'politics';
 }
 
@@ -879,27 +908,34 @@ async function initNewsTicker(date) {
     };
     
     let allNews = [];
-    
-    // 모든 카테고리와 소스에서 뉴스 수집
+
+    // 모든 카테고리와 소스에서 뉴스 수집 (3개 시간대 모두)
+    const times = ['09-20', '15-00', '19-00'];
+
     for (const category of categories) {
         for (const source of sources) {
-            try {
-                const response = await fetch(`data/${category}/${source}/news_${date}.json`);
-                if (response.ok) {
-                    const data = await response.json();
-                    const newsWithCategory = data.map(item => ({
-                        ...item,
-                        category: category,
-                        categoryLabel: categoryLabels[category],
-                        source: source
-                    }));
-                    allNews = allNews.concat(newsWithCategory);
+            for (const time of times) {
+                try {
+                    const response = await fetch(`data/${category}/${source}/news_${date}_${time}.json`);
+                    if (response.ok) {
+                        const data = await response.json();
+                        const newsWithCategory = data.map(item => ({
+                            ...item,
+                            category: category,
+                            categoryLabel: categoryLabels[category],
+                            source: source
+                        }));
+                        allNews = allNews.concat(newsWithCategory);
+                    }
+                } catch (error) {
+                    console.log(`티커 뉴스 로드 실패: ${category}/${source}/${time}`);
                 }
-            } catch (error) {
-                console.log(`티커 뉴스 로드 실패: ${category}/${source}`, error);
             }
         }
     }
+
+    // 중복 제거 (URL 기준)
+    allNews = removeDuplicateNews(allNews);
     
     console.log('티커 뉴스 로드 완료:', allNews.length, '개');
     
@@ -1199,26 +1235,42 @@ async function collectDailyStats(date) {
     const sourceData = {};
     let totalArticles = 0;
     
-    // 카테고리별 데이터 수집
+    // 카테고리별 데이터 수집 (3개 시간대 모두, 중복 제거)
+    const times = ['09-20', '15-00', '19-00'];
+
     for (const category of categories) {
-        let categoryCount = 0;
-        
+        let categoryNews = [];
+
         for (const source of sources) {
-            try {
-                const response = await fetch(`data/${category}/${source}/news_${date}.json`);
-                if (response.ok) {
-                    const newsData = await response.json();
-                    const articleCount = newsData.length;
-                    
-                    categoryCount += articleCount;
-                    sourceData[source] = (sourceData[source] || 0) + articleCount;
-                    totalArticles += articleCount;
+            let sourceNews = [];
+
+            for (const time of times) {
+                try {
+                    const response = await fetch(`data/${category}/${source}/news_${date}_${time}.json`);
+                    if (response.ok) {
+                        const newsData = await response.json();
+                        sourceNews = sourceNews.concat(newsData);
+                    }
+                    // 404는 정상 - 해당 날짜 데이터가 없는 경우
+                } catch (error) {
+                    // 네트워크 오류만 로깅
                 }
-                // 404는 정상 - 해당 날짜 데이터가 없는 경우
-            } catch (error) {
-                // 네트워크 오류만 로깅
+            }
+
+            // 소스별 중복 제거
+            const uniqueSourceNews = removeDuplicateNews(sourceNews);
+            const articleCount = uniqueSourceNews.length;
+
+            if (articleCount > 0) {
+                categoryNews = categoryNews.concat(uniqueSourceNews);
+                sourceData[source] = (sourceData[source] || 0) + articleCount;
+                totalArticles += articleCount;
             }
         }
+
+        // 카테고리별 중복 제거 후 카운트
+        const uniqueCategoryNews = removeDuplicateNews(categoryNews);
+        const categoryCount = uniqueCategoryNews.length;
         
         if (categoryCount > 0) {
             categoryData[category] = categoryCount;
