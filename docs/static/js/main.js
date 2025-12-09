@@ -1047,13 +1047,16 @@ async function loadTrendPanelData(date) {
  */
 function displayTrendKeywords(keywords) {
     const keywordsList = document.getElementById('trend-keywords-list');
-    
+
     if (!keywords || keywords.length === 0) {
         keywordsList.innerHTML = '<p class="trend-empty">키워드가 없습니다.</p>';
         return;
     }
-    
-    keywordsList.innerHTML = keywords.map((kw, index) => `
+
+    // Top 10만 표시
+    const top10Keywords = keywords.slice(0, 10);
+
+    keywordsList.innerHTML = top10Keywords.map((kw, index) => `
         <div class="trend-keyword-item">
             <span class="trend-rank">${index + 1}</span>
             <span class="trend-word">${kw.word}</span>
