@@ -329,9 +329,9 @@ jobs:
         
           test('메인 페이지 로드', async ({ page }) => {
             await expect(page.locator('nav.main-navigation')).toBeVisible();
-            await expect(page.locator('section.news-section')).toBeVisible();
+            await expect(page.locator('#home-dashboard')).toBeVisible();
             await expect(page.locator('footer.site-footer')).toBeVisible();
-            console.log('✅ 메인 페이지 로드 완료');
+            console.log('✅ 메인 페이지 로드 완료 (홈 대시보드)');
           });
         
           test('트렌드 버튼 존재', async ({ page }) => {
@@ -372,8 +372,17 @@ jobs:
           });
         
           test('날짜 선택기', async ({ page }) => {
+            // 먼저 카테고리 클릭하여 news-section 표시
+            const categories = page.locator('li.category-item');
+            if (await categories.count() > 0) {
+              await categories.first().click();
+              await page.waitForTimeout(500);
+            }
+
+            // 이제 날짜 선택기 사용
             const datePicker = page.locator('input[type="date"]');
             if (await datePicker.count() > 0) {
+              await expect(datePicker).toBeVisible();
               await datePicker.fill('2025-12-02');
               await page.waitForTimeout(500);
               console.log('✅ 날짜 선택 완료');
