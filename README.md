@@ -20,23 +20,24 @@ GitHub Actions로 하루 3번 자동 실행되며, GitHub Pages로 무료 호스
 news-crawler/
 ├── crawler.py              # HTTP 요청 + 이미지 추출 + JSON 저장
 ├── parser.py               # HTML 파싱 (18개 파서 함수)
-├── analyzer.py             # 트렌드 키워드 분석 (NEW)
+├── analyzer.py             # 트렌드 키워드 분석
 ├── report_generator.py     # 마크다운 보고서 생성
 ├── scheduler.py            # 로컬 스케줄러 (테스트용)
 ├── config.py               # 중앙 설정 (SSOT)
 ├── requirements.txt        # Python 의존성
 ├── data/                   # 원본 JSON 데이터
-│   └── {category}/{source}/news_{date}.json
+│   └── {category}/{source}/news_{date}_{time}.json  # 시간 스탬프 포함
 ├── docs/                   # GitHub Pages 정적 사이트
 │   ├── index.html          # 메인 페이지
 │   ├── static/             # CSS, JS, 이미지
 │   └── data/               # JSON 복사본 (배포용)
-│       └── trends/         # 트렌드 분석 데이터 (NEW)
+│       └── trends/         # 트렌드 분석 데이터
 ├── reports/                # 마크다운 보고서
 │   ├── combined/           # 전체 리포트
 │   └── {category}/{source}/report_{date}.md
 └── .github/workflows/      # GitHub Actions
     ├── daily-crawl.yml     # 하루 3번 자동 실행 (09:20, 15:00, 19:00)
+    ├── test-website.yml    # Playwright E2E 테스트
     └── manual-crawl.yml    # 수동 트리거
 ```
 
@@ -123,6 +124,13 @@ python -m http.server 8000
 ### 호스팅
 - **GitHub Pages**: 정적 사이트 무료 호스팅 (`/docs` 폴더)
 
+### 개발 도구
+- **Claude Code**: Anthropic의 공식 CLI 도구를 활용한 AI 기반 개발
+  - 코드 작성, 리팩토링, 디버깅 자동화
+  - GitHub Actions 워크플로우 구성 및 E2E 테스트 설정
+  - 실시간 협업을 통한 빠른 프로토타이핑
+  - 문서 자동 생성 및 프로젝트 구조 설계
+
 
 ## 📅 개발 일지
 
@@ -169,6 +177,28 @@ python -m http.server 8000
 - **404 에러 최적화** (존재하는 데이터만 수집)
 - README 최신화 및 프로젝트 문서화 완료
 
+### Day 6: 시간 스탬프 시스템 및 데이터 통합 (2025-12-09)
+- **파일명 시스템 개편**
+  - `news_{date}.json` → `news_{date}_{time}.json` (예: `news_2025-12-09_09-20.json`)
+  - 하루 3회 크롤링 데이터를 개별 파일로 분리 저장
+  - `get_crawl_time_str()` 함수 추가 (parser.py)
+- **데이터 통합 로직 구현**
+  - 메인 화면: 각 시간대별 1개 기사 표시 (최신 타임스탬프 우선)
+  - 카테고리 화면: 3개 시간대 데이터 통합 + URL 기반 중복 제거
+  - 뉴스 티커: 전체 시간대 통합 데이터 랜덤 표시
+  - 통계 대시보드: 3개 시간대 중복 제거 후 집계
+- **트렌드 분석 개선**
+  - `analyzer.py` 수정: 3개 시간대 파일 모두 분석
+  - `analyze_daily_keywords()`, `analyze_category_keywords()` 함수 업데이트
+  - 키워드 빈도수 정확도 향상 (90개 → 최대 270개 기사 분석)
+- **E2E 테스트 구축**
+  - Playwright 기반 자동화 테스트 추가 (`test-website.yml`)
+  - 페이지 로드, 카테고리 전환, 날짜 선택, JavaScript 에러 체크
+  - 홈 대시보드 우선 표시 로직에 맞춰 테스트 수정
+- **Git 워크플로우 최적화**
+  - `git pull --rebase` 자동 병합 처리
+  - CI/CD 파이프라인 안정화
+
 ## 📈 수집 현황
 
 | 카테고리 | 언론사 | 기사 수/회 | 하루 총 | 이미지 | 트렌드 | 자동화 |
@@ -187,5 +217,6 @@ python -m http.server 8000
 
 ---
 
-**최종 업데이트**: 2025년 12월 5일  
-**버전**: 6.0 (통계 대시보드 추가)
+**최종 업데이트**: 2025년 12월 9일
+**버전**: 7.0 (시간 스탬프 시스템 + E2E 테스트)
+**개발 도구**: [Claude Code](https://claude.com/claude-code) by Anthropic

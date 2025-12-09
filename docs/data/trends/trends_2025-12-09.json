@@ -1,13 +1,220 @@
 {
   "date": "2025-12-09",
-  "generated_at": "2025-12-09T09:48:04.292192+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2025-12-09T10:48:31.958328+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "조진웅",
+      "count": 4
+    },
+    {
+      "word": "쿠팡",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "후보",
+      "count": 3
+    },
+    {
+      "word": "정청래",
+      "count": 3
+    },
+    {
+      "word": "골든글로브",
+      "count": 2
+    },
+    {
+      "word": "글로벌",
+      "count": 2
+    },
+    {
+      "word": "도움",
+      "count": 2
+    },
+    {
+      "word": "만명",
+      "count": 2
+    },
+    {
+      "word": "투어",
+      "count": 2
+    },
+    {
+      "word": "걸음에",
+      "count": 2
+    },
+    {
+      "word": "이유",
+      "count": 2
+    },
+    {
+      "word": "사과",
+      "count": 2
+    },
+    {
+      "word": "논란",
+      "count": 2
+    },
+    {
+      "word": "규모",
+      "count": 2
+    },
+    {
+      "word": "유럽",
+      "count": 2
+    },
+    {
+      "word": "수상",
+      "count": 2
+    },
+    {
+      "word": "충돌",
+      "count": 2
+    },
+    {
+      "word": "추진",
+      "count": 2
+    },
+    {
+      "word": "강진",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "정청래",
+        "count": 3
+      },
+      {
+        "word": "내란재판부",
+        "count": 2
+      },
+      {
+        "word": "대통령실",
+        "count": 2
+      },
+      {
+        "word": "친명",
+        "count": 2
+      },
+      {
+        "word": "오세훈",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "대회",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "진출",
+        "count": 2
+      },
+      {
+        "word": "관중",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "쿠팡",
+        "count": 2
+      },
+      {
+        "word": "해수부",
+        "count": 1
+      },
+      {
+        "word": "세종",
+        "count": 1
+      },
+      {
+        "word": "부산으로",
+        "count": 1
+      },
+      {
+        "word": "중앙부처",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 2
+      },
+      {
+        "word": "운세",
+        "count": 2
+      },
+      {
+        "word": "조진웅",
+        "count": 2
+      },
+      {
+        "word": "수서역에",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "후보",
+        "count": 2
+      },
+      {
+        "word": "강진",
+        "count": 2
+      },
+      {
+        "word": "가능성",
+        "count": 2
+      },
+      {
+        "word": "알츠하이머",
+        "count": 2
+      },
+      {
+        "word": "한복",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "조진웅",
+        "count": 2
+      },
+      {
+        "word": "글로벌",
+        "count": 2
+      },
+      {
+        "word": "걸음에",
+        "count": 2
+      },
+      {
+        "word": "감옥서",
+        "count": 1
+      },
+      {
+        "word": "맞붙었다",
+        "count": 1
+      }
+    ]
   }
 }

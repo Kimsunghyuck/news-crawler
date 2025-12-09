@@ -53,112 +53,121 @@ def extract_korean_nouns(text: str, min_length: int = 2, max_length: int = 10) -
 def analyze_daily_keywords(date: str = None, top_n: int = 20) -> List[Dict[str, any]]:
     """
     특정 날짜의 모든 뉴스에서 키워드를 분석합니다.
-    
+
     Args:
         date: 분석할 날짜 (YYYY-MM-DD), None이면 오늘
         top_n: 상위 N개 키워드 반환
-    
+
     Returns:
         키워드 리스트: [{"word": "키워드", "count": 횟수}, ...]
     """
     if date is None:
         date = get_kst_now().strftime('%Y-%m-%d')
-    
+
     all_keywords = []
-    
+
+    # 3개 시간대
+    times = ['09-20', '15-00', '19-00']
+
     # 모든 카테고리/소스의 뉴스 파일 탐색
     for category_dir in os.listdir(DATA_DIR):
         category_path = os.path.join(DATA_DIR, category_dir)
-        
+
         if not os.path.isdir(category_path):
             continue
-        
+
         for source_dir in os.listdir(category_path):
             source_path = os.path.join(category_path, source_dir)
-            
+
             if not os.path.isdir(source_path):
                 continue
-            
-            # 해당 날짜의 뉴스 파일 찾기
-            news_file = os.path.join(source_path, f'news_{date}.json')
-            
-            if os.path.exists(news_file):
-                try:
-                    with open(news_file, 'r', encoding='utf-8') as f:
-                        news_items = json.load(f)
-                    
-                    # 각 뉴스 제목에서 키워드 추출
-                    for item in news_items:
-                        title = item.get('title', '')
-                        keywords = extract_korean_nouns(title)
-                        all_keywords.extend(keywords)
-                        
-                except Exception as e:
-                    print(f"파일 읽기 오류 ({news_file}): {e}")
-                    continue
-    
+
+            # 3개 시간대의 뉴스 파일 모두 읽기
+            for time in times:
+                news_file = os.path.join(source_path, f'news_{date}_{time}.json')
+
+                if os.path.exists(news_file):
+                    try:
+                        with open(news_file, 'r', encoding='utf-8') as f:
+                            news_items = json.load(f)
+
+                        # 각 뉴스 제목에서 키워드 추출
+                        for item in news_items:
+                            title = item.get('title', '')
+                            keywords = extract_korean_nouns(title)
+                            all_keywords.extend(keywords)
+
+                    except Exception as e:
+                        print(f"파일 읽기 오류 ({news_file}): {e}")
+                        continue
+
     # 빈도 분석
     keyword_counts = Counter(all_keywords)
-    
+
     # 상위 N개 추출
     top_keywords = [
         {"word": word, "count": count}
         for word, count in keyword_counts.most_common(top_n)
     ]
-    
+
     return top_keywords
 
 
 def analyze_category_keywords(category: str, date: str = None, top_n: int = 10) -> List[Dict[str, any]]:
     """
     특정 카테고리의 키워드를 분석합니다.
-    
+
     Args:
         category: 카테고리 (politics, sports, economy 등)
         date: 분석할 날짜 (YYYY-MM-DD), None이면 오늘
         top_n: 상위 N개 키워드 반환
-    
+
     Returns:
         키워드 리스트
     """
     if date is None:
         date = get_kst_now().strftime('%Y-%m-%d')
-    
+
     all_keywords = []
     category_path = os.path.join(DATA_DIR, category)
-    
+
     if not os.path.isdir(category_path):
         return []
-    
+
+    # 3개 시간대
+    times = ['09-20', '15-00', '19-00']
+
     # 해당 카테고리의 모든 소스 탐색
     for source_dir in os.listdir(category_path):
         source_path = os.path.join(category_path, source_dir)
-        
+
         if not os.path.isdir(source_path):
             continue
-        
-        news_file = os.path.join(source_path, f'news_{date}.json')
-        
-        if os.path.exists(news_file):
-            try:
-                with open(news_file, 'r', encoding='utf-8') as f:
-                    news_items = json.load(f)
-                
-                for item in news_items:
-                    title = item.get('title', '')
-                    keywords = extract_korean_nouns(title)
-                    all_keywords.extend(keywords)
-                    
-            except Exception as e:
-                print(f"파일 읽기 오류 ({news_file}): {e}")
-                continue
-    
+
+        # 3개 시간대의 뉴스 파일 모두 읽기
+        for time in times:
+            news_file = os.path.join(source_path, f'news_{date}_{time}.json')
+
+            if os.path.exists(news_file):
+                try:
+                    with open(news_file, 'r', encoding='utf-8') as f:
+                        news_items = json.load(f)
+
+                    for item in news_items:
+                        title = item.get('title', '')
+                        keywords = extract_korean_nouns(title)
+                        all_keywords.extend(keywords)
+
+                except Exception as e:
+                    print(f"파일 읽기 오류 ({news_file}): {e}")
+                    continue
+
     keyword_counts = Counter(all_keywords)
     top_keywords = [
         {"word": word, "count": count}
         for word, count in keyword_counts.most_common(top_n)
     ]
-    
+
     return top_keywords
 
 
