@@ -1,163 +1,167 @@
 {
   "date": "2025-12-09",
-  "generated_at": "2025-12-09T15:39:11.355078+09:00",
+  "generated_at": "2025-12-09T19:12:34.066730+09:00",
   "daily_top_keywords": [
     {
       "word": "조진웅",
-      "count": 7
-    },
-    {
-      "word": "쿠팡",
-      "count": 7
-    },
-    {
-      "word": "한국",
-      "count": 7
+      "count": 11
     },
     {
       "word": "통일교",
-      "count": 6
+      "count": 11
     },
     {
-      "word": "사과",
-      "count": 5
+      "word": "쿠팡",
+      "count": 10
     },
     {
-      "word": "남자",
-      "count": 5
+      "word": "한국",
+      "count": 10
     },
     {
       "word": "진출",
-      "count": 5
+      "count": 9
     },
     {
-      "word": "후보",
-      "count": 4
-    },
-    {
-      "word": "만에",
-      "count": 4
-    },
-    {
-      "word": "만명",
-      "count": 4
-    },
-    {
-      "word": "투어",
-      "count": 4
-    },
-    {
-      "word": "이유",
-      "count": 4
-    },
-    {
-      "word": "검토",
-      "count": 4
-    },
-    {
-      "word": "가능성",
-      "count": 4
-    },
-    {
-      "word": "정청래",
-      "count": 4
+      "word": "남자",
+      "count": 8
     },
     {
       "word": "월드컵",
-      "count": 4
+      "count": 8
     },
     {
-      "word": "골든글로브",
-      "count": 3
+      "word": "사과",
+      "count": 7
     },
     {
-      "word": "결국",
-      "count": 3
+      "word": "가능성",
+      "count": 7
+    },
+    {
+      "word": "만에",
+      "count": 6
+    },
+    {
+      "word": "만명",
+      "count": 6
+    },
+    {
+      "word": "이유",
+      "count": 6
+    },
+    {
+      "word": "국힘",
+      "count": 6
+    },
+    {
+      "word": "민주당",
+      "count": 6
+    },
+    {
+      "word": "투어",
+      "count": 5
     },
     {
       "word": "논란",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "검토",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
     },
     {
       "word": "역대",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "사망",
+      "count": 5
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "통일교",
-        "count": 5
+        "count": 9
+      },
+      {
+        "word": "국힘",
+        "count": 4
+      },
+      {
+        "word": "친명",
+        "count": 4
       },
       {
         "word": "정청래",
         "count": 4
       },
       {
-        "word": "내란재판부",
-        "count": 3
-      },
-      {
-        "word": "친명",
-        "count": 3
-      },
-      {
         "word": "의혹",
-        "count": 3
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 5
-      },
-      {
-        "word": "진출",
-        "count": 5
-      },
-      {
-        "word": "한국",
-        "count": 4
+        "count": 8
       },
       {
         "word": "월드컵",
-        "count": 4
+        "count": 8
       },
       {
-        "word": "대회",
-        "count": 3
+        "word": "진출",
+        "count": 8
+      },
+      {
+        "word": "한국",
+        "count": 6
+      },
+      {
+        "word": "유일한",
+        "count": 5
       }
     ],
     "economy": [
       {
         "word": "쿠팡",
-        "count": 4
+        "count": 6
       },
       {
         "word": "해수부",
-        "count": 2
+        "count": 3
       },
       {
         "word": "세종",
-        "count": 2
+        "count": 3
       },
       {
         "word": "부산으로",
-        "count": 2
+        "count": 3
       },
       {
         "word": "중앙부처",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "오늘의",
-        "count": 3
+        "count": 4
       },
       {
         "word": "운세",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "통일교",
+        "count": 2
       },
       {
         "word": "행사",
@@ -166,13 +170,21 @@
       {
         "word": "조폭",
         "count": 2
-      },
-      {
-        "word": "연루설",
-        "count": 2
       }
     ],
     "international": [
+      {
+        "word": "가능성",
+        "count": 5
+      },
+      {
+        "word": "다카이치",
+        "count": 4
+      },
+      {
+        "word": "영토",
+        "count": 4
+      },
       {
         "word": "후보",
         "count": 3
@@ -180,40 +192,28 @@
       {
         "word": "중국인",
         "count": 3
-      },
-      {
-        "word": "가능성",
-        "count": 3
-      },
-      {
-        "word": "이런",
-        "count": 3
-      },
-      {
-        "word": "충돌",
-        "count": 2
       }
     ],
     "culture": [
       {
         "word": "조진웅",
+        "count": 7
+      },
+      {
+        "word": "사과",
         "count": 4
       },
       {
         "word": "감옥서",
-        "count": 2
+        "count": 3
       },
       {
         "word": "김고은의",
-        "count": 2
+        "count": 3
       },
       {
         "word": "자백의",
-        "count": 2
-      },
-      {
-        "word": "대가",
-        "count": 2
+        "count": 3
       }
     ]
   }
