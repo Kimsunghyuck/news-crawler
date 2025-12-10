@@ -1,9 +1,41 @@
 {
   "date": "2025-12-10",
-  "generated_at": "2025-12-10T09:48:00.889009+09:00",
+  "generated_at": "2025-12-10T15:16:21.132363+09:00",
   "daily_top_keywords": [
     {
+      "word": "통일교",
+      "count": 6
+    },
+    {
       "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "남자",
+      "count": 5
+    },
+    {
+      "word": "박나래",
+      "count": 4
+    },
+    {
+      "word": "논란",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "손흥민",
+      "count": 4
+    },
+    {
+      "word": "매니저",
+      "count": 3
+    },
+    {
+      "word": "월급",
       "count": 3
     },
     {
@@ -11,7 +43,7 @@
       "count": 3
     },
     {
-      "word": "통일교",
+      "word": "추진",
       "count": 3
     },
     {
@@ -19,72 +51,52 @@
       "count": 3
     },
     {
+      "word": "나경원",
+      "count": 3
+    },
+    {
+      "word": "김정은",
+      "count": 3
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "전재수에",
+      "count": 3
+    },
+    {
+      "word": "줬다",
+      "count": 3
+    },
+    {
       "word": "규모",
       "count": 3
     },
     {
-      "word": "손흥민",
+      "word": "유일한",
       "count": 3
     },
     {
       "word": "우승",
       "count": 3
-    },
-    {
-      "word": "김연경",
-      "count": 2
-    },
-    {
-      "word": "비밀",
-      "count": 2
-    },
-    {
-      "word": "결국",
-      "count": 2
-    },
-    {
-      "word": "사과",
-      "count": 2
-    },
-    {
-      "word": "마이크",
-      "count": 2
-    },
-    {
-      "word": "중단",
-      "count": 2
-    },
-    {
-      "word": "여권",
-      "count": 2
-    },
-    {
-      "word": "협박",
-      "count": 2
-    },
-    {
-      "word": "김정은",
-      "count": 2
-    },
-    {
-      "word": "됐다",
-      "count": 2
-    },
-    {
-      "word": "껐다",
-      "count": 2
-    },
-    {
-      "word": "켰다",
-      "count": 2
-    },
-    {
-      "word": "전재수에",
-      "count": 2
     }
   ],
   "category_keywords": {
     "politics": [
+      {
+        "word": "통일교",
+        "count": 4
+      },
+      {
+        "word": "나경원",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 3
+      },
       {
         "word": "마이크",
         "count": 2
@@ -92,83 +104,71 @@
       {
         "word": "만에",
         "count": 2
-      },
-      {
-        "word": "중단",
-        "count": 2
-      },
-      {
-        "word": "여권",
-        "count": 2
-      },
-      {
-        "word": "통일교",
-        "count": 2
       }
     ],
     "sports": [
       {
-        "word": "우승",
-        "count": 3
-      },
-      {
-        "word": "양의지",
-        "count": 2
-      },
-      {
-        "word": "번째",
-        "count": 2
+        "word": "남자",
+        "count": 4
       },
       {
         "word": "손흥민",
-        "count": 2
+        "count": 3
       },
       {
         "word": "유일한",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "우승",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "은행",
-        "count": 1
+        "count": 2
       },
       {
         "word": "회수",
-        "count": 1
+        "count": 2
       },
       {
         "word": "불능",
-        "count": 1
+        "count": 2
       },
       {
         "word": "대출",
-        "count": 1
+        "count": 2
       },
       {
         "word": "사상",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "전재수에",
-        "count": 2
+        "word": "만원",
+        "count": 4
       },
       {
-        "word": "만원",
-        "count": 2
+        "word": "전재수에",
+        "count": 3
       },
       {
         "word": "줬다",
-        "count": 2
+        "count": 3
       },
       {
         "word": "박나래",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "매니저",
+        "word": "통일교",
         "count": 2
       }
     ],
@@ -178,42 +178,42 @@
         "count": 2
       },
       {
-        "word": "사망",
+        "word": "턱걸이",
         "count": 2
       },
       {
-        "word": "서해",
-        "count": 1
+        "word": "추진",
+        "count": 2
       },
       {
-        "word": "구조물",
-        "count": 1
+        "word": "아들",
+        "count": 2
       },
       {
-        "word": "두고",
-        "count": 1
+        "word": "한국으로",
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "방탄소년단",
-        "count": 1
+        "word": "김지미",
+        "count": 2
       },
       {
-        "word": "해체",
-        "count": 1
+        "word": "별세",
+        "count": 2
       },
       {
-        "word": "언급했던",
-        "count": 1
+        "word": "에스파",
+        "count": 2
       },
       {
-        "word": "피로하게",
-        "count": 1
+        "word": "윈터",
+        "count": 2
       },
       {
-        "word": "죄송",
-        "count": 1
+        "word": "선처",
+        "count": 2
       }
     ]
   }
