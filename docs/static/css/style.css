@@ -1768,6 +1768,19 @@ img {
     color: var(--text-secondary);
 }
 
+.comparison-no-data {
+    padding: 2rem 1rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 300px;
+    background: var(--bg-light);
+    border-radius: 12px;
+    margin: 1rem 0;
+}
+
 @media (max-width: 968px) {
     .comparison-grid {
         grid-template-columns: 1fr;

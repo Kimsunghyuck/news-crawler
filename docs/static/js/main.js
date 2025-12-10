@@ -1614,15 +1614,15 @@ async function loadHomeDashboard() {
     const mm = String(today.getMonth() + 1).padStart(2, '0');
     const dd = String(today.getDate()).padStart(2, '0');
     const todayStr = `${yyyy}-${mm}-${dd}`;
-    
+
     console.log('홈 대시보드 로드 시작:', todayStr);
-    
+
     // 오전 9시 이전인지 체크
     const currentHour = today.getHours();
     const isBeforeUpdate = currentHour < 9;
-    
+
     console.log(`현재 시각: ${currentHour}시, 업데이트 전: ${isBeforeUpdate}`);
-    
+
     if (isBeforeUpdate) {
         showUpdateScheduleMessage(today);
         // 티커도 숨기기
@@ -1634,14 +1634,61 @@ async function loadHomeDashboard() {
     showSkeletonLoading();
 
     // 오전 9시 이후: 실제 데이터 로드
-    const loadedDate = await tryLoadNewsData(todayStr);
-    
-    if (loadedDate) {
+    const crawlTime = getLatestCrawlTime();
+    const result = await tryLoadNewsData(todayStr, crawlTime);
+
+    if (result.success) {
         updateHomeDateLabel(todayStr, false);
         // 티커 표시
         document.querySelector('.news-ticker-banner').style.display = 'block';
     } else {
-        showNoDataMessage();
+        // 데이터가 없으면 메시지와 이전 시간대 보기 버튼 표시
+        showNoDataWithRetryButton(result.crawlTime);
+        // 티커 숨기기
+        document.querySelector('.news-ticker-banner').style.display = 'none';
+    }
+}
+
+/**
+ * 특정 크롤링 시간대로 홈 대시보드 데이터 로드
+ */
+async function loadHomeDashboardWithTime(crawlTime) {
+    const today = new Date();
+    const yyyy = today.getFullYear();
+    const mm = String(today.getMonth() + 1).padStart(2, '0');
+    const dd = String(today.getDate()).padStart(2, '0');
+    const todayStr = `${yyyy}-${mm}-${dd}`;
+
+    console.log(`홈 대시보드 로드 (${crawlTime}):`, todayStr);
+
+    // 로딩 시작: 스켈레톤 UI 표시
+    showSkeletonLoading();
+
+    // 지정된 시간대 데이터 로드
+    const result = await tryLoadNewsData(todayStr, crawlTime);
+
+    if (result.success) {
+        // 이전 시간대 데이터를 보여주는 경우 헤더 업데이트
+        const homeHeader = document.querySelector('.home-header h1');
+        const homeSubtitle = document.querySelector('.home-subtitle');
+
+        const timeLabels = {
+            '09-20': '오전 9시 20분',
+            '15-00': '오후 3시',
+            '19-00': '오후 7시'
+        };
+
+        const timeLabel = timeLabels[crawlTime] || crawlTime;
+
+        homeHeader.textContent = `📰 ${timeLabel} 업데이트 뉴스`;
+        homeSubtitle.textContent = '이전 시간대의 뉴스를 보고 있습니다';
+        homeSubtitle.style.color = 'var(--accent-color)';
+
+        // 티커 표시
+        document.querySelector('.news-ticker-banner').style.display = 'block';
+    } else {
+        // 이전 시간대 데이터도 없으면 다시 메시지 표시
+        showNoDataWithRetryButton(result.crawlTime);
         // 티커 숨기기
         document.querySelector('.news-ticker-banner').style.display = 'none';
     }
@@ -1750,21 +1797,24 @@ function startCountdown(hours, minutes) {
 /**
  * 특정 날짜의 뉴스 데이터 로드 시도
  */
-async function tryLoadNewsData(dateStr) {
-    // 크롤링 시간대별 파일명 자동 선택
-    const crawlTime = getLatestCrawlTime();
+async function tryLoadNewsData(dateStr, crawlTime = null) {
+    // 크롤링 시간대가 지정되지 않았으면 자동 선택
+    if (!crawlTime) {
+        crawlTime = getLatestCrawlTime();
+    }
+
     // 예시: news_2025-12-05_09-20.json
     const fileName = `news_${dateStr}_${crawlTime}.json`;
     // 실제 경로: docs/data/{category}/{source}/news_{date}_{crawlTime}.json
-    
+
     try {
         const categories = ['politics', 'sports', 'economy', 'society', 'international', 'culture'];
         const sources = ['donga', 'chosun', 'joongang'];
-        
+
         const allNews = [];
         const newspaperNews = { donga: [], chosun: [], joongang: [] };
         let hasData = false;
-        
+
         for (const category of categories) {
             for (const source of sources) {
                 try {
@@ -1790,7 +1840,7 @@ async function tryLoadNewsData(dateStr) {
                 }
             }
         }
-        
+
         if (hasData) {
             console.log(`전체 뉴스: ${allNews.length}개`);
             console.log('신문사별 뉴스:', {
@@ -1798,18 +1848,18 @@ async function tryLoadNewsData(dateStr) {
                 chosun: newspaperNews.chosun.length,
                 joongang: newspaperNews.joongang.length
             });
-            
-            // 신문사별 헤드라인 렌더링
-            renderNewspaperComparison(newspaperNews);
-            
-            return dateStr;
+
+            // 신문사별 헤드라인 렌더링 (crawlTime 전달)
+            renderNewspaperComparison(newspaperNews, crawlTime);
+
+            return { success: true, dateStr, crawlTime };
         }
-        
-        return null;
-        
+
+        return { success: false, crawlTime };
+
     } catch (error) {
         console.error('뉴스 데이터 로드 실패:', error);
-        return null;
+        return { success: false, crawlTime };
     }
 }
 
@@ -1850,9 +1900,111 @@ function showNoDataMessage() {
 }
 
 /**
+ * 데이터 없을 때 이전 시간대 보기 버튼과 함께 메시지 표시
+ */
+function showNoDataWithRetryButton(currentCrawlTime) {
+    const container = document.getElementById('newspaper-comparison-grid');
+    const previousTime = getPreviousCrawlTime(currentCrawlTime);
+
+    // 헤더 업데이트
+    const homeHeader = document.querySelector('.home-header h1');
+    const homeSubtitle = document.querySelector('.home-subtitle');
+
+    homeHeader.textContent = '⏰ 해당 시간대 기사가 아직 없습니다';
+    homeSubtitle.textContent = '최신 뉴스가 곧 업데이트될 예정입니다';
+    homeSubtitle.style.color = 'var(--accent-color)';
+
+    // 현재 시간대 한글 표시
+    const timeLabels = {
+        '09-20': '오전 9시 20분',
+        '15-00': '오후 3시',
+        '19-00': '오후 7시'
+    };
+
+    const currentTimeLabel = timeLabels[currentCrawlTime] || currentCrawlTime;
+
+    // 이전 시간대가 있으면 버튼 표시, 없으면 일반 메시지
+    if (previousTime) {
+        const previousTimeLabel = timeLabels[previousTime] || previousTime;
+
+        container.innerHTML = `
+            <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 2rem;">
+                <div style="background: var(--bg-light); border-radius: 16px; padding: 3rem; max-width: 600px; margin: 0 auto; border: 2px dashed var(--border-color);">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin: 0 auto 1.5rem; color: var(--secondary-color);">
+                        <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                        <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                    </svg>
+                    <h2 style="color: var(--text-primary); margin-bottom: 1rem; font-size: 1.8rem;">📰 ${currentTimeLabel} 업데이트 대기 중</h2>
+                    <p style="color: var(--text-secondary); font-size: 1.1rem; line-height: 1.8; margin-bottom: 2rem;">
+                        ${currentTimeLabel} 기사가 아직 업데이트되지 않았습니다.<br>
+                        잠시 후 다시 확인하거나 이전 시간대의 뉴스를 확인해보세요.
+                    </p>
+                    <button
+                        id="load-previous-time-btn"
+                        data-crawl-time="${previousTime}"
+                        style="
+                            background: var(--secondary-color);
+                            color: white;
+                            border: none;
+                            padding: 1rem 2rem;
+                            border-radius: 12px;
+                            font-size: 1.1rem;
+                            font-weight: 600;
+                            cursor: pointer;
+                            transition: all 0.3s ease;
+                            box-shadow: 0 4px 12px rgba(0, 122, 255, 0.3);
+                        "
+                        onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(0, 122, 255, 0.4)';"
+                        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0, 122, 255, 0.3)';"
+                    >
+                        📋 ${previousTimeLabel} 뉴스 보기
+                    </button>
+                    <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
+                        <p style="color: var(--text-secondary); font-size: 0.95rem;">
+                            💡 매일 오전 9시 20분, 오후 3시, 오후 7시에<br>새로운 뉴스가 업데이트됩니다
+                        </p>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        // 버튼 이벤트 리스너 추가
+        const loadPreviousBtn = document.getElementById('load-previous-time-btn');
+        if (loadPreviousBtn) {
+            loadPreviousBtn.addEventListener('click', function() {
+                const previousCrawlTime = this.getAttribute('data-crawl-time');
+                loadHomeDashboardWithTime(previousCrawlTime);
+            });
+        }
+    } else {
+        // 이전 시간대가 없는 경우 (09-20 시간대)
+        container.innerHTML = `
+            <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 2rem;">
+                <div style="background: var(--bg-light); border-radius: 16px; padding: 3rem; max-width: 600px; margin: 0 auto; border: 2px dashed var(--border-color);">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin: 0 auto 1.5rem; color: var(--secondary-color);">
+                        <circle cx="12" cy="12" r="10"></circle>
+                        <polyline points="12 6 12 12 16 14"></polyline>
+                    </svg>
+                    <h2 style="color: var(--text-primary); margin-bottom: 1rem; font-size: 1.8rem;">📰 ${currentTimeLabel} 업데이트 대기 중</h2>
+                    <p style="color: var(--text-secondary); font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
+                        오늘 첫 번째 뉴스 업데이트가 아직 진행되지 않았습니다.<br>
+                        잠시 후 다시 확인해주세요.
+                    </p>
+                    <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
+                        <p style="color: var(--text-secondary); font-size: 0.95rem;">
+                            💡 그동안 카테고리를 클릭하여<br>어제의 뉴스를 확인할 수 있습니다
+                        </p>
+                    </div>
+                </div>
+            </div>
+        `;
+    }
+}
+
+/**
  * 신문사별 헤드라인 비교 렌더링
  */
-function renderNewspaperComparison(newspaperNews) {
+function renderNewspaperComparison(newspaperNews, currentCrawlTime = null) {
     const container = document.getElementById('newspaper-comparison-grid');
     const sourceNames = {
         'donga': '동아일보',
@@ -1864,7 +2016,7 @@ function renderNewspaperComparison(newspaperNews) {
         'chosun': 'static/images/chosun.png?v=2',
         'joongang': 'static/images/joongang.png?v=2'
     };
-    
+
     const categoryNames = {
         'politics': '정치',
         'sports': '스포츠',
@@ -1873,9 +2025,68 @@ function renderNewspaperComparison(newspaperNews) {
         'international': '국제',
         'culture': '문화'
     };
-    
+
+    const timeLabels = {
+        '09-20': '오전 9시 20분',
+        '15-00': '오후 3시',
+        '19-00': '오후 7시'
+    };
+
     container.innerHTML = Object.keys(newspaperNews).map(source => {
         const articles = newspaperNews[source];
+
+        // 데이터가 없는 경우 메시지와 버튼 표시
+        if (articles.length === 0) {
+            const previousTime = currentCrawlTime ? getPreviousCrawlTime(currentCrawlTime) : null;
+            const currentTimeLabel = timeLabels[currentCrawlTime] || currentCrawlTime || '현재 시간대';
+            const previousTimeLabel = timeLabels[previousTime] || previousTime;
+
+            return `
+                <div class="comparison-column">
+                    <div class="comparison-header">
+                        <img src="${sourceLogos[source]}" alt="${sourceNames[source]}">
+                        <h3>${sourceNames[source]}</h3>
+                    </div>
+                    <div class="comparison-no-data">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin-bottom: 1rem; color: var(--text-secondary); opacity: 0.5;">
+                            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                        </svg>
+                        <p style="color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 1rem;">
+                            ${currentTimeLabel}<br>최신 기사가 없습니다.
+                        </p>
+                        ${previousTime ? `
+                            <button
+                                class="load-source-previous-btn"
+                                data-source="${source}"
+                                data-crawl-time="${previousTime}"
+                                style="
+                                    background: var(--secondary-color);
+                                    color: white;
+                                    border: none;
+                                    padding: 0.6rem 1.2rem;
+                                    border-radius: 8px;
+                                    font-size: 0.85rem;
+                                    font-weight: 600;
+                                    cursor: pointer;
+                                    transition: all 0.3s ease;
+                                "
+                                onmouseover="this.style.opacity='0.9'; this.style.transform='translateY(-1px)';"
+                                onmouseout="this.style.opacity='1'; this.style.transform='translateY(0)';"
+                            >
+                                📋 ${previousTimeLabel} 보기
+                            </button>
+                        ` : `
+                            <p style="color: var(--text-secondary); font-size: 0.8rem; font-style: italic;">
+                                첫 업데이트를 기다리는 중...
+                            </p>
+                        `}
+                    </div>
+                </div>
+            `;
+        }
+
+        // 데이터가 있는 경우 정상 표시
         return `
             <div class="comparison-column">
                 <div class="comparison-header">
@@ -1895,6 +2106,15 @@ function renderNewspaperComparison(newspaperNews) {
             </div>
         `;
     }).join('');
+
+    // 신문사별 버튼 이벤트 리스너 추가
+    document.querySelectorAll('.load-source-previous-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+            const source = this.getAttribute('data-source');
+            const crawlTime = this.getAttribute('data-crawl-time');
+            loadSourcePreviousTime(source, crawlTime);
+        });
+    });
 }
 
 // 크롤링 시간대별 파일명 선택
@@ -1912,6 +2132,118 @@ function getLatestCrawlTime() {
         return '15-00';
     } else {
         return '19-00';
+    }
+}
+
+/**
+ * 이전 크롤링 시간대 구하기
+ */
+function getPreviousCrawlTime(currentTime) {
+    const times = ['09-20', '15-00', '19-00'];
+    const currentIndex = times.indexOf(currentTime);
+
+    // 첫 번째 시간대(09-20)인 경우 이전 시간대 없음
+    if (currentIndex <= 0) {
+        return null;
+    }
+
+    return times[currentIndex - 1];
+}
+
+/**
+ * 특정 신문사의 이전 시간대 데이터 로드
+ */
+async function loadSourcePreviousTime(source, crawlTime) {
+    const today = new Date();
+    const yyyy = today.getFullYear();
+    const mm = String(today.getMonth() + 1).padStart(2, '0');
+    const dd = String(today.getDate()).padStart(2, '0');
+    const todayStr = `${yyyy}-${mm}-${dd}`;
+
+    console.log(`${source} - ${crawlTime} 데이터 로드 시작`);
+
+    const categories = ['politics', 'sports', 'economy', 'society', 'international', 'culture'];
+    const fileName = `news_${todayStr}_${crawlTime}.json`;
+
+    const sourceNews = [];
+    let hasData = false;
+
+    for (const category of categories) {
+        try {
+            const response = await fetch(`data/${category}/${source}/${fileName}`);
+            if (response.ok) {
+                const news = await response.json();
+                if (news.length > 0) {
+                    hasData = true;
+                    console.log(`로드 성공: ${category}/${source} - ${news.length}개`);
+                    news.forEach(article => {
+                        article.category_en = category;
+                        article.source_en = source;
+                    });
+                    // 각 카테고리에서 1개씩만 추가
+                    sourceNews.push(news[0]);
+                }
+            }
+        } catch (error) {
+            console.log(`로드 에러: ${category}/${source}:`, error);
+        }
+    }
+
+    if (hasData) {
+        // 해당 신문사 칸만 업데이트
+        const sourceNames = {
+            'donga': '동아일보',
+            'chosun': '조선일보',
+            'joongang': '중앙일보'
+        };
+        const sourceLogos = {
+            'donga': 'static/images/donga.png?v=2',
+            'chosun': 'static/images/chosun.png?v=2',
+            'joongang': 'static/images/joongang.png?v=2'
+        };
+        const categoryNames = {
+            'politics': '정치',
+            'sports': '스포츠',
+            'economy': '경제',
+            'society': '사회',
+            'international': '국제',
+            'culture': '문화'
+        };
+
+        // 해당 신문사의 comparison-column 찾기
+        const columns = document.querySelectorAll('.comparison-column');
+        let targetColumn = null;
+        columns.forEach(col => {
+            const img = col.querySelector('img');
+            if (img && img.alt === sourceNames[source]) {
+                targetColumn = col;
+            }
+        });
+
+        if (targetColumn) {
+            // 헤더는 유지하고 내용만 교체
+            const header = targetColumn.querySelector('.comparison-header');
+            targetColumn.innerHTML = '';
+            targetColumn.appendChild(header);
+
+            // 기사 추가
+            sourceNews.forEach(article => {
+                const time = article.scraped_at ? new Date(article.scraped_at).toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' }) : '';
+                const articleDiv = document.createElement('div');
+                articleDiv.className = 'comparison-article';
+                articleDiv.innerHTML = `
+                    <span class="comparison-article-category ${article.category_en}">${categoryNames[article.category_en] || article.category}</span>
+                    <div class="comparison-article-title">${article.title}</div>
+                    <div class="comparison-article-time">${time}</div>
+                `;
+                targetColumn.appendChild(articleDiv);
+            });
+
+            // 성공 메시지 표시
+            showToast(`${sourceNames[source]} 이전 시간대 기사를 불러왔습니다`);
+        }
+    } else {
+        showToast(`${source} 이전 시간대 데이터도 없습니다`);
     }
 }
 

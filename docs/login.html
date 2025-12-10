@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Hyeok Crawler</title>
+    <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Noto+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --ink-black: #f0f0f0;
+            --newsprint: #2d2d2d;
+            --red-edition: #d32f2f;
+            --blue-edition: #1976d2;
+            --gold-accent: #f9a825;
+            --serif-display: 'Playfair Display', serif;
+            --sans-body: 'Noto Sans KR', sans-serif;
+            --mono-accent: 'IBM Plex Mono', monospace;
+        }
+
+        body {
+            font-family: var(--sans-body);
+            background: #1a1a1a;
+            color: var(--ink-black);
+            overflow-x: hidden;
+            position: relative;
+            min-height: 100vh;
+        }
+
+        /* Animated Background Headlines */
+        .headline-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            opacity: 0.05;
+            overflow: hidden;
+            pointer-events: none;
+        }
+
+        .headline-strip {
+            position: absolute;
+            white-space: nowrap;
+            font-family: var(--serif-display);
+            font-size: 120px;
+            font-weight: 900;
+            color: var(--ink-black);
+            animation: scrollHeadline 40s linear infinite;
+        }
+
+        .headline-strip:nth-child(1) {
+            top: 10%;
+            animation-duration: 35s;
+        }
+
+        .headline-strip:nth-child(2) {
+            top: 35%;
+            animation-duration: 45s;
+            animation-direction: reverse;
+        }
+
+        .headline-strip:nth-child(3) {
+            top: 60%;
+            animation-duration: 38s;
+        }
+
+        .headline-strip:nth-child(4) {
+            top: 85%;
+            animation-duration: 42s;
+            animation-direction: reverse;
+        }
+
+        @keyframes scrollHeadline {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(-50%);
+            }
+        }
+
+        /* Noise Texture Overlay */
+        .noise-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+            opacity: 0.06;
+            pointer-events: none;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+        }
+
+        /* Main Container */
+        .login-container {
+            position: relative;
+            z-index: 10;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+
+        /* Newspaper Masthead */
+        .masthead {
+            position: absolute;
+            top: 3rem;
+            left: 50%;
+            transform: translateX(-50%);
+            text-align: center;
+            animation: fadeInDown 1s ease-out;
+        }
+
+        .masthead-title {
+            font-family: var(--serif-display);
+            font-size: 3.5rem;
+            font-weight: 900;
+            letter-spacing: 0.05em;
+            color: var(--ink-black);
+            text-transform: uppercase;
+            position: relative;
+            padding-bottom: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .masthead-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60%;
+            height: 3px;
+            background: linear-gradient(90deg,
+                transparent,
+                #666 20%,
+                #666 80%,
+                transparent
+            );
+        }
+
+        .masthead-date {
+            font-family: var(--mono-accent);
+            font-size: 0.85rem;
+            letter-spacing: 0.15em;
+            color: #999;
+            text-transform: uppercase;
+        }
+
+        /* Login Card */
+        .login-card {
+            position: relative;
+            background: #2d2d2d;
+            border: 4px solid #444;
+            box-shadow:
+                12px 12px 0 rgba(0, 0, 0, 0.3),
+                24px 24px 0 rgba(0, 0, 0, 0.2);
+            max-width: 480px;
+            width: 100%;
+            padding: 3rem;
+            animation: fadeInUp 1s ease-out 0.3s backwards;
+        }
+
+        .login-card::before {
+            content: '';
+            position: absolute;
+            top: -4px;
+            left: -4px;
+            right: -4px;
+            bottom: -4px;
+            background: linear-gradient(135deg, var(--red-edition), var(--blue-edition));
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.4s ease;
+        }
+
+        .login-card:hover::before {
+            opacity: 0.1;
+        }
+
+        /* Edition Badge */
+        .edition-badge {
+            position: absolute;
+            top: -20px;
+            right: 2rem;
+            background: var(--red-edition);
+            color: white;
+            padding: 0.5rem 1.5rem;
+            font-family: var(--mono-accent);
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            transform: rotate(2deg);
+            box-shadow: 0 4px 12px rgba(211, 47, 47, 0.3);
+            animation: float 3s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% {
+                transform: rotate(2deg) translateY(0);
+            }
+            50% {
+                transform: rotate(2deg) translateY(-8px);
+            }
+        }
+
+        /* Headlines Section */
+        .headlines-section {
+            border-bottom: 2px solid #444;
+            padding-bottom: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .headline-main {
+            font-family: var(--serif-display);
+            font-size: 2rem;
+            font-weight: 900;
+            line-height: 1.1;
+            color: var(--ink-black);
+            margin-bottom: 0.75rem;
+            letter-spacing: -0.02em;
+        }
+
+        .headline-sub {
+            font-size: 0.95rem;
+            color: #aaa;
+            line-height: 1.6;
+            font-weight: 400;
+        }
+
+        /* Newspaper Logos */
+        .newspaper-logos {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+            padding: 1rem 0;
+            border-top: 1px solid #444;
+            border-bottom: 1px solid #444;
+        }
+
+        .logo-item {
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #1a1a1a;
+            border: 2px solid #444;
+            border-radius: 8px;
+            padding: 0.5rem;
+            transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+            animation: rotateIn 0.8s ease-out backwards;
+        }
+
+        .logo-item:nth-child(1) { animation-delay: 0.5s; }
+        .logo-item:nth-child(2) { animation-delay: 0.6s; }
+        .logo-item:nth-child(3) { animation-delay: 0.7s; }
+
+        @keyframes rotateIn {
+            0% {
+                transform: rotate(-180deg) scale(0);
+                opacity: 0;
+            }
+            100% {
+                transform: rotate(0) scale(1);
+                opacity: 1;
+            }
+        }
+
+        .logo-item:hover {
+            transform: scale(1.15) rotate(5deg);
+            border-color: var(--blue-edition);
+            box-shadow: 0 4px 12px rgba(25, 118, 210, 0.2);
+        }
+
+        .logo-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+
+        /* Form Styles */
+        .login-form {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .form-group {
+            position: relative;
+        }
+
+        .form-label {
+            display: block;
+            font-family: var(--mono-accent);
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--ink-black);
+            margin-bottom: 0.5rem;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 1rem 1.25rem;
+            font-family: var(--sans-body);
+            font-size: 1rem;
+            color: var(--ink-black);
+            background: #1a1a1a;
+            border: 2px solid #555;
+            outline: none;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+
+        .form-input:focus {
+            background: #222;
+            border-color: var(--blue-edition);
+            box-shadow:
+                0 0 0 4px rgba(25, 118, 210, 0.2),
+                inset 0 2px 4px rgba(0, 0, 0, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .form-input::placeholder {
+            color: #666;
+            font-weight: 400;
+        }
+
+        /* Submit Button */
+        .submit-btn {
+            position: relative;
+            padding: 1.25rem 2rem;
+            font-family: var(--mono-accent);
+            font-size: 0.9rem;
+            font-weight: 600;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: white;
+            background: #0a0a0a;
+            border: none;
+            cursor: pointer;
+            overflow: hidden;
+            transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+            margin-top: 1rem;
+        }
+
+        .submit-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+            transition: left 0.5s ease;
+        }
+
+        .submit-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+            background: var(--blue-edition);
+        }
+
+        .submit-btn:hover::before {
+            left: 100%;
+        }
+
+        .submit-btn:active {
+            transform: translateY(-1px);
+        }
+
+        /* Footer Text */
+        .login-footer {
+            margin-top: 2rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #444;
+            text-align: center;
+        }
+
+        .footer-text {
+            font-size: 0.85rem;
+            color: #999;
+            line-height: 1.6;
+        }
+
+        .footer-link {
+            color: var(--blue-edition);
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.3s ease;
+        }
+
+        .footer-link:hover {
+            color: var(--red-edition);
+            text-decoration: underline;
+        }
+
+        /* Decorative Corner Elements */
+        .corner-decoration {
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            border: 3px solid #666;
+        }
+
+        .corner-decoration.top-left {
+            top: -3px;
+            left: -3px;
+            border-right: none;
+            border-bottom: none;
+        }
+
+        .corner-decoration.bottom-right {
+            bottom: -3px;
+            right: -3px;
+            border-left: none;
+            border-top: none;
+        }
+
+        /* Animations */
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateX(-50%) translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(-50%) translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .masthead {
+                top: 2rem;
+            }
+
+            .masthead-title {
+                font-size: 2.5rem;
+            }
+
+            .login-card {
+                padding: 2rem 1.5rem;
+                margin-top: 8rem;
+            }
+
+            .headline-main {
+                font-size: 1.5rem;
+            }
+
+            .headline-strip {
+                font-size: 80px;
+            }
+
+            .login-card {
+                box-shadow:
+                    8px 8px 0 rgba(0, 0, 0, 0.1),
+                    16px 16px 0 rgba(0, 0, 0, 0.05);
+            }
+        }
+
+        @media (max-width: 480px) {
+            .newspaper-logos {
+                gap: 1rem;
+            }
+
+            .logo-item {
+                width: 40px;
+                height: 40px;
+            }
+
+            .submit-btn {
+                padding: 1rem 1.5rem;
+                font-size: 0.85rem;
+            }
+        }
+
+        /* Loading State */
+        .submit-btn.loading {
+            pointer-events: none;
+            opacity: 0.7;
+        }
+
+        .submit-btn.loading::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 20px;
+            height: 20px;
+            border: 2px solid white;
+            border-top-color: transparent;
+            border-radius: 50%;
+            animation: spin 0.6s linear infinite;
+        }
+
+        @keyframes spin {
+            to {
+                transform: translate(-50%, -50%) rotate(360deg);
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <!-- Animated Background Headlines -->
+    <div class="headline-bg">
+        <div class="headline-strip">BREAKING NEWS · 속보 · LATEST UPDATES · 긴급뉴스 · BREAKING NEWS · 속보 · LATEST UPDATES · 긴급뉴스 · </div>
+        <div class="headline-strip">정치 · 경제 · 사회 · 문화 · 스포츠 · 국제 · 정치 · 경제 · 사회 · 문화 · 스포츠 · 국제 · </div>
+        <div class="headline-strip">동아일보 · 조선일보 · 중앙일보 · 동아일보 · 조선일보 · 중앙일보 · 동아일보 · 조선일보 · 중앙일보 · </div>
+    </div>
+
+    <!-- Noise Texture -->
+    <div class="noise-overlay"></div>
+
+    <!-- Masthead -->
+    <div class="masthead">
+        <h1 class="masthead-title">Hyeok Crawler</h1>
+        <p class="masthead-date" id="current-date">Loading...</p>
+    </div>
+
+    <!-- Login Container -->
+    <div class="login-container">
+        <div class="login-card">
+            <!-- Edition Badge -->
+            <div class="edition-badge">Digital Edition</div>
+
+            <!-- Corner Decorations -->
+            <div class="corner-decoration top-left"></div>
+            <div class="corner-decoration bottom-right"></div>
+
+            <!-- Headlines Section -->
+            <div class="headlines-section">
+                <h2 class="headline-main">뉴스의 중심에 오신 것을 환영합니다</h2>
+                <p class="headline-sub">
+                    주요 뉴스를 실시간으로 확인하세요.<br/>
+                    로그인하여 맞춤형 뉴스 피드를 경험하세요.
+                </p>
+            </div>
+
+            <!-- Login Form -->
+            <form class="login-form" id="loginForm">
+                <div class="form-group">
+                    <label class="form-label" for="username">Username</label>
+                    <input
+                        type="text"
+                        id="username"
+                        class="form-input"
+                        placeholder="아이디를 입력하세요"
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label" for="password">Password</label>
+                    <input
+                        type="password"
+                        id="password"
+                        class="form-input"
+                        placeholder="비밀번호를 입력하세요"
+                        required
+                    >
+                </div>
+
+                <button type="submit" class="submit-btn">
+                    뉴스 보러 가기
+                </button>
+            </form>
+
+            <!-- Footer -->
+            <div class="login-footer">
+                <p class="footer-text">
+                    계정이 없으신가요?
+                    <a href="#" class="footer-link">회원가입</a>
+                </p>
+                <p class="footer-text" style="margin-top: 0.5rem;">
+                    <a href="#" class="footer-link">비밀번호 찾기</a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Display current date in masthead
+        function updateDate() {
+            const now = new Date();
+            const options = {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+                weekday: 'long'
+            };
+            const dateStr = now.toLocaleDateString('ko-KR', options);
+            document.getElementById('current-date').textContent = dateStr;
+        }
+        updateDate();
+
+        // Form submission handler
+        const loginForm = document.getElementById('loginForm');
+        const submitBtn = loginForm.querySelector('.submit-btn');
+
+        loginForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            // Add loading state
+            submitBtn.classList.add('loading');
+            submitBtn.textContent = '';
+
+            // Simulate authentication (replace with actual auth logic)
+            setTimeout(() => {
+                // Redirect to main page
+                window.location.href = 'index.html';
+            }, 1200);
+        });
+
+        // Input focus animations
+        const inputs = document.querySelectorAll('.form-input');
+        inputs.forEach(input => {
+            input.addEventListener('focus', function() {
+                this.parentElement.style.transform = 'scale(1.02)';
+            });
+
+            input.addEventListener('blur', function() {
+                this.parentElement.style.transform = 'scale(1)';
+            });
+        });
+    </script>
+</body>
+</html>
