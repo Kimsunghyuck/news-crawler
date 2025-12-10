@@ -1,0 +1,220 @@
+{
+  "date": "2025-12-10",
+  "generated_at": "2025-12-10T09:48:00.889009+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "통일교",
+      "count": 3
+    },
+    {
+      "word": "사망",
+      "count": 3
+    },
+    {
+      "word": "규모",
+      "count": 3
+    },
+    {
+      "word": "손흥민",
+      "count": 3
+    },
+    {
+      "word": "우승",
+      "count": 3
+    },
+    {
+      "word": "김연경",
+      "count": 2
+    },
+    {
+      "word": "비밀",
+      "count": 2
+    },
+    {
+      "word": "결국",
+      "count": 2
+    },
+    {
+      "word": "사과",
+      "count": 2
+    },
+    {
+      "word": "마이크",
+      "count": 2
+    },
+    {
+      "word": "중단",
+      "count": 2
+    },
+    {
+      "word": "여권",
+      "count": 2
+    },
+    {
+      "word": "협박",
+      "count": 2
+    },
+    {
+      "word": "김정은",
+      "count": 2
+    },
+    {
+      "word": "됐다",
+      "count": 2
+    },
+    {
+      "word": "껐다",
+      "count": 2
+    },
+    {
+      "word": "켰다",
+      "count": 2
+    },
+    {
+      "word": "전재수에",
+      "count": 2
+    }
+  ],
+  "category_keywords": {
+    "politics": [
+      {
+        "word": "마이크",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "중단",
+        "count": 2
+      },
+      {
+        "word": "여권",
+        "count": 2
+      },
+      {
+        "word": "통일교",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "우승",
+        "count": 3
+      },
+      {
+        "word": "양의지",
+        "count": 2
+      },
+      {
+        "word": "번째",
+        "count": 2
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "유일한",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "은행",
+        "count": 1
+      },
+      {
+        "word": "회수",
+        "count": 1
+      },
+      {
+        "word": "불능",
+        "count": 1
+      },
+      {
+        "word": "대출",
+        "count": 1
+      },
+      {
+        "word": "사상",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "전재수에",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "줬다",
+        "count": 2
+      },
+      {
+        "word": "박나래",
+        "count": 2
+      },
+      {
+        "word": "매니저",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "규모",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "서해",
+        "count": 1
+      },
+      {
+        "word": "구조물",
+        "count": 1
+      },
+      {
+        "word": "두고",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "방탄소년단",
+        "count": 1
+      },
+      {
+        "word": "해체",
+        "count": 1
+      },
+      {
+        "word": "언급했던",
+        "count": 1
+      },
+      {
+        "word": "피로하게",
+        "count": 1
+      },
+      {
+        "word": "죄송",
+        "count": 1
+      }
+    ]
+  }
+}
