@@ -1,178 +1,186 @@
 {
   "date": "2025-12-10",
-  "generated_at": "2025-12-10T15:16:21.132363+09:00",
+  "generated_at": "2025-12-10T19:10:21.259530+09:00",
   "daily_top_keywords": [
     {
       "word": "통일교",
+      "count": 14
+    },
+    {
+      "word": "남자",
+      "count": 7
+    },
+    {
+      "word": "한국",
       "count": 6
+    },
+    {
+      "word": "우승",
+      "count": 6
+    },
+    {
+      "word": "김지미",
+      "count": 5
+    },
+    {
+      "word": "박나래",
+      "count": 5
     },
     {
       "word": "만원",
       "count": 5
     },
     {
-      "word": "남자",
+      "word": "만에",
       "count": 5
     },
     {
-      "word": "박나래",
-      "count": 4
-    },
-    {
       "word": "논란",
-      "count": 4
-    },
-    {
-      "word": "한국",
-      "count": 4
-    },
-    {
-      "word": "손흥민",
-      "count": 4
-    },
-    {
-      "word": "매니저",
-      "count": 3
-    },
-    {
-      "word": "월급",
-      "count": 3
-    },
-    {
-      "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "추진",
-      "count": 3
-    },
-    {
-      "word": "사망",
-      "count": 3
-    },
-    {
-      "word": "나경원",
-      "count": 3
-    },
-    {
-      "word": "김정은",
-      "count": 3
+      "count": 5
     },
     {
       "word": "국힘",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "전재수에",
-      "count": 3
+      "word": "쿠팡",
+      "count": 5
     },
     {
-      "word": "줬다",
-      "count": 3
-    },
-    {
-      "word": "규모",
-      "count": 3
+      "word": "손흥민",
+      "count": 5
     },
     {
       "word": "유일한",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "우승",
-      "count": 3
+      "word": "별세",
+      "count": 4
+    },
+    {
+      "word": "월급",
+      "count": 4
+    },
+    {
+      "word": "중단",
+      "count": 4
+    },
+    {
+      "word": "시대",
+      "count": 4
+    },
+    {
+      "word": "조진웅",
+      "count": 4
+    },
+    {
+      "word": "결국",
+      "count": 4
+    },
+    {
+      "word": "나경원",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "통일교",
-        "count": 4
-      },
-      {
-        "word": "나경원",
-        "count": 3
+        "count": 7
       },
       {
         "word": "국힘",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "마이크",
-        "count": 2
+        "word": "나경원",
+        "count": 4
       },
       {
-        "word": "만에",
-        "count": 2
+        "word": "노벨상",
+        "count": 4
+      },
+      {
+        "word": "껐다",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 4
-      },
-      {
-        "word": "손흥민",
-        "count": 3
-      },
-      {
-        "word": "유일한",
-        "count": 3
-      },
-      {
-        "word": "한국",
-        "count": 3
+        "count": 6
       },
       {
         "word": "우승",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "유일한",
+        "count": 5
+      },
+      {
+        "word": "한국",
+        "count": 5
+      },
+      {
+        "word": "시리즈",
+        "count": 4
       }
     ],
     "economy": [
       {
+        "word": "사상",
+        "count": 4
+      },
+      {
         "word": "은행",
-        "count": 2
+        "count": 3
       },
       {
         "word": "회수",
-        "count": 2
+        "count": 3
       },
       {
         "word": "불능",
-        "count": 2
+        "count": 3
       },
       {
         "word": "대출",
-        "count": 2
-      },
-      {
-        "word": "사상",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
+      {
+        "word": "통일교",
+        "count": 7
+      },
+      {
+        "word": "전재수에",
+        "count": 4
+      },
       {
         "word": "만원",
         "count": 4
       },
       {
-        "word": "전재수에",
-        "count": 3
-      },
-      {
         "word": "줬다",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "박나래",
+        "word": "특검",
         "count": 3
-      },
-      {
-        "word": "통일교",
-        "count": 2
       }
     ],
     "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "최악",
+        "count": 3
+      },
       {
         "word": "규모",
         "count": 2
@@ -184,35 +192,27 @@
       {
         "word": "추진",
         "count": 2
-      },
-      {
-        "word": "아들",
-        "count": 2
-      },
-      {
-        "word": "한국으로",
-        "count": 2
       }
     ],
     "culture": [
       {
         "word": "김지미",
-        "count": 2
+        "count": 5
       },
       {
         "word": "별세",
-        "count": 2
-      },
-      {
-        "word": "에스파",
-        "count": 2
+        "count": 4
       },
       {
         "word": "윈터",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "선처",
+        "word": "조진웅",
+        "count": 3
+      },
+      {
+        "word": "한국의",
         "count": 2
       }
     ]
