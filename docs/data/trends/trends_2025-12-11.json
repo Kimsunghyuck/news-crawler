@@ -1,219 +1,219 @@
 {
   "date": "2025-12-11",
-  "generated_at": "2025-12-11T15:07:39.348016+09:00",
+  "generated_at": "2025-12-11T19:13:12.530471+09:00",
   "daily_top_keywords": [
     {
       "word": "통일교",
-      "count": 9
-    },
-    {
-      "word": "윤영호",
-      "count": 6
+      "count": 12
     },
     {
       "word": "전재수",
-      "count": 6
+      "count": 11
     },
     {
-      "word": "대표",
-      "count": 6
-    },
-    {
-      "word": "아들",
-      "count": 5
-    },
-    {
-      "word": "한국",
-      "count": 5
-    },
-    {
-      "word": "한국의",
-      "count": 5
-    },
-    {
-      "word": "정동영",
-      "count": 5
-    },
-    {
-      "word": "만나",
-      "count": 5
+      "word": "윤영호",
+      "count": 9
     },
     {
       "word": "의혹",
-      "count": 5
+      "count": 8
     },
     {
       "word": "트럼프",
-      "count": 5
+      "count": 8
     },
     {
-      "word": "테일러",
-      "count": 4
+      "word": "한국",
+      "count": 7
     },
     {
-      "word": "김지미",
-      "count": 4
+      "word": "만나",
+      "count": 7
     },
     {
-      "word": "쿠팡",
-      "count": 4
-    },
-    {
-      "word": "수능",
-      "count": 4
-    },
-    {
-      "word": "고속도로",
-      "count": 4
-    },
-    {
-      "word": "오픈",
-      "count": 4
-    },
-    {
-      "word": "남자",
-      "count": 4
-    },
-    {
-      "word": "우승",
-      "count": 4
+      "word": "대표",
+      "count": 7
     },
     {
       "word": "베네수엘라",
-      "count": 4
+      "count": 7
+    },
+    {
+      "word": "아들",
+      "count": 6
+    },
+    {
+      "word": "한국의",
+      "count": 6
+    },
+    {
+      "word": "김지미",
+      "count": 6
+    },
+    {
+      "word": "정동영",
+      "count": 6
+    },
+    {
+      "word": "쿠팡",
+      "count": 6
+    },
+    {
+      "word": "붕괴",
+      "count": 6
+    },
+    {
+      "word": "고속도로",
+      "count": 6
+    },
+    {
+      "word": "오픈",
+      "count": 6
+    },
+    {
+      "word": "남자",
+      "count": 6
+    },
+    {
+      "word": "우승",
+      "count": 6
+    },
+    {
+      "word": "테일러",
+      "count": 5
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "통일교",
+        "count": 9
+      },
+      {
+        "word": "만나",
+        "count": 7
+      },
+      {
+        "word": "의혹",
+        "count": 7
+      },
+      {
+        "word": "전재수",
         "count": 7
       },
       {
         "word": "정동영",
-        "count": 5
-      },
-      {
-        "word": "윤영호",
-        "count": 5
-      },
-      {
-        "word": "만나",
-        "count": 5
-      },
-      {
-        "word": "전재수",
-        "count": 5
+        "count": 6
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 4
+        "count": 6
       },
       {
         "word": "우승",
-        "count": 4
-      },
-      {
-        "word": "역대",
-        "count": 3
+        "count": 6
       },
       {
         "word": "김시우",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "결승전서",
-        "count": 2
+        "word": "역대",
+        "count": 4
+      },
+      {
+        "word": "협상",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "오픈",
-        "count": 4
+        "count": 6
       },
       {
         "word": "대표",
-        "count": 3
+        "count": 4
       },
       {
         "word": "재코타",
-        "count": 3
+        "count": 4
       },
       {
         "word": "시대",
-        "count": 3
+        "count": 4
       },
       {
         "word": "자격증",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "수능",
-        "count": 4
-      },
-      {
         "word": "고속도로",
+        "count": 6
+      },
+      {
+        "word": "붕괴",
+        "count": 5
+      },
+      {
+        "word": "수능",
+        "count": 5
+      },
+      {
+        "word": "광주",
         "count": 4
       },
       {
-        "word": "오늘의",
-        "count": 3
-      },
-      {
-        "word": "운세",
-        "count": 3
-      },
-      {
-        "word": "통일교",
-        "count": 2
+        "word": "도서관",
+        "count": 4
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 5
+        "count": 8
       },
       {
         "word": "베네수엘라",
-        "count": 4
+        "count": 7
       },
       {
         "word": "아들",
+        "count": 5
+      },
+      {
+        "word": "나포",
         "count": 4
       },
       {
-        "word": "검토",
-        "count": 3
-      },
-      {
         "word": "엄마",
-        "count": 3
+        "count": 4
       }
     ],
     "culture": [
       {
-        "word": "테일러",
-        "count": 4
+        "word": "김지미",
+        "count": 6
       },
       {
-        "word": "김지미",
-        "count": 4
+        "word": "테일러",
+        "count": 5
       },
       {
         "word": "한국의",
+        "count": 4
+      },
+      {
+        "word": "생각",
         "count": 3
       },
       {
         "word": "조진웅",
-        "count": 2
-      },
-      {
-        "word": "연기도",
-        "count": 2
+        "count": 3
       }
     ]
   }
