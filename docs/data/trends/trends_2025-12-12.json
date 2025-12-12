@@ -1,0 +1,220 @@
+{
+  "date": "2025-12-12",
+  "generated_at": "2025-12-12T09:46:38.028437+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "통일교",
+      "count": 3
+    },
+    {
+      "word": "징역",
+      "count": 3
+    },
+    {
+      "word": "선고",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "서울대",
+      "count": 2
+    },
+    {
+      "word": "사과",
+      "count": 2
+    },
+    {
+      "word": "김지미",
+      "count": 2
+    },
+    {
+      "word": "건강",
+      "count": 2
+    },
+    {
+      "word": "주사이모",
+      "count": 2
+    },
+    {
+      "word": "샤이니",
+      "count": 2
+    },
+    {
+      "word": "온유",
+      "count": 2
+    },
+    {
+      "word": "병원",
+      "count": 2
+    },
+    {
+      "word": "전재수",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "정청래",
+      "count": 2
+    },
+    {
+      "word": "대장동",
+      "count": 2
+    },
+    {
+      "word": "한미",
+      "count": 2
+    },
+    {
+      "word": "핵협의그룹",
+      "count": 2
+    },
+    {
+      "word": "회의",
+      "count": 2
+    },
+    {
+      "word": "확장억제",
+      "count": 2
+    }
+  ],
+  "category_keywords": {
+    "politics": [
+      {
+        "word": "전재수",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "정청래",
+        "count": 2
+      },
+      {
+        "word": "대장동",
+        "count": 2
+      },
+      {
+        "word": "한미",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "이적",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "연패",
+        "count": 2
+      },
+      {
+        "word": "우승",
+        "count": 2
+      },
+      {
+        "word": "창설",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "동맹",
+        "count": 2
+      },
+      {
+        "word": "등장한",
+        "count": 2
+      },
+      {
+        "word": "머스크",
+        "count": 2
+      },
+      {
+        "word": "포드와",
+        "count": 1
+      },
+      {
+        "word": "배터리",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "비결",
+        "count": 2
+      },
+      {
+        "word": "광주",
+        "count": 1
+      },
+      {
+        "word": "공사장",
+        "count": 1
+      },
+      {
+        "word": "붕괴",
+        "count": 1
+      },
+      {
+        "word": "밤샘수색에도",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "징역",
+        "count": 3
+      },
+      {
+        "word": "선고",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "년형",
+        "count": 2
+      },
+      {
+        "word": "권도형",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "사과",
+        "count": 2
+      },
+      {
+        "word": "김지미",
+        "count": 2
+      },
+      {
+        "word": "화려함",
+        "count": 1
+      },
+      {
+        "word": "뒤의",
+        "count": 1
+      },
+      {
+        "word": "찌질함",
+        "count": 1
+      }
+    ]
+  }
+}
