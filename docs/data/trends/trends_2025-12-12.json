@@ -1,17 +1,57 @@
 {
   "date": "2025-12-12",
-  "generated_at": "2025-12-12T15:11:10.604554+09:00",
+  "generated_at": "2025-12-12T19:12:16.661743+09:00",
   "daily_top_keywords": [
     {
+      "word": "사과",
+      "count": 9
+    },
+    {
       "word": "국힘",
-      "count": 7
+      "count": 9
     },
     {
       "word": "통일교",
+      "count": 8
+    },
+    {
+      "word": "대통령",
+      "count": 8
+    },
+    {
+      "word": "만에",
+      "count": 8
+    },
+    {
+      "word": "한국",
+      "count": 7
+    },
+    {
+      "word": "결국",
+      "count": 7
+    },
+    {
+      "word": "동맹",
+      "count": 7
+    },
+    {
+      "word": "주사이모",
       "count": 6
     },
     {
-      "word": "사과",
+      "word": "출신",
+      "count": 6
+    },
+    {
+      "word": "머스크",
+      "count": 6
+    },
+    {
+      "word": "남자",
+      "count": 6
+    },
+    {
+      "word": "폰세",
       "count": 6
     },
     {
@@ -19,140 +59,108 @@
       "count": 6
     },
     {
-      "word": "대통령",
+      "word": "보고",
       "count": 5
     },
     {
-      "word": "결국",
-      "count": 4
+      "word": "사장",
+      "count": 5
     },
     {
-      "word": "전재수",
-      "count": 4
+      "word": "추진",
+      "count": 5
+    },
+    {
+      "word": "가족",
+      "count": 5
     },
     {
       "word": "남긴",
-      "count": 4
-    },
-    {
-      "word": "동맹",
-      "count": 4
-    },
-    {
-      "word": "만에",
-      "count": 4
-    },
-    {
-      "word": "머스크",
-      "count": 4
-    },
-    {
-      "word": "남자",
-      "count": 4
-    },
-    {
-      "word": "연패",
-      "count": 4
-    },
-    {
-      "word": "징역",
-      "count": 4
-    },
-    {
-      "word": "선고",
-      "count": 4
+      "count": 5
     },
     {
       "word": "서울대",
-      "count": 3
-    },
-    {
-      "word": "보고",
-      "count": 3
-    },
-    {
-      "word": "당했다",
-      "count": 3
-    },
-    {
-      "word": "김지미",
-      "count": 3
-    },
-    {
-      "word": "주사이모",
-      "count": 3
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
-        "count": 7
+        "count": 9
       },
       {
         "word": "대통령",
-        "count": 4
-      },
-      {
-        "word": "전재수",
-        "count": 3
-      },
-      {
-        "word": "대장동",
-        "count": 3
+        "count": 7
       },
       {
         "word": "사과",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "통일교",
+        "count": 4
+      },
+      {
+        "word": "대장동",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 4
+        "count": 6
+      },
+      {
+        "word": "한국",
+        "count": 6
+      },
+      {
+        "word": "폰세",
+        "count": 6
       },
       {
         "word": "연패",
         "count": 4
       },
       {
-        "word": "폰세",
-        "count": 3
-      },
-      {
         "word": "우승",
-        "count": 3
-      },
-      {
-        "word": "이적",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "동맹",
-        "count": 4
+        "count": 6
       },
       {
         "word": "머스크",
+        "count": 6
+      },
+      {
+        "word": "만에",
         "count": 4
       },
       {
         "word": "등장한",
-        "count": 3
+        "count": 4
       },
       {
         "word": "포드와",
-        "count": 2
-      },
-      {
-        "word": "배터리",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "비결",
+        "count": 4
+      },
+      {
+        "word": "붕괴",
+        "count": 3
+      },
+      {
+        "word": "매몰자",
         "count": 3
       },
       {
@@ -160,16 +168,8 @@
         "count": 3
       },
       {
-        "word": "붕괴",
-        "count": 2
-      },
-      {
-        "word": "찾아",
-        "count": 2
-      },
-      {
-        "word": "방문객",
-        "count": 2
+        "word": "년간",
+        "count": 3
       }
     ],
     "international": [
@@ -186,34 +186,34 @@
         "count": 4
       },
       {
-        "word": "년형",
-        "count": 3
+        "word": "지진",
+        "count": 4
       },
       {
-        "word": "권도형",
-        "count": 3
+        "word": "망쳤다",
+        "count": 4
       }
     ],
     "culture": [
       {
-        "word": "사과",
-        "count": 3
+        "word": "보고",
+        "count": 5
       },
       {
-        "word": "보고",
-        "count": 3
+        "word": "주사이모",
+        "count": 5
+      },
+      {
+        "word": "사과",
+        "count": 4
       },
       {
         "word": "김지미",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "연기도",
-        "count": 2
-      },
-      {
-        "word": "사랑도",
-        "count": 2
+        "word": "친분설",
+        "count": 4
       }
     ]
   }
