@@ -1,90 +1,98 @@
 {
   "date": "2025-12-13",
-  "generated_at": "2025-12-13T09:45:19.910316+09:00",
+  "generated_at": "2025-12-13T15:15:51.973957+09:00",
   "daily_top_keywords": [
     {
       "word": "통일교",
-      "count": 3
+      "count": 5
     },
     {
       "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "징역",
-      "count": 3
-    },
-    {
-      "word": "박나래",
-      "count": 2
-    },
-    {
-      "word": "문제",
-      "count": 2
-    },
-    {
-      "word": "부산",
-      "count": 2
-    },
-    {
-      "word": "말이",
-      "count": 2
-    },
-    {
-      "word": "길다",
-      "count": 2
-    },
-    {
-      "word": "아는",
-      "count": 2
-    },
-    {
-      "word": "출신",
-      "count": 2
-    },
-    {
-      "word": "사장",
-      "count": 2
-    },
-    {
-      "word": "한미",
-      "count": 2
+      "count": 5
     },
     {
       "word": "북핵",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "광주",
+      "count": 4
+    },
+    {
+      "word": "도서관",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "월드컵",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "박나래",
+      "count": 3
+    },
+    {
+      "word": "결혼",
+      "count": 3
+    },
+    {
+      "word": "티파니",
+      "count": 3
+    },
+    {
+      "word": "부산",
+      "count": 3
+    },
+    {
+      "word": "한미",
+      "count": 3
     },
     {
       "word": "편파",
-      "count": 2
+      "count": 3
     },
     {
       "word": "대통령",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "회사",
-      "count": 2
+      "word": "특검",
+      "count": 3
     },
     {
-      "word": "생각",
-      "count": 2
-    },
-    {
-      "word": "제외",
-      "count": 2
+      "word": "붕괴",
+      "count": 3
     },
     {
       "word": "의원",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "다시",
-      "count": 2
+      "word": "여성",
+      "count": 3
+    },
+    {
+      "word": "한화",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
+      {
+        "word": "한미",
+        "count": 3
+      },
+      {
+        "word": "대통령",
+        "count": 3
+      },
       {
         "word": "말이",
         "count": 2
@@ -96,124 +104,116 @@
       {
         "word": "아는",
         "count": 2
-      },
-      {
-        "word": "출신",
-        "count": 2
-      },
-      {
-        "word": "사장",
-        "count": 2
       }
     ],
     "sports": [
       {
-        "word": "한국",
-        "count": 2
-      },
-      {
-        "word": "홍명보",
-        "count": 2
-      },
-      {
         "word": "남자",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "월드컵",
+        "count": 4
+      },
+      {
+        "word": "한국",
+        "count": 3
       },
       {
         "word": "대회",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "리그",
-        "count": 2
+        "word": "폰세",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "이번엔",
-        "count": 2
-      },
-      {
-        "word": "머스크",
-        "count": 2
-      },
-      {
-        "word": "들의",
-        "count": 2
+        "count": 3
       },
       {
         "word": "정부기관이",
-        "count": 1
+        "count": 2
       },
       {
         "word": "사기당해",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "다원시스",
+        "count": 2
+      },
+      {
+        "word": "철도차량",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "광주",
-        "count": 1
+        "count": 4
       },
       {
         "word": "도서관",
-        "count": 1
+        "count": 4
       },
       {
         "word": "붕괴",
-        "count": 1
+        "count": 3
       },
       {
-        "word": "사고",
-        "count": 1
+        "word": "민중기",
+        "count": 2
       },
       {
-        "word": "번째",
-        "count": 1
+        "word": "특검",
+        "count": 2
       }
     ],
     "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
       {
         "word": "징역",
         "count": 3
       },
       {
-        "word": "테라",
-        "count": 2
-      },
-      {
         "word": "위험",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "트럼프",
-        "count": 2
+        "word": "사진",
+        "count": 3
       },
       {
-        "word": "선거",
+        "word": "테라",
         "count": 2
       }
     ],
     "culture": [
       {
-        "word": "아바타",
-        "count": 1
+        "word": "결혼",
+        "count": 3
       },
       {
-        "word": "들고온",
-        "count": 1
+        "word": "티파니",
+        "count": 3
       },
       {
-        "word": "카메론",
-        "count": 1
+        "word": "박나래",
+        "count": 2
       },
       {
-        "word": "초도",
-        "count": 1
+        "word": "변요한",
+        "count": 2
       },
       {
-        "word": "김고은에게",
-        "count": 1
+        "word": "열애",
+        "count": 2
       }
     ]
   }
