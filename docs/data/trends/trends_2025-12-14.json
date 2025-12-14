@@ -1,218 +1,218 @@
 {
   "date": "2025-12-14",
-  "generated_at": "2025-12-14T15:15:49.779123+09:00",
+  "generated_at": "2025-12-14T19:10:59.008643+09:00",
   "daily_top_keywords": [
     {
       "word": "한국",
-      "count": 7
-    },
-    {
-      "word": "우승",
-      "count": 6
-    },
-    {
-      "word": "통일교",
-      "count": 5
-    },
-    {
-      "word": "특검",
-      "count": 5
+      "count": 12
     },
     {
       "word": "트럼프",
-      "count": 5
+      "count": 12
+    },
+    {
+      "word": "우승",
+      "count": 8
+    },
+    {
+      "word": "특검",
+      "count": 8
     },
     {
       "word": "책갈피",
-      "count": 4
+      "count": 7
     },
     {
-      "word": "놀란",
-      "count": 4
-    },
-    {
-      "word": "해독",
-      "count": 4
-    },
-    {
-      "word": "수준",
-      "count": 4
-    },
-    {
-      "word": "미쳤다",
-      "count": 4
-    },
-    {
-      "word": "아이",
-      "count": 4
-    },
-    {
-      "word": "남자",
-      "count": 4
-    },
-    {
-      "word": "임종훈",
-      "count": 4
-    },
-    {
-      "word": "신유빈",
-      "count": 4
+      "word": "통일교",
+      "count": 7
     },
     {
       "word": "달러",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "수법",
-      "count": 3
+      "word": "남자",
+      "count": 6
     },
     {
-      "word": "폐지",
-      "count": 3
+      "word": "임종훈",
+      "count": 6
     },
     {
-      "word": "수능",
-      "count": 3
+      "word": "신유빈",
+      "count": 6
     },
     {
-      "word": "영어",
-      "count": 3
+      "word": "월드컵",
+      "count": 6
     },
     {
       "word": "된다",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "환단고기",
+      "count": 5
+    },
+    {
+      "word": "수준",
+      "count": 5
+    },
+    {
+      "word": "아이",
+      "count": 5
+    },
+    {
+      "word": "은메달",
+      "count": 5
+    },
+    {
+      "word": "사람",
+      "count": 4
+    },
+    {
+      "word": "보장",
+      "count": 4
+    },
+    {
+      "word": "경호처",
+      "count": 4
+    },
+    {
+      "word": "게이트",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "책갈피",
-        "count": 4
-      },
-      {
-        "word": "통일교",
-        "count": 4
+        "count": 7
       },
       {
         "word": "특검",
-        "count": 4
+        "count": 7
       },
       {
         "word": "달러",
-        "count": 3
+        "count": 6
       },
       {
-        "word": "수법",
-        "count": 3
+        "word": "통일교",
+        "count": 6
+      },
+      {
+        "word": "환단고기",
+        "count": 5
       }
     ],
     "sports": [
       {
-        "word": "우승",
-        "count": 5
+        "word": "한국",
+        "count": 7
       },
       {
         "word": "남자",
-        "count": 4
-      },
-      {
-        "word": "한국",
-        "count": 4
+        "count": 6
       },
       {
         "word": "임종훈",
-        "count": 4
+        "count": 6
       },
       {
         "word": "신유빈",
-        "count": 4
+        "count": 6
+      },
+      {
+        "word": "우승",
+        "count": 6
       }
     ],
     "economy": [
       {
+        "word": "기업",
+        "count": 4
+      },
+      {
         "word": "정부기관이",
-        "count": 2
+        "count": 3
       },
       {
         "word": "사기당해",
-        "count": 2
+        "count": 3
       },
       {
         "word": "다원시스",
-        "count": 2
+        "count": 3
       },
       {
         "word": "철도차량",
-        "count": 2
-      },
-      {
-        "word": "납품",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
+      {
+        "word": "추가",
+        "count": 3
+      },
+      {
+        "word": "박나래",
+        "count": 3
+      },
       {
         "word": "운영",
         "count": 2
       },
       {
-        "word": "추가",
+        "word": "고대문자",
         "count": 2
       },
       {
-        "word": "벌금형",
-        "count": 2
-      },
-      {
-        "word": "박나래",
-        "count": 2
-      },
-      {
-        "word": "충남",
+        "word": "특수부대",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 5
+        "count": 11
       },
       {
-        "word": "해독",
+        "word": "만달러",
         "count": 3
       },
       {
-        "word": "수준",
+        "word": "비자",
         "count": 3
       },
       {
-        "word": "미쳤다",
+        "word": "수수료",
         "count": 3
       },
       {
-        "word": "놀란",
+        "word": "소송",
         "count": 3
       }
     ],
     "culture": [
+      {
+        "word": "사람",
+        "count": 4
+      },
+      {
+        "word": "금관문화훈장",
+        "count": 3
+      },
+      {
+        "word": "이유",
+        "count": 3
+      },
       {
         "word": "변요한",
         "count": 2
       },
       {
         "word": "티파니",
-        "count": 2
-      },
-      {
-        "word": "과거",
-        "count": 2
-      },
-      {
-        "word": "자택서",
-        "count": 2
-      },
-      {
-        "word": "숨진",
         "count": 2
       }
     ]
