@@ -1,153 +1,153 @@
 {
   "date": "2025-12-14",
-  "generated_at": "2025-12-14T09:52:01.392991+09:00",
+  "generated_at": "2025-12-14T15:15:49.779123+09:00",
   "daily_top_keywords": [
     {
       "word": "한국",
-      "count": 5
-    },
-    {
-      "word": "통일교",
-      "count": 4
+      "count": 7
     },
     {
       "word": "우승",
-      "count": 4
+      "count": 6
     },
     {
-      "word": "트럼프",
-      "count": 4
+      "word": "통일교",
+      "count": 5
     },
     {
       "word": "특검",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "놀란",
-      "count": 3
-    },
-    {
-      "word": "해독",
-      "count": 3
-    },
-    {
-      "word": "수준",
-      "count": 3
-    },
-    {
-      "word": "미쳤다",
-      "count": 3
-    },
-    {
-      "word": "임종훈",
-      "count": 3
-    },
-    {
-      "word": "신유빈",
-      "count": 3
-    },
-    {
-      "word": "변요한",
-      "count": 2
-    },
-    {
-      "word": "티파니",
-      "count": 2
-    },
-    {
-      "word": "과거",
-      "count": 2
-    },
-    {
-      "word": "고백",
-      "count": 2
-    },
-    {
-      "word": "최대",
-      "count": 2
-    },
-    {
-      "word": "이유",
-      "count": 2
-    },
-    {
-      "word": "국힘",
-      "count": 2
+      "word": "트럼프",
+      "count": 5
     },
     {
       "word": "책갈피",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "밀반출",
-      "count": 2
+      "word": "놀란",
+      "count": 4
+    },
+    {
+      "word": "해독",
+      "count": 4
+    },
+    {
+      "word": "수준",
+      "count": 4
+    },
+    {
+      "word": "미쳤다",
+      "count": 4
+    },
+    {
+      "word": "아이",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "임종훈",
+      "count": 4
+    },
+    {
+      "word": "신유빈",
+      "count": 4
+    },
+    {
+      "word": "달러",
+      "count": 3
+    },
+    {
+      "word": "수법",
+      "count": 3
+    },
+    {
+      "word": "폐지",
+      "count": 3
+    },
+    {
+      "word": "수능",
+      "count": 3
+    },
+    {
+      "word": "영어",
+      "count": 3
+    },
+    {
+      "word": "된다",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "통일교",
-        "count": 3
+        "word": "책갈피",
+        "count": 4
       },
       {
-        "word": "국힘",
-        "count": 2
+        "word": "통일교",
+        "count": 4
       },
       {
         "word": "특검",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "책갈피",
-        "count": 2
+        "word": "달러",
+        "count": 3
       },
       {
-        "word": "밀반출",
-        "count": 2
+        "word": "수법",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "우승",
+        "count": 5
+      },
+      {
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "한국",
         "count": 4
       },
       {
         "word": "임종훈",
-        "count": 3
+        "count": 4
       },
       {
         "word": "신유빈",
-        "count": 3
-      },
-      {
-        "word": "경기장",
-        "count": 2
-      },
-      {
-        "word": "남자",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "억대",
+        "word": "정부기관이",
         "count": 2
       },
       {
-        "word": "정부기관이",
-        "count": 1
-      },
-      {
         "word": "사기당해",
-        "count": 1
+        "count": 2
       },
       {
         "word": "다원시스",
-        "count": 1
+        "count": 2
       },
       {
         "word": "철도차량",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "납품",
+        "count": 2
       }
     ],
     "society": [
@@ -160,38 +160,38 @@
         "count": 2
       },
       {
+        "word": "벌금형",
+        "count": 2
+      },
+      {
         "word": "박나래",
         "count": 2
       },
       {
-        "word": "달린",
-        "count": 1
-      },
-      {
-        "word": "부산",
-        "count": 1
+        "word": "충남",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
-      },
-      {
-        "word": "계속",
-        "count": 2
+        "count": 5
       },
       {
         "word": "해독",
-        "count": 2
+        "count": 3
       },
       {
         "word": "수준",
-        "count": 2
+        "count": 3
       },
       {
         "word": "미쳤다",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "놀란",
+        "count": 3
       }
     ],
     "culture": [
@@ -208,11 +208,11 @@
         "count": 2
       },
       {
-        "word": "최대",
+        "word": "자택서",
         "count": 2
       },
       {
-        "word": "이유",
+        "word": "숨진",
         "count": 2
       }
     ]
