@@ -1,200 +1,208 @@
 {
   "date": "2025-12-15",
-  "generated_at": "2025-12-15T09:50:05.164743+09:00",
+  "generated_at": "2025-12-15T15:09:00.252668+09:00",
   "daily_top_keywords": [
     {
       "word": "한국",
-      "count": 5
+      "count": 10
     },
     {
       "word": "통일교",
-      "count": 5
+      "count": 9
+    },
+    {
+      "word": "이유",
+      "count": 7
+    },
+    {
+      "word": "전재수",
+      "count": 7
+    },
+    {
+      "word": "아들",
+      "count": 6
     },
     {
       "word": "사망",
+      "count": 6
+    },
+    {
+      "word": "지시",
+      "count": 5
+    },
+    {
+      "word": "한학자",
+      "count": 5
+    },
+    {
+      "word": "김건희",
       "count": 5
     },
     {
       "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "아들",
-      "count": 3
-    },
-    {
-      "word": "이유",
-      "count": 3
+      "count": 4
     },
     {
       "word": "검토",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "지시",
-      "count": 3
+      "word": "특검",
+      "count": 4
     },
     {
-      "word": "전재수",
-      "count": 3
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "방어",
+      "count": 4
     },
     {
       "word": "만리장성",
-      "count": 3
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "메달",
+      "count": 4
+    },
+    {
+      "word": "호주",
+      "count": 4
     },
     {
       "word": "시드니",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "경례",
-      "count": 2
-    },
-    {
-      "word": "여진구",
-      "count": 2
-    },
-    {
-      "word": "카투사",
-      "count": 2
-    },
-    {
-      "word": "입대",
-      "count": 2
-    },
-    {
-      "word": "엑소",
-      "count": 2
-    },
-    {
-      "word": "팬미팅",
-      "count": 2
-    },
-    {
-      "word": "불참",
-      "count": 2
-    },
-    {
-      "word": "레이",
-      "count": 2
-    },
-    {
-      "word": "연속",
-      "count": 2
+      "word": "아버지",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "검토",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "지시",
+        "count": 4
       },
       {
         "word": "진압",
-        "count": 2
+        "count": 3
       },
       {
         "word": "박진경",
-        "count": 2
+        "count": 3
       },
       {
         "word": "대령",
-        "count": 2
-      },
-      {
-        "word": "유공자",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "한국",
-        "count": 4
+        "count": 7
       },
       {
         "word": "만리장성",
-        "count": 3
-      },
-      {
-        "word": "시즌",
-        "count": 2
-      },
-      {
-        "word": "실패",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "메달",
+        "count": 4
+      },
+      {
+        "word": "시즌",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "역대",
-        "count": 2
-      },
-      {
         "word": "방어",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "증시",
-        "count": 2
-      },
-      {
-        "word": "빚투",
-        "count": 2
+        "word": "역대",
+        "count": 3
       },
       {
         "word": "수출",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "최대",
+        "count": 2
+      },
+      {
+        "word": "반도체",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "통일교",
-        "count": 4
+        "count": 6
       },
       {
         "word": "전재수",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "김건희",
+        "count": 4
       },
       {
         "word": "한학자",
-        "count": 2
+        "count": 3
       },
       {
         "word": "경찰",
-        "count": 2
-      },
-      {
-        "word": "천정궁",
-        "count": 2
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "사망",
-        "count": 5
-      },
-      {
-        "word": "시드니",
-        "count": 3
+        "count": 6
       },
       {
         "word": "호주",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "해변",
-        "count": 2
+        "word": "시드니",
+        "count": 4
       },
       {
-        "word": "총격",
-        "count": 2
+        "word": "아버지",
+        "count": 4
+      },
+      {
+        "word": "용의자",
+        "count": 3
       }
     ],
     "culture": [
+      {
+        "word": "이유",
+        "count": 5
+      },
+      {
+        "word": "엑소",
+        "count": 3
+      },
       {
         "word": "경례",
         "count": 2
@@ -205,14 +213,6 @@
       },
       {
         "word": "카투사",
-        "count": 2
-      },
-      {
-        "word": "입대",
-        "count": 2
-      },
-      {
-        "word": "엑소",
         "count": 2
       }
     ]
