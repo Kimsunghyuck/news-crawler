@@ -1,86 +1,86 @@
 {
   "date": "2025-12-15",
-  "generated_at": "2025-12-15T15:09:00.252668+09:00",
+  "generated_at": "2025-12-15T19:12:55.466851+09:00",
   "daily_top_keywords": [
     {
       "word": "한국",
-      "count": 10
+      "count": 12
     },
     {
       "word": "통일교",
-      "count": 9
+      "count": 12
     },
     {
       "word": "이유",
-      "count": 7
-    },
-    {
-      "word": "전재수",
-      "count": 7
+      "count": 10
     },
     {
       "word": "아들",
-      "count": 6
+      "count": 9
+    },
+    {
+      "word": "전재수",
+      "count": 9
+    },
+    {
+      "word": "김건희",
+      "count": 8
     },
     {
       "word": "사망",
+      "count": 7
+    },
+    {
+      "word": "한학자",
+      "count": 7
+    },
+    {
+      "word": "시즌",
+      "count": 7
+    },
+    {
+      "word": "만에",
       "count": 6
+    },
+    {
+      "word": "부부",
+      "count": 6
+    },
+    {
+      "word": "대통령",
+      "count": 6
+    },
+    {
+      "word": "주가",
+      "count": 6
+    },
+    {
+      "word": "방어",
+      "count": 6
+    },
+    {
+      "word": "남자",
+      "count": 6
+    },
+    {
+      "word": "감독",
+      "count": 5
+    },
+    {
+      "word": "용의자는",
+      "count": 5
     },
     {
       "word": "지시",
       "count": 5
     },
     {
-      "word": "한학자",
-      "count": 5
-    },
-    {
-      "word": "김건희",
-      "count": 5
-    },
-    {
-      "word": "만에",
-      "count": 4
-    },
-    {
-      "word": "검토",
-      "count": 4
-    },
-    {
       "word": "특검",
-      "count": 4
+      "count": 5
     },
     {
-      "word": "대통령",
-      "count": 4
-    },
-    {
-      "word": "방어",
-      "count": 4
-    },
-    {
-      "word": "만리장성",
-      "count": 4
-    },
-    {
-      "word": "남자",
-      "count": 4
-    },
-    {
-      "word": "메달",
-      "count": 4
-    },
-    {
-      "word": "호주",
-      "count": 4
-    },
-    {
-      "word": "시드니",
-      "count": 4
-    },
-    {
-      "word": "아버지",
-      "count": 4
+      "word": "때문에",
+      "count": 5
     }
   ],
   "category_keywords": {
@@ -94,82 +94,82 @@
         "count": 4
       },
       {
+        "word": "특검",
+        "count": 4
+      },
+      {
         "word": "진압",
         "count": 3
       },
       {
         "word": "박진경",
         "count": 3
-      },
-      {
-        "word": "대령",
-        "count": 3
       }
     ],
     "sports": [
       {
         "word": "한국",
-        "count": 7
-      },
-      {
-        "word": "만리장성",
-        "count": 4
-      },
-      {
-        "word": "남자",
-        "count": 4
-      },
-      {
-        "word": "메달",
-        "count": 4
+        "count": 9
       },
       {
         "word": "시즌",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "남자",
+        "count": 6
+      },
+      {
+        "word": "만리장성",
+        "count": 5
+      },
+      {
+        "word": "메달",
+        "count": 5
       }
     ],
     "economy": [
       {
         "word": "방어",
-        "count": 4
+        "count": 6
       },
       {
         "word": "역대",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "만에",
+        "count": 4
+      },
+      {
+        "word": "주가",
+        "count": 4
       },
       {
         "word": "수출",
-        "count": 2
-      },
-      {
-        "word": "최대",
-        "count": 2
-      },
-      {
-        "word": "반도체",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "통일교",
-        "count": 6
+        "count": 7
       },
       {
         "word": "전재수",
-        "count": 5
+        "count": 6
       },
       {
         "word": "김건희",
-        "count": 4
+        "count": 6
+      },
+      {
+        "word": "계엄",
+        "count": 5
       },
       {
         "word": "한학자",
-        "count": 3
-      },
-      {
-        "word": "경찰",
-        "count": 3
+        "count": 4
       }
     ],
     "international": [
@@ -178,42 +178,42 @@
         "count": 6
       },
       {
-        "word": "호주",
-        "count": 4
+        "word": "미스",
+        "count": 5
+      },
+      {
+        "word": "핀란드",
+        "count": 5
+      },
+      {
+        "word": "왕관",
+        "count": 5
       },
       {
         "word": "시드니",
-        "count": 4
-      },
-      {
-        "word": "아버지",
-        "count": 4
-      },
-      {
-        "word": "용의자",
-        "count": 3
+        "count": 5
       }
     ],
     "culture": [
       {
         "word": "이유",
-        "count": 5
+        "count": 8
+      },
+      {
+        "word": "아들",
+        "count": 4
       },
       {
         "word": "엑소",
         "count": 3
       },
       {
-        "word": "경례",
-        "count": 2
+        "word": "케데헌",
+        "count": 3
       },
       {
-        "word": "여진구",
-        "count": 2
-      },
-      {
-        "word": "카투사",
-        "count": 2
+        "word": "이재",
+        "count": 3
       }
     ]
   }
