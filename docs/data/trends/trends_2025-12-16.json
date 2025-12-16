@@ -1,0 +1,220 @@
+{
+  "date": "2025-12-16",
+  "generated_at": "2025-12-16T09:49:27.254223+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "함께",
+      "count": 5
+    },
+    {
+      "word": "감독",
+      "count": 5
+    },
+    {
+      "word": "통일교",
+      "count": 4
+    },
+    {
+      "word": "박나래",
+      "count": 3
+    },
+    {
+      "word": "해저터널",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "취소",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "아들",
+      "count": 3
+    },
+    {
+      "word": "선수",
+      "count": 3
+    },
+    {
+      "word": "영화",
+      "count": 3
+    },
+    {
+      "word": "라이너",
+      "count": 3
+    },
+    {
+      "word": "이제",
+      "count": 2
+    },
+    {
+      "word": "장윤정",
+      "count": 2
+    },
+    {
+      "word": "갑질",
+      "count": 2
+    },
+    {
+      "word": "소환된",
+      "count": 2
+    },
+    {
+      "word": "장면",
+      "count": 2
+    },
+    {
+      "word": "이미",
+      "count": 2
+    },
+    {
+      "word": "사뒀다",
+      "count": 2
+    },
+    {
+      "word": "목매는",
+      "count": 2
+    }
+  ],
+  "category_keywords": {
+    "politics": [
+      {
+        "word": "정부",
+        "count": 3
+      },
+      {
+        "word": "취소",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "통일교",
+        "count": 2
+      },
+      {
+        "word": "특검",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "선수",
+        "count": 3
+      },
+      {
+        "word": "올해의",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "안세영",
+        "count": 2
+      },
+      {
+        "word": "압도적",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "만명",
+        "count": 2
+      },
+      {
+        "word": "에너지",
+        "count": 2
+      },
+      {
+        "word": "찌꺼기",
+        "count": 1
+      },
+      {
+        "word": "가장",
+        "count": 1
+      },
+      {
+        "word": "많이",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "퇴짜",
+        "count": 2
+      },
+      {
+        "word": "사람",
+        "count": 2
+      },
+      {
+        "word": "여성",
+        "count": 2
+      },
+      {
+        "word": "전재수",
+        "count": 1
+      },
+      {
+        "word": "늦장",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "감독",
+        "count": 4
+      },
+      {
+        "word": "함께",
+        "count": 3
+      },
+      {
+        "word": "영화",
+        "count": 3
+      },
+      {
+        "word": "라이너",
+        "count": 3
+      },
+      {
+        "word": "고려아연",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "박나래",
+        "count": 2
+      },
+      {
+        "word": "통일교",
+        "count": 2
+      },
+      {
+        "word": "이미",
+        "count": 2
+      },
+      {
+        "word": "사뒀다",
+        "count": 2
+      },
+      {
+        "word": "해저터널",
+        "count": 2
+      }
+    ]
+  }
+}
