@@ -1,17 +1,21 @@
 {
   "date": "2025-12-16",
-  "generated_at": "2025-12-16T09:49:27.254223+09:00",
+  "generated_at": "2025-12-16T15:10:13.981789+09:00",
   "daily_top_keywords": [
     {
-      "word": "함께",
-      "count": 5
-    },
-    {
       "word": "감독",
-      "count": 5
+      "count": 4
     },
     {
-      "word": "통일교",
+      "word": "아들",
+      "count": 4
+    },
+    {
+      "word": "올해의",
+      "count": 4
+    },
+    {
+      "word": "선수",
       "count": 4
     },
     {
@@ -19,15 +23,7 @@
       "count": 3
     },
     {
-      "word": "해저터널",
-      "count": 3
-    },
-    {
-      "word": "정부",
-      "count": 3
-    },
-    {
-      "word": "취소",
+      "word": "의혹",
       "count": 3
     },
     {
@@ -35,39 +31,15 @@
       "count": 3
     },
     {
-      "word": "아들",
-      "count": 3
-    },
-    {
-      "word": "선수",
-      "count": 3
-    },
-    {
-      "word": "영화",
-      "count": 3
-    },
-    {
-      "word": "라이너",
-      "count": 3
-    },
-    {
-      "word": "이제",
+      "word": "법적",
       "count": 2
     },
     {
-      "word": "장윤정",
+      "word": "담은",
       "count": 2
     },
     {
-      "word": "갑질",
-      "count": 2
-    },
-    {
-      "word": "소환된",
-      "count": 2
-    },
-    {
-      "word": "장면",
+      "word": "통일교",
       "count": 2
     },
     {
@@ -79,62 +51,90 @@
       "count": 2
     },
     {
+      "word": "해저터널",
+      "count": 2
+    },
+    {
       "word": "목매는",
+      "count": 2
+    },
+    {
+      "word": "이유",
+      "count": 2
+    },
+    {
+      "word": "사진",
+      "count": 2
+    },
+    {
+      "word": "수사",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "쓴소리",
+      "count": 2
+    },
+    {
+      "word": "검토하라",
       "count": 2
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "정부",
-        "count": 3
-      },
-      {
-        "word": "취소",
-        "count": 3
+        "word": "수사",
+        "count": 2
       },
       {
         "word": "국힘",
         "count": 2
       },
       {
-        "word": "통일교",
+        "word": "쓴소리",
         "count": 2
       },
       {
-        "word": "특검",
-        "count": 2
+        "word": "성남시장",
+        "count": 1
+      },
+      {
+        "word": "모르고",
+        "count": 1
       }
     ],
     "sports": [
       {
-        "word": "선수",
-        "count": 3
+        "word": "올해의",
+        "count": 4
       },
       {
-        "word": "올해의",
-        "count": 2
+        "word": "선수",
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 3
       },
       {
         "word": "안세영",
         "count": 2
       },
       {
-        "word": "압도적",
-        "count": 1
+        "word": "연속",
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "만명",
+        "word": "인하",
         "count": 2
       },
       {
-        "word": "에너지",
+        "word": "상승률",
         "count": 2
       },
       {
@@ -152,45 +152,45 @@
     ],
     "society": [
       {
-        "word": "퇴짜",
+        "word": "남욱",
         "count": 2
       },
       {
-        "word": "사람",
+        "word": "해제",
         "count": 2
       },
       {
-        "word": "여성",
+        "word": "청구",
         "count": 2
       },
       {
-        "word": "전재수",
-        "count": 1
+        "word": "의혹",
+        "count": 2
       },
       {
-        "word": "늦장",
-        "count": 1
+        "word": "피아니스트",
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "감독",
-        "count": 4
+        "word": "아들",
+        "count": 3
+      },
+      {
+        "word": "살해한",
+        "count": 2
       },
       {
         "word": "함께",
-        "count": 3
+        "count": 2
       },
       {
-        "word": "영화",
-        "count": 3
+        "word": "알고보니",
+        "count": 2
       },
       {
-        "word": "라이너",
-        "count": 3
-      },
-      {
-        "word": "고려아연",
+        "word": "트럼프",
         "count": 2
       }
     ],
