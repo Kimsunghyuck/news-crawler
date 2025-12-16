@@ -65,16 +65,20 @@ function initDatePicker() {
     const mm = String(today.getMonth() + 1).padStart(2, '0');
     const dd = String(today.getDate()).padStart(2, '0');
     const todayStr = `${yyyy}-${mm}-${dd}`;
-    
+
+    // 현재 달의 첫째 날 계산 (최소 선택 가능 날짜)
+    const firstDayOfMonth = `${yyyy}-${mm}-01`;
+
     dateInput.value = todayStr;
+    dateInput.min = firstDayOfMonth;  // 현재 달의 첫째 날부터 선택 가능
     dateInput.max = todayStr;
-    
+
     // 날짜 변경 시 뉴스 다시 로드
     dateInput.addEventListener('change', function() {
         loadNews(currentCategory, currentSource, this.value);
         initNewsTicker(this.value);
     });
-    
+
     // 초기 뉴스 로드 (날짜 선택기 초기화 후)
     loadNews(currentCategory, currentSource, todayStr);
     initNewsTicker(todayStr);

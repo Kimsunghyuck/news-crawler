@@ -2,8 +2,8 @@ name: Daily Multi-Category News Crawl
 
 on:
   schedule:
-    # 매일 한국시간 오전 9시 20분 (UTC 0시 20분)
-    - cron: '20 0 * * *'
+    # 매일 한국시간 오전 9시 (UTC 0시)
+    - cron: '0 0 * * *'
     # 매일 한국시간 오후 3시 (UTC 6시)
     - cron: '0 6 * * *'
     # 매일 한국시간 저녁 7시 (UTC 10시)
@@ -37,7 +37,13 @@ jobs:
         echo "📈 트렌드 키워드 분석 중..."
         python analyzer.py
         echo "✅ 트렌드 분석 완료"
-        
+
+    - name: 🧹 오래된 데이터 정리 (30일 이상)
+      run: |
+        echo "🧹 30일 이상 지난 데이터 정리 중..."
+        python cleanup_old_data.py
+        echo "✅ 데이터 정리 완료"
+
     - name: 🗑️ 기존 타임스탬프 없는 파일 삭제
       run: |
         echo "🗑️ 타임스탬프 없는 기존 파일 삭제 중..."
