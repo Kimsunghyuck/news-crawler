@@ -30,6 +30,34 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 /**
+ * 뉴스 데이터 존재 여부 확인
+ */
+async function checkNewsDataExists(dateStr, crawlTime) {
+    const fileName = `news_${dateStr}_${crawlTime}.json`;
+    const categories = ['politics', 'sports', 'economy', 'society', 'international', 'culture'];
+    const sources = ['donga', 'chosun', 'joongang'];
+
+    // 최소 하나의 파일이라도 존재하는지 확인
+    for (const category of categories) {
+        for (const source of sources) {
+            try {
+                const response = await fetch(`data/${category}/${source}/${fileName}`);
+                if (response.ok) {
+                    const news = await response.json();
+                    if (news.length > 0) {
+                        return true; // 데이터가 있는 파일을 발견
+                    }
+                }
+            } catch (error) {
+                // 파일이 없거나 로드 실패 - 계속 시도
+                continue;
+            }
+        }
+    }
+    return false; // 모든 파일 확인 후 데이터 없음
+}
+
+/**
  * 초기 트렌드 배지 로드
  */
 async function loadInitialTrendBadge() {
@@ -38,13 +66,22 @@ async function loadInitialTrendBadge() {
     const mm = String(today.getMonth() + 1).padStart(2, '0');
     const dd = String(today.getDate()).padStart(2, '0');
     const todayStr = `${yyyy}-${mm}-${dd}`;
-    
+
     try {
+        // 먼저 뉴스 데이터가 있는지 확인
+        const crawlTime = getLatestCrawlTime();
+        const hasNewsData = await checkNewsDataExists(todayStr, crawlTime);
+
+        if (!hasNewsData) {
+            console.log('뉴스 데이터가 없어서 트렌드 배지를 표시하지 않습니다.');
+            return;
+        }
+
         const response = await fetch(`data/trends/trends_${todayStr}.json`);
         if (response.ok) {
             const trendData = await response.json();
             const trendBadge = document.getElementById('trend-badge');
-            
+
             if (trendData.daily_top_keywords.length > 0) {
                 trendBadge.textContent = trendData.daily_top_keywords[0].word;
                 trendBadge.classList.add('visible');
@@ -312,7 +349,7 @@ function showEmptyState(selectedDate) {
     // 오늘 날짜인 경우 크롤링 전 메시지 표시
     if (selected.getTime() === today.getTime()) {
         titleEl.textContent = '오늘의 기사가 아직 업데이트되지 않았습니다';
-        descEl.textContent = '매일 오전 9시 20분에 업데이트됩니다';
+        descEl.textContent = '매일 오전 9시, 오후 3시, 오후 7시에 업데이트됩니다';
     } else {
         // 과거 날짜인 경우 기본 메시지
         titleEl.textContent = '해당 날짜의 기사가 존재하지 않습니다';
@@ -1018,10 +1055,26 @@ function initTrendPanel() {
  */
 async function loadTrendPanelData(date) {
     try {
+        // 먼저 뉴스 데이터가 있는지 확인
+        const crawlTime = getLatestCrawlTime();
+        const hasNewsData = await checkNewsDataExists(date, crawlTime);
+
+        if (!hasNewsData) {
+            console.log('뉴스 데이터가 없어서 트렌드를 표시하지 않습니다.');
+            const keywordsList = document.getElementById('trend-keywords-list');
+            keywordsList.innerHTML = '<p class="trend-error">뉴스 데이터가 아직 업데이트되지 않았습니다.<br>오전 9시, 오후 3시, 오후 7시에 업데이트됩니다.</p>';
+            const categoriesDiv = document.getElementById('trend-categories');
+            categoriesDiv.innerHTML = '';
+
+            const trendBadge = document.getElementById('trend-badge');
+            trendBadge.classList.remove('visible');
+            return;
+        }
+
         const response = await fetch(`data/trends/trends_${date}.json`);
         if (response.ok) {
             const trendData = await response.json();
-            
+
             // Top 키워드 배지 업데이트
             const trendBadge = document.getElementById('trend-badge');
             if (trendData.daily_top_keywords.length > 0) {
@@ -1030,16 +1083,16 @@ async function loadTrendPanelData(date) {
             } else {
                 trendBadge.classList.remove('visible');
             }
-            
+
             // 전체 키워드 리스트 표시
             displayTrendKeywords(trendData.daily_top_keywords);
-            
+
             // 카테고리별 키워드 표시
             displayCategoryKeywords(trendData.category_keywords);
         }
     } catch (error) {
         console.log('트렌드 데이터 로드 실패:', error);
-        
+
         // 에러 메시지 표시
         const keywordsList = document.getElementById('trend-keywords-list');
         keywordsList.innerHTML = '<p class="trend-error">트렌드 데이터를 불러올 수 없습니다.</p>';
@@ -1677,7 +1730,7 @@ async function loadHomeDashboardWithTime(crawlTime) {
         const homeSubtitle = document.querySelector('.home-subtitle');
 
         const timeLabels = {
-            '09-20': '오전 9시 20분',
+            '09-20': '오전 9시',
             '15-00': '오후 3시',
             '19-00': '오후 7시'
         };
@@ -1920,7 +1973,7 @@ function showNoDataWithRetryButton(currentCrawlTime) {
 
     // 현재 시간대 한글 표시
     const timeLabels = {
-        '09-20': '오전 9시 20분',
+        '09-20': '오전 9시',
         '15-00': '오후 3시',
         '19-00': '오후 7시'
     };
@@ -1965,7 +2018,7 @@ function showNoDataWithRetryButton(currentCrawlTime) {
                     </button>
                     <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
                         <p style="color: var(--text-secondary); font-size: 0.95rem;">
-                            💡 매일 오전 9시 20분, 오후 3시, 오후 7시에<br>새로운 뉴스가 업데이트됩니다
+                            💡 매일 오전 9시, 오후 3시, 오후 7시에<br>새로운 뉴스가 업데이트됩니다
                         </p>
                     </div>
                 </div>
@@ -2031,7 +2084,7 @@ function renderNewspaperComparison(newspaperNews, currentCrawlTime = null) {
     };
 
     const timeLabels = {
-        '09-20': '오전 9시 20분',
+        '09-20': '오전 9시',
         '15-00': '오후 3시',
         '19-00': '오후 7시'
     };
