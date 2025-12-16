@@ -1,219 +1,219 @@
 {
   "date": "2025-12-16",
-  "generated_at": "2025-12-16T15:10:13.981789+09:00",
+  "generated_at": "2025-12-16T19:12:14.945942+09:00",
   "daily_top_keywords": [
     {
-      "word": "감독",
-      "count": 4
+      "word": "한국",
+      "count": 7
     },
     {
       "word": "아들",
-      "count": 4
-    },
-    {
-      "word": "올해의",
-      "count": 4
+      "count": 6
     },
     {
       "word": "선수",
-      "count": 4
+      "count": 6
     },
     {
       "word": "박나래",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "의혹",
-      "count": 3
-    },
-    {
-      "word": "남자",
-      "count": 3
-    },
-    {
-      "word": "법적",
-      "count": 2
-    },
-    {
-      "word": "담은",
-      "count": 2
+      "word": "감독",
+      "count": 5
     },
     {
       "word": "통일교",
-      "count": 2
-    },
-    {
-      "word": "이미",
-      "count": 2
-    },
-    {
-      "word": "사뒀다",
-      "count": 2
-    },
-    {
-      "word": "해저터널",
-      "count": 2
-    },
-    {
-      "word": "목매는",
-      "count": 2
-    },
-    {
-      "word": "이유",
-      "count": 2
+      "count": 5
     },
     {
       "word": "사진",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "수사",
-      "count": 2
+      "word": "추진",
+      "count": 5
+    },
+    {
+      "word": "남자",
+      "count": 5
+    },
+    {
+      "word": "올해의",
+      "count": 5
+    },
+    {
+      "word": "투어",
+      "count": 4
+    },
+    {
+      "word": "이미",
+      "count": 4
+    },
+    {
+      "word": "사뒀다",
+      "count": 4
+    },
+    {
+      "word": "해저터널",
+      "count": 4
+    },
+    {
+      "word": "목매는",
+      "count": 4
     },
     {
       "word": "국힘",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "쓴소리",
-      "count": 2
+      "word": "대통령",
+      "count": 4
     },
     {
-      "word": "검토하라",
-      "count": 2
+      "word": "해병대",
+      "count": 4
+    },
+    {
+      "word": "없어",
+      "count": 4
+    },
+    {
+      "word": "달러",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "수사",
-        "count": 2
-      },
-      {
         "word": "국힘",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "쓴소리",
-        "count": 2
+        "word": "해병대",
+        "count": 4
       },
       {
-        "word": "성남시장",
-        "count": 1
+        "word": "행사",
+        "count": 3
       },
       {
-        "word": "모르고",
-        "count": 1
+        "word": "사진",
+        "count": 3
+      },
+      {
+        "word": "한동훈",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "올해의",
-        "count": 4
-      },
-      {
         "word": "선수",
-        "count": 4
+        "count": 6
       },
       {
         "word": "남자",
+        "count": 5
+      },
+      {
+        "word": "올해의",
+        "count": 5
+      },
+      {
+        "word": "김하성",
+        "count": 4
+      },
+      {
+        "word": "한국",
         "count": 3
-      },
-      {
-        "word": "안세영",
-        "count": 2
-      },
-      {
-        "word": "연속",
-        "count": 2
       }
     ],
     "economy": [
       {
+        "word": "한국",
+        "count": 3
+      },
+      {
         "word": "인하",
-        "count": 2
+        "count": 3
       },
       {
         "word": "상승률",
-        "count": 2
+        "count": 3
       },
       {
         "word": "찌꺼기",
-        "count": 1
+        "count": 2
       },
       {
         "word": "가장",
-        "count": 1
-      },
-      {
-        "word": "많이",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "남욱",
-        "count": 2
-      },
-      {
-        "word": "해제",
-        "count": 2
-      },
-      {
-        "word": "청구",
-        "count": 2
-      },
-      {
-        "word": "의혹",
-        "count": 2
+        "word": "대통령",
+        "count": 3
       },
       {
         "word": "피아니스트",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "임동혁",
+        "count": 3
+      },
+      {
+        "word": "출동",
+        "count": 3
+      },
+      {
+        "word": "신고",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "아들",
+        "count": 4
+      },
+      {
+        "word": "우크라",
         "count": 3
       },
       {
-        "word": "살해한",
-        "count": 2
+        "word": "잠수함",
+        "count": 3
       },
       {
-        "word": "함께",
-        "count": 2
+        "word": "폭파",
+        "count": 3
       },
       {
-        "word": "알고보니",
-        "count": 2
-      },
-      {
-        "word": "트럼프",
-        "count": 2
+        "word": "추진",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "박나래",
-        "count": 2
-      },
-      {
         "word": "통일교",
-        "count": 2
+        "count": 4
       },
       {
         "word": "이미",
-        "count": 2
+        "count": 4
       },
       {
         "word": "사뒀다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "해저터널",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "목매는",
+        "count": 4
       }
     ]
   }
