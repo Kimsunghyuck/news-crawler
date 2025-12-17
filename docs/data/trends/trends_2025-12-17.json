@@ -1,9 +1,29 @@
 {
   "date": "2025-12-17",
-  "generated_at": "2025-12-17T15:10:14.021953+09:00",
+  "generated_at": "2025-12-17T19:13:35.295835+09:00",
   "daily_top_keywords": [
     {
       "word": "통일교",
+      "count": 11
+    },
+    {
+      "word": "쿠팡",
+      "count": 9
+    },
+    {
+      "word": "만에",
+      "count": 9
+    },
+    {
+      "word": "만원",
+      "count": 8
+    },
+    {
+      "word": "해저터널",
+      "count": 7
+    },
+    {
+      "word": "대통령",
       "count": 7
     },
     {
@@ -11,209 +31,189 @@
       "count": 7
     },
     {
-      "word": "만에",
+      "word": "트럼프",
       "count": 7
     },
     {
-      "word": "쿠팡",
-      "count": 6
-    },
-    {
-      "word": "만원",
-      "count": 6
-    },
-    {
       "word": "한국",
-      "count": 5
-    },
-    {
-      "word": "해저터널",
-      "count": 5
-    },
-    {
-      "word": "대통령",
-      "count": 5
-    },
-    {
-      "word": "트럼프",
-      "count": 5
-    },
-    {
-      "word": "비서실장",
-      "count": 5
+      "count": 6
     },
     {
       "word": "돌파",
-      "count": 4
-    },
-    {
-      "word": "없어",
-      "count": 4
+      "count": 6
     },
     {
       "word": "이미",
-      "count": 4
+      "count": 6
     },
     {
       "word": "사뒀다",
-      "count": 4
+      "count": 6
     },
     {
       "word": "목매는",
-      "count": 4
-    },
-    {
-      "word": "영상",
-      "count": 4
+      "count": 6
     },
     {
       "word": "남자",
-      "count": 4
+      "count": 6
     },
     {
-      "word": "오늘의",
-      "count": 3
+      "word": "비서실장",
+      "count": 6
     },
     {
-      "word": "운세",
-      "count": 3
+      "word": "중징계",
+      "count": 5
     },
     {
-      "word": "한일",
-      "count": 3
+      "word": "영상",
+      "count": 5
+    },
+    {
+      "word": "서울",
+      "count": 5
+    },
+    {
+      "word": "계약",
+      "count": 5
+    },
+    {
+      "word": "김하성",
+      "count": 5
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "검토",
+        "word": "중징계",
         "count": 5
       },
       {
         "word": "대통령",
+        "count": 5
+      },
+      {
+        "word": "검토",
+        "count": 5
+      },
+      {
+        "word": "이학재",
         "count": 4
       },
       {
-        "word": "중징계",
-        "count": 3
-      },
-      {
         "word": "국힘",
-        "count": 3
-      },
-      {
-        "word": "연대",
-        "count": 3
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 4
-      },
-      {
-        "word": "한국",
-        "count": 3
+        "count": 6
       },
       {
         "word": "김하성",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "애틀랜타와",
-        "count": 3
+        "word": "한국",
+        "count": 4
       },
       {
-        "word": "계약",
-        "count": 3
+        "word": "월드컵",
+        "count": 4
+      },
+      {
+        "word": "최저가",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "만에",
-        "count": 5
-      },
-      {
-        "word": "다시",
-        "count": 3
+        "count": 7
       },
       {
         "word": "돌파",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "고려아연",
+        "count": 4
+      },
+      {
+        "word": "다시",
+        "count": 4
       },
       {
         "word": "개월",
-        "count": 3
-      },
-      {
-        "word": "쿠팡",
-        "count": 3
+        "count": 4
       }
     ],
     "society": [
       {
         "word": "만원",
-        "count": 4
-      },
-      {
-        "word": "없어",
-        "count": 2
-      },
-      {
-        "word": "불법",
-        "count": 2
+        "count": 5
       },
       {
         "word": "매달",
-        "count": 2
+        "count": 3
       },
       {
         "word": "준다",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "잔칫집",
+        "count": 3
+      },
+      {
+        "word": "같던",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 5
+        "count": 7
       },
       {
         "word": "비서실장",
-        "count": 5
-      },
-      {
-        "word": "알코올",
-        "count": 3
+        "count": 6
       },
       {
         "word": "중독자",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "성격",
-        "count": 3
+        "word": "베네수엘라",
+        "count": 4
+      },
+      {
+        "word": "알코올",
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "이미",
-        "count": 4
+        "count": 6
       },
       {
         "word": "사뒀다",
-        "count": 4
+        "count": 6
       },
       {
         "word": "해저터널",
-        "count": 4
+        "count": 6
       },
       {
         "word": "목매는",
-        "count": 4
+        "count": 6
       },
       {
         "word": "통일교",
-        "count": 4
+        "count": 6
       }
     ]
   }
