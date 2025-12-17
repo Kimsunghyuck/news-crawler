@@ -12,7 +12,8 @@ GitHub Actions로 하루 3번 자동 실행되며, GitHub Pages로 무료 호스
 - **뉴스 티커**: 최신 헤드라인을 세로 슬라이드 애니메이션으로 표시
 - **북마크 기능**: LocalStorage 기반 즐겨찾기 시스템
 - **정적 웹사이트**: 카테고리/언론사/날짜별 필터링 + 다크모드 지원
-- **완전 자동화**: GitHub Actions 스케줄러 (하루 3번: 9:20, 15:00, 19:00 KST)
+- **완전 자동화**: GitHub Actions 스케줄러 (하루 3번: 9:00, 15:00, 19:00 KST)
+- **데이터 관리**: 30일 이상 지난 뉴스 자동 삭제 (저장소 용량 최적화)
 
 ## 📁 프로젝트 구조
 
@@ -22,9 +23,12 @@ news-crawler/
 ├── parser.py               # HTML 파싱 (18개 파서 함수)
 ├── analyzer.py             # 트렌드 키워드 분석
 ├── report_generator.py     # 마크다운 보고서 생성
+├── cleanup_old_data.py     # 30일 이상 데이터 자동 정리
 ├── scheduler.py            # 로컬 스케줄러 (테스트용)
 ├── config.py               # 중앙 설정 (SSOT)
 ├── requirements.txt        # Python 의존성
+├── Dockerfile              # Docker 이미지 빌드 설정
+├── docker-compose.yml      # Docker Compose 설정
 ├── data/                   # 원본 JSON 데이터
 │   └── {category}/{source}/news_{date}_{time}.json  # 시간 스탬프 포함
 ├── docs/                   # GitHub Pages 정적 사이트
@@ -115,7 +119,7 @@ python -m http.server 8000
 
 ### 자동화
 - **GitHub Actions**: 하루 3번 실행
-  - 오전 9:20 KST (cron: `20 0 * * *` UTC)
+  - 오전 9:00 KST (cron: `0 0 * * *` UTC)
   - 오후 3:00 KST (cron: `0 6 * * *` UTC)
   - 저녁 7:00 KST (cron: `0 10 * * *` UTC)
 - **배포 파이프라인**: `data/` → `docs/data/` 복사 후 자동 커밋/푸시
@@ -130,6 +134,20 @@ python -m http.server 8000
   - GitHub Actions 워크플로우 구성 및 E2E 테스트 설정
   - 실시간 협업을 통한 빠른 프로토타이핑
   - 문서 자동 생성 및 프로젝트 구조 설계
+
+### Docker 지원
+- **Docker Compose**: 개발 환경 컨테이너화
+  - Python 3.11 기반 이미지
+  - 자동 의존성 설치 및 크롤링 실행
+  - 로컬 개발 환경 일관성 보장
+
+```bash
+# Docker로 크롤링 실행
+docker-compose up --build
+
+# 백그라운드 실행
+docker-compose up -d
+```
 
 
 ## 📅 개발 일지
@@ -177,7 +195,7 @@ python -m http.server 8000
 - **404 에러 최적화** (존재하는 데이터만 수집)
 - README 최신화 및 프로젝트 문서화 완료
 
-### Day 6: 시간 스탬프 시스템 및 데이터 통합 (2025-12-09)
+### Day 6: 시간 스탬프 시스템 및 데이터 통합 (2025-12-09 ~ 2025-12-16)
 - **파일명 시스템 개편**
   - `news_{date}.json` → `news_{date}_{time}.json` (예: `news_2025-12-09_09-20.json`)
   - 하루 3회 크롤링 데이터를 개별 파일로 분리 저장
@@ -199,6 +217,23 @@ python -m http.server 8000
   - `git pull --rebase` 자동 병합 처리
   - CI/CD 파이프라인 안정화
 
+### Day 7: 데이터 관리 및 Docker 지원 (2025-12-16 ~ 2025-12-17)
+- **데이터 자동 정리 시스템 구축**
+  - `cleanup_old_data.py` 개발: 30일 이상 지난 뉴스 자동 삭제
+  - 정규식 기반 날짜 파싱 (신/구 파일명 형식 모두 지원)
+  - 빈 디렉토리 자동 정리 기능
+  - GitHub Actions에 통합 (매 크롤링마다 실행)
+- **Docker 컨테이너화**
+  - Dockerfile 작성 (Python 3.11-slim 기반)
+  - docker-compose.yml 설정 (볼륨 마운트, 한국 시간대)
+  - 개발 환경 일관성 보장 및 배포 간소화
+- **크롤링 시간 최적화**
+  - 09:20 → 09:00 KST로 변경 (정시 실행)
+  - cron 표현식 업데이트
+- **문서화 개선**
+  - README.md 최신화 (Docker, 데이터 정리)
+  - CLAUDE.md 작성 (개발자 가이드)
+
 ## 📈 수집 현황
 
 | 카테고리 | 언론사 | 기사 수/회 | 하루 총 | 이미지 | 트렌드 | 자동화 |
@@ -211,12 +246,24 @@ python -m http.server 8000
 | 문화 | 동아/조선/중앙 | 15개 | 45개 | ✅ | ✅ | ✅ |
 | **합계** | **18개 소스** | **90개** | **270개/일** | **90개** | **실시간** | **하루 3번** |
 
-**크롤링 시간**: 09:20, 15:00, 19:00 (KST)  
-**중복 제거**: URL 기반 자동 처리  
+**크롤링 시간**: 09:00, 15:00, 19:00 (KST)
+**중복 제거**: URL 기반 자동 처리
 **트렌드 분석**: 전체 + 카테고리별 키워드 Top 20
 
 ---
 
-**최종 업데이트**: 2025년 12월 9일
-**버전**: 7.0 (시간 스탬프 시스템 + E2E 테스트)
+## 📚 추가 문서
+
+- **[CLAUDE.md](CLAUDE.md)**: Claude Code 개발자를 위한 상세 가이드
+  - 아키텍처 설계 원칙
+  - 코드 컨벤션 및 패턴
+  - 새 기능 추가 방법
+  - 디버깅 팁
+
+- **[GitHub Pages 설정 가이드](docs/GITHUB_PAGES_SETUP.md)**: 배포 상세 가이드
+
+---
+
+**최종 업데이트**: 2025년 12월 17일
+**버전**: 7.0 (시간 스탬프 시스템 + E2E 테스트 + Docker 지원)
 **개발 도구**: [Claude Code](https://claude.com/claude-code) by Anthropic

@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  # 크롤러 서비스
+  crawler:
+    # 현재 디렉토리의 Dockerfile로 빌드
+    build: .
+
+    # 컨테이너 이름 지정
+    container_name: hyeok-news-crawler
+
+    # 볼륨 마운트: 컨테이너 내부 폴더 ↔ 호스트 폴더 연결
+    # 크롤링한 데이터가 컨테이너 삭제 후에도 남음
+    volumes:
+      # 크롤링 데이터 저장
+      - ./data:/app/data
+      # 로그 파일 저장
+      - ./logs:/app/logs
+      # 웹 배포용 데이터
+      - ./docs/data:/app/docs/data
+
+    # 환경 변수 (필요시 추가)
+    environment:
+      - TZ=Asia/Seoul  # 한국 시간대 설정
+
+    # 재시작 정책: 실패 시 자동 재시작 안 함
+    # 크롤러는 한 번 실행 후 종료되므로 no로 설정
+    restart: no
+
+  # (선택) 웹서버 서비스 - Flask 앱 실행
+  # 주석 해제하면 웹서버도 함께 실행
+  # web:
+  #   build: .
+  #   container_name: hyeok-news-web
+  #   command: python web/app.py
+  #   ports:
+  #     - "5000:5000"  # 호스트:컨테이너 포트 매핑
+  #   volumes:
+  #     - ./data:/app/data
+  #     - ./docs:/app/docs
+  #   environment:
+  #     - TZ=Asia/Seoul
+  #   restart: unless-stopped

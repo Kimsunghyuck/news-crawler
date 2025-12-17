@@ -1,0 +1,56 @@
+# Git 관련
+.git
+.gitignore
+.gitattributes
+
+# Python 캐시
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# 가상환경
+venv
+env
+ENV
+
+# IDE 설정
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일 (빌드 시 불필요, 실행 시 생성됨)
+logs/
+*.log
+
+# 기존 크롤링 데이터 (빌드 시 불필요)
+data/
+docs/data/
+
+# 테스트 및 문서
+tests/
+*.md
+!README.md
+
+# Docker 관련
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# GitHub Actions
+.github/
+
+# 리포트 파일
+reports/
