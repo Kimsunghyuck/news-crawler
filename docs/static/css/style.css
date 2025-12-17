@@ -1867,3 +1867,344 @@ img {
     width: 50px;
     height: 14px;
 }
+
+/* ===== Authentication Landing Page ===== */
+.auth-landing {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+}
+
+.auth-landing.hidden {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+}
+
+.auth-container {
+    background: var(--bg-white);
+    padding: 3rem;
+    border-radius: 20px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    max-width: 450px;
+    width: 90%;
+    text-align: center;
+    position: relative;
+}
+
+.auth-logo {
+    margin-bottom: 2rem;
+}
+
+.auth-logo img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 1rem;
+}
+
+.auth-logo h1 {
+    color: var(--text-primary);
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.auth-subtitle {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+}
+
+/* Auth Steps */
+.auth-step {
+    display: none;
+    animation: fadeIn 0.4s ease;
+}
+
+.auth-step.active {
+    display: block;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Enter Site Button */
+.enter-site-btn {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    border: none;
+    padding: 1rem 3rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.enter-site-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+.enter-site-btn:active {
+    transform: translateY(0);
+}
+
+/* Auth Form */
+.auth-form {
+    margin-top: 1.5rem;
+}
+
+.auth-description {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+}
+
+#email-input {
+    width: 100%;
+    padding: 0.9rem 1.2rem;
+    border: 2px solid var(--border-color);
+    border-radius: 10px;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    background: var(--bg-white);
+    color: var(--text-primary);
+    transition: all 0.3s ease;
+}
+
+#email-input:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+}
+
+/* OTP Input */
+.otp-input-group {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.otp-digit {
+    width: 50px;
+    height: 60px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    border: 2px solid var(--border-color);
+    border-radius: 10px;
+    background: var(--bg-white);
+    color: var(--text-primary);
+    transition: all 0.3s ease;
+}
+
+.otp-digit:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+}
+
+.otp-digit.filled {
+    border-color: var(--secondary-color);
+    background: rgba(52, 152, 219, 0.05);
+}
+
+/* Auth Buttons */
+.auth-btn {
+    width: 100%;
+    background: var(--secondary-color);
+    color: white;
+    border: none;
+    padding: 0.9rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.auth-btn:hover {
+    background: #2980b9;
+    transform: translateY(-1px);
+}
+
+.auth-btn:disabled {
+    background: var(--text-secondary);
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.auth-back-btn {
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    transition: color 0.3s ease;
+}
+
+.auth-back-btn:hover {
+    color: var(--text-primary);
+}
+
+.auth-link-btn {
+    background: none;
+    border: none;
+    color: var(--secondary-color);
+    font-size: 0.9rem;
+    cursor: pointer;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    text-decoration: underline;
+    transition: opacity 0.3s ease;
+}
+
+.auth-link-btn:hover {
+    opacity: 0.8;
+}
+
+/* Auth Loading */
+.auth-loading {
+    display: none;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.auth-loading.active {
+    display: block;
+}
+
+.auth-spinner {
+    width: 40px;
+    height: 40px;
+    margin: 0 auto 1rem;
+    border: 4px solid var(--border-color);
+    border-top-color: var(--secondary-color);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+#auth-loading-text {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+/* Auth Error */
+.auth-error {
+    display: none;
+    background: #ffe6e6;
+    color: #c0392b;
+    padding: 0.8rem;
+    border-radius: 8px;
+    margin-top: 1rem;
+    font-size: 0.9rem;
+}
+
+[data-theme="dark"] .auth-error {
+    background: rgba(231, 76, 60, 0.1);
+    color: #e74c3c;
+}
+
+.auth-error.active {
+    display: block;
+    animation: shake 0.5s;
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-10px); }
+    75% { transform: translateX(10px); }
+}
+
+/* Email Waiting UI */
+.email-waiting-icon {
+    margin: 1rem 0;
+}
+
+.email-waiting-icon svg {
+    color: var(--secondary-color);
+}
+
+.auth-waiting-info {
+    background: var(--bg-light);
+    padding: 1rem;
+    border-radius: 10px;
+    margin-top: 1.5rem;
+    text-align: left;
+}
+
+.auth-waiting-info p {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.auth-waiting-info ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.auth-waiting-info li {
+    padding: 0.3rem 0;
+    padding-left: 1.5rem;
+    position: relative;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+.auth-waiting-info li::before {
+    content: "•";
+    position: absolute;
+    left: 0.5rem;
+    color: var(--secondary-color);
+}
+
+#display-email {
+    color: var(--secondary-color);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .auth-container {
+        padding: 2rem 1.5rem;
+    }
+
+    .auth-logo h1 {
+        font-size: 1.5rem;
+    }
+
+    .email-waiting-icon svg {
+        width: 60px;
+        height: 60px;
+    }
+
+    .enter-site-btn {
+        padding: 0.9rem 2rem;
+        font-size: 1rem;
+    }
+}

@@ -11,6 +11,7 @@ GitHub Actions로 하루 3번 자동 실행되며, GitHub Pages로 무료 호스
 - **이미지 추출**: Open Graph/Twitter Card 메타데이터 기반 썸네일 추출
 - **뉴스 티커**: 최신 헤드라인을 세로 슬라이드 애니메이션으로 표시
 - **북마크 기능**: LocalStorage 기반 즐겨찾기 시스템
+- **이메일 인증**: Firebase Email Link Authentication (비밀번호 없는 로그인)
 - **정적 웹사이트**: 카테고리/언론사/날짜별 필터링 + 다크모드 지원
 - **완전 자동화**: GitHub Actions 스케줄러 (하루 3번: 9:00, 15:00, 19:00 KST)
 - **데이터 관리**: 30일 이상 지난 뉴스 자동 삭제 (저장소 용량 최적화)
@@ -29,18 +30,24 @@ news-crawler/
 ├── requirements.txt        # Python 의존성
 ├── Dockerfile              # Docker 이미지 빌드 설정
 ├── docker-compose.yml      # Docker Compose 설정
+├── FIREBASE_SETUP.md       # Firebase 프로젝트 설정 가이드
+├── EMAIL_AUTH_GUIDE.md     # 이메일 인증 사용 가이드
 ├── data/                   # 원본 JSON 데이터
 │   └── {category}/{source}/news_{date}_{time}.json  # 시간 스탬프 포함
 ├── docs/                   # GitHub Pages 정적 사이트
-│   ├── index.html          # 메인 페이지
+│   ├── index.html          # 메인 페이지 (인증 UI 포함)
 │   ├── static/             # CSS, JS, 이미지
+│   │   ├── css/style.css   # 스타일 (인증 UI 포함)
+│   │   └── js/
+│   │       ├── main.js     # 메인 로직
+│   │       └── auth.js     # Firebase 이메일 인증
 │   └── data/               # JSON 복사본 (배포용)
 │       └── trends/         # 트렌드 분석 데이터
 ├── reports/                # 마크다운 보고서
 │   ├── combined/           # 전체 리포트
 │   └── {category}/{source}/report_{date}.md
 └── .github/workflows/      # GitHub Actions
-    ├── daily-crawl.yml     # 하루 3번 자동 실행 (09:20, 15:00, 19:00)
+    ├── daily-crawl.yml     # 하루 3번 자동 실행 (09:00, 15:00, 19:00)
     ├── test-website.yml    # Playwright E2E 테스트
     └── manual-crawl.yml    # 수동 트리거
 ```
@@ -103,6 +110,7 @@ python -m http.server 8000
 - **Vanilla JavaScript**: 비동기 데이터 로딩 (Fetch API)
 - **Swiper.js 11.1.14**: 뉴스 티커 세로 슬라이드 애니메이션
 - **Chart.js 3.9.1**: 통계 차트 라이브러리 (파이/바/라인 차트)
+- **Firebase Authentication 10.7.1**: Email Link 인증 (비밀번호 없는 로그인)
 
 ### Backend (Python 3.x)
 - **BeautifulSoup4 (lxml)**: HTML 파싱 엔진
@@ -234,6 +242,27 @@ docker-compose up -d
   - README.md 최신화 (Docker, 데이터 정리)
   - CLAUDE.md 작성 (개발자 가이드)
 
+### Day 8: Email Authentication 구현 (2025-12-17)
+- **Firebase Email Link Authentication 통합**
+  - Firebase 프로젝트 생성 및 설정
+  - Email Link (passwordless) 인증 방식 구현
+  - `docs/static/js/auth.js` 개발: Firebase SDK 통합
+  - 인증 상태 관리 (onAuthStateChanged)
+- **랜딩 페이지 UI 개발**
+  - 3단계 인증 플로우 구현 (입장 → 이메일 입력 → 대기 화면)
+  - 애니메이션 효과 (fadeIn, shake)
+  - 로딩 스피너 및 에러 메시지 표시
+  - 다크모드 지원
+- **보안 기능**
+  - 이메일 링크 만료 처리
+  - localStorage 기반 이메일 임시 저장
+  - Authorized domains 설정 (localhost, GitHub Pages)
+  - 자동 로그인 유지
+- **문서화**
+  - `FIREBASE_SETUP.md` 작성: Firebase 프로젝트 설정 가이드
+  - `EMAIL_AUTH_GUIDE.md` 작성: 인증 플로우 사용 가이드
+  - 디버깅 팁 및 일반적인 문제 해결 방법
+
 ## 📈 수집 현황
 
 | 카테고리 | 언론사 | 기사 수/회 | 하루 총 | 이미지 | 트렌드 | 자동화 |
@@ -260,10 +289,22 @@ docker-compose up -d
   - 새 기능 추가 방법
   - 디버깅 팁
 
+- **[FIREBASE_SETUP.md](FIREBASE_SETUP.md)**: Firebase 프로젝트 설정 가이드
+  - Firebase 프로젝트 생성
+  - Email Link Authentication 활성화
+  - Authorized domains 설정
+  - Firebase Config 입력 방법
+
+- **[EMAIL_AUTH_GUIDE.md](EMAIL_AUTH_GUIDE.md)**: 이메일 인증 사용 가이드
+  - 인증 플로우 설명
+  - 로컬 테스트 방법
+  - 디버깅 및 문제 해결
+  - GitHub Pages 배포 시 주의사항
+
 - **[GitHub Pages 설정 가이드](docs/GITHUB_PAGES_SETUP.md)**: 배포 상세 가이드
 
 ---
 
 **최종 업데이트**: 2025년 12월 17일
-**버전**: 7.0 (시간 스탬프 시스템 + E2E 테스트 + Docker 지원)
+**버전**: 8.0 (Email Authentication + Firebase 통합)
 **개발 도구**: [Claude Code](https://claude.com/claude-code) by Anthropic

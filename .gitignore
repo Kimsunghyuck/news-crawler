@@ -45,3 +45,8 @@ logs/*.log
 # OS
 .DS_Store
 Thumbs.db
+
+# Firebase (선택사항: API Key 보호)
+# Note: Firebase API Key는 클라이언트 노출이 안전하지만,
+# 공개 저장소에서 제외하려면 아래 주석을 해제하세요.
+# docs/static/js/firebase-config.js
