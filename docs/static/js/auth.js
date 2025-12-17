@@ -204,6 +204,14 @@ function hideAuthLanding() {
     console.log('✅ Authentication complete - Main site unlocked');
 }
 
+// ===== Test Environment Bypass =====
+
+// Check if skipAuth parameter is present (for E2E testing)
+function isTestEnvironment() {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get('skipAuth') === 'true';
+}
+
 // ===== Auth State Observer =====
 
 onAuthStateChanged(auth, (user) => {
@@ -212,8 +220,15 @@ onAuthStateChanged(auth, (user) => {
         hideAuthLanding();
     } else {
         console.log('👤 User is signed out');
-        // Show auth landing if not authenticated
-        authLanding.classList.remove('hidden');
+
+        // Check if test environment - bypass auth
+        if (isTestEnvironment()) {
+            console.log('🧪 Test environment detected - bypassing authentication');
+            hideAuthLanding();
+        } else {
+            // Show auth landing if not authenticated and not in test mode
+            authLanding.classList.remove('hidden');
+        }
     }
 });
 

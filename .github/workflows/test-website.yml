@@ -323,7 +323,8 @@ jobs:
         
         test.describe('웹사이트 E2E 테스트', () => {
           test.beforeEach(async ({ page }) => {
-            await page.goto('http://localhost:8000/');
+            // Add skipAuth parameter to bypass authentication in tests
+            await page.goto('http://localhost:8000/?skipAuth=true');
             await page.waitForLoadState('networkidle');
           });
         
