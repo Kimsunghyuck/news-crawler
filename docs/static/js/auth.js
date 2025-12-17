@@ -62,6 +62,8 @@ const actionCodeSettings = {
 
 // ===== State Management =====
 let currentEmail = '';
+let lastEmailSentTime = 0;
+const EMAIL_COOLDOWN_MS = 60000; // 60 seconds cooldown
 
 // ===== Event Listeners =====
 enterSiteBtn.addEventListener('click', () => {
@@ -92,9 +94,43 @@ backToEmailBtn.addEventListener('click', () => {
 
 resendLinkBtn.addEventListener('click', async () => {
     if (currentEmail) {
+        const now = Date.now();
+        const timeSinceLastEmail = now - lastEmailSentTime;
+
+        if (timeSinceLastEmail < EMAIL_COOLDOWN_MS) {
+            const remainingSeconds = Math.ceil((EMAIL_COOLDOWN_MS - timeSinceLastEmail) / 1000);
+            showError(`너무 빠르게 재전송을 시도했습니다. ${remainingSeconds}초 후에 다시 시도해주세요.`);
+            startResendCooldown();
+            return;
+        }
+
         await sendEmailLink(currentEmail);
     }
 });
+
+// Start cooldown timer for resend button
+function startResendCooldown() {
+    resendLinkBtn.disabled = true;
+    const originalText = resendLinkBtn.textContent;
+
+    const updateTimer = () => {
+        const now = Date.now();
+        const timeSinceLastEmail = now - lastEmailSentTime;
+        const remainingMs = EMAIL_COOLDOWN_MS - timeSinceLastEmail;
+
+        if (remainingMs <= 0) {
+            resendLinkBtn.disabled = false;
+            resendLinkBtn.textContent = originalText;
+            return;
+        }
+
+        const remainingSeconds = Math.ceil(remainingMs / 1000);
+        resendLinkBtn.textContent = `${originalText} (${remainingSeconds}초)`;
+        setTimeout(updateTimer, 1000);
+    };
+
+    updateTimer();
+}
 
 // ===== Authentication Functions =====
 
@@ -103,7 +139,11 @@ async function sendEmailLink(email) {
     clearError();
 
     try {
+        console.log('📤 Sending email link to:', email);
         await sendSignInLinkToEmail(auth, email, actionCodeSettings);
+
+        // Update last sent time
+        lastEmailSentTime = Date.now();
 
         // Save email to localStorage for verification after redirect
         window.localStorage.setItem('emailForSignIn', email);
@@ -114,9 +154,15 @@ async function sendEmailLink(email) {
         hideLoading();
         switchStep('waiting');
 
-        console.log('✅ Email link sent to:', email);
+        console.log('✅ Email link sent successfully to:', email);
+        console.log('⏱️ Next email can be sent after:', new Date(lastEmailSentTime + EMAIL_COOLDOWN_MS).toLocaleTimeString());
+
+        // Start cooldown timer for resend button
+        startResendCooldown();
     } catch (error) {
         console.error('❌ Send email link error:', error);
+        console.error('Error code:', error.code);
+        console.error('Error message:', error.message);
         hideLoading();
 
         let errorMessage = '이메일 전송에 실패했습니다.';
@@ -125,6 +171,14 @@ async function sendEmailLink(email) {
             errorMessage = '올바른 이메일 주소를 입력해주세요.';
         } else if (error.code === 'auth/unauthorized-domain') {
             errorMessage = 'Firebase 콘솔에서 현재 도메인을 승인된 도메인에 추가해주세요.';
+        } else if (error.code === 'auth/quota-exceeded') {
+            errorMessage = '⚠️ Firebase 이메일 전송 한도를 초과했습니다.\n\n원인:\n• 짧은 시간에 너무 많은 이메일 요청\n• 하루 최대 100건 제한 (Spark 플랜)\n\n해결 방법:\n• 60초 후에 다시 시도\n• 또는 내일 다시 시도\n• 또는 Firebase Console에서 Blaze 플랜으로 업그레이드';
+            console.error('🚨 QUOTA EXCEEDED - Details:');
+            console.error('  - Last email sent:', new Date(lastEmailSentTime).toLocaleString());
+            console.error('  - Time since last email:', Math.floor((Date.now() - lastEmailSentTime) / 1000), 'seconds');
+            console.error('  - Cooldown period:', EMAIL_COOLDOWN_MS / 1000, 'seconds');
+        } else if (error.code === 'auth/too-many-requests') {
+            errorMessage = '⚠️ 너무 많은 요청이 발생했습니다.\n60초 후에 다시 시도해주세요.';
         }
 
         showError(errorMessage);
