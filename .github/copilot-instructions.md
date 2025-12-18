@@ -20,7 +20,6 @@ docs/data/ (GitHub Pages 배포용)
 - **data/**: 원본 JSON 데이터 (`{category}/{source}/news_{date}.json`)
 - **docs/**: GitHub Pages 정적 사이트 (HTML + JSON 복사본)
 - **reports/**: 마크다운 보고서 (개별 + combined)
-- **web/**: Flask 개발 서버 (로컬 테스트용, 배포에는 미사용)
 
 ### 설정 파일 (config.py)
 - `NEWS_SOURCES`: 카테고리별 크롤링 대상 정의
@@ -108,7 +107,6 @@ def parse_{source}_{category}(html_content: str) -> List[Dict[str, str]]:
 ## 주의사항
 
 - **docs/ 폴더는 수동 편집 금지**: crawler.py가 data/에서 자동 복사
-- **web/ 앱은 개발용**: 실제 배포는 docs/ 정적 사이트 사용
 - **파서 추가 시 lxml 필수**: BeautifulSoup의 기본 파서보다 빠름
 - **이미지 URL 검증 생략**: 크롤링 속도 우선 (클라이언트 측에서 fallback 처리)
 
@@ -144,9 +142,6 @@ python report_generator.py
 
 # 로컬 웹서버
 cd docs; python -m http.server 8000
-
-# 스케줄러 실행 (매일 자동화, Ctrl+C로 종료)
-python scheduler.py
 ```
 
 ## 최신 업데이트 (v6.0 - 2025-12-05)

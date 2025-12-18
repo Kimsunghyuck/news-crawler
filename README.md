@@ -25,7 +25,6 @@ news-crawler/
 ├── analyzer.py             # 트렌드 키워드 분석
 ├── report_generator.py     # 마크다운 보고서 생성
 ├── cleanup_old_data.py     # 30일 이상 데이터 자동 정리
-├── scheduler.py            # 로컬 스케줄러 (테스트용)
 ├── config.py               # 중앙 설정 (SSOT)
 ├── requirements.txt        # Python 의존성
 ├── Dockerfile              # Docker 이미지 빌드 설정

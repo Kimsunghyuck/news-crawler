@@ -17,4 +17,4 @@
 - `sports-default.jpg` - 스포츠 카테고리 기본 이미지  
 - `economy-default.jpg` - 경제 카테고리 기본 이미지
 
-모든 이미지는 `web/static/images/` 폴더에 배치하세요.
+모든 이미지는 `docs/static/images/` 폴더에 배치하세요.
