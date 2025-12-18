@@ -1743,26 +1743,18 @@ async function loadHomeDashboardWithTime(crawlTime) {
     const result = await tryLoadNewsData(todayStr, crawlTime);
 
     if (result.success) {
-        // 이전 시간대 데이터를 보여주는 경우 헤더 업데이트
+        // 데이터를 보여주는 경우 헤더 업데이트
         const homeHeader = document.querySelector('.home-header h1');
         const homeSubtitle = document.querySelector('.home-subtitle');
 
-        const timeLabels = {
-            '09-20': '오전 9시',
-            '15-00': '오후 3시',
-            '19-00': '오후 7시'
-        };
-
-        const timeLabel = timeLabels[crawlTime] || crawlTime;
-
-        homeHeader.textContent = `📰 ${timeLabel} 업데이트 뉴스`;
-        homeSubtitle.textContent = '이전 시간대의 뉴스를 보고 있습니다';
-        homeSubtitle.style.color = 'var(--accent-color)';
+        homeHeader.textContent = '📰 오늘의 뉴스';
+        homeSubtitle.textContent = '모든 카테고리의 최신 소식을 한눈에 확인하세요';
+        homeSubtitle.style.color = 'var(--text-secondary)';
 
         // 티커 표시
         document.querySelector('.news-ticker-banner').style.display = 'block';
     } else {
-        // 이전 시간대 데이터도 없으면 다시 메시지 표시
+        // 데이터가 없으면 메시지 표시
         showNoDataWithRetryButton(result.crawlTime);
         // 티커 숨기기
         document.querySelector('.news-ticker-banner').style.display = 'none';
@@ -1774,32 +1766,15 @@ async function loadHomeDashboardWithTime(crawlTime) {
  */
 function showUpdateScheduleMessage(currentDate) {
     const container = document.getElementById('newspaper-comparison-grid');
-    const currentHour = currentDate.getHours();
-    const currentMinute = currentDate.getMinutes();
-    
-    // 9시까지 남은 시간 계산
-    const updateHour = 9;
-    let hoursLeft = updateHour - currentHour;
-    let minutesLeft = 60 - currentMinute;
-    
-    if (minutesLeft === 60) {
-        minutesLeft = 0;
-    } else {
-        hoursLeft -= 1;
-    }
-    
-    const timeLeftText = hoursLeft > 0 
-        ? `약 ${hoursLeft}시간 ${minutesLeft}분 후` 
-        : `약 ${minutesLeft}분 후`;
-    
+
     // 헤더 업데이트
     const homeHeader = document.querySelector('.home-header h1');
     const homeSubtitle = document.querySelector('.home-subtitle');
-    
-    homeHeader.textContent = '⏰ 뉴스 업데이트 대기 중';
-    homeSubtitle.innerHTML = `오늘의 뉴스는 <strong>오전 9시</strong>부터 업데이트됩니다 (${timeLeftText})`;
+
+    homeHeader.textContent = '⏰ 업데이트 대기중';
+    homeSubtitle.textContent = '기사가 아직 업데이트 되지 않았습니다';
     homeSubtitle.style.color = 'var(--accent-color)';
-    
+
     // 안내 메시지
     container.innerHTML = `
         <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 2rem;">
@@ -1808,28 +1783,19 @@ function showUpdateScheduleMessage(currentDate) {
                     <circle cx="12" cy="12" r="10"></circle>
                     <polyline points="12 6 12 12 16 14"></polyline>
                 </svg>
-                <h2 style="color: var(--text-primary); margin-bottom: 1rem; font-size: 1.8rem;">📰 뉴스 크롤링 준비 중</h2>
+                <h2 style="color: var(--text-primary); margin-bottom: 1rem; font-size: 1.8rem;">📰 업데이트 대기중</h2>
                 <p style="color: var(--text-secondary); font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
-                    오늘의 뉴스는 <strong style="color: var(--secondary-color);">매일 오전 9시</strong>부터<br>
-                    자동으로 수집되어 업데이트됩니다.
+                    기사가 아직 업데이트 되지 않았습니다.<br>
+                    잠시 후 다시 확인해주세요.
                 </p>
-                <div style="background: var(--card-bg); padding: 1.5rem; border-radius: 12px; margin-top: 2rem;">
-                    <div style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 0.5rem;">업데이트까지 남은 시간</div>
-                    <div id="countdown-timer" style="font-size: 2.5rem; font-weight: 700; color: var(--secondary-color);">
-                        ${hoursLeft.toString().padStart(2, '0')}:${minutesLeft.toString().padStart(2, '0')}
-                    </div>
-                </div>
                 <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
                     <p style="color: var(--text-secondary); font-size: 0.95rem;">
-                        💡 그동안 카테고리를 클릭하여<br>어제의 뉴스를 확인할 수 있습니다
+                        💡 매일 오전 9시, 오후 3시, 오후 7시에<br>새로운 뉴스가 업데이트됩니다
                     </p>
                 </div>
             </div>
         </div>
     `;
-    
-    // 카운트다운 타이머 시작
-    startCountdown(hoursLeft, minutesLeft);
 }
 
 /**
@@ -1944,11 +1910,11 @@ async function tryLoadNewsData(dateStr, crawlTime = null) {
 function updateHomeDateLabel(dateStr, isYesterday) {
     const homeHeader = document.querySelector('.home-header h1');
     const homeSubtitle = document.querySelector('.home-subtitle');
-    
+
     if (isYesterday) {
         const [year, month, day] = dateStr.split('-');
         homeHeader.textContent = `📰 ${month}월 ${day}일의 뉴스`;
-        homeSubtitle.textContent = '오늘의 뉴스는 오전 9시 이후 업데이트됩니다';
+        homeSubtitle.textContent = '기사가 아직 업데이트 되지 않았습니다';
         homeSubtitle.style.color = 'var(--accent-color)';
     } else {
         homeHeader.textContent = '📰 오늘의 뉴스';
@@ -1975,105 +1941,40 @@ function showNoDataMessage() {
 }
 
 /**
- * 데이터 없을 때 이전 시간대 보기 버튼과 함께 메시지 표시
+ * 데이터 없을 때 메시지 표시
  */
 function showNoDataWithRetryButton(currentCrawlTime) {
     const container = document.getElementById('newspaper-comparison-grid');
-    const previousTime = getPreviousCrawlTime(currentCrawlTime);
 
     // 헤더 업데이트
     const homeHeader = document.querySelector('.home-header h1');
     const homeSubtitle = document.querySelector('.home-subtitle');
 
-    homeHeader.textContent = '⏰ 해당 시간대 기사가 아직 없습니다';
-    homeSubtitle.textContent = '최신 뉴스가 곧 업데이트될 예정입니다';
+    homeHeader.textContent = '⏰ 업데이트 대기중';
+    homeSubtitle.textContent = '기사가 아직 업데이트 되지 않았습니다';
     homeSubtitle.style.color = 'var(--accent-color)';
 
-    // 현재 시간대 한글 표시
-    const timeLabels = {
-        '09-20': '오전 9시',
-        '15-00': '오후 3시',
-        '19-00': '오후 7시'
-    };
-
-    const currentTimeLabel = timeLabels[currentCrawlTime] || currentCrawlTime;
-
-    // 이전 시간대가 있으면 버튼 표시, 없으면 일반 메시지
-    if (previousTime) {
-        const previousTimeLabel = timeLabels[previousTime] || previousTime;
-
-        container.innerHTML = `
-            <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 2rem;">
-                <div style="background: var(--bg-light); border-radius: 16px; padding: 3rem; max-width: 600px; margin: 0 auto; border: 2px dashed var(--border-color);">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin: 0 auto 1.5rem; color: var(--secondary-color);">
-                        <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
-                        <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
-                    </svg>
-                    <h2 style="color: var(--text-primary); margin-bottom: 1rem; font-size: 1.8rem;">📰 ${currentTimeLabel} 업데이트 대기 중</h2>
-                    <p style="color: var(--text-secondary); font-size: 1.1rem; line-height: 1.8; margin-bottom: 2rem;">
-                        ${currentTimeLabel} 기사가 아직 업데이트되지 않았습니다.<br>
-                        잠시 후 다시 확인하거나 이전 시간대의 뉴스를 확인해보세요.
+    // 단순 메시지 표시
+    container.innerHTML = `
+        <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 2rem;">
+            <div style="background: var(--bg-light); border-radius: 16px; padding: 3rem; max-width: 600px; margin: 0 auto; border: 2px dashed var(--border-color);">
+                <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin: 0 auto 1.5rem; color: var(--secondary-color);">
+                    <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                    <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                </svg>
+                <h2 style="color: var(--text-primary); margin-bottom: 1rem; font-size: 1.8rem;">📰 업데이트 대기중</h2>
+                <p style="color: var(--text-secondary); font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
+                    기사가 아직 업데이트 되지 않았습니다.<br>
+                    잠시 후 다시 확인해주세요.
+                </p>
+                <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
+                    <p style="color: var(--text-secondary); font-size: 0.95rem;">
+                        💡 매일 오전 9시, 오후 3시, 오후 7시에<br>새로운 뉴스가 업데이트됩니다
                     </p>
-                    <button
-                        id="load-previous-time-btn"
-                        data-crawl-time="${previousTime}"
-                        style="
-                            background: var(--secondary-color);
-                            color: white;
-                            border: none;
-                            padding: 1rem 2rem;
-                            border-radius: 12px;
-                            font-size: 1.1rem;
-                            font-weight: 600;
-                            cursor: pointer;
-                            transition: all 0.3s ease;
-                            box-shadow: 0 4px 12px rgba(0, 122, 255, 0.3);
-                        "
-                        onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(0, 122, 255, 0.4)';"
-                        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0, 122, 255, 0.3)';"
-                    >
-                        📋 ${previousTimeLabel} 뉴스 보기
-                    </button>
-                    <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
-                        <p style="color: var(--text-secondary); font-size: 0.95rem;">
-                            💡 매일 오전 9시, 오후 3시, 오후 7시에<br>새로운 뉴스가 업데이트됩니다
-                        </p>
-                    </div>
                 </div>
             </div>
-        `;
-
-        // 버튼 이벤트 리스너 추가
-        const loadPreviousBtn = document.getElementById('load-previous-time-btn');
-        if (loadPreviousBtn) {
-            loadPreviousBtn.addEventListener('click', function() {
-                const previousCrawlTime = this.getAttribute('data-crawl-time');
-                loadHomeDashboardWithTime(previousCrawlTime);
-            });
-        }
-    } else {
-        // 이전 시간대가 없는 경우 (09-20 시간대)
-        container.innerHTML = `
-            <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 2rem;">
-                <div style="background: var(--bg-light); border-radius: 16px; padding: 3rem; max-width: 600px; margin: 0 auto; border: 2px dashed var(--border-color);">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin: 0 auto 1.5rem; color: var(--secondary-color);">
-                        <circle cx="12" cy="12" r="10"></circle>
-                        <polyline points="12 6 12 12 16 14"></polyline>
-                    </svg>
-                    <h2 style="color: var(--text-primary); margin-bottom: 1rem; font-size: 1.8rem;">📰 ${currentTimeLabel} 업데이트 대기 중</h2>
-                    <p style="color: var(--text-secondary); font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
-                        오늘 첫 번째 뉴스 업데이트가 아직 진행되지 않았습니다.<br>
-                        잠시 후 다시 확인해주세요.
-                    </p>
-                    <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
-                        <p style="color: var(--text-secondary); font-size: 0.95rem;">
-                            💡 그동안 카테고리를 클릭하여<br>어제의 뉴스를 확인할 수 있습니다
-                        </p>
-                    </div>
-                </div>
-            </div>
-        `;
-    }
+        </div>
+    `;
 }
 
 /**
@@ -2101,21 +2002,11 @@ function renderNewspaperComparison(newspaperNews, currentCrawlTime = null) {
         'culture': '문화'
     };
 
-    const timeLabels = {
-        '09-20': '오전 9시',
-        '15-00': '오후 3시',
-        '19-00': '오후 7시'
-    };
-
     container.innerHTML = Object.keys(newspaperNews).map(source => {
         const articles = newspaperNews[source];
 
-        // 데이터가 없는 경우 메시지와 버튼 표시
+        // 데이터가 없는 경우 메시지 표시
         if (articles.length === 0) {
-            const previousTime = currentCrawlTime ? getPreviousCrawlTime(currentCrawlTime) : null;
-            const currentTimeLabel = timeLabels[currentCrawlTime] || currentCrawlTime || '현재 시간대';
-            const previousTimeLabel = timeLabels[previousTime] || previousTime;
-
             return `
                 <div class="comparison-column">
                     <div class="comparison-header">
@@ -2127,35 +2018,9 @@ function renderNewspaperComparison(newspaperNews, currentCrawlTime = null) {
                             <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
                             <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
                         </svg>
-                        <p style="color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 1rem;">
-                            ${currentTimeLabel}<br>최신 기사가 없습니다.
+                        <p style="color: var(--text-secondary); font-size: 0.9rem;">
+                            업데이트 대기중
                         </p>
-                        ${previousTime ? `
-                            <button
-                                class="load-source-previous-btn"
-                                data-source="${source}"
-                                data-crawl-time="${previousTime}"
-                                style="
-                                    background: var(--secondary-color);
-                                    color: white;
-                                    border: none;
-                                    padding: 0.6rem 1.2rem;
-                                    border-radius: 8px;
-                                    font-size: 0.85rem;
-                                    font-weight: 600;
-                                    cursor: pointer;
-                                    transition: all 0.3s ease;
-                                "
-                                onmouseover="this.style.opacity='0.9'; this.style.transform='translateY(-1px)';"
-                                onmouseout="this.style.opacity='1'; this.style.transform='translateY(0)';"
-                            >
-                                📋 ${previousTimeLabel} 보기
-                            </button>
-                        ` : `
-                            <p style="color: var(--text-secondary); font-size: 0.8rem; font-style: italic;">
-                                첫 업데이트를 기다리는 중...
-                            </p>
-                        `}
                     </div>
                 </div>
             `;
