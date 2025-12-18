@@ -1,219 +1,219 @@
 {
   "date": "2025-12-18",
-  "generated_at": "2025-12-18T15:38:42.208316+09:00",
+  "generated_at": "2025-12-18T19:11:36.188730+09:00",
   "daily_top_keywords": [
     {
       "word": "대통령",
-      "count": 4
-    },
-    {
-      "word": "나라",
-      "count": 4
+      "count": 8
     },
     {
       "word": "트럼프",
-      "count": 4
-    },
-    {
-      "word": "데뷔",
-      "count": 3
-    },
-    {
-      "word": "위한",
-      "count": 3
+      "count": 7
     },
     {
       "word": "한동훈",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "나라",
+      "count": 5
     },
     {
       "word": "국내",
-      "count": 3
-    },
-    {
-      "word": "자화자찬",
-      "count": 3
-    },
-    {
-      "word": "바이든이",
-      "count": 3
-    },
-    {
-      "word": "살렸다",
-      "count": 3
-    },
-    {
-      "word": "아들",
-      "count": 2
-    },
-    {
-      "word": "아냐",
-      "count": 2
-    },
-    {
-      "word": "체결",
-      "count": 2
-    },
-    {
-      "word": "사과",
-      "count": 2
-    },
-    {
-      "word": "통일교",
-      "count": 2
+      "count": 5
     },
     {
       "word": "흑백요리사",
-      "count": 2
+      "count": 4
     },
     {
       "word": "히든",
-      "count": 2
+      "count": 4
     },
     {
       "word": "정체",
-      "count": 2
+      "count": 4
     },
     {
       "word": "대전",
-      "count": 2
+      "count": 4
     },
     {
       "word": "충남",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "통합",
+      "count": 4
+    },
+    {
+      "word": "나왔다",
+      "count": 4
+    },
+    {
+      "word": "사고",
+      "count": 4
+    },
+    {
+      "word": "시신",
+      "count": 4
+    },
+    {
+      "word": "연속",
+      "count": 4
+    },
+    {
+      "word": "비트코인",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "자화자찬",
+      "count": 4
+    },
+    {
+      "word": "바이든이",
+      "count": 4
+    },
+    {
+      "word": "살렸다",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "한동훈",
-        "count": 3
+        "count": 6
       },
       {
         "word": "대전",
-        "count": 2
+        "count": 4
       },
       {
         "word": "충남",
-        "count": 2
+        "count": 4
       },
       {
         "word": "통합",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대통령",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
+      {
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "억원",
+        "count": 3
+      },
       {
         "word": "안세영",
         "count": 2
       },
       {
-        "word": "남자",
+        "word": "결승전서",
         "count": 2
       },
       {
-        "word": "데뷔",
+        "word": "유일한",
         "count": 2
-      },
-      {
-        "word": "경기시간",
-        "count": 1
-      },
-      {
-        "word": "월드투어파이널",
-        "count": 1
       }
     ],
     "economy": [
       {
         "word": "국내",
-        "count": 3
+        "count": 5
       },
       {
         "word": "비트코인",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "연속",
+        "count": 3
       },
       {
         "word": "폭증하는",
-        "count": 1
+        "count": 2
       },
       {
         "word": "위성",
-        "count": 1
-      },
-      {
-        "word": "충돌",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "사고",
-        "count": 2
-      },
-      {
-        "word": "심정지",
-        "count": 2
-      },
-      {
-        "word": "징역",
-        "count": 2
+        "count": 4
       },
       {
         "word": "헌재",
-        "count": 1
+        "count": 3
       },
       {
         "word": "조지호",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "파면",
+        "count": 3
+      },
+      {
+        "word": "심정지",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
+        "count": 7
       },
       {
         "word": "자화자찬",
-        "count": 3
+        "count": 4
       },
       {
         "word": "바이든이",
-        "count": 3
+        "count": 4
       },
       {
         "word": "나라",
-        "count": 3
+        "count": 4
       },
       {
         "word": "살렸다",
-        "count": 3
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "흑백요리사",
-        "count": 2
+        "count": 4
       },
       {
         "word": "히든",
-        "count": 2
+        "count": 4
       },
       {
         "word": "듀스",
-        "count": 1
-      },
-      {
-        "word": "이현도",
-        "count": 1
+        "count": 3
       },
       {
         "word": "김성재",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "이현도",
+        "count": 2
       }
     ]
   }
