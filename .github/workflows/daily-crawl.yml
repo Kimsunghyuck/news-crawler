@@ -17,6 +17,9 @@ jobs:
     steps:
     - name: 📥 코드 체크아웃
       uses: actions/checkout@v4
+      with:
+        ref: main
+        fetch-depth: 0
       
     - name: 🐍 Python 설정
       uses: actions/setup-python@v5
@@ -83,21 +86,40 @@ jobs:
           git commit -m "🤖 자동 크롤링 (6개 카테고리 + 트렌드): $(TZ='Asia/Seoul' date +'%Y-%m-%d %H:%M:%S KST')"
 
           # Push with retry logic (handles concurrent workflow runs)
-          MAX_RETRIES=3
+          MAX_RETRIES=5
           RETRY_COUNT=0
+
           while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
-            if git push; then
-              echo "✅ 변경사항이 커밋되고 푸시되었습니다."
-              break
+            echo "📤 Push 시도 중... (시도 $((RETRY_COUNT + 1))/$MAX_RETRIES)"
+
+            if git push origin main; then
+              echo "✅ 변경사항이 성공적으로 푸시되었습니다."
+              exit 0
             else
               RETRY_COUNT=$((RETRY_COUNT + 1))
-              echo "⚠️ Push 실패. Rebase 후 재시도 중... ($RETRY_COUNT/$MAX_RETRIES)"
-              git pull --rebase origin main
+
               if [ $RETRY_COUNT -eq $MAX_RETRIES ]; then
                 echo "❌ $MAX_RETRIES 번 시도 후 실패했습니다."
                 exit 1
               fi
-              sleep 5
+
+              echo "⚠️ Push 실패. 리모트 변경사항 가져오는 중... ($RETRY_COUNT/$MAX_RETRIES)"
+
+              # Fetch latest changes
+              git fetch origin main
+
+              # Rebase with conflict detection
+              if git rebase origin/main; then
+                echo "✅ Rebase 성공. 다시 push 시도합니다."
+              else
+                echo "⚠️ Rebase 충돌 발생. Abort 후 재시도합니다."
+                git rebase --abort
+                # Force update local branch to match remote, then reapply our commit
+                git reset --soft origin/main
+                git commit -m "🤖 자동 크롤링 (6개 카테고리 + 트렌드): $(TZ='Asia/Seoul' date +'%Y-%m-%d %H:%M:%S KST')"
+              fi
+
+              sleep 10
             fi
           done
         else
