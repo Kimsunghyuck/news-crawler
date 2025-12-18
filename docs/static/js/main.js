@@ -30,6 +30,49 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 /**
+ * 선택된 날짜에 사용 가능한 크롤링 시간대 반환
+ * @param {string} selectedDate - YYYY-MM-DD 형식의 날짜
+ * @returns {Array<string>} 사용 가능한 시간대 배열 ['09-00', '15-00', '19-00']
+ */
+function getAvailableCrawlTimes(selectedDate) {
+    const now = new Date();
+    const selected = new Date(selectedDate);
+
+    // 선택된 날짜가 오늘보다 이전이면 모든 시간대 시도
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    selected.setHours(0, 0, 0, 0);
+
+    if (selected < today) {
+        return ['09-00', '15-00', '19-00'];
+    }
+
+    // 오늘 날짜인 경우, 현재 시간 기준으로 판단 (KST)
+    const hour = now.getHours();
+    const minute = now.getMinutes();
+    const currentTime = hour * 60 + minute;
+
+    const availableTimes = [];
+
+    // 09:00 이후
+    if (currentTime >= 9 * 60) {
+        availableTimes.push('09-00');
+    }
+
+    // 15:00 이후
+    if (currentTime >= 15 * 60) {
+        availableTimes.push('15-00');
+    }
+
+    // 19:00 이후
+    if (currentTime >= 19 * 60) {
+        availableTimes.push('19-00');
+    }
+
+    return availableTimes;
+}
+
+/**
  * 뉴스 데이터 존재 여부 확인
  */
 async function checkNewsDataExists(dateStr, crawlTime) {
@@ -311,8 +354,8 @@ async function loadNews(category, source, date) {
     gridEl.innerHTML = '';
 
     try {
-        // 3개 시간대 데이터 모두 로드
-        const times = ['09-20', '15-00', '19-00'];
+        // 현재 시간 기준으로 사용 가능한 시간대만 로드
+        const times = getAvailableCrawlTimes(date);
         let allNews = [];
 
         for (const time of times) {
@@ -965,11 +1008,11 @@ async function initNewsTicker(date) {
         international: '국제',
         culture: '문화'
     };
-    
+
     let allNews = [];
 
-    // 모든 카테고리와 소스에서 뉴스 수집 (3개 시간대 모두)
-    const times = ['09-20', '15-00', '19-00'];
+    // 현재 시간 기준으로 사용 가능한 시간대만 로드
+    const times = getAvailableCrawlTimes(date);
 
     for (const category of categories) {
         for (const source of sources) {
@@ -1308,13 +1351,13 @@ async function loadStatisticsData(date) {
 async function collectDailyStats(date) {
     const categories = ['politics', 'sports', 'economy', 'society', 'international', 'culture'];
     const sources = ['donga', 'chosun', 'joongang'];
-    
+
     const categoryData = {};
     const sourceData = {};
     let totalArticles = 0;
-    
-    // 카테고리별 데이터 수집 (3개 시간대 모두, 중복 제거)
-    const times = ['09-20', '15-00', '19-00'];
+
+    // 현재 시간 기준으로 사용 가능한 시간대만 로드
+    const times = getAvailableCrawlTimes(date);
 
     for (const category of categories) {
         let categoryNews = [];
@@ -1844,7 +1887,7 @@ async function tryLoadNewsData(dateStr, crawlTime = null) {
         crawlTime = getLatestCrawlTime();
     }
 
-    // 예시: news_2025-12-05_09-20.json
+    // 예시: news_2025-12-05_09-00.json
     const fileName = `news_${dateStr}_${crawlTime}.json`;
     // 실제 경로: docs/data/{category}/{source}/news_{date}_{crawlTime}.json
 
@@ -2067,7 +2110,7 @@ function getLatestCrawlTime() {
         // 9:20 이전: 전날 마지막 데이터 사용 (별도 처리 필요)
         return '19-00';
     } else if (hour < 15 || (hour === 15 && minute < 0)) {
-        return '09-20';
+        return '09-00';
     } else if (hour < 19 || (hour === 19 && minute < 0)) {
         return '15-00';
     } else {
@@ -2079,10 +2122,10 @@ function getLatestCrawlTime() {
  * 이전 크롤링 시간대 구하기
  */
 function getPreviousCrawlTime(currentTime) {
-    const times = ['09-20', '15-00', '19-00'];
+    const times = ['09-00', '15-00', '19-00'];
     const currentIndex = times.indexOf(currentTime);
 
-    // 첫 번째 시간대(09-20)인 경우 이전 시간대 없음
+    // 첫 번째 시간대(09-00)인 경우 이전 시간대 없음
     if (currentIndex <= 0) {
         return null;
     }

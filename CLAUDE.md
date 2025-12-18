@@ -24,7 +24,7 @@ Hyeok News Crawler is a multi-source Korean news aggregation system that:
    → Save to data/{category}/{source}/news_{date}_{time}.json
 
 2. ANALYZE (analyzer.py)
-   → Load all 3 time periods: 09-20, 15-00, 19-00
+   → Load all 3 time periods: 09-00, 15-00, 19-00
    → Extract Korean keywords from titles (regex-based)
    → Remove stopwords, count frequencies
    → Save to docs/data/trends/trends_{date}.json
@@ -45,8 +45,8 @@ Hyeok News Crawler is a multi-source Korean news aggregation system that:
 ### Critical Technical Decisions
 
 **1. Timestamped File System (v7.0 change)**
-- Files named: `news_2025-12-09_09-20.json` (date + time)
-- 3 crawl times: 09:20, 15:00, 19:00 KST
+- Files named: `news_2025-12-09_09-00.json` (date + time)
+- 3 crawl times: 09:00, 15:00, 19:00 KST
 - Frontend loads all 3 files and deduplicates by URL
 
 **2. Korean Standard Time (KST)**
@@ -117,7 +117,7 @@ git push
 ## GitHub Actions Workflows
 
 ### daily-crawl.yml (Production)
-- **Schedule**: 3x daily (09:20, 15:00, 19:00 KST via cron)
+- **Schedule**: 3x daily (09:00, 15:00, 19:00 KST via cron)
 - **Steps**:
   1. Checkout code
   2. Install Python dependencies

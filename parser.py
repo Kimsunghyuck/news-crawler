@@ -22,24 +22,23 @@ def get_crawl_time_str():
     파일명에 사용되는 형식: HH-MM
 
     크롤링 시간대:
-    - 09:20 KST (GitHub Actions cron: '20 0 * * *')
+    - 09:00 KST (GitHub Actions cron: '0 0 * * *')
     - 15:00 KST (GitHub Actions cron: '0 6 * * *')
     - 19:00 KST (GitHub Actions cron: '0 10 * * *')
 
     Returns:
-        시간 문자열 (예: "09-20", "15-00", "19-00")
+        시간 문자열 (예: "09-00", "15-00", "19-00")
     """
     now = get_kst_now()
     hour = now.hour
-    minute = now.minute
 
     # 크롤링 시간대에 따라 고정된 시간 반환
-    if hour < 9 or (hour == 9 and minute < 20):
-        # 9:20 이전: 전날 19:00 시간대 (별도 처리 필요)
+    if hour < 9:
+        # 9:00 이전: 전날 19:00 시간대 (별도 처리 필요)
         return '19-00'
     elif hour < 15:
-        # 9:20 ~ 15:00: 오전 시간대
-        return '09-20'
+        # 9:00 ~ 15:00: 오전 시간대
+        return '09-00'
     elif hour < 19:
         # 15:00 ~ 19:00: 오후 시간대
         return '15-00'
