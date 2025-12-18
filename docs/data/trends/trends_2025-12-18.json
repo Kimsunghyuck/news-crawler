@@ -1,134 +1,142 @@
 {
   "date": "2025-12-18",
-  "generated_at": "2025-12-18T09:32:16.820131+09:00",
+  "generated_at": "2025-12-18T15:38:42.208316+09:00",
   "daily_top_keywords": [
     {
       "word": "대통령",
-      "count": 5
+      "count": 4
     },
     {
-      "word": "통일교",
-      "count": 5
-    },
-    {
-      "word": "아들",
-      "count": 3
+      "word": "나라",
+      "count": 4
     },
     {
       "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "데뷔",
       "count": 3
     },
     {
-      "word": "남자",
+      "word": "위한",
       "count": 3
     },
     {
-      "word": "에이핑크",
+      "word": "한동훈",
+      "count": 3
+    },
+    {
+      "word": "국내",
+      "count": 3
+    },
+    {
+      "word": "자화자찬",
+      "count": 3
+    },
+    {
+      "word": "바이든이",
+      "count": 3
+    },
+    {
+      "word": "살렸다",
+      "count": 3
+    },
+    {
+      "word": "아들",
       "count": 2
     },
     {
-      "word": "결혼",
+      "word": "아냐",
       "count": 2
     },
     {
-      "word": "때도",
+      "word": "체결",
       "count": 2
     },
     {
-      "word": "이미",
+      "word": "사과",
       "count": 2
     },
     {
-      "word": "사람",
+      "word": "통일교",
       "count": 2
     },
     {
-      "word": "정부",
+      "word": "흑백요리사",
       "count": 2
     },
     {
-      "word": "자주",
+      "word": "히든",
       "count": 2
     },
     {
-      "word": "동맹파",
+      "word": "정체",
       "count": 2
     },
     {
-      "word": "도둑놈",
+      "word": "대전",
       "count": 2
     },
     {
-      "word": "심보",
-      "count": 2
-    },
-    {
-      "word": "구입",
-      "count": 2
-    },
-    {
-      "word": "전재수",
-      "count": 2
-    },
-    {
-      "word": "출판사",
-      "count": 2
-    },
-    {
-      "word": "통한",
-      "count": 2
-    },
-    {
-      "word": "대통령실",
+      "word": "충남",
       "count": 2
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "한동훈",
+        "count": 3
+      },
+      {
+        "word": "대전",
+        "count": 2
+      },
+      {
+        "word": "충남",
+        "count": 2
+      },
+      {
+        "word": "통합",
+        "count": 2
+      },
+      {
         "word": "대통령",
-        "count": 4
-      },
-      {
-        "word": "자주",
-        "count": 2
-      },
-      {
-        "word": "동맹파",
-        "count": 2
-      },
-      {
-        "word": "도둑놈",
-        "count": 2
-      },
-      {
-        "word": "심보",
         "count": 2
       }
     ],
     "sports": [
       {
+        "word": "안세영",
+        "count": 2
+      },
+      {
         "word": "남자",
-        "count": 3
-      },
-      {
-        "word": "논란에",
         "count": 2
       },
       {
-        "word": "한국",
+        "word": "데뷔",
         "count": 2
       },
       {
-        "word": "스포츠",
-        "count": 2
+        "word": "경기시간",
+        "count": 1
       },
       {
-        "word": "단신",
-        "count": 2
+        "word": "월드투어파이널",
+        "count": 1
       }
     ],
     "economy": [
+      {
+        "word": "국내",
+        "count": 3
+      },
+      {
+        "word": "비트코인",
+        "count": 2
+      },
       {
         "word": "폭증하는",
         "count": 1
@@ -140,79 +148,71 @@
       {
         "word": "충돌",
         "count": 1
-      },
-      {
-        "word": "시계",
-        "count": 1
-      },
-      {
-        "word": "일로",
-        "count": 1
       }
     ],
     "society": [
       {
-        "word": "통일교",
+        "word": "사고",
         "count": 2
       },
       {
-        "word": "죽은",
+        "word": "심정지",
         "count": 2
       },
       {
-        "word": "청탁",
+        "word": "징역",
+        "count": 2
+      },
+      {
+        "word": "헌재",
         "count": 1
       },
       {
-        "word": "정치인은",
-        "count": 1
-      },
-      {
-        "word": "신도",
+        "word": "조지호",
         "count": 1
       }
     ],
     "international": [
       {
-        "word": "하원",
-        "count": 2
-      },
-      {
-        "word": "견제",
-        "count": 2
-      },
-      {
         "word": "트럼프",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "국방수권법안",
-        "count": 1
+        "word": "자화자찬",
+        "count": 3
       },
       {
-        "word": "통과주한미군",
-        "count": 1
+        "word": "바이든이",
+        "count": 3
+      },
+      {
+        "word": "나라",
+        "count": 3
+      },
+      {
+        "word": "살렸다",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "에이핑크",
+        "word": "흑백요리사",
         "count": 2
       },
       {
-        "word": "결혼",
+        "word": "히든",
         "count": 2
       },
       {
-        "word": "때도",
-        "count": 2
-      },
-      {
-        "word": "만난",
+        "word": "듀스",
         "count": 1
       },
       {
-        "word": "프로듀서와",
+        "word": "이현도",
+        "count": 1
+      },
+      {
+        "word": "김성재",
         "count": 1
       }
     ]
