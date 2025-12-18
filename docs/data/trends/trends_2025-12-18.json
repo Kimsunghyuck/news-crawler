@@ -1,0 +1,220 @@
+{
+  "date": "2025-12-18",
+  "generated_at": "2025-12-18T09:32:16.820131+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "통일교",
+      "count": 5
+    },
+    {
+      "word": "아들",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "에이핑크",
+      "count": 2
+    },
+    {
+      "word": "결혼",
+      "count": 2
+    },
+    {
+      "word": "때도",
+      "count": 2
+    },
+    {
+      "word": "이미",
+      "count": 2
+    },
+    {
+      "word": "사람",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    },
+    {
+      "word": "자주",
+      "count": 2
+    },
+    {
+      "word": "동맹파",
+      "count": 2
+    },
+    {
+      "word": "도둑놈",
+      "count": 2
+    },
+    {
+      "word": "심보",
+      "count": 2
+    },
+    {
+      "word": "구입",
+      "count": 2
+    },
+    {
+      "word": "전재수",
+      "count": 2
+    },
+    {
+      "word": "출판사",
+      "count": 2
+    },
+    {
+      "word": "통한",
+      "count": 2
+    },
+    {
+      "word": "대통령실",
+      "count": 2
+    }
+  ],
+  "category_keywords": {
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 4
+      },
+      {
+        "word": "자주",
+        "count": 2
+      },
+      {
+        "word": "동맹파",
+        "count": 2
+      },
+      {
+        "word": "도둑놈",
+        "count": 2
+      },
+      {
+        "word": "심보",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 3
+      },
+      {
+        "word": "논란에",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "스포츠",
+        "count": 2
+      },
+      {
+        "word": "단신",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "폭증하는",
+        "count": 1
+      },
+      {
+        "word": "위성",
+        "count": 1
+      },
+      {
+        "word": "충돌",
+        "count": 1
+      },
+      {
+        "word": "시계",
+        "count": 1
+      },
+      {
+        "word": "일로",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "통일교",
+        "count": 2
+      },
+      {
+        "word": "죽은",
+        "count": 2
+      },
+      {
+        "word": "청탁",
+        "count": 1
+      },
+      {
+        "word": "정치인은",
+        "count": 1
+      },
+      {
+        "word": "신도",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "하원",
+        "count": 2
+      },
+      {
+        "word": "견제",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "국방수권법안",
+        "count": 1
+      },
+      {
+        "word": "통과주한미군",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "에이핑크",
+        "count": 2
+      },
+      {
+        "word": "결혼",
+        "count": 2
+      },
+      {
+        "word": "때도",
+        "count": 2
+      },
+      {
+        "word": "만난",
+        "count": 1
+      },
+      {
+        "word": "프로듀서와",
+        "count": 1
+      }
+    ]
+  }
+}
