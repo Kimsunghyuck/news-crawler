@@ -108,6 +108,26 @@ resendLinkBtn.addEventListener('click', async () => {
     }
 });
 
+// Logout button event listener
+const logoutBtn = document.getElementById('logout-btn');
+if (logoutBtn) {
+    logoutBtn.addEventListener('click', async () => {
+        if (confirm('로그아웃 하시겠습니까?')) {
+            try {
+                await auth.signOut();
+                console.log('✅ User signed out successfully');
+                // Clear local storage
+                window.localStorage.removeItem('emailForSignIn');
+                // Reload page to show auth landing
+                window.location.reload();
+            } catch (error) {
+                console.error('❌ Sign out error:', error);
+                alert('로그아웃에 실패했습니다. 다시 시도해주세요.');
+            }
+        }
+    });
+}
+
 // Start cooldown timer for resend button
 function startResendCooldown() {
     resendLinkBtn.disabled = true;

@@ -122,22 +122,40 @@ function initDatePicker() {
 }
 
 /**
+ * 테마에 따라 툴팁 텍스트 업데이트
+ */
+function updateThemeTooltip() {
+    const themeToggle = document.getElementById('theme-toggle');
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+
+    // 현재 테마가 dark면 "라이트모드"로, light면 "다크모드"로 표시
+    const tooltipText = currentTheme === 'dark' ? '라이트모드' : '다크모드';
+    themeToggle.setAttribute('data-tooltip', tooltipText);
+}
+
+/**
  * 다크모드 초기화 및 토글
  */
 function initTheme() {
     const themeToggle = document.getElementById('theme-toggle');
     const currentTheme = localStorage.getItem('theme') || 'light';
-    
+
     // 저장된 테마 적용
     document.documentElement.setAttribute('data-theme', currentTheme);
-    
+
+    // 초기 툴팁 설정
+    updateThemeTooltip();
+
     // 토글 버튼 클릭 이벤트
     themeToggle.addEventListener('click', function() {
         const currentTheme = document.documentElement.getAttribute('data-theme');
         const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-        
+
         document.documentElement.setAttribute('data-theme', newTheme);
         localStorage.setItem('theme', newTheme);
+
+        // 툴팁 텍스트 업데이트
+        updateThemeTooltip();
     });
 }
 
