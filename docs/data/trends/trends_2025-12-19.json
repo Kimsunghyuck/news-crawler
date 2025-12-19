@@ -1,13 +1,220 @@
 {
   "date": "2025-12-19",
-  "generated_at": "2025-12-19T09:36:47.645608+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2025-12-19T15:10:25.610023+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "윤석화",
+      "count": 4
+    },
+    {
+      "word": "별세",
+      "count": 4
+    },
+    {
+      "word": "강도",
+      "count": 3
+    },
+    {
+      "word": "사과",
+      "count": 3
+    },
+    {
+      "word": "빨갱이",
+      "count": 3
+    },
+    {
+      "word": "노동신문",
+      "count": 3
+    },
+    {
+      "word": "막나",
+      "count": 3
+    },
+    {
+      "word": "수준",
+      "count": 3
+    },
+    {
+      "word": "수사",
+      "count": 3
+    },
+    {
+      "word": "불법",
+      "count": 2
+    },
+    {
+      "word": "시술",
+      "count": 2
+    },
+    {
+      "word": "신의",
+      "count": 2
+    },
+    {
+      "word": "세대",
+      "count": 2
+    },
+    {
+      "word": "이름",
+      "count": 2
+    },
+    {
+      "word": "마약",
+      "count": 2
+    },
+    {
+      "word": "대기업",
+      "count": 2
+    },
+    {
+      "word": "망친",
+      "count": 2
+    },
+    {
+      "word": "사실",
+      "count": 2
+    },
+    {
+      "word": "연극배우협회",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "빨갱이",
+        "count": 3
+      },
+      {
+        "word": "노동신문",
+        "count": 3
+      },
+      {
+        "word": "막나",
+        "count": 3
+      },
+      {
+        "word": "대법",
+        "count": 2
+      },
+      {
+        "word": "내란재판부",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "황재균",
+        "count": 2
+      },
+      {
+        "word": "프로",
+        "count": 2
+      },
+      {
+        "word": "우승",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "역전승",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "매수",
+        "count": 2
+      },
+      {
+        "word": "이자",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "대공황",
+        "count": 2
+      },
+      {
+        "word": "비트코인",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "수사",
+        "count": 3
+      },
+      {
+        "word": "의혹",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 2
+      },
+      {
+        "word": "운세",
+        "count": 2
+      },
+      {
+        "word": "전재수",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "불륜",
+        "count": 2
+      },
+      {
+        "word": "심경",
+        "count": 2
+      },
+      {
+        "word": "살해",
+        "count": 2
+      },
+      {
+        "word": "협박",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "윤석화",
+        "count": 4
+      },
+      {
+        "word": "별세",
+        "count": 4
+      },
+      {
+        "word": "신의",
+        "count": 2
+      },
+      {
+        "word": "세대",
+        "count": 2
+      },
+      {
+        "word": "사실",
+        "count": 2
+      }
+    ]
   }
 }
