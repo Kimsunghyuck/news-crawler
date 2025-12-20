@@ -1,219 +1,219 @@
 {
   "date": "2025-12-20",
-  "generated_at": "2025-12-20T15:09:45.667473+09:00",
+  "generated_at": "2025-12-20T19:11:48.151013+09:00",
   "daily_top_keywords": [
     {
       "word": "만에",
-      "count": 5
-    },
-    {
-      "word": "윤석화",
-      "count": 3
-    },
-    {
-      "word": "억원",
-      "count": 3
+      "count": 9
     },
     {
       "word": "통일교",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "대폭",
-      "count": 3
+      "word": "윤석화",
+      "count": 6
     },
     {
-      "word": "백해룡",
-      "count": 3
-    },
-    {
-      "word": "무슨",
-      "count": 2
-    },
-    {
-      "word": "흑백요리사",
-      "count": 2
-    },
-    {
-      "word": "김현정",
-      "count": 2
-    },
-    {
-      "word": "뉴스쇼",
-      "count": 2
-    },
-    {
-      "word": "하차",
-      "count": 2
-    },
-    {
-      "word": "후임은",
-      "count": 2
-    },
-    {
-      "word": "박성태",
-      "count": 2
-    },
-    {
-      "word": "앵커",
-      "count": 2
+      "word": "억원",
+      "count": 6
     },
     {
       "word": "신민아",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "김우빈",
-      "count": 2
-    },
-    {
-      "word": "기부",
-      "count": 2
+      "word": "대폭",
+      "count": 5
     },
     {
       "word": "선행",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "아무도",
-      "count": 2
+      "word": "기부",
+      "count": 4
     },
     {
-      "word": "받는다",
-      "count": 2
+      "word": "김현정",
+      "count": 4
+    },
+    {
+      "word": "뉴스쇼",
+      "count": 4
+    },
+    {
+      "word": "하차",
+      "count": 4
+    },
+    {
+      "word": "후임은",
+      "count": 4
+    },
+    {
+      "word": "박성태",
+      "count": 4
+    },
+    {
+      "word": "앵커",
+      "count": 4
+    },
+    {
+      "word": "김우빈",
+      "count": 4
+    },
+    {
+      "word": "부부",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "장관",
+      "count": 4
+    },
+    {
+      "word": "백해룡",
+      "count": 4
+    },
+    {
+      "word": "억달러",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "연내",
-        "count": 2
-      },
-      {
-        "word": "처리",
-        "count": 2
-      },
-      {
-        "word": "위헌적",
-        "count": 2
-      },
-      {
-        "word": "꼼수",
-        "count": 2
+        "word": "통일교",
+        "count": 5
       },
       {
         "word": "대통령",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "연내",
+        "count": 3
+      },
+      {
+        "word": "처리",
+        "count": 3
+      },
+      {
+        "word": "위헌적",
+        "count": 3
       }
     ],
     "sports": [
       {
+        "word": "남자",
+        "count": 4
+      },
+      {
         "word": "연속",
-        "count": 2
+        "count": 3
       },
       {
         "word": "송성문",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "좋은",
-        "count": 2
+        "word": "억원",
+        "count": 3
       },
       {
-        "word": "남자",
-        "count": 2
-      },
-      {
-        "word": "안세영",
-        "count": 2
+        "word": "역전승",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "억달러",
-        "count": 2
+        "count": 4
       },
       {
         "word": "필요",
-        "count": 2
+        "count": 4
       },
       {
         "word": "추락",
-        "count": 2
+        "count": 4
       },
       {
         "word": "오픈",
-        "count": 1
+        "count": 2
       },
       {
         "word": "조달",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "백해룡",
-        "count": 3
+        "count": 4
       },
       {
         "word": "기온",
+        "count": 3
+      },
+      {
+        "word": "내리는",
         "count": 2
       },
       {
-        "word": "합수단",
+        "word": "포근한",
         "count": 2
       },
       {
-        "word": "파견",
-        "count": 2
-      },
-      {
-        "word": "해제",
+        "word": "강풍과",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "엡스타인",
-        "count": 2
+        "count": 4
       },
       {
         "word": "클린턴이",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "동전",
-        "count": 2
+        "word": "주토피아",
+        "count": 4
       },
       {
-        "word": "던지려면",
-        "count": 2
+        "word": "충격",
+        "count": 4
       },
       {
-        "word": "트레비",
-        "count": 2
+        "word": "우크라",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "윤석화",
-        "count": 3
+        "count": 6
       },
       {
         "word": "만에",
-        "count": 3
-      },
-      {
-        "word": "흑백요리사",
-        "count": 2
+        "count": 6
       },
       {
         "word": "김현정",
-        "count": 2
+        "count": 4
       },
       {
         "word": "뉴스쇼",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "하차",
+        "count": 4
       }
     ]
   }
