@@ -1,158 +1,166 @@
 {
   "date": "2025-12-21",
-  "generated_at": "2025-12-21T15:09:47.597853+09:00",
+  "generated_at": "2025-12-21T19:11:23.197696+09:00",
   "daily_top_keywords": [
     {
+      "word": "당했다",
+      "count": 6
+    },
+    {
       "word": "통일교",
-      "count": 4
+      "count": 6
     },
     {
       "word": "국힘",
-      "count": 4
+      "count": 6
     },
     {
       "word": "한국",
-      "count": 4
+      "count": 6
     },
     {
       "word": "만원",
-      "count": 4
-    },
-    {
-      "word": "당했다",
-      "count": 3
-    },
-    {
-      "word": "개혁신당",
-      "count": 3
-    },
-    {
-      "word": "추천",
-      "count": 3
-    },
-    {
-      "word": "특검",
-      "count": 3
-    },
-    {
-      "word": "합의",
-      "count": 3
-    },
-    {
-      "word": "경찰",
-      "count": 3
-    },
-    {
-      "word": "의혹",
-      "count": 3
-    },
-    {
-      "word": "관광객",
-      "count": 3
-    },
-    {
-      "word": "달러",
-      "count": 3
+      "count": 6
     },
     {
       "word": "김우빈",
-      "count": 2
+      "count": 5
     },
     {
       "word": "신민아",
-      "count": 2
-    },
-    {
-      "word": "결혼식",
-      "count": 2
-    },
-    {
-      "word": "주례",
-      "count": 2
-    },
-    {
-      "word": "안돼",
-      "count": 2
-    },
-    {
-      "word": "윤석화",
-      "count": 2
+      "count": 5
     },
     {
       "word": "결혼",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "합의",
+      "count": 5
+    },
+    {
+      "word": "결혼식",
+      "count": 4
+    },
+    {
+      "word": "주례",
+      "count": 4
+    },
+    {
+      "word": "윤석화",
+      "count": 4
+    },
+    {
+      "word": "개혁신당",
+      "count": 4
+    },
+    {
+      "word": "추천",
+      "count": 4
+    },
+    {
+      "word": "특검",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "필요",
+      "count": 4
+    },
+    {
+      "word": "생존의",
+      "count": 4
+    },
+    {
+      "word": "문제",
+      "count": 4
+    },
+    {
+      "word": "탈모",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
-        "count": 4
+        "count": 5
+      },
+      {
+        "word": "합의",
+        "count": 5
       },
       {
         "word": "개혁신당",
-        "count": 3
+        "count": 4
       },
       {
         "word": "추천",
-        "count": 3
+        "count": 4
       },
       {
         "word": "통일교",
-        "count": 3
-      },
-      {
-        "word": "특검",
-        "count": 3
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대회",
-        "count": 2
+        "count": 4
       },
       {
         "word": "출전",
-        "count": 2
+        "count": 4
       },
       {
         "word": "배드민턴",
-        "count": 2
+        "count": 3
       },
       {
         "word": "안세영",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "억달러",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "정부",
+        "count": 3
+      },
+      {
+        "word": "은행들",
+        "count": 3
       },
       {
         "word": "달러",
-        "count": 2
+        "count": 3
       },
       {
         "word": "관세",
-        "count": 2
-      },
-      {
-        "word": "소비자위",
-        "count": 2
-      },
-      {
-        "word": "해킹",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "캄보디아",
+        "count": 4
+      },
+      {
+        "word": "정희원",
+        "count": 4
+      },
+      {
+        "word": "금품",
         "count": 2
       },
       {
@@ -160,60 +168,52 @@
         "count": 2
       },
       {
-        "word": "정희원",
+        "word": "검거",
         "count": 2
-      },
-      {
-        "word": "이부진",
-        "count": 1
-      },
-      {
-        "word": "아들",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "만원",
-        "count": 4
+        "count": 6
+      },
+      {
+        "word": "브라운대",
+        "count": 3
       },
       {
         "word": "관광객",
-        "count": 2
+        "count": 3
       },
       {
         "word": "숙박비",
-        "count": 2
+        "count": 3
       },
       {
         "word": "폭락",
-        "count": 2
-      },
-      {
-        "word": "머스크",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "김우빈",
-        "count": 2
+        "count": 5
       },
       {
         "word": "신민아",
-        "count": 2
+        "count": 5
       },
       {
         "word": "결혼식",
-        "count": 2
+        "count": 4
       },
       {
         "word": "주례",
-        "count": 2
+        "count": 4
       },
       {
         "word": "윤석화",
-        "count": 2
+        "count": 4
       }
     ]
   }
