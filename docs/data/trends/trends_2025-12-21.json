@@ -1,13 +1,220 @@
 {
   "date": "2025-12-21",
-  "generated_at": "2025-12-21T09:37:46.037849+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2025-12-21T15:09:47.597853+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "통일교",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "당했다",
+      "count": 3
+    },
+    {
+      "word": "개혁신당",
+      "count": 3
+    },
+    {
+      "word": "추천",
+      "count": 3
+    },
+    {
+      "word": "특검",
+      "count": 3
+    },
+    {
+      "word": "합의",
+      "count": 3
+    },
+    {
+      "word": "경찰",
+      "count": 3
+    },
+    {
+      "word": "의혹",
+      "count": 3
+    },
+    {
+      "word": "관광객",
+      "count": 3
+    },
+    {
+      "word": "달러",
+      "count": 3
+    },
+    {
+      "word": "김우빈",
+      "count": 2
+    },
+    {
+      "word": "신민아",
+      "count": 2
+    },
+    {
+      "word": "결혼식",
+      "count": 2
+    },
+    {
+      "word": "주례",
+      "count": 2
+    },
+    {
+      "word": "안돼",
+      "count": 2
+    },
+    {
+      "word": "윤석화",
+      "count": 2
+    },
+    {
+      "word": "결혼",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 4
+      },
+      {
+        "word": "개혁신당",
+        "count": 3
+      },
+      {
+        "word": "추천",
+        "count": 3
+      },
+      {
+        "word": "통일교",
+        "count": 3
+      },
+      {
+        "word": "특검",
+        "count": 3
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "대회",
+        "count": 2
+      },
+      {
+        "word": "출전",
+        "count": 2
+      },
+      {
+        "word": "배드민턴",
+        "count": 2
+      },
+      {
+        "word": "안세영",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "억달러",
+        "count": 2
+      },
+      {
+        "word": "달러",
+        "count": 2
+      },
+      {
+        "word": "관세",
+        "count": 2
+      },
+      {
+        "word": "소비자위",
+        "count": 2
+      },
+      {
+        "word": "해킹",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "캄보디아",
+        "count": 2
+      },
+      {
+        "word": "경찰",
+        "count": 2
+      },
+      {
+        "word": "정희원",
+        "count": 2
+      },
+      {
+        "word": "이부진",
+        "count": 1
+      },
+      {
+        "word": "아들",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "만원",
+        "count": 4
+      },
+      {
+        "word": "관광객",
+        "count": 2
+      },
+      {
+        "word": "숙박비",
+        "count": 2
+      },
+      {
+        "word": "폭락",
+        "count": 2
+      },
+      {
+        "word": "머스크",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "김우빈",
+        "count": 2
+      },
+      {
+        "word": "신민아",
+        "count": 2
+      },
+      {
+        "word": "결혼식",
+        "count": 2
+      },
+      {
+        "word": "주례",
+        "count": 2
+      },
+      {
+        "word": "윤석화",
+        "count": 2
+      }
+    ]
   }
 }
