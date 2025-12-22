@@ -1,13 +1,220 @@
 {
   "date": "2025-12-22",
-  "generated_at": "2025-12-22T09:36:07.244205+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2025-12-22T15:10:00.307552+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "통일교",
+      "count": 6
+    },
+    {
+      "word": "특검",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "없이",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "연속",
+      "count": 3
+    },
+    {
+      "word": "성탄",
+      "count": 2
+    },
+    {
+      "word": "맞아",
+      "count": 2
+    },
+    {
+      "word": "결혼식",
+      "count": 2
+    },
+    {
+      "word": "제작",
+      "count": 2
+    },
+    {
+      "word": "사진",
+      "count": 2
+    },
+    {
+      "word": "민주당",
+      "count": 2
+    },
+    {
+      "word": "제안",
+      "count": 2
+    },
+    {
+      "word": "여야",
+      "count": 2
+    },
+    {
+      "word": "예외",
+      "count": 2
+    },
+    {
+      "word": "모두",
+      "count": 2
+    },
+    {
+      "word": "포함",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    },
+    {
+      "word": "내란재판부법",
+      "count": 2
+    },
+    {
+      "word": "김건희특검",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "통일교",
+        "count": 4
+      },
+      {
+        "word": "특검",
+        "count": 4
+      },
+      {
+        "word": "민주당",
+        "count": 2
+      },
+      {
+        "word": "제안",
+        "count": 2
+      },
+      {
+        "word": "여야",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "대회",
+        "count": 2
+      },
+      {
+        "word": "동메달",
+        "count": 2
+      },
+      {
+        "word": "스키",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "재테크박람회",
+        "count": 1
+      },
+      {
+        "word": "투자",
+        "count": 1
+      },
+      {
+        "word": "고수들이",
+        "count": 1
+      },
+      {
+        "word": "말하는",
+        "count": 1
+      },
+      {
+        "word": "시장",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "협박",
+        "count": 2
+      },
+      {
+        "word": "한강버스",
+        "count": 2
+      },
+      {
+        "word": "권성동",
+        "count": 1
+      },
+      {
+        "word": "통일교",
+        "count": 1
+      },
+      {
+        "word": "문건",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "한국계",
+        "count": 1
+      },
+      {
+        "word": "우주비행사",
+        "count": 1
+      },
+      {
+        "word": "우주서",
+        "count": 1
+      },
+      {
+        "word": "김치",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "결혼식",
+        "count": 2
+      },
+      {
+        "word": "캐셔로",
+        "count": 1
+      },
+      {
+        "word": "이준호에게",
+        "count": 1
+      },
+      {
+        "word": "채민이란",
+        "count": 1
+      },
+      {
+        "word": "빌런의",
+        "count": 1
+      }
+    ]
   }
 }
