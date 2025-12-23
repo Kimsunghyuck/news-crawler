@@ -1,9 +1,61 @@
 {
   "date": "2025-12-23",
-  "generated_at": "2025-12-23T15:11:28.747989+09:00",
+  "generated_at": "2025-12-23T19:12:45.687949+09:00",
   "daily_top_keywords": [
     {
       "word": "이준석",
+      "count": 7
+    },
+    {
+      "word": "만원",
+      "count": 6
+    },
+    {
+      "word": "조국",
+      "count": 5
+    },
+    {
+      "word": "남자",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "법륜스님",
+      "count": 4
+    },
+    {
+      "word": "신민아",
+      "count": 4
+    },
+    {
+      "word": "김우빈",
+      "count": 4
+    },
+    {
+      "word": "사진",
+      "count": 4
+    },
+    {
+      "word": "통일교",
+      "count": 4
+    },
+    {
+      "word": "감옥",
+      "count": 4
+    },
+    {
+      "word": "나노",
+      "count": 4
+    },
+    {
+      "word": "억원",
+      "count": 4
+    },
+    {
+      "word": "한국",
       "count": 4
     },
     {
@@ -11,82 +63,38 @@
       "count": 3
     },
     {
-      "word": "장동혁",
-      "count": 3
-    },
-    {
-      "word": "조국",
-      "count": 3
-    },
-    {
-      "word": "남자",
-      "count": 3
-    },
-    {
-      "word": "손흥민",
+      "word": "대치동",
       "count": 3
     },
     {
       "word": "아파트",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "법륜스님",
-      "count": 2
+      "word": "깜짝",
+      "count": 3
     },
     {
-      "word": "신민아",
-      "count": 2
-    },
-    {
-      "word": "김우빈",
-      "count": 2
-    },
-    {
-      "word": "사진",
-      "count": 2
-    },
-    {
-      "word": "통일교",
-      "count": 2
-    },
-    {
-      "word": "감옥",
-      "count": 2
+      "word": "장동혁",
+      "count": 3
     },
     {
       "word": "국힘",
-      "count": 2
-    },
-    {
-      "word": "미안",
-      "count": 2
-    },
-    {
-      "word": "발언",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "나왔다",
-      "count": 2
-    },
-    {
-      "word": "만원",
-      "count": 2
-    },
-    {
-      "word": "대치동",
-      "count": 2
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "이준석",
+        "count": 7
+      },
+      {
+        "word": "조국",
+        "count": 5
+      },
+      {
+        "word": "감옥",
         "count": 4
       },
       {
@@ -94,126 +102,118 @@
         "count": 3
       },
       {
-        "word": "조국",
+        "word": "통일교",
         "count": 3
-      },
-      {
-        "word": "감옥",
-        "count": 2
-      },
-      {
-        "word": "국힘",
-        "count": 2
       }
     ],
     "sports": [
       {
-        "word": "손흥민",
-        "count": 3
+        "word": "남자",
+        "count": 4
       },
       {
         "word": "미나미노",
-        "count": 2
+        "count": 3
       },
       {
         "word": "축구",
-        "count": 2
+        "count": 3
       },
       {
         "word": "월드컵",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "남자",
-        "count": 2
+        "word": "앞두고",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "대상",
-        "count": 2
+        "word": "오늘부터",
+        "count": 3
       },
       {
         "word": "한빛",
-        "count": 2
+        "count": 3
       },
       {
         "word": "나노",
-        "count": 2
+        "count": 3
       },
       {
         "word": "노벨상",
-        "count": 1
+        "count": 2
       },
       {
         "word": "이후",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "성남시",
-        "count": 1
-      },
-      {
-        "word": "대장동",
-        "count": 1
-      },
-      {
-        "word": "일당",
-        "count": 1
-      },
-      {
         "word": "재산",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "가압류",
-        "count": 1
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 2
+      },
+      {
+        "word": "운세",
+        "count": 2
+      },
+      {
+        "word": "매각설",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "전쟁",
-        "count": 1
+        "count": 2
       },
       {
         "word": "소련기",
-        "count": 1
+        "count": 2
       },
       {
         "word": "격추",
-        "count": 1
+        "count": 2
       },
       {
         "word": "탑건",
-        "count": 1
+        "count": 2
       },
       {
         "word": "훈장",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "법륜스님",
-        "count": 2
+        "count": 4
       },
       {
         "word": "신민아",
-        "count": 2
+        "count": 4
       },
       {
         "word": "김우빈",
-        "count": 2
+        "count": 4
       },
       {
         "word": "류시원",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "연하대치동",
-        "count": 1
+        "word": "강사",
+        "count": 2
       }
     ]
   }
