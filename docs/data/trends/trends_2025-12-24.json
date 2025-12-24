@@ -1,13 +1,220 @@
 {
   "date": "2025-12-24",
-  "generated_at": "2025-12-24T09:34:57.934472+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2025-12-24T15:11:57.237493+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "복귀",
+      "count": 4
+    },
+    {
+      "word": "앞두고",
+      "count": 3
+    },
+    {
+      "word": "통일교",
+      "count": 3
+    },
+    {
+      "word": "환율",
+      "count": 3
+    },
+    {
+      "word": "마약",
+      "count": 3
+    },
+    {
+      "word": "무릎",
+      "count": 3
+    },
+    {
+      "word": "안보현",
+      "count": 2
+    },
+    {
+      "word": "기부",
+      "count": 2
+    },
+    {
+      "word": "정동원",
+      "count": 2
+    },
+    {
+      "word": "해병대",
+      "count": 2
+    },
+    {
+      "word": "크리스마스",
+      "count": 2
+    },
+    {
+      "word": "결혼",
+      "count": 2
+    },
+    {
+      "word": "사람",
+      "count": 2
+    },
+    {
+      "word": "한학자",
+      "count": 2
+    },
+    {
+      "word": "일본",
+      "count": 2
+    },
+    {
+      "word": "봉황기",
+      "count": 2
+    },
+    {
+      "word": "게양",
+      "count": 2
+    },
+    {
+      "word": "입틀막",
+      "count": 2
+    },
+    {
+      "word": "주도로",
+      "count": 2
+    },
+    {
+      "word": "본회의",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "봉황기",
+        "count": 2
+      },
+      {
+        "word": "게양",
+        "count": 2
+      },
+      {
+        "word": "입틀막",
+        "count": 2
+      },
+      {
+        "word": "주도로",
+        "count": 2
+      },
+      {
+        "word": "본회의",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "감독",
+        "count": 2
+      },
+      {
+        "word": "선임",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "네이마르",
+        "count": 2
+      },
+      {
+        "word": "무릎",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "복귀",
+        "count": 3
+      },
+      {
+        "word": "유럽",
+        "count": 2
+      },
+      {
+        "word": "국장",
+        "count": 2
+      },
+      {
+        "word": "양도세",
+        "count": 2
+      },
+      {
+        "word": "비과세",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "마약",
+        "count": 3
+      },
+      {
+        "word": "법원",
+        "count": 2
+      },
+      {
+        "word": "남양유업",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "경찰",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "위협",
+        "count": 2
+      },
+      {
+        "word": "대신",
+        "count": 2
+      },
+      {
+        "word": "대비",
+        "count": 1
+      },
+      {
+        "word": "월에",
+        "count": 1
+      },
+      {
+        "word": "예비군",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "안보현",
+        "count": 2
+      },
+      {
+        "word": "정동원",
+        "count": 2
+      },
+      {
+        "word": "해병대",
+        "count": 2
+      },
+      {
+        "word": "결혼",
+        "count": 2
+      },
+      {
+        "word": "첫주에",
+        "count": 1
+      }
+    ]
   }
 }
