@@ -1,130 +1,130 @@
 {
   "date": "2025-12-24",
-  "generated_at": "2025-12-24T15:11:57.237493+09:00",
+  "generated_at": "2025-12-24T19:09:18.765561+09:00",
   "daily_top_keywords": [
     {
+      "word": "통일교",
+      "count": 7
+    },
+    {
+      "word": "마약",
+      "count": 6
+    },
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
       "word": "복귀",
+      "count": 5
+    },
+    {
+      "word": "정동원",
+      "count": 4
+    },
+    {
+      "word": "해병대",
+      "count": 4
+    },
+    {
+      "word": "크리스마스",
       "count": 4
     },
     {
       "word": "앞두고",
-      "count": 3
-    },
-    {
-      "word": "통일교",
-      "count": 3
+      "count": 4
     },
     {
       "word": "환율",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "마약",
-      "count": 3
+      "word": "특검",
+      "count": 4
     },
     {
-      "word": "무릎",
-      "count": 3
+      "word": "남양유업",
+      "count": 4
+    },
+    {
+      "word": "경찰",
+      "count": 4
+    },
+    {
+      "word": "체포",
+      "count": 4
+    },
+    {
+      "word": "추가",
+      "count": 4
+    },
+    {
+      "word": "산타",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
     },
     {
       "word": "안보현",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "기부",
-      "count": 2
+      "word": "의혹",
+      "count": 3
     },
     {
-      "word": "정동원",
-      "count": 2
+      "word": "차가원",
+      "count": 3
     },
     {
-      "word": "해병대",
-      "count": 2
-    },
-    {
-      "word": "크리스마스",
-      "count": 2
-    },
-    {
-      "word": "결혼",
-      "count": 2
-    },
-    {
-      "word": "사람",
-      "count": 2
-    },
-    {
-      "word": "한학자",
-      "count": 2
-    },
-    {
-      "word": "일본",
-      "count": 2
-    },
-    {
-      "word": "봉황기",
-      "count": 2
-    },
-    {
-      "word": "게양",
-      "count": 2
-    },
-    {
-      "word": "입틀막",
-      "count": 2
-    },
-    {
-      "word": "주도로",
-      "count": 2
-    },
-    {
-      "word": "본회의",
-      "count": 2
+      "word": "회장과",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "봉황기",
-        "count": 2
+        "word": "통일교",
+        "count": 4
       },
       {
-        "word": "게양",
-        "count": 2
+        "word": "특검",
+        "count": 4
+      },
+      {
+        "word": "봉황기",
+        "count": 3
       },
       {
         "word": "입틀막",
-        "count": 2
+        "count": 3
       },
       {
         "word": "주도로",
-        "count": 2
-      },
-      {
-        "word": "본회의",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "감독",
-        "count": 2
-      },
-      {
-        "word": "선임",
-        "count": 2
-      },
-      {
         "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "대회",
+        "count": 3
+      },
+      {
+        "word": "리그",
+        "count": 3
+      },
+      {
+        "word": "복귀",
         "count": 2
       },
       {
-        "word": "네이마르",
-        "count": 2
-      },
-      {
-        "word": "무릎",
+        "word": "감독",
         "count": 2
       }
     ],
@@ -134,45 +134,49 @@
         "count": 3
       },
       {
-        "word": "유럽",
+        "word": "대문",
         "count": 2
       },
       {
-        "word": "국장",
+        "word": "앞에",
         "count": 2
       },
       {
-        "word": "양도세",
+        "word": "카메라",
         "count": 2
       },
       {
-        "word": "비과세",
+        "word": "달아",
         "count": 2
       }
     ],
     "society": [
       {
         "word": "마약",
-        "count": 3
-      },
-      {
-        "word": "법원",
-        "count": 2
+        "count": 6
       },
       {
         "word": "남양유업",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "체포",
+        "count": 4
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 3
       },
       {
         "word": "경찰",
-        "count": 2
+        "count": 3
       }
     ],
     "international": [
+      {
+        "word": "산타",
+        "count": 3
+      },
       {
         "word": "위협",
         "count": 2
@@ -182,38 +186,34 @@
         "count": 2
       },
       {
-        "word": "대비",
-        "count": 1
+        "word": "추적",
+        "count": 2
       },
       {
-        "word": "월에",
-        "count": 1
-      },
-      {
-        "word": "예비군",
-        "count": 1
+        "word": "의문의",
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "안보현",
-        "count": 2
-      },
-      {
         "word": "정동원",
-        "count": 2
+        "count": 4
       },
       {
         "word": "해병대",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "결혼",
-        "count": 2
+        "word": "안보현",
+        "count": 3
       },
       {
-        "word": "첫주에",
-        "count": 1
+        "word": "차가원",
+        "count": 3
+      },
+      {
+        "word": "회장과",
+        "count": 3
       }
     ]
   }
