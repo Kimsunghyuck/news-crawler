@@ -1,218 +1,218 @@
 {
   "date": "2025-12-25",
-  "generated_at": "2025-12-25T15:10:10.685666+09:00",
+  "generated_at": "2025-12-25T19:17:26.737866+09:00",
   "daily_top_keywords": [
     {
-      "word": "별세",
-      "count": 4
-    },
-    {
       "word": "대통령",
-      "count": 4
-    },
-    {
-      "word": "김영대",
-      "count": 3
-    },
-    {
-      "word": "핵잠",
-      "count": 3
-    },
-    {
-      "word": "김병기",
-      "count": 3
-    },
-    {
-      "word": "보좌진",
-      "count": 3
-    },
-    {
-      "word": "성탄절",
-      "count": 3
+      "count": 8
     },
     {
       "word": "서울",
-      "count": 3
+      "count": 7
     },
     {
       "word": "한국",
-      "count": 3
+      "count": 7
+    },
+    {
+      "word": "별세",
+      "count": 6
+    },
+    {
+      "word": "핵잠",
+      "count": 5
+    },
+    {
+      "word": "김병기",
+      "count": 5
+    },
+    {
+      "word": "보좌진",
+      "count": 5
+    },
+    {
+      "word": "성탄절",
+      "count": 5
+    },
+    {
+      "word": "없어",
+      "count": 5
     },
     {
       "word": "미국",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "음악평론가",
-      "count": 2
-    },
-    {
-      "word": "이젠",
-      "count": 2
-    },
-    {
-      "word": "사람",
-      "count": 2
-    },
-    {
-      "word": "전문가",
-      "count": 2
+      "word": "김영대",
+      "count": 4
     },
     {
       "word": "향년",
-      "count": 2
-    },
-    {
-      "word": "통일교",
-      "count": 2
-    },
-    {
-      "word": "김정은",
-      "count": 2
+      "count": 4
     },
     {
       "word": "위협",
-      "count": 2
-    },
-    {
-      "word": "메시지",
-      "count": 2
+      "count": 4
     },
     {
       "word": "공익제보자",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "행세",
+      "count": 4
+    },
+    {
+      "word": "지지율",
+      "count": 4
+    },
+    {
+      "word": "장동혁",
+      "count": 4
+    },
+    {
+      "word": "예배",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "음악평론가",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 4
-      },
-      {
-        "word": "핵잠",
-        "count": 3
+        "count": 8
       },
       {
         "word": "김병기",
-        "count": 3
+        "count": 5
       },
       {
         "word": "보좌진",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "김정은",
-        "count": 2
+        "word": "핵잠",
+        "count": 4
+      },
+      {
+        "word": "공익제보자",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "재계약",
-        "count": 2
-      },
-      {
         "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "재계약",
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "리그",
+        "count": 3
+      },
+      {
+        "word": "결승전서",
         "count": 2
-      },
-      {
-        "word": "누가",
-        "count": 1
-      },
-      {
-        "word": "막냐",
-        "count": 1
-      },
-      {
-        "word": "매체가",
-        "count": 1
       }
     ],
     "economy": [
       {
         "word": "한국",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "주식",
+        "count": 3
       },
       {
         "word": "총수",
-        "count": 1
+        "count": 2
       },
       {
         "word": "다음으로",
-        "count": 1
+        "count": 2
       },
       {
         "word": "막강",
-        "count": 1
-      },
-      {
-        "word": "그룹",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "한파",
-        "count": 2
+        "count": 3
       },
       {
         "word": "추진",
-        "count": 2
+        "count": 3
       },
       {
         "word": "형사",
+        "count": 3
+      },
+      {
+        "word": "체감",
         "count": 2
       },
       {
-        "word": "증거로",
-        "count": 2
-      },
-      {
-        "word": "마약",
+        "word": "최강",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "마피아",
-        "count": 2
+        "count": 3
       },
       {
         "word": "역주행",
-        "count": 2
-      },
-      {
-        "word": "사고",
-        "count": 2
-      },
-      {
-        "word": "한인",
-        "count": 2
+        "count": 3
       },
       {
         "word": "남편",
+        "count": 3
+      },
+      {
+        "word": "사망",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
         "count": 2
       }
     ],
     "culture": [
       {
         "word": "김영대",
-        "count": 3
+        "count": 4
       },
       {
         "word": "별세",
-        "count": 3
+        "count": 4
       },
       {
         "word": "음악평론가",
-        "count": 2
-      },
-      {
-        "word": "사람",
-        "count": 2
+        "count": 3
       },
       {
         "word": "전문가",
+        "count": 3
+      },
+      {
+        "word": "학폭",
         "count": 2
       }
     ]
