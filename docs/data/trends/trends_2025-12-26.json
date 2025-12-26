@@ -1,13 +1,220 @@
 {
   "date": "2025-12-26",
-  "generated_at": "2025-12-26T09:34:38.061518+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2025-12-26T15:10:42.381715+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "김병기",
+      "count": 5
+    },
+    {
+      "word": "쿠팡",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "정청래",
+      "count": 3
+    },
+    {
+      "word": "매우",
+      "count": 3
+    },
+    {
+      "word": "심각하게",
+      "count": 3
+    },
+    {
+      "word": "논란",
+      "count": 3
+    },
+    {
+      "word": "억원",
+      "count": 3
+    },
+    {
+      "word": "혐의",
+      "count": 3
+    },
+    {
+      "word": "스마트생태공장",
+      "count": 3
+    },
+    {
+      "word": "김영대",
+      "count": 2
+    },
+    {
+      "word": "깊은",
+      "count": 2
+    },
+    {
+      "word": "임신",
+      "count": 2
+    },
+    {
+      "word": "통일교",
+      "count": 2
+    },
+    {
+      "word": "년전",
+      "count": 2
+    },
+    {
+      "word": "전문가",
+      "count": 2
+    },
+    {
+      "word": "에서",
+      "count": 2
+    },
+    {
+      "word": "입장",
+      "count": 2
+    },
+    {
+      "word": "셀프",
+      "count": 2
+    },
+    {
+      "word": "수사",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "김병기",
+        "count": 5
+      },
+      {
+        "word": "정청래",
+        "count": 3
+      },
+      {
+        "word": "매우",
+        "count": 3
+      },
+      {
+        "word": "심각하게",
+        "count": 3
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "재계약",
+        "count": 2
+      },
+      {
+        "word": "저지",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "시즌",
+        "count": 2
+      },
+      {
+        "word": "막판",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "스마트생태공장",
+        "count": 3
+      },
+      {
+        "word": "사업",
+        "count": 2
+      },
+      {
+        "word": "으로",
+        "count": 2
+      },
+      {
+        "word": "쿠팡",
+        "count": 2
+      },
+      {
+        "word": "환율",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "혐의",
+        "count": 3
+      },
+      {
+        "word": "은폐",
+        "count": 2
+      },
+      {
+        "word": "서훈",
+        "count": 2
+      },
+      {
+        "word": "박지원",
+        "count": 2
+      },
+      {
+        "word": "무죄",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "현대판",
+        "count": 2
+      },
+      {
+        "word": "노예",
+        "count": 2
+      },
+      {
+        "word": "정화조",
+        "count": 2
+      },
+      {
+        "word": "청소",
+        "count": 2
+      },
+      {
+        "word": "비자",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "김영대",
+        "count": 2
+      },
+      {
+        "word": "깊은",
+        "count": 2
+      },
+      {
+        "word": "임신",
+        "count": 2
+      },
+      {
+        "word": "애도",
+        "count": 1
+      },
+      {
+        "word": "가요계",
+        "count": 1
+      }
+    ]
   }
 }
