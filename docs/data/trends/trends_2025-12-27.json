@@ -1,13 +1,220 @@
 {
   "date": "2025-12-27",
-  "generated_at": "2025-12-27T09:33:40.742412+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2025-12-27T15:09:52.711831+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "개월",
+      "count": 4
+    },
+    {
+      "word": "확정",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "시대",
+      "count": 3
+    },
+    {
+      "word": "통일교",
+      "count": 3
+    },
+    {
+      "word": "업무",
+      "count": 3
+    },
+    {
+      "word": "특검",
+      "count": 3
+    },
+    {
+      "word": "미국",
+      "count": 3
+    },
+    {
+      "word": "오타니",
+      "count": 3
+    },
+    {
+      "word": "일본",
+      "count": 3
+    },
+    {
+      "word": "출국세",
+      "count": 3
+    },
+    {
+      "word": "보니",
+      "count": 2
+    },
+    {
+      "word": "사람",
+      "count": 2
+    },
+    {
+      "word": "속내",
+      "count": 2
+    },
+    {
+      "word": "김병기",
+      "count": 2
+    },
+    {
+      "word": "아빠",
+      "count": 2
+    },
+    {
+      "word": "찬스",
+      "count": 2
+    },
+    {
+      "word": "국정원",
+      "count": 2
+    },
+    {
+      "word": "보좌진에",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "업무",
+        "count": 3
+      },
+      {
+        "word": "특검",
+        "count": 3
+      },
+      {
+        "word": "김병기",
+        "count": 2
+      },
+      {
+        "word": "아빠",
+        "count": 2
+      },
+      {
+        "word": "찬스",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "미국",
+        "count": 3
+      },
+      {
+        "word": "오타니",
+        "count": 3
+      },
+      {
+        "word": "우승",
+        "count": 2
+      },
+      {
+        "word": "축구계",
+        "count": 2
+      },
+      {
+        "word": "기적",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "유럽",
+        "count": 2
+      },
+      {
+        "word": "경제",
+        "count": 2
+      },
+      {
+        "word": "위안",
+        "count": 2
+      },
+      {
+        "word": "사람",
+        "count": 1
+      },
+      {
+        "word": "뇌는",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "개월",
+        "count": 3
+      },
+      {
+        "word": "확정",
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "멤버",
+        "count": 2
+      },
+      {
+        "word": "함께",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "출국세",
+        "count": 3
+      },
+      {
+        "word": "현상금",
+        "count": 2
+      },
+      {
+        "word": "어둠의",
+        "count": 2
+      },
+      {
+        "word": "은행가",
+        "count": 2
+      },
+      {
+        "word": "월부터",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "시대",
+        "count": 2
+      },
+      {
+        "word": "올리버쌤",
+        "count": 1
+      },
+      {
+        "word": "이민",
+        "count": 1
+      },
+      {
+        "word": "포기",
+        "count": 1
+      },
+      {
+        "word": "만원",
+        "count": 1
+      }
+    ]
   }
 }
