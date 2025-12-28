@@ -1,13 +1,220 @@
 {
   "date": "2025-12-28",
-  "generated_at": "2025-12-28T09:38:21.729604+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2025-12-28T15:09:50.593281+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "평생",
+      "count": 4
+    },
+    {
+      "word": "쿠팡",
+      "count": 4
+    },
+    {
+      "word": "정청래",
+      "count": 3
+    },
+    {
+      "word": "김범석",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "계약",
+      "count": 3
+    },
+    {
+      "word": "사망",
+      "count": 3
+    },
+    {
+      "word": "재계약",
+      "count": 2
+    },
+    {
+      "word": "통일교",
+      "count": 2
+    },
+    {
+      "word": "한밤",
+      "count": 2
+    },
+    {
+      "word": "최후진술",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "김병기",
+      "count": 2
+    },
+    {
+      "word": "장동혁",
+      "count": 2
+    },
+    {
+      "word": "초대",
+      "count": 2
+    },
+    {
+      "word": "기획예산처",
+      "count": 2
+    },
+    {
+      "word": "장관에",
+      "count": 2
+    },
+    {
+      "word": "이혜훈",
+      "count": 2
+    },
+    {
+      "word": "파격",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "정청래",
+        "count": 3
+      },
+      {
+        "word": "평생",
+        "count": 3
+      },
+      {
+        "word": "최후진술",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "장동혁",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "계약",
+        "count": 3
+      },
+      {
+        "word": "억원",
+        "count": 2
+      },
+      {
+        "word": "패배",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "역전승",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "유럽",
+        "count": 2
+      },
+      {
+        "word": "고환율",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "사람",
+        "count": 1
+      },
+      {
+        "word": "뇌는",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "접수",
+        "count": 2
+      },
+      {
+        "word": "김병기",
+        "count": 1
+      },
+      {
+        "word": "배우자",
+        "count": 1
+      },
+      {
+        "word": "업무비",
+        "count": 1
+      },
+      {
+        "word": "의혹",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "사망",
+        "count": 3
+      },
+      {
+        "word": "연쇄",
+        "count": 2
+      },
+      {
+        "word": "추돌",
+        "count": 2
+      },
+      {
+        "word": "한파",
+        "count": 2
+      },
+      {
+        "word": "지진",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "박나래",
+        "count": 1
+      },
+      {
+        "word": "입짧은",
+        "count": 1
+      },
+      {
+        "word": "햇님",
+        "count": 1
+      },
+      {
+        "word": "구독자",
+        "count": 1
+      },
+      {
+        "word": "줄이탈",
+        "count": 1
+      }
+    ]
   }
 }
