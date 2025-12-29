@@ -1,13 +1,220 @@
 {
   "date": "2025-12-29",
-  "generated_at": "2025-12-29T09:39:38.726054+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2025-12-29T15:10:23.294884+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "쿠팡",
+      "count": 5
+    },
+    {
+      "word": "이혜훈",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "번째",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "최초",
+      "count": 3
+    },
+    {
+      "word": "청와대",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "사망",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "계약",
+      "count": 3
+    },
+    {
+      "word": "테니스",
+      "count": 3
+    },
+    {
+      "word": "얼굴",
+      "count": 2
+    },
+    {
+      "word": "마지막",
+      "count": 2
+    },
+    {
+      "word": "뉴진스",
+      "count": 2
+    },
+    {
+      "word": "완전체",
+      "count": 2
+    },
+    {
+      "word": "깨졌다",
+      "count": 2
+    },
+    {
+      "word": "복귀",
+      "count": 2
+    },
+    {
+      "word": "계약해지",
+      "count": 2
+    },
+    {
+      "word": "논란에",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "이혜훈",
+        "count": 4
+      },
+      {
+        "word": "이준석",
+        "count": 2
+      },
+      {
+        "word": "배신자로",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "출근",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 3
+      },
+      {
+        "word": "번째",
+        "count": 3
+      },
+      {
+        "word": "테니스",
+        "count": 2
+      },
+      {
+        "word": "세계",
+        "count": 2
+      },
+      {
+        "word": "최초",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "쿠팡",
+        "count": 3
+      },
+      {
+        "word": "인당",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "보상",
+        "count": 2
+      },
+      {
+        "word": "진심으로",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "특검",
+        "count": 2
+      },
+      {
+        "word": "의혹",
+        "count": 2
+      },
+      {
+        "word": "수영장서",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "무안",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "대만",
+        "count": 2
+      },
+      {
+        "word": "백두산",
+        "count": 1
+      },
+      {
+        "word": "호랑이",
+        "count": 1
+      },
+      {
+        "word": "대가족",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "마지막",
+        "count": 2
+      },
+      {
+        "word": "뉴진스",
+        "count": 2
+      },
+      {
+        "word": "완전체",
+        "count": 2
+      },
+      {
+        "word": "깨졌다",
+        "count": 2
+      },
+      {
+        "word": "계약해지",
+        "count": 2
+      }
+    ]
   }
 }
