@@ -1,13 +1,220 @@
 {
   "date": "2025-12-30",
-  "generated_at": "2025-12-30T09:33:45.011589+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2025-12-30T15:10:00.048331+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "의혹",
+      "count": 7
+    },
+    {
+      "word": "쿠팡",
+      "count": 5
+    },
+    {
+      "word": "강선우",
+      "count": 4
+    },
+    {
+      "word": "이혜훈",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "뉴진스",
+      "count": 3
+    },
+    {
+      "word": "사과",
+      "count": 3
+    },
+    {
+      "word": "논란",
+      "count": 3
+    },
+    {
+      "word": "통일교",
+      "count": 3
+    },
+    {
+      "word": "정청래",
+      "count": 3
+    },
+    {
+      "word": "수수",
+      "count": 3
+    },
+    {
+      "word": "포함",
+      "count": 3
+    },
+    {
+      "word": "내란",
+      "count": 3
+    },
+    {
+      "word": "대만",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "억원",
+      "count": 2
+    },
+    {
+      "word": "상간",
+      "count": 2
+    },
+    {
+      "word": "숙행",
+      "count": 2
+    },
+    {
+      "word": "번째",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "의혹",
+        "count": 4
+      },
+      {
+        "word": "정청래",
+        "count": 3
+      },
+      {
+        "word": "강선우",
+        "count": 3
+      },
+      {
+        "word": "수수",
+        "count": 3
+      },
+      {
+        "word": "이혜훈",
+        "count": 3
+      }
+    ],
+    "sports": [
+      {
+        "word": "허벅지",
+        "count": 2
+      },
+      {
+        "word": "부상",
+        "count": 2
+      },
+      {
+        "word": "이강인",
+        "count": 2
+      },
+      {
+        "word": "복귀",
+        "count": 2
+      },
+      {
+        "word": "임박",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "쿠팡",
+        "count": 3
+      },
+      {
+        "word": "정부",
+        "count": 2
+      },
+      {
+        "word": "수입차",
+        "count": 2
+      },
+      {
+        "word": "이재명",
+        "count": 1
+      },
+      {
+        "word": "서울",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "늘었다",
+        "count": 2
+      },
+      {
+        "word": "중앙지법",
+        "count": 1
+      },
+      {
+        "word": "군경",
+        "count": 1
+      },
+      {
+        "word": "수뇌부",
+        "count": 1
+      },
+      {
+        "word": "내란",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "대만",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "장면",
+        "count": 2
+      },
+      {
+        "word": "이틀째",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "뉴진스",
+        "count": 3
+      },
+      {
+        "word": "상간",
+        "count": 2
+      },
+      {
+        "word": "의혹",
+        "count": 2
+      },
+      {
+        "word": "숙행",
+        "count": 2
+      },
+      {
+        "word": "사과",
+        "count": 2
+      }
+    ]
   }
 }
