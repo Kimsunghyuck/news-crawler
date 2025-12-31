@@ -1,13 +1,220 @@
 {
   "date": "2025-12-31",
-  "generated_at": "2025-12-31T09:35:14.952461+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2025-12-31T15:09:29.405119+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "쿠팡",
+      "count": 5
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "강선우",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "반도체",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "안성기",
+      "count": 2
+    },
+    {
+      "word": "심정지",
+      "count": 2
+    },
+    {
+      "word": "상태로",
+      "count": 2
+    },
+    {
+      "word": "병원",
+      "count": 2
+    },
+    {
+      "word": "이송",
+      "count": 2
+    },
+    {
+      "word": "최대",
+      "count": 2
+    },
+    {
+      "word": "이상민",
+      "count": 2
+    },
+    {
+      "word": "많은",
+      "count": 2
+    },
+    {
+      "word": "큰절",
+      "count": 2
+    },
+    {
+      "word": "가장",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "특검",
+      "count": 2
+    },
+    {
+      "word": "접촉",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "강선우",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "쿠팡",
+        "count": 2
+      },
+      {
+        "word": "의원들",
+        "count": 2
+      },
+      {
+        "word": "멘붕",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "축구",
+        "count": 2
+      },
+      {
+        "word": "무패",
+        "count": 2
+      },
+      {
+        "word": "이강인",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "시장",
+        "count": 2
+      },
+      {
+        "word": "쿠팡",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "억달러",
+        "count": 2
+      },
+      {
+        "word": "반도체",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "유학",
+        "count": 2
+      },
+      {
+        "word": "한파가",
+        "count": 1
+      },
+      {
+        "word": "씻어낸",
+        "count": 1
+      },
+      {
+        "word": "전국",
+        "count": 1
+      },
+      {
+        "word": "하늘",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "베네수엘라",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "베네수",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "이상민",
+        "count": 2
+      },
+      {
+        "word": "많은",
+        "count": 2
+      },
+      {
+        "word": "큰절",
+        "count": 2
+      },
+      {
+        "word": "친족상도례",
+        "count": 1
+      },
+      {
+        "word": "폐지에",
+        "count": 1
+      }
+    ]
   }
 }
