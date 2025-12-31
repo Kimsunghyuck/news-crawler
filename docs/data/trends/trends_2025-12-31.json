@@ -1,219 +1,219 @@
 {
   "date": "2025-12-31",
-  "generated_at": "2025-12-31T15:09:29.405119+09:00",
+  "generated_at": "2025-12-31T19:12:21.517228+09:00",
   "daily_top_keywords": [
     {
-      "word": "쿠팡",
-      "count": 5
+      "word": "만원",
+      "count": 8
     },
     {
-      "word": "만원",
-      "count": 4
+      "word": "쿠팡",
+      "count": 7
     },
     {
       "word": "강선우",
-      "count": 3
+      "count": 6
     },
     {
       "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "반도체",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "의혹",
-      "count": 2
-    },
-    {
-      "word": "안성기",
-      "count": 2
-    },
-    {
-      "word": "심정지",
-      "count": 2
-    },
-    {
-      "word": "상태로",
-      "count": 2
-    },
-    {
-      "word": "병원",
-      "count": 2
-    },
-    {
-      "word": "이송",
-      "count": 2
+      "count": 6
     },
     {
       "word": "최대",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "충격",
+      "count": 4
+    },
+    {
+      "word": "유학",
+      "count": 4
+    },
+    {
+      "word": "계좌",
+      "count": 4
+    },
+    {
+      "word": "시장",
+      "count": 4
+    },
+    {
+      "word": "억달러",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "무패",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "의혹",
+      "count": 3
+    },
+    {
+      "word": "안성기",
+      "count": 3
+    },
+    {
+      "word": "논란",
+      "count": 3
     },
     {
       "word": "이상민",
-      "count": 2
+      "count": 3
     },
     {
       "word": "많은",
-      "count": 2
-    },
-    {
-      "word": "큰절",
-      "count": 2
-    },
-    {
-      "word": "가장",
-      "count": 2
-    },
-    {
-      "word": "국힘",
-      "count": 2
-    },
-    {
-      "word": "특검",
-      "count": 2
-    },
-    {
-      "word": "접촉",
-      "count": 2
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "강선우",
+        "count": 6
+      },
+      {
+        "word": "진성준",
+        "count": 3
+      },
+      {
+        "word": "원내대표",
+        "count": 3
+      },
+      {
+        "word": "출사표",
         "count": 3
       },
       {
         "word": "국힘",
-        "count": 2
-      },
-      {
-        "word": "쿠팡",
-        "count": 2
-      },
-      {
-        "word": "의원들",
-        "count": 2
-      },
-      {
-        "word": "멘붕",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 2
-      },
-      {
-        "word": "한국",
-        "count": 2
-      },
-      {
-        "word": "축구",
-        "count": 2
+        "count": 4
       },
       {
         "word": "무패",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "축구",
+        "count": 3
       },
       {
         "word": "이강인",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "시장",
-        "count": 2
-      },
-      {
-        "word": "쿠팡",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만원",
-        "count": 2
+        "count": 4
       },
       {
         "word": "억달러",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "반도체",
+        "word": "쿠팡",
+        "count": 3
+      },
+      {
+        "word": "선진국",
         "count": 2
       }
     ],
     "society": [
       {
         "word": "유학",
+        "count": 4
+      },
+      {
+        "word": "국무회의",
         "count": 2
       },
       {
-        "word": "한파가",
-        "count": 1
+        "word": "잡아봐라",
+        "count": 2
       },
       {
-        "word": "씻어낸",
-        "count": 1
+        "word": "노인",
+        "count": 2
       },
       {
-        "word": "전국",
-        "count": 1
-      },
-      {
-        "word": "하늘",
-        "count": 1
+        "word": "새해",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 4
       },
       {
         "word": "만원",
-        "count": 2
-      },
-      {
-        "word": "베네수엘라",
-        "count": 2
+        "count": 4
       },
       {
         "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "도금",
         "count": 2
       },
       {
-        "word": "베네수",
+        "word": "욕실",
         "count": 2
       }
     ],
     "culture": [
       {
         "word": "이상민",
-        "count": 2
+        "count": 3
       },
       {
         "word": "많은",
-        "count": 2
+        "count": 3
       },
       {
         "word": "큰절",
-        "count": 2
+        "count": 3
       },
       {
         "word": "친족상도례",
-        "count": 1
+        "count": 2
       },
       {
         "word": "폐지에",
-        "count": 1
+        "count": 2
       }
     ]
   }
