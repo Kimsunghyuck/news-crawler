@@ -1,219 +1,219 @@
 {
   "date": "2026-01-01",
-  "generated_at": "2026-01-01T15:09:58.025308+09:00",
+  "generated_at": "2026-01-01T19:12:51.804266+09:00",
   "daily_top_keywords": [
     {
       "word": "오세훈",
-      "count": 4
+      "count": 6
     },
     {
-      "word": "신춘문예",
-      "count": 3
-    },
-    {
-      "word": "김병기",
-      "count": 3
-    },
-    {
-      "word": "윤리감찰",
-      "count": 3
-    },
-    {
-      "word": "계엄",
-      "count": 3
-    },
-    {
-      "word": "정청래",
-      "count": 3
-    },
-    {
-      "word": "지시",
-      "count": 3
-    },
-    {
-      "word": "신년",
-      "count": 3
+      "word": "민주당",
+      "count": 6
     },
     {
       "word": "만원",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "세계",
-      "count": 3
+      "word": "계엄",
+      "count": 5
     },
     {
-      "word": "트럼프",
-      "count": 3
+      "word": "이혜훈",
+      "count": 5
     },
     {
-      "word": "박나래",
-      "count": 2
+      "word": "강선우",
+      "count": 5
     },
     {
-      "word": "새해",
-      "count": 2
-    },
-    {
-      "word": "기대",
-      "count": 2
+      "word": "신춘문예",
+      "count": 4
     },
     {
       "word": "통일교",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "그녀의",
-      "count": 2
+      "word": "김병기",
+      "count": 4
+    },
+    {
+      "word": "윤리감찰",
+      "count": 4
     },
     {
       "word": "장동혁",
-      "count": 2
+      "count": 4
     },
     {
       "word": "사과하라",
-      "count": 2
+      "count": 4
     },
     {
       "word": "유승민",
-      "count": 2
+      "count": 4
     },
     {
       "word": "제안",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "정청래",
+      "count": 4
+    },
+    {
+      "word": "지시",
+      "count": 4
+    },
+    {
+      "word": "신년",
+      "count": 4
+    },
+    {
+      "word": "거부",
+      "count": 4
+    },
+    {
+      "word": "전기차",
+      "count": 4
+    },
+    {
+      "word": "이준석",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "오세훈",
-        "count": 4
+        "count": 6
       },
       {
-        "word": "김병기",
-        "count": 3
-      },
-      {
-        "word": "윤리감찰",
-        "count": 3
+        "word": "민주당",
+        "count": 6
       },
       {
         "word": "계엄",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "정청래",
-        "count": 3
+        "word": "이혜훈",
+        "count": 5
+      },
+      {
+        "word": "강선우",
+        "count": 5
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "무패",
-        "count": 2
+        "count": 4
       },
       {
         "word": "연승",
-        "count": 1
+        "count": 3
       },
       {
-        "word": "질주",
-        "count": 1
+        "word": "유니폼",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "세계",
+        "count": 4
+      },
+      {
+        "word": "상승",
+        "count": 3
+      },
+      {
+        "word": "환율",
         "count": 3
       },
       {
         "word": "경쟁",
-        "count": 2
+        "count": 3
       },
       {
         "word": "최저임금",
-        "count": 1
-      },
-      {
-        "word": "주말부부",
-        "count": 1
-      },
-      {
-        "word": "공제",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "거부",
-        "count": 2
-      },
-      {
-        "word": "매일",
-        "count": 2
+        "count": 4
       },
       {
         "word": "이준석",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "매일",
+        "count": 3
       },
       {
         "word": "임은정",
-        "count": 1
-      },
-      {
-        "word": "대면보고",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "버핏",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "은퇴",
+        "count": 3
       },
       {
         "word": "누적",
-        "count": 2
+        "count": 3
       },
       {
         "word": "수익률",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "국무부",
-        "count": 2
-      },
-      {
-        "word": "우려",
-        "count": 2
+        "word": "트럼프",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "신춘문예",
-        "count": 3
+        "count": 4
       },
       {
         "word": "박나래",
-        "count": 2
+        "count": 3
       },
       {
         "word": "기대",
-        "count": 2
-      },
-      {
-        "word": "술자리서",
-        "count": 1
+        "count": 3
       },
       {
         "word": "술잔",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "매니저",
+        "count": 2
       }
     ]
   }
