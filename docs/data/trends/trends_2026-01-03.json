@@ -1,13 +1,220 @@
 {
   "date": "2026-01-03",
-  "generated_at": "2026-01-03T09:33:35.421305+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-03T15:10:27.258375+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "새해",
+      "count": 4
+    },
+    {
+      "word": "이유",
+      "count": 3
+    },
+    {
+      "word": "의혹",
+      "count": 3
+    },
+    {
+      "word": "보는",
+      "count": 3
+    },
+    {
+      "word": "이혜훈",
+      "count": 3
+    },
+    {
+      "word": "차익",
+      "count": 3
+    },
+    {
+      "word": "쿠팡",
+      "count": 3
+    },
+    {
+      "word": "출신",
+      "count": 3
+    },
+    {
+      "word": "감독",
+      "count": 3
+    },
+    {
+      "word": "모델",
+      "count": 2
+    },
+    {
+      "word": "이리나",
+      "count": 2
+    },
+    {
+      "word": "샤크",
+      "count": 2
+    },
+    {
+      "word": "마음",
+      "count": 2
+    },
+    {
+      "word": "훔쳤다",
+      "count": 2
+    },
+    {
+      "word": "박나래",
+      "count": 2
+    },
+    {
+      "word": "사진",
+      "count": 2
+    },
+    {
+      "word": "호날두",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "매니저",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "이혜훈",
+        "count": 3
+      },
+      {
+        "word": "차익",
+        "count": 3
+      },
+      {
+        "word": "총기",
+        "count": 2
+      },
+      {
+        "word": "대신",
+        "count": 2
+      },
+      {
+        "word": "삼단봉",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "감독",
+        "count": 3
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "용인",
+        "count": 2
+      },
+      {
+        "word": "포르투갈",
+        "count": 2
+      },
+      {
+        "word": "노보",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "성공한",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "기업들",
+        "count": 1
+      },
+      {
+        "word": "엔비디아",
+        "count": 1
+      },
+      {
+        "word": "만개",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "사상",
+        "count": 1
+      },
+      {
+        "word": "종각역",
+        "count": 1
+      },
+      {
+        "word": "택시",
+        "count": 1
+      },
+      {
+        "word": "돌진",
+        "count": 1
+      },
+      {
+        "word": "체포",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "영상",
+        "count": 2
+      },
+      {
+        "word": "잉크도",
+        "count": 1
+      },
+      {
+        "word": "말랐는데",
+        "count": 1
+      },
+      {
+        "word": "휴지",
+        "count": 1
+      },
+      {
+        "word": "조각",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "이리나",
+        "count": 2
+      },
+      {
+        "word": "샤크",
+        "count": 2
+      },
+      {
+        "word": "마음",
+        "count": 2
+      },
+      {
+        "word": "훔쳤다",
+        "count": 2
+      },
+      {
+        "word": "숙행",
+        "count": 2
+      }
+    ]
   }
 }
