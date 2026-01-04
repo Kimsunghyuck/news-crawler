@@ -1,13 +1,220 @@
 {
   "date": "2026-01-04",
-  "generated_at": "2026-01-04T09:39:29.653136+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-04T15:09:52.501814+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "마두로",
+      "count": 9
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "대신",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "연속",
+      "count": 3
+    },
+    {
+      "word": "올림픽",
+      "count": 3
+    },
+    {
+      "word": "황희찬",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "유일한",
+      "count": 3
+    },
+    {
+      "word": "베네수엘라",
+      "count": 3
+    },
+    {
+      "word": "배우",
+      "count": 2
+    },
+    {
+      "word": "결혼",
+      "count": 2
+    },
+    {
+      "word": "사망",
+      "count": 2
+    },
+    {
+      "word": "세계",
+      "count": 2
+    },
+    {
+      "word": "아들",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "매니저",
+      "count": 2
+    },
+    {
+      "word": "공천헌금",
+      "count": 2
+    },
+    {
+      "word": "일탈",
+      "count": 2
+    },
+    {
+      "word": "특검",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "공천헌금",
+        "count": 2
+      },
+      {
+        "word": "일탈",
+        "count": 2
+      },
+      {
+        "word": "특검",
+        "count": 2
+      },
+      {
+        "word": "이준석",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "올림픽",
+        "count": 3
+      },
+      {
+        "word": "황희찬",
+        "count": 3
+      },
+      {
+        "word": "차준환",
+        "count": 2
+      },
+      {
+        "word": "피겨",
+        "count": 2
+      },
+      {
+        "word": "연속",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "이상",
+        "count": 2
+      },
+      {
+        "word": "성공한",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "이후",
+        "count": 2
+      },
+      {
+        "word": "기업들",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "판단",
+        "count": 2
+      },
+      {
+        "word": "흉기",
+        "count": 2
+      },
+      {
+        "word": "층엔",
+        "count": 2
+      },
+      {
+        "word": "서해안고속도로서",
+        "count": 1
+      },
+      {
+        "word": "사고",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "마두로",
+        "count": 7
+      },
+      {
+        "word": "베네수엘라",
+        "count": 3
+      },
+      {
+        "word": "뉴욕",
+        "count": 2
+      },
+      {
+        "word": "잠든",
+        "count": 2
+      },
+      {
+        "word": "독재",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "배우",
+        "count": 2
+      },
+      {
+        "word": "대신",
+        "count": 2
+      },
+      {
+        "word": "드라마",
+        "count": 1
+      },
+      {
+        "word": "무풍지대",
+        "count": 1
+      },
+      {
+        "word": "김두한",
+        "count": 1
+      }
+    ]
   }
 }
