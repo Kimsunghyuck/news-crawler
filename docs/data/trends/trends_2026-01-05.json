@@ -1,13 +1,220 @@
 {
   "date": "2026-01-05",
-  "generated_at": "2026-01-05T09:38:20.303785+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-05T15:12:28.024669+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "안성기",
+      "count": 7
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "베네수엘라",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "별세",
+      "count": 4
+    },
+    {
+      "word": "아들",
+      "count": 3
+    },
+    {
+      "word": "이혜훈",
+      "count": 3
+    },
+    {
+      "word": "재산",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "마두로",
+      "count": 3
+    },
+    {
+      "word": "체포",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "상대",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "부통령",
+      "count": 3
+    },
+    {
+      "word": "중학교",
+      "count": 2
+    },
+    {
+      "word": "짝꿍",
+      "count": 2
+    },
+    {
+      "word": "조용필",
+      "count": 2
+    },
+    {
+      "word": "논란",
+      "count": 2
+    },
+    {
+      "word": "같은",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "이혜훈",
+        "count": 3
+      },
+      {
+        "word": "재산",
+        "count": 3
+      },
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "있는데",
+        "count": 2
+      },
+      {
+        "word": "한중",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 3
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "상대",
+        "count": 2
+      },
+      {
+        "word": "남아공",
+        "count": 2
+      },
+      {
+        "word": "네이션스컵",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "아파트",
+        "count": 2
+      },
+      {
+        "word": "가격",
+        "count": 2
+      },
+      {
+        "word": "초과",
+        "count": 1
+      },
+      {
+        "word": "거래",
+        "count": 1
+      },
+      {
+        "word": "건이",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "층엔",
+        "count": 2
+      },
+      {
+        "word": "서해",
+        "count": 1
+      },
+      {
+        "word": "피살",
+        "count": 1
+      },
+      {
+        "word": "공무원",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "베네수엘라",
+        "count": 4
+      },
+      {
+        "word": "부통령",
+        "count": 3
+      },
+      {
+        "word": "협력",
+        "count": 2
+      },
+      {
+        "word": "참치",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "안성기",
+        "count": 6
+      },
+      {
+        "word": "별세",
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "중학교",
+        "count": 2
+      },
+      {
+        "word": "짝꿍",
+        "count": 2
+      }
+    ]
   }
 }
