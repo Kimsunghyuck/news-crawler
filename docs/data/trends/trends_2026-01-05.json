@@ -1,219 +1,219 @@
 {
   "date": "2026-01-05",
-  "generated_at": "2026-01-05T15:12:28.024669+09:00",
+  "generated_at": "2026-01-05T19:13:01.755927+09:00",
   "daily_top_keywords": [
     {
       "word": "안성기",
-      "count": 7
+      "count": 14
     },
     {
       "word": "한국",
-      "count": 5
-    },
-    {
-      "word": "베네수엘라",
-      "count": 5
+      "count": 10
     },
     {
       "word": "트럼프",
-      "count": 5
+      "count": 10
     },
     {
       "word": "별세",
-      "count": 4
-    },
-    {
-      "word": "아들",
-      "count": 3
+      "count": 7
     },
     {
       "word": "이혜훈",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "재산",
-      "count": 3
+      "word": "베네수엘라",
+      "count": 7
     },
     {
-      "word": "대통령",
-      "count": 3
+      "word": "베네수",
+      "count": 6
     },
     {
       "word": "마두로",
-      "count": 3
-    },
-    {
-      "word": "체포",
-      "count": 3
-    },
-    {
-      "word": "만원",
-      "count": 3
-    },
-    {
-      "word": "상대",
-      "count": 3
-    },
-    {
-      "word": "남자",
-      "count": 3
+      "count": 6
     },
     {
       "word": "부통령",
-      "count": 3
-    },
-    {
-      "word": "중학교",
-      "count": 2
-    },
-    {
-      "word": "짝꿍",
-      "count": 2
-    },
-    {
-      "word": "조용필",
-      "count": 2
+      "count": 6
     },
     {
       "word": "논란",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "같은",
-      "count": 2
+      "word": "아들",
+      "count": 5
+    },
+    {
+      "word": "재산",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "체포",
+      "count": 5
+    },
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "상대",
+      "count": 5
+    },
+    {
+      "word": "아파트",
+      "count": 5
+    },
+    {
+      "word": "남자",
+      "count": 5
+    },
+    {
+      "word": "있는데",
+      "count": 4
+    },
+    {
+      "word": "계엄",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "이혜훈",
-        "count": 3
+        "count": 7
       },
       {
         "word": "재산",
-        "count": 3
+        "count": 5
       },
       {
         "word": "대통령",
-        "count": 3
+        "count": 4
       },
       {
         "word": "있는데",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "한중",
-        "count": 2
+        "word": "계엄",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "월드컵",
-        "count": 2
+        "word": "한국",
+        "count": 5
       },
       {
         "word": "상대",
-        "count": 2
-      },
-      {
-        "word": "남아공",
-        "count": 2
+        "count": 4
       },
       {
         "word": "네이션스컵",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "자리",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "아파트",
-        "count": 2
+        "count": 4
       },
       {
         "word": "가격",
-        "count": 2
+        "count": 3
       },
       {
         "word": "초과",
-        "count": 1
+        "count": 2
       },
       {
         "word": "거래",
-        "count": 1
+        "count": 2
       },
       {
         "word": "건이",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "만원",
-        "count": 3
+        "count": 4
       },
       {
         "word": "층엔",
+        "count": 4
+      },
+      {
+        "word": "닭똥",
+        "count": 3
+      },
+      {
+        "word": "논란",
+        "count": 3
+      },
+      {
+        "word": "개시",
         "count": 2
-      },
-      {
-        "word": "서해",
-        "count": 1
-      },
-      {
-        "word": "피살",
-        "count": 1
-      },
-      {
-        "word": "공무원",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 5
-      },
-      {
-        "word": "베네수엘라",
-        "count": 4
+        "count": 10
       },
       {
         "word": "부통령",
-        "count": 3
+        "count": 6
       },
       {
-        "word": "협력",
-        "count": 2
+        "word": "베네수엘라",
+        "count": 5
       },
       {
-        "word": "참치",
-        "count": 2
+        "word": "명품",
+        "count": 4
+      },
+      {
+        "word": "실권자",
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "안성기",
-        "count": 6
+        "count": 11
       },
       {
         "word": "별세",
-        "count": 3
+        "count": 6
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "중학교",
-        "count": 2
+        "word": "신정환",
+        "count": 3
       },
       {
-        "word": "짝꿍",
-        "count": 2
+        "word": "이상민",
+        "count": 3
       }
     ]
   }
