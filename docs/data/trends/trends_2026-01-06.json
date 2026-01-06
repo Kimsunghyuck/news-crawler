@@ -1,13 +1,220 @@
 {
   "date": "2026-01-06",
-  "generated_at": "2026-01-06T09:35:28.353268+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-06T15:11:07.460213+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "마두로",
+      "count": 6
+    },
+    {
+      "word": "안성기",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "체포",
+      "count": 4
+    },
+    {
+      "word": "이혜훈",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "베네수엘라",
+      "count": 3
+    },
+    {
+      "word": "얼굴",
+      "count": 2
+    },
+    {
+      "word": "통일교",
+      "count": 2
+    },
+    {
+      "word": "년간",
+      "count": 2
+    },
+    {
+      "word": "중국에",
+      "count": 2
+    },
+    {
+      "word": "리창",
+      "count": 2
+    },
+    {
+      "word": "총리",
+      "count": 2
+    },
+    {
+      "word": "자오러지",
+      "count": 2
+    },
+    {
+      "word": "만나",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "상대",
+      "count": 2
+    },
+    {
+      "word": "등장",
+      "count": 2
+    },
+    {
+      "word": "논란에",
+      "count": 2
+    },
+    {
+      "word": "집행",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "이혜훈",
+        "count": 3
+      },
+      {
+        "word": "리창",
+        "count": 2
+      },
+      {
+        "word": "총리",
+        "count": 2
+      },
+      {
+        "word": "자오러지",
+        "count": 2
+      },
+      {
+        "word": "만나",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 3
+      },
+      {
+        "word": "올림픽",
+        "count": 2
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "아이스하키",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "기업",
+        "count": 2
+      },
+      {
+        "word": "쿠팡",
+        "count": 1
+      },
+      {
+        "word": "정보",
+        "count": 1
+      },
+      {
+        "word": "유출",
+        "count": 1
+      },
+      {
+        "word": "달여",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "경찰",
+        "count": 2
+      },
+      {
+        "word": "정교유착",
+        "count": 1
+      },
+      {
+        "word": "비리",
+        "count": 1
+      },
+      {
+        "word": "합동수사본부",
+        "count": 1
+      },
+      {
+        "word": "구성",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "마두로",
+        "count": 5
+      },
+      {
+        "word": "체포",
+        "count": 4
+      },
+      {
+        "word": "다리",
+        "count": 2
+      },
+      {
+        "word": "부인은",
+        "count": 2
+      },
+      {
+        "word": "눈에",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "안성기",
+        "count": 3
+      },
+      {
+        "word": "얼굴",
+        "count": 2
+      },
+      {
+        "word": "황신혜",
+        "count": 1
+      },
+      {
+        "word": "눈물",
+        "count": 1
+      },
+      {
+        "word": "데뷔작",
+        "count": 1
+      }
+    ]
   }
 }
