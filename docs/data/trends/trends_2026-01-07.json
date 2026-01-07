@@ -1,13 +1,220 @@
 {
   "date": "2026-01-07",
-  "generated_at": "2026-01-07T09:32:52.904446+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-07T15:11:09.634121+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "지금",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "계엄",
+      "count": 3
+    },
+    {
+      "word": "시진핑",
+      "count": 3
+    },
+    {
+      "word": "기술",
+      "count": 3
+    },
+    {
+      "word": "판매",
+      "count": 3
+    },
+    {
+      "word": "받는다",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "역사의",
+      "count": 2
+    },
+    {
+      "word": "올바른",
+      "count": 2
+    },
+    {
+      "word": "시설",
+      "count": 2
+    },
+    {
+      "word": "마두로",
+      "count": 2
+    },
+    {
+      "word": "김건희",
+      "count": 2
+    },
+    {
+      "word": "새벽",
+      "count": 2
+    },
+    {
+      "word": "싸움",
+      "count": 2
+    },
+    {
+      "word": "말렸다",
+      "count": 2
+    },
+    {
+      "word": "실패뒤",
+      "count": 2
+    },
+    {
+      "word": "관저",
+      "count": 2
+    },
+    {
+      "word": "목격자",
+      "count": 2
+    },
+    {
+      "word": "증언",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "계엄",
+        "count": 3
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "역사의",
+        "count": 2
+      },
+      {
+        "word": "올바른",
+        "count": 2
+      },
+      {
+        "word": "김건희",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "유니폼",
+        "count": 2
+      },
+      {
+        "word": "판매",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "아시안컵",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "기술",
+        "count": 2
+      },
+      {
+        "word": "중국",
+        "count": 1
+      },
+      {
+        "word": "테크의",
+        "count": 1
+      },
+      {
+        "word": "급성장",
+        "count": 1
+      },
+      {
+        "word": "언제",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "부정선거",
+        "count": 1
+      },
+      {
+        "word": "반박하면",
+        "count": 1
+      },
+      {
+        "word": "토론",
+        "count": 1
+      },
+      {
+        "word": "제안에",
+        "count": 1
+      },
+      {
+        "word": "이준석",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "주머니",
+        "count": 2
+      },
+      {
+        "word": "지금",
+        "count": 2
+      },
+      {
+        "word": "사람",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "피해자",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "모친상",
+        "count": 1
+      },
+      {
+        "word": "아내는",
+        "count": 1
+      },
+      {
+        "word": "하와이",
+        "count": 1
+      },
+      {
+        "word": "정형돈",
+        "count": 1
+      },
+      {
+        "word": "가짜뉴스에",
+        "count": 1
+      }
+    ]
   }
 }
