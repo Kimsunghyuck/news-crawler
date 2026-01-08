@@ -1,13 +1,220 @@
 {
   "date": "2026-01-08",
-  "generated_at": "2026-01-08T09:35:22.048286+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-08T15:08:02.344635+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "세계",
+      "count": 4
+    },
+    {
+      "word": "가장",
+      "count": 3
+    },
+    {
+      "word": "새벽",
+      "count": 3
+    },
+    {
+      "word": "김건희",
+      "count": 3
+    },
+    {
+      "word": "방첩사",
+      "count": 3
+    },
+    {
+      "word": "계엄",
+      "count": 3
+    },
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "차원",
+      "count": 2
+    },
+    {
+      "word": "계엄실패",
+      "count": 2
+    },
+    {
+      "word": "귀가한",
+      "count": 2
+    },
+    {
+      "word": "드잡이",
+      "count": 2
+    },
+    {
+      "word": "하며",
+      "count": 2
+    },
+    {
+      "word": "싸웠다",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "해체",
+      "count": 2
+    },
+    {
+      "word": "국민이",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "방첩사",
+        "count": 3
+      },
+      {
+        "word": "계엄",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "해체",
+        "count": 2
+      },
+      {
+        "word": "국민이",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "최고",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "리그",
+        "count": 2
+      },
+      {
+        "word": "세계",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "시장",
+        "count": 2
+      },
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "증권사들",
+        "count": 1
+      },
+      {
+        "word": "코스피",
+        "count": 1
+      },
+      {
+        "word": "급등하자",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "인정",
+        "count": 2
+      },
+      {
+        "word": "주말",
+        "count": 1
+      },
+      {
+        "word": "전국에",
+        "count": 1
+      },
+      {
+        "word": "폭설",
+        "count": 1
+      },
+      {
+        "word": "내린다",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "포함",
+        "count": 2
+      },
+      {
+        "word": "마두로",
+        "count": 2
+      },
+      {
+        "word": "정치인",
+        "count": 2
+      },
+      {
+        "word": "식스팩",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "세계",
+        "count": 2
+      },
+      {
+        "word": "차원",
+        "count": 2
+      },
+      {
+        "word": "가장",
+        "count": 2
+      },
+      {
+        "word": "삼성",
+        "count": 1
+      },
+      {
+        "word": "특별",
+        "count": 1
+      }
+    ]
   }
 }
