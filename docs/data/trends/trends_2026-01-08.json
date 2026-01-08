@@ -1,219 +1,219 @@
 {
   "date": "2026-01-08",
-  "generated_at": "2026-01-08T15:08:02.344635+09:00",
+  "generated_at": "2026-01-08T19:12:39.078894+09:00",
   "daily_top_keywords": [
     {
       "word": "한국",
-      "count": 5
-    },
-    {
-      "word": "세계",
-      "count": 4
-    },
-    {
-      "word": "가장",
-      "count": 3
-    },
-    {
-      "word": "새벽",
-      "count": 3
-    },
-    {
-      "word": "김건희",
-      "count": 3
-    },
-    {
-      "word": "방첩사",
-      "count": 3
-    },
-    {
-      "word": "계엄",
-      "count": 3
-    },
-    {
-      "word": "서울",
-      "count": 3
+      "count": 10
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 6
     },
     {
-      "word": "차원",
-      "count": 2
+      "word": "세계",
+      "count": 6
     },
     {
-      "word": "계엄실패",
-      "count": 2
+      "word": "새벽",
+      "count": 5
     },
     {
-      "word": "귀가한",
-      "count": 2
+      "word": "김건희",
+      "count": 5
     },
     {
-      "word": "드잡이",
-      "count": 2
+      "word": "방첩사",
+      "count": 5
     },
     {
-      "word": "하며",
-      "count": 2
+      "word": "계엄",
+      "count": 5
     },
     {
-      "word": "싸웠다",
-      "count": 2
+      "word": "가장",
+      "count": 4
     },
     {
       "word": "국힘",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "해체",
-      "count": 2
+      "word": "서울",
+      "count": 4
     },
     {
-      "word": "국민이",
-      "count": 2
+      "word": "뛴다",
+      "count": 4
     },
     {
-      "word": "의혹",
-      "count": 2
+      "word": "남자",
+      "count": 4
     },
     {
-      "word": "대통령",
-      "count": 2
+      "word": "포함",
+      "count": 4
+    },
+    {
+      "word": "백인",
+      "count": 3
+    },
+    {
+      "word": "처음",
+      "count": 3
+    },
+    {
+      "word": "미담",
+      "count": 3
+    },
+    {
+      "word": "식사",
+      "count": 3
+    },
+    {
+      "word": "같은",
+      "count": 3
+    },
+    {
+      "word": "계엄실패",
+      "count": 3
+    },
+    {
+      "word": "귀가한",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "방첩사",
-        "count": 3
+        "count": 5
       },
       {
         "word": "계엄",
-        "count": 3
+        "count": 5
       },
       {
         "word": "국힘",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "해체",
-        "count": 2
+        "word": "새벽",
+        "count": 4
       },
       {
-        "word": "국민이",
-        "count": 2
+        "word": "김건희",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "한국",
-        "count": 3
-      },
-      {
-        "word": "최고",
-        "count": 2
+        "count": 5
       },
       {
         "word": "남자",
-        "count": 2
-      },
-      {
-        "word": "리그",
-        "count": 2
+        "count": 4
       },
       {
         "word": "세계",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "최고",
+        "count": 3
+      },
+      {
+        "word": "리그",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "시장",
-        "count": 2
+        "count": 3
       },
       {
         "word": "서울",
-        "count": 2
+        "count": 3
       },
       {
         "word": "증권사들",
-        "count": 1
+        "count": 2
       },
       {
         "word": "코스피",
-        "count": 1
+        "count": 2
       },
       {
         "word": "급등하자",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "인정",
+        "word": "주말",
         "count": 2
       },
       {
-        "word": "주말",
-        "count": 1
-      },
-      {
         "word": "전국에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "폭설",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "내린다",
-        "count": 1
+        "word": "얼음공기",
+        "count": 2
+      },
+      {
+        "word": "남하",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "포함",
-        "count": 2
+        "count": 4
       },
       {
         "word": "마두로",
-        "count": 2
+        "count": 3
       },
       {
         "word": "정치인",
-        "count": 2
+        "count": 3
       },
       {
         "word": "식스팩",
-        "count": 2
+        "count": 3
       },
       {
         "word": "트럼프",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
+      {
+        "word": "미담",
+        "count": 3
+      },
+      {
+        "word": "같은",
+        "count": 3
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
       {
         "word": "세계",
         "count": 2
       },
       {
-        "word": "차원",
+        "word": "디즈니",
         "count": 2
-      },
-      {
-        "word": "가장",
-        "count": 2
-      },
-      {
-        "word": "삼성",
-        "count": 1
-      },
-      {
-        "word": "특별",
-        "count": 1
       }
     ]
   }
