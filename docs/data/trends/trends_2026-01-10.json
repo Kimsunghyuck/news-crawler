@@ -1,156 +1,160 @@
 {
   "date": "2026-01-10",
-  "generated_at": "2026-01-10T15:09:51.154612+09:00",
+  "generated_at": "2026-01-10T19:11:30.078272+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 6
-    },
-    {
-      "word": "안성기",
-      "count": 4
-    },
-    {
-      "word": "무인기",
-      "count": 4
-    },
-    {
-      "word": "승무원",
-      "count": 4
-    },
-    {
-      "word": "레고",
-      "count": 3
-    },
-    {
-      "word": "꽃다발",
-      "count": 3
-    },
-    {
-      "word": "남자",
-      "count": 3
-    },
-    {
-      "word": "청주행",
-      "count": 3
-    },
-    {
-      "word": "기내서",
-      "count": 3
-    },
-    {
-      "word": "이송",
-      "count": 3
-    },
-    {
-      "word": "보조배터리",
-      "count": 3
-    },
-    {
-      "word": "연기",
-      "count": 3
-    },
-    {
-      "word": "만원",
-      "count": 3
+      "count": 9
     },
     {
       "word": "한국",
-      "count": 3
+      "count": 8
+    },
+    {
+      "word": "무인기",
+      "count": 8
+    },
+    {
+      "word": "안성기",
+      "count": 6
+    },
+    {
+      "word": "남자",
+      "count": 6
+    },
+    {
+      "word": "만에",
+      "count": 6
+    },
+    {
+      "word": "만원",
+      "count": 6
     },
     {
       "word": "안세영",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "영입",
-      "count": 3
+      "word": "레고",
+      "count": 5
     },
     {
-      "word": "화원",
-      "count": 2
+      "word": "꽃다발",
+      "count": 5
     },
     {
-      "word": "단체",
-      "count": 2
+      "word": "아냐",
+      "count": 5
     },
     {
-      "word": "상처",
-      "count": 2
+      "word": "승무원",
+      "count": 5
     },
     {
-      "word": "숙행",
-      "count": 2
+      "word": "한동훈",
+      "count": 4
+    },
+    {
+      "word": "침투",
+      "count": 4
+    },
+    {
+      "word": "조사",
+      "count": 4
+    },
+    {
+      "word": "청주행",
+      "count": 4
+    },
+    {
+      "word": "이송",
+      "count": 4
+    },
+    {
+      "word": "보조배터리",
+      "count": 4
+    },
+    {
+      "word": "연기",
+      "count": 4
+    },
+    {
+      "word": "기초연금",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "무인기",
-        "count": 4
-      },
-      {
-        "word": "한동훈",
-        "count": 2
-      },
-      {
-        "word": "침투",
-        "count": 2
-      },
-      {
-        "word": "기종",
-        "count": 2
+        "count": 8
       },
       {
         "word": "아냐",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "한동훈",
+        "count": 4
+      },
+      {
+        "word": "침투",
+        "count": 4
+      },
+      {
+        "word": "국방부",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "안세영",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "한국",
+        "count": 5
+      },
+      {
+        "word": "남자",
+        "count": 4
       },
       {
         "word": "영입",
         "count": 3
       },
       {
-        "word": "남자",
-        "count": 2
-      },
-      {
-        "word": "한국",
-        "count": 2
-      },
-      {
-        "word": "프로축구",
-        "count": 2
+        "word": "알카라스",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "만원",
-        "count": 2
+        "count": 4
       },
       {
         "word": "할인으로",
-        "count": 1
+        "count": 2
       },
       {
         "word": "젓자",
-        "count": 1
+        "count": 2
       },
       {
         "word": "대통령",
-        "count": 1
+        "count": 2
       },
       {
         "word": "셀카폰",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "기초연금",
+        "count": 4
+      },
       {
         "word": "기내서",
         "count": 3
@@ -160,60 +164,56 @@
         "count": 3
       },
       {
-        "word": "청주행",
-        "count": 2
+        "word": "강풍에",
+        "count": 3
       },
       {
-        "word": "이송",
-        "count": 2
-      },
-      {
-        "word": "강풍",
-        "count": 2
+        "word": "진화",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 5
-      },
-      {
-        "word": "타격",
-        "count": 2
+        "count": 7
       },
       {
         "word": "트럼프에",
-        "count": 2
+        "count": 4
       },
       {
         "word": "양도",
-        "count": 2
+        "count": 4
       },
       {
         "word": "이란",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "타격",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "안성기",
-        "count": 4
+        "count": 6
       },
       {
         "word": "레고",
-        "count": 3
+        "count": 4
       },
       {
         "word": "꽃다발",
+        "count": 4
+      },
+      {
+        "word": "숙행",
         "count": 3
       },
       {
-        "word": "화원",
-        "count": 2
-      },
-      {
-        "word": "상처",
-        "count": 2
+        "word": "변호사",
+        "count": 3
       }
     ]
   }
