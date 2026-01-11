@@ -1,13 +1,220 @@
 {
   "date": "2026-01-11",
-  "generated_at": "2026-01-11T09:38:47.595839+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-11T15:10:20.200141+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "의혹",
+      "count": 3
+    },
+    {
+      "word": "이준석",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "도움",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "시위",
+      "count": 3
+    },
+    {
+      "word": "베네수",
+      "count": 3
+    },
+    {
+      "word": "제니",
+      "count": 2
+    },
+    {
+      "word": "대상",
+      "count": 2
+    },
+    {
+      "word": "관왕",
+      "count": 2
+    },
+    {
+      "word": "도쿄",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "김병기에",
+      "count": 2
+    },
+    {
+      "word": "탈당",
+      "count": 2
+    },
+    {
+      "word": "요구",
+      "count": 2
+    },
+    {
+      "word": "애당의",
+      "count": 2
+    },
+    {
+      "word": "깊이",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "이준석",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "김병기에",
+        "count": 2
+      },
+      {
+        "word": "탈당",
+        "count": 2
+      },
+      {
+        "word": "요구",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "도움",
+        "count": 3
+      },
+      {
+        "word": "남자",
+        "count": 3
+      },
+      {
+        "word": "대회",
+        "count": 2
+      },
+      {
+        "word": "연패",
+        "count": 2
+      },
+      {
+        "word": "정우영",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "돌파",
+        "count": 2
+      },
+      {
+        "word": "할인으로",
+        "count": 1
+      },
+      {
+        "word": "젓자",
+        "count": 1
+      },
+      {
+        "word": "대통령",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "뚫고",
+        "count": 2
+      },
+      {
+        "word": "격차",
+        "count": 2
+      },
+      {
+        "word": "강선우",
+        "count": 1
+      },
+      {
+        "word": "김경",
+        "count": 1
+      },
+      {
+        "word": "귀국",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "시위",
+        "count": 3
+      },
+      {
+        "word": "베네수",
+        "count": 3
+      },
+      {
+        "word": "다음은",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "제니",
+        "count": 2
+      },
+      {
+        "word": "관왕",
+        "count": 2
+      },
+      {
+        "word": "골든디스크서",
+        "count": 1
+      },
+      {
+        "word": "대상",
+        "count": 1
+      },
+      {
+        "word": "포함",
+        "count": 1
+      }
+    ]
   }
 }
