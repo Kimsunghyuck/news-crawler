@@ -1,13 +1,220 @@
 {
   "date": "2026-01-12",
-  "generated_at": "2026-01-12T09:37:23.102835+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-12T15:10:02.540805+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "골든글로브",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "관왕",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "케데헌",
+      "count": 3
+    },
+    {
+      "word": "윤리심판원",
+      "count": 3
+    },
+    {
+      "word": "탁구",
+      "count": 3
+    },
+    {
+      "word": "장우진",
+      "count": 3
+    },
+    {
+      "word": "준우승",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "수상",
+      "count": 2
+    },
+    {
+      "word": "사진",
+      "count": 2
+    },
+    {
+      "word": "평양",
+      "count": 2
+    },
+    {
+      "word": "무대",
+      "count": 2
+    },
+    {
+      "word": "마두로",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "김병기",
+      "count": 2
+    },
+    {
+      "word": "충실히",
+      "count": 2
+    },
+    {
+      "word": "답변",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "윤리심판원",
+        "count": 3
+      },
+      {
+        "word": "김병기",
+        "count": 2
+      },
+      {
+        "word": "충실히",
+        "count": 2
+      },
+      {
+        "word": "답변",
+        "count": 2
+      },
+      {
+        "word": "특검",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "탁구",
+        "count": 3
+      },
+      {
+        "word": "장우진",
+        "count": 3
+      },
+      {
+        "word": "준우승",
+        "count": 3
+      },
+      {
+        "word": "우승",
+        "count": 2
+      },
+      {
+        "word": "만리장성",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "스마트폰",
+        "count": 2
+      },
+      {
+        "word": "대신",
+        "count": 2
+      },
+      {
+        "word": "쿠팡",
+        "count": 2
+      },
+      {
+        "word": "탁월한",
+        "count": 1
+      },
+      {
+        "word": "공간감",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "대장동",
+        "count": 1
+      },
+      {
+        "word": "일당",
+        "count": 1
+      },
+      {
+        "word": "가압류",
+        "count": 1
+      },
+      {
+        "word": "계좌",
+        "count": 1
+      },
+      {
+        "word": "남은",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "회담",
+        "count": 2
+      },
+      {
+        "word": "협상하자고",
+        "count": 1
+      },
+      {
+        "word": "연락",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "골든글로브",
+        "count": 5
+      },
+      {
+        "word": "관왕",
+        "count": 4
+      },
+      {
+        "word": "케데헌",
+        "count": 3
+      },
+      {
+        "word": "수상",
+        "count": 2
+      },
+      {
+        "word": "무대",
+        "count": 2
+      }
+    ]
   }
 }
