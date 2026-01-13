@@ -1,219 +1,219 @@
 {
   "date": "2026-01-13",
-  "generated_at": "2026-01-13T15:10:41.605907+09:00",
+  "generated_at": "2026-01-13T19:11:39.529759+09:00",
   "daily_top_keywords": [
     {
-      "word": "한일",
-      "count": 5
-    },
-    {
-      "word": "다카이치",
-      "count": 5
-    },
-    {
       "word": "이란",
-      "count": 5
-    },
-    {
-      "word": "깜짝",
-      "count": 3
-    },
-    {
-      "word": "정상회담",
-      "count": 3
+      "count": 13
     },
     {
       "word": "김병기",
-      "count": 3
+      "count": 10
     },
     {
-      "word": "요즘",
-      "count": 3
+      "word": "다카이치",
+      "count": 8
     },
     {
-      "word": "만에",
-      "count": 3
+      "word": "한일",
+      "count": 6
     },
     {
       "word": "남자",
-      "count": 3
-    },
-    {
-      "word": "골든글로브",
-      "count": 2
-    },
-    {
-      "word": "피식대학",
-      "count": 2
-    },
-    {
-      "word": "사과",
-      "count": 2
-    },
-    {
-      "word": "근황",
-      "count": 2
-    },
-    {
-      "word": "됐다",
-      "count": 2
-    },
-    {
-      "word": "찾아오게",
-      "count": 2
-    },
-    {
-      "word": "케데헌",
-      "count": 2
+      "count": 6
     },
     {
       "word": "관왕",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "뉴진스",
-      "count": 2
+      "word": "요즘",
+      "count": 5
+    },
+    {
+      "word": "삼성",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "여대생",
+      "count": 5
+    },
+    {
+      "word": "골든글로브",
+      "count": 4
+    },
+    {
+      "word": "깜짝",
+      "count": 4
+    },
+    {
+      "word": "근황",
+      "count": 4
+    },
+    {
+      "word": "호텔",
+      "count": 4
     },
     {
       "word": "대통령",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "숙소",
-      "count": 2
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "집에",
+      "count": 4
+    },
+    {
+      "word": "대회",
+      "count": 4
+    },
+    {
+      "word": "아시안컵",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "김병기",
+        "count": 10
+      },
+      {
         "word": "다카이치",
-        "count": 4
+        "count": 6
       },
       {
         "word": "한일",
-        "count": 3
-      },
-      {
-        "word": "김병기",
-        "count": 3
+        "count": 4
       },
       {
         "word": "대통령",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "정상회담",
-        "count": 2
+        "word": "숙소",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 2
+        "count": 5
       },
       {
         "word": "대회",
-        "count": 2
-      },
-      {
-        "word": "베트남",
-        "count": 2
+        "count": 4
       },
       {
         "word": "아시안컵",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "연승",
-        "count": 2
+        "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "삼성",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "요즘",
-        "count": 3
+        "count": 5
       },
       {
         "word": "삼성",
-        "count": 1
+        "count": 2
       },
       {
         "word": "임직원",
-        "count": 1
+        "count": 2
       },
       {
         "word": "최대",
-        "count": 1
+        "count": 2
       },
       {
         "word": "관심사는",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "아들",
-        "count": 2
+        "count": 3
       },
       {
         "word": "경찰",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "출석한",
-        "count": 1
+        "word": "몽테스키외",
+        "count": 2
       },
       {
-        "word": "진종오",
-        "count": 1
+        "word": "사법심사",
+        "count": 2
       },
       {
-        "word": "김경",
-        "count": 1
+        "word": "대상",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 5
+        "count": 13
       },
       {
         "word": "여대생",
-        "count": 2
+        "count": 5
       },
       {
         "word": "뒤통수에",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "한일",
-        "count": 2
+        "word": "즉결",
+        "count": 3
       },
       {
-        "word": "교류의",
-        "count": 2
+        "word": "처형",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "골든글로브",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "관왕",
+        "count": 4
       },
       {
         "word": "피식대학",
-        "count": 2
+        "count": 3
       },
       {
         "word": "사과",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "찾아오게",
-        "count": 2
-      },
-      {
-        "word": "케데헌",
-        "count": 2
+        "word": "발언",
+        "count": 3
       }
     ]
   }
