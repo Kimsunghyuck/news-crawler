@@ -1,219 +1,219 @@
 {
   "date": "2026-01-14",
-  "generated_at": "2026-01-14T15:11:47.345116+09:00",
+  "generated_at": "2026-01-14T19:12:29.785567+09:00",
   "daily_top_keywords": [
     {
       "word": "한국",
-      "count": 6
-    },
-    {
-      "word": "정부",
-      "count": 4
+      "count": 11
     },
     {
       "word": "한동훈",
-      "count": 4
-    },
-    {
-      "word": "제명",
-      "count": 3
-    },
-    {
-      "word": "장동혁",
-      "count": 3
-    },
-    {
-      "word": "환율",
-      "count": 3
-    },
-    {
-      "word": "남자",
-      "count": 3
+      "count": 8
     },
     {
       "word": "이란",
-      "count": 3
+      "count": 8
     },
     {
-      "word": "애니",
-      "count": 2
+      "word": "정부",
+      "count": 7
     },
     {
-      "word": "복학",
-      "count": 2
+      "word": "제명",
+      "count": 6
     },
     {
-      "word": "고막",
-      "count": 2
+      "word": "남자",
+      "count": 6
+    },
+    {
+      "word": "장동혁",
+      "count": 5
+    },
+    {
+      "word": "환율",
+      "count": 5
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "이유",
-      "count": 2
-    },
-    {
-      "word": "한일",
-      "count": 2
+      "word": "가수",
+      "count": 4
     },
     {
       "word": "반드시",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "위한",
-      "count": 2
+      "word": "경찰",
+      "count": 4
     },
     {
-      "word": "대규모",
-      "count": 2
+      "word": "김병기",
+      "count": 4
     },
     {
-      "word": "사과",
-      "count": 2
+      "word": "세계",
+      "count": 4
     },
     {
-      "word": "다카이치",
-      "count": 2
+      "word": "사업",
+      "count": 4
     },
     {
-      "word": "계엄",
-      "count": 2
+      "word": "레바논",
+      "count": 4
+    },
+    {
+      "word": "애니",
+      "count": 3
+    },
+    {
+      "word": "복학",
+      "count": 3
+    },
+    {
+      "word": "주고",
+      "count": 3
+    },
+    {
+      "word": "다른",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "한동훈",
-        "count": 4
+        "count": 8
       },
       {
         "word": "제명",
-        "count": 3
+        "count": 6
       },
       {
         "word": "장동혁",
-        "count": 3
-      },
-      {
-        "word": "한일",
-        "count": 2
+        "count": 5
       },
       {
         "word": "반드시",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "수사",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "한국",
-        "count": 5
+        "count": 10
       },
       {
         "word": "남자",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "레바논",
+        "count": 4
       },
       {
         "word": "맨유",
-        "count": 2
+        "count": 3
       },
       {
         "word": "캐릭",
-        "count": 2
-      },
-      {
-        "word": "대한항공",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "환율",
-        "count": 3
-      },
-      {
-        "word": "달러",
-        "count": 2
+        "count": 5
       },
       {
         "word": "정부",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "사업",
+        "count": 4
+      },
+      {
+        "word": "달러",
+        "count": 3
       },
       {
         "word": "세계",
-        "count": 2
-      },
-      {
-        "word": "놓고",
-        "count": 1
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "경찰",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "혐의",
+        "count": 3
       },
       {
         "word": "아들",
+        "count": 3
+      },
+      {
+        "word": "팔아",
+        "count": 3
+      },
+      {
+        "word": "현우진",
         "count": 2
-      },
-      {
-        "word": "국가대표",
-        "count": 1
-      },
-      {
-        "word": "유격수",
-        "count": 1
-      },
-      {
-        "word": "김민재",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 3
+        "count": 8
       },
       {
         "word": "발견",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 3
       },
       {
         "word": "사우디",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "불쾌해",
-        "count": 1
-      },
-      {
-        "word": "트럼프가",
-        "count": 1
+        "word": "인터넷",
+        "count": 3
       }
     ],
     "culture": [
       {
+        "word": "가수",
+        "count": 4
+      },
+      {
         "word": "애니",
-        "count": 2
+        "count": 3
       },
       {
         "word": "복학",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "무대",
+        "count": 3
       },
       {
         "word": "고막",
         "count": 2
-      },
-      {
-        "word": "활동",
-        "count": 1
-      },
-      {
-        "word": "중단",
-        "count": 1
       }
     ]
   }
