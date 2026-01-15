@@ -1,13 +1,220 @@
 {
   "date": "2026-01-15",
-  "generated_at": "2026-01-15T09:33:26.747116+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-15T15:09:59.700992+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "사건",
+      "count": 3
+    },
+    {
+      "word": "세계",
+      "count": 3
+    },
+    {
+      "word": "경찰",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "아시안컵",
+      "count": 3
+    },
+    {
+      "word": "베트남",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "강화",
+      "count": 2
+    },
+    {
+      "word": "이유",
+      "count": 2
+    },
+    {
+      "word": "시간",
+      "count": 2
+    },
+    {
+      "word": "강선우",
+      "count": 2
+    },
+    {
+      "word": "김병기",
+      "count": 2
+    },
+    {
+      "word": "내부",
+      "count": 2
+    },
+    {
+      "word": "분열하면",
+      "count": 2
+    },
+    {
+      "word": "단식",
+      "count": 2
+    },
+    {
+      "word": "돌입",
+      "count": 2
+    },
+    {
+      "word": "공천헌금",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "장동혁",
+        "count": 3
+      },
+      {
+        "word": "사건",
+        "count": 3
+      },
+      {
+        "word": "내부",
+        "count": 2
+      },
+      {
+        "word": "분열하면",
+        "count": 2
+      },
+      {
+        "word": "단식",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "아시안컵",
+        "count": 3
+      },
+      {
+        "word": "베트남",
+        "count": 3
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "김민재",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "최대",
+        "count": 3
+      },
+      {
+        "word": "역대",
+        "count": 2
+      },
+      {
+        "word": "삼전",
+        "count": 2
+      },
+      {
+        "word": "금통위",
+        "count": 2
+      },
+      {
+        "word": "쿠팡",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "경찰",
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "손가락",
+        "count": 2
+      },
+      {
+        "word": "구속",
+        "count": 2
+      },
+      {
+        "word": "조사",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "시위",
+        "count": 2
+      },
+      {
+        "word": "후회한다",
+        "count": 2
+      },
+      {
+        "word": "국영",
+        "count": 2
+      },
+      {
+        "word": "강제",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "박나래",
+        "count": 1
+      },
+      {
+        "word": "매니저",
+        "count": 1
+      },
+      {
+        "word": "합의서",
+        "count": 1
+      },
+      {
+        "word": "초안",
+        "count": 1
+      }
+    ]
   }
 }
