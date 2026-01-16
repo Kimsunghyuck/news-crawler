@@ -1,219 +1,219 @@
 {
   "date": "2026-01-16",
-  "generated_at": "2026-01-16T15:09:48.247950+09:00",
+  "generated_at": "2026-01-16T19:12:14.618671+09:00",
   "daily_top_keywords": [
     {
       "word": "만원",
+      "count": 7
+    },
+    {
+      "word": "논란",
+      "count": 6
+    },
+    {
+      "word": "남자",
       "count": 6
     },
     {
       "word": "한국",
-      "count": 4
-    },
-    {
-      "word": "우승",
-      "count": 3
-    },
-    {
-      "word": "논란",
-      "count": 3
-    },
-    {
-      "word": "이혜훈",
-      "count": 3
-    },
-    {
-      "word": "현대차",
-      "count": 3
-    },
-    {
-      "word": "남자",
-      "count": 3
-    },
-    {
-      "word": "시신",
-      "count": 3
-    },
-    {
-      "word": "이란",
-      "count": 3
+      "count": 6
     },
     {
       "word": "흑백요리사",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "번째",
-      "count": 2
-    },
-    {
-      "word": "여행",
-      "count": 2
-    },
-    {
-      "word": "컴백",
-      "count": 2
+      "word": "우승",
+      "count": 5
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "부부",
-      "count": 2
+      "word": "트럼프",
+      "count": 5
     },
     {
-      "word": "아이",
-      "count": 2
-    },
-    {
-      "word": "정청래",
-      "count": 2
-    },
-    {
-      "word": "한동훈",
-      "count": 2
+      "word": "현대차",
+      "count": 5
     },
     {
       "word": "과거",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "여야",
-      "count": 2
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "이혜훈",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "다카이치",
+      "count": 4
+    },
+    {
+      "word": "징역",
+      "count": 4
+    },
+    {
+      "word": "하닉",
+      "count": 4
+    },
+    {
+      "word": "시신",
+      "count": 4
+    },
+    {
+      "word": "번째",
+      "count": 3
+    },
+    {
+      "word": "생일",
+      "count": 3
+    },
+    {
+      "word": "여행",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "정청래",
-        "count": 2
+        "word": "다카이치",
+        "count": 4
       },
       {
         "word": "한동훈",
-        "count": 2
+        "count": 3
       },
       {
         "word": "이혜훈",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "여야",
-        "count": 2
+        "word": "아소",
+        "count": 3
       },
       {
-        "word": "오찬",
-        "count": 2
+        "word": "총리",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "한국",
-        "count": 4
+        "count": 6
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "컬링",
+        "count": 3
+      },
+      {
+        "word": "만에",
+        "count": 3
       },
       {
         "word": "우승",
-        "count": 2
-      },
-      {
-        "word": "베트남",
-        "count": 2
-      },
-      {
-        "word": "농구의",
-        "count": 1
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "현대차",
-        "count": 3
-      },
-      {
-        "word": "북미",
-        "count": 2
-      },
-      {
-        "word": "최대",
-        "count": 2
-      },
-      {
-        "word": "신동빈",
-        "count": 2
+        "count": 5
       },
       {
         "word": "하닉",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "북미",
+        "count": 3
+      },
+      {
+        "word": "코스피",
+        "count": 3
+      },
+      {
+        "word": "최대",
+        "count": 3
       }
     ],
     "society": [
       {
+        "word": "징역",
+        "count": 4
+      },
+      {
         "word": "버스",
-        "count": 2
+        "count": 3
       },
       {
         "word": "부상자",
-        "count": 2
+        "count": 3
       },
       {
         "word": "중상",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "만원",
+        "word": "서울",
         "count": 2
-      },
-      {
-        "word": "서대문역",
-        "count": 1
       }
     ],
     "international": [
       {
-        "word": "만원",
+        "word": "시신",
+        "count": 4
+      },
+      {
+        "word": "노벨상",
         "count": 3
       },
       {
-        "word": "시신",
+        "word": "마차도",
+        "count": 3
+      },
+      {
+        "word": "만원",
         "count": 3
       },
       {
         "word": "이란",
         "count": 3
-      },
-      {
-        "word": "노벨상",
-        "count": 2
-      },
-      {
-        "word": "마차도",
-        "count": 2
       }
     ],
     "culture": [
       {
         "word": "흑백요리사",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "컴백",
-        "count": 2
+        "word": "논란",
+        "count": 3
       },
       {
-        "word": "부부",
-        "count": 2
+        "word": "생일",
+        "count": 3
       },
       {
         "word": "우승",
-        "count": 1
+        "count": 2
       },
       {
         "word": "최강록",
-        "count": 1
+        "count": 2
       }
     ]
   }
