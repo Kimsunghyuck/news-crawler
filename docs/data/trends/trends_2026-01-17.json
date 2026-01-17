@@ -1,219 +1,219 @@
 {
   "date": "2026-01-17",
-  "generated_at": "2026-01-17T15:09:53.565367+09:00",
+  "generated_at": "2026-01-17T19:10:48.980248+09:00",
   "daily_top_keywords": [
     {
       "word": "한국",
-      "count": 8
-    },
-    {
-      "word": "이유",
-      "count": 3
-    },
-    {
-      "word": "만에",
-      "count": 3
+      "count": 13
     },
     {
       "word": "국힘",
-      "count": 3
+      "count": 7
     },
     {
       "word": "관세",
-      "count": 3
+      "count": 6
     },
     {
       "word": "반도체",
-      "count": 3
+      "count": 6
     },
     {
       "word": "베트남",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "보며",
-      "count": 2
-    },
-    {
-      "word": "어디",
-      "count": 2
-    },
-    {
-      "word": "박나래",
-      "count": 2
-    },
-    {
-      "word": "신동욱",
-      "count": 2
-    },
-    {
-      "word": "통합",
-      "count": 2
-    },
-    {
-      "word": "년간",
-      "count": 2
+      "word": "만에",
+      "count": 5
     },
     {
       "word": "됐다",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "보며",
+      "count": 4
+    },
+    {
+      "word": "어디",
+      "count": 4
+    },
+    {
+      "word": "박나래",
+      "count": 4
+    },
+    {
+      "word": "이유",
+      "count": 4
+    },
+    {
+      "word": "년간",
+      "count": 4
     },
     {
       "word": "이혜훈",
-      "count": 2
-    },
-    {
-      "word": "선물",
-      "count": 2
-    },
-    {
-      "word": "인도",
-      "count": 2
-    },
-    {
-      "word": "보니",
-      "count": 2
+      "count": 4
     },
     {
       "word": "남았다",
-      "count": 2
+      "count": 4
     },
     {
       "word": "테슬라",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "가격",
+      "count": 4
+    },
+    {
+      "word": "투자",
+      "count": 4
+    },
+    {
+      "word": "압박",
+      "count": 4
+    },
+    {
+      "word": "김상식",
+      "count": 4
+    },
+    {
+      "word": "아시안컵",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
+        "count": 7
+      },
+      {
+        "word": "통합",
         "count": 3
+      },
+      {
+        "word": "한동훈",
+        "count": 2
       },
       {
         "word": "신동욱",
         "count": 2
       },
       {
-        "word": "통합",
+        "word": "검증",
         "count": 2
-      },
-      {
-        "word": "한동훈",
-        "count": 1
-      },
-      {
-        "word": "제명",
-        "count": 1
       }
     ],
     "sports": [
       {
         "word": "베트남",
-        "count": 3
+        "count": 6
       },
       {
         "word": "한국",
-        "count": 3
+        "count": 5
       },
       {
         "word": "김상식",
-        "count": 2
+        "count": 4
       },
       {
         "word": "아시안컵",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "테슬라",
-        "count": 2
+        "count": 4
       },
       {
         "word": "가격",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "불순물",
-        "count": 1
+        "word": "관세",
+        "count": 3
       },
       {
-        "word": "감지하자",
-        "count": 1
+        "word": "반도체",
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "불경기",
-        "count": 1
+        "word": "돌진",
+        "count": 3
       },
       {
-        "word": "앞에",
-        "count": 1
+        "word": "중상",
+        "count": 3
       },
       {
-        "word": "장사",
-        "count": 1
+        "word": "시흥",
+        "count": 3
       },
       {
-        "word": "없지만",
-        "count": 1
+        "word": "공장서",
+        "count": 3
       },
       {
-        "word": "상인들",
-        "count": 1
+        "word": "대응",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "한국",
-        "count": 3
-      },
-      {
-        "word": "관세",
-        "count": 2
-      },
-      {
-        "word": "반도체",
-        "count": 2
+        "count": 4
       },
       {
         "word": "세계",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "관세",
+        "count": 3
+      },
+      {
+        "word": "반도체",
+        "count": 3
       },
       {
         "word": "여성",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "나훈아",
-        "count": 1
+        "count": 2
       },
       {
         "word": "피습",
-        "count": 1
+        "count": 2
       },
       {
         "word": "배후로",
-        "count": 1
+        "count": 2
       },
       {
         "word": "오해남진",
-        "count": 1
+        "count": 2
       },
       {
         "word": "검찰",
-        "count": 1
+        "count": 2
       }
     ]
   }
