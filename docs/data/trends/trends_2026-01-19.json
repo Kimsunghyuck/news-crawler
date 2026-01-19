@@ -1,25 +1,69 @@
 {
   "date": "2026-01-19",
-  "generated_at": "2026-01-19T15:12:11.613804+09:00",
+  "generated_at": "2026-01-19T19:20:05.770263+09:00",
   "daily_top_keywords": [
+    {
+      "word": "정부",
+      "count": 5
+    },
+    {
+      "word": "이란",
+      "count": 5
+    },
+    {
+      "word": "음주운전",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
     {
       "word": "김병기",
       "count": 4
     },
     {
-      "word": "이란",
+      "word": "제출",
       "count": 4
     },
     {
-      "word": "음주운전",
+      "word": "이혜훈",
+      "count": 4
+    },
+    {
+      "word": "친명",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "꺾고",
+      "count": 4
+    },
+    {
+      "word": "임성근",
       "count": 3
     },
     {
-      "word": "만에",
+      "word": "자료",
       "count": 3
     },
     {
-      "word": "정부",
+      "word": "청문회",
+      "count": 3
+    },
+    {
+      "word": "파행",
+      "count": 3
+    },
+    {
+      "word": "제명",
       "count": 3
     },
     {
@@ -31,56 +75,12 @@
       "count": 3
     },
     {
-      "word": "정의선",
+      "word": "대회",
       "count": 3
     },
     {
-      "word": "이어",
-      "count": 2
-    },
-    {
-      "word": "임성근",
-      "count": 2
-    },
-    {
-      "word": "시대",
-      "count": 2
-    },
-    {
-      "word": "이유",
-      "count": 2
-    },
-    {
-      "word": "대통령",
-      "count": 2
-    },
-    {
-      "word": "제출",
-      "count": 2
-    },
-    {
-      "word": "지지율",
-      "count": 2
-    },
-    {
-      "word": "친명",
-      "count": 2
-    },
-    {
-      "word": "차라리",
-      "count": 2
-    },
-    {
-      "word": "제명",
-      "count": 2
-    },
-    {
-      "word": "대회",
-      "count": 2
-    },
-    {
-      "word": "우당탕",
-      "count": 2
+      "word": "착수",
+      "count": 3
     }
   ],
   "category_keywords": {
@@ -90,130 +90,130 @@
         "count": 4
       },
       {
-        "word": "대통령",
-        "count": 2
-      },
-      {
         "word": "제출",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "친명",
-        "count": 2
+        "word": "이혜훈",
+        "count": 4
       },
       {
-        "word": "제명",
-        "count": 2
+        "word": "자료",
+        "count": 3
+      },
+      {
+        "word": "청문회",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "불운",
-        "count": 2
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "꺾고",
+        "count": 4
       },
       {
         "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "이번엔",
         "count": 2
       },
       {
-        "word": "남자",
-        "count": 2
-      },
-      {
-        "word": "김하성",
-        "count": 2
-      },
-      {
-        "word": "한일전",
+        "word": "불운",
         "count": 2
       }
     ],
     "economy": [
       {
-        "word": "샤오펑",
+        "word": "쿠팡",
         "count": 2
       },
       {
-        "word": "자율주행",
+        "word": "시총",
         "count": 2
       },
       {
-        "word": "정의선",
+        "word": "조원",
         "count": 2
       },
       {
-        "word": "송창현",
+        "word": "증발",
         "count": 2
       },
       {
-        "word": "말에",
+        "word": "보상",
         "count": 2
       }
     ],
     "society": [
       {
         "word": "착수",
-        "count": 2
+        "count": 3
       },
       {
         "word": "업무용",
-        "count": 1
+        "count": 2
       },
       {
         "word": "화면까지",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "노출",
-        "count": 1
+        "word": "경찰서",
+        "count": 2
       },
       {
-        "word": "중국인이",
-        "count": 1
+        "word": "내부",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 4
+        "count": 5
       },
       {
         "word": "독일",
-        "count": 2
+        "count": 3
       },
       {
         "word": "시위",
-        "count": 2
+        "count": 3
       },
       {
         "word": "시위대",
-        "count": 2
+        "count": 3
       },
       {
         "word": "나오면",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
+      {
+        "word": "음주운전",
+        "count": 3
+      },
+      {
+        "word": "임성근",
+        "count": 3
+      },
       {
         "word": "이어",
         "count": 2
       },
       {
-        "word": "임성근",
+        "word": "음방",
         "count": 2
       },
       {
-        "word": "음주운전",
+        "word": "관왕",
         "count": 2
-      },
-      {
-        "word": "황금기",
-        "count": 1
-      },
-      {
-        "word": "돌아오나",
-        "count": 1
       }
     ]
   }
