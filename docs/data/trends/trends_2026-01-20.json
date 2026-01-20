@@ -1,13 +1,220 @@
 {
   "date": "2026-01-20",
-  "generated_at": "2026-01-20T09:34:02.539865+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-20T15:11:39.809120+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "대통령",
+      "count": 6
+    },
+    {
+      "word": "임성근",
+      "count": 3
+    },
+    {
+      "word": "군고구마",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "이혜훈",
+      "count": 3
+    },
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "연봉",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "검사",
+      "count": 2
+    },
+    {
+      "word": "받았다",
+      "count": 2
+    },
+    {
+      "word": "개월",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "공로",
+      "count": 2
+    },
+    {
+      "word": "표창",
+      "count": 2
+    },
+    {
+      "word": "지드래곤",
+      "count": 2
+    },
+    {
+      "word": "소속사",
+      "count": 2
+    },
+    {
+      "word": "뉴욕",
+      "count": 2
+    },
+    {
+      "word": "나라",
+      "count": 2
+    },
+    {
+      "word": "음주운전",
+      "count": 2
+    },
+    {
+      "word": "결국",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 4
+      },
+      {
+        "word": "이혜훈",
+        "count": 3
+      },
+      {
+        "word": "생리대",
+        "count": 2
+      },
+      {
+        "word": "인사",
+        "count": 2
+      },
+      {
+        "word": "불법",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "연봉",
+        "count": 2
+      },
+      {
+        "word": "한일전",
+        "count": 2
+      },
+      {
+        "word": "성사",
+        "count": 2
+      },
+      {
+        "word": "돌아온",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "삼전",
+        "count": 2
+      },
+      {
+        "word": "김어준",
+        "count": 1
+      },
+      {
+        "word": "처남",
+        "count": 1
+      },
+      {
+        "word": "조원대",
+        "count": 1
+      },
+      {
+        "word": "예산",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "경찰",
+        "count": 2
+      },
+      {
+        "word": "체감",
+        "count": 1
+      },
+      {
+        "word": "전국",
+        "count": 1
+      },
+      {
+        "word": "냉동고",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "군고구마",
+        "count": 2
+      },
+      {
+        "word": "그린란드",
+        "count": 2
+      },
+      {
+        "word": "관세",
+        "count": 2
+      },
+      {
+        "word": "판결",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "임성근",
+        "count": 3
+      },
+      {
+        "word": "받았다",
+        "count": 2
+      },
+      {
+        "word": "개월",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      }
+    ]
   }
 }
