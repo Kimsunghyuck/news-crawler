@@ -1,218 +1,218 @@
 {
   "date": "2026-01-21",
-  "generated_at": "2026-01-21T15:12:08.113895+09:00",
+  "generated_at": "2026-01-21T19:13:22.337792+09:00",
   "daily_top_keywords": [
     {
-      "word": "대통령",
-      "count": 3
+      "word": "한덕수",
+      "count": 7
     },
     {
       "word": "마약",
-      "count": 3
-    },
-    {
-      "word": "어린",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 3
+      "count": 6
     },
     {
       "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "한강",
-      "count": 2
-    },
-    {
-      "word": "작별하지",
-      "count": 2
-    },
-    {
-      "word": "않는다",
-      "count": 2
-    },
-    {
-      "word": "좋아",
-      "count": 2
-    },
-    {
-      "word": "서울",
-      "count": 2
-    },
-    {
-      "word": "아내",
-      "count": 2
-    },
-    {
-      "word": "음주운전",
-      "count": 2
-    },
-    {
-      "word": "고백",
-      "count": 2
+      "count": 6
     },
     {
       "word": "임성근",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "음주운전",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "명예의",
+      "count": 5
+    },
+    {
+      "word": "어린",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "발칵",
+      "count": 5
+    },
+    {
+      "word": "고백",
+      "count": 4
     },
     {
       "word": "국악",
-      "count": 2
-    },
-    {
-      "word": "장동혁",
-      "count": 2
+      "count": 4
     },
     {
       "word": "러시아",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "경찰",
-      "count": 2
+      "word": "이혜훈",
+      "count": 4
     },
     {
       "word": "환율",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "무슨",
-      "count": 2
+      "word": "유도",
+      "count": 4
+    },
+    {
+      "word": "이창수",
+      "count": 4
+    },
+    {
+      "word": "별세",
+      "count": 4
+    },
+    {
+      "word": "현대차",
+      "count": 4
+    },
+    {
+      "word": "앞둔",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
+        "count": 5
+      },
+      {
+        "word": "이혜훈",
+        "count": 4
+      },
+      {
+        "word": "환율",
+        "count": 4
+      },
+      {
+        "word": "국힘",
         "count": 3
       },
       {
         "word": "장동혁",
-        "count": 2
-      },
-      {
-        "word": "환율",
-        "count": 2
-      },
-      {
-        "word": "포기하겠나",
-        "count": 1
-      },
-      {
-        "word": "이상",
-        "count": 1
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "추신수",
-        "count": 2
+        "word": "명예의",
+        "count": 5
       },
       {
-        "word": "명예의",
-        "count": 2
+        "word": "추신수",
+        "count": 4
+      },
+      {
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "전당",
+        "count": 4
       },
       {
         "word": "어린",
-        "count": 2
-      },
-      {
-        "word": "한국",
-        "count": 2
-      },
-      {
-        "word": "대표팀",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "현대차",
-        "count": 2
+        "count": 4
       },
       {
         "word": "앞둔",
-        "count": 2
-      },
-      {
-        "word": "합류",
-        "count": 2
+        "count": 4
       },
       {
         "word": "오픈",
-        "count": 1
+        "count": 2
       },
       {
         "word": "매출",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "년간",
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "한덕수",
+        "count": 6
+      },
+      {
         "word": "비상계엄은",
-        "count": 2
+        "count": 3
       },
       {
         "word": "종사",
-        "count": 2
+        "count": 3
       },
       {
         "word": "내란",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "한덕수",
-        "count": 2
-      },
-      {
-        "word": "심서",
+        "word": "고발",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
-      },
-      {
-        "word": "남성과",
-        "count": 2
+        "count": 6
       },
       {
         "word": "발칵",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "푸틴이",
-        "count": 1
+        "word": "그린란드",
+        "count": 4
+      },
+      {
+        "word": "남성과",
+        "count": 4
       },
       {
         "word": "군침",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
+      {
+        "word": "임성근",
+        "count": 5
+      },
+      {
+        "word": "음주운전",
+        "count": 5
+      },
+      {
+        "word": "국악",
+        "count": 4
+      },
       {
         "word": "한강",
         "count": 2
       },
       {
         "word": "작별하지",
-        "count": 2
-      },
-      {
-        "word": "않는다",
-        "count": 2
-      },
-      {
-        "word": "음주운전",
-        "count": 2
-      },
-      {
-        "word": "임성근",
         "count": 2
       }
     ]
