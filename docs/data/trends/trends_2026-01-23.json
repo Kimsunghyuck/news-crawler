@@ -1,218 +1,218 @@
 {
   "date": "2026-01-23",
-  "generated_at": "2026-01-23T15:10:43.511266+09:00",
+  "generated_at": "2026-01-23T19:11:24.860614+09:00",
   "daily_top_keywords": [
     {
       "word": "이혜훈",
-      "count": 7
+      "count": 16
     },
     {
       "word": "장남",
-      "count": 5
+      "count": 8
     },
     {
       "word": "논란",
-      "count": 3
-    },
-    {
-      "word": "결국",
-      "count": 3
+      "count": 7
     },
     {
       "word": "합당",
-      "count": 3
-    },
-    {
-      "word": "부부",
-      "count": 3
+      "count": 6
     },
     {
       "word": "중국",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "트럼프",
+      "count": 6
+    },
+    {
+      "word": "결국",
+      "count": 5
+    },
+    {
+      "word": "관계",
+      "count": 5
+    },
+    {
+      "word": "부부",
+      "count": 5
+    },
+    {
+      "word": "남자",
+      "count": 5
     },
     {
       "word": "선수",
-      "count": 3
-    },
-    {
-      "word": "김연아",
-      "count": 2
-    },
-    {
-      "word": "미스트롯",
-      "count": 2
-    },
-    {
-      "word": "적우",
-      "count": 2
-    },
-    {
-      "word": "눈물",
-      "count": 2
-    },
-    {
-      "word": "운동",
-      "count": 2
-    },
-    {
-      "word": "걱정",
-      "count": 2
+      "count": 5
     },
     {
       "word": "임성근",
-      "count": 2
+      "count": 4
     },
     {
       "word": "음주운전",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "주택",
-      "count": 2
+      "word": "총리",
+      "count": 4
     },
     {
-      "word": "감면",
-      "count": 2
+      "word": "의혹에",
+      "count": 4
     },
     {
-      "word": "청문회",
-      "count": 2
+      "word": "최악",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "눈물",
+      "count": 3
+    },
+    {
+      "word": "갑질",
+      "count": 3
     },
     {
       "word": "정청래",
-      "count": 2
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "장남",
-        "count": 5
+        "word": "이혜훈",
+        "count": 12
       },
       {
-        "word": "이혜훈",
-        "count": 5
+        "word": "장남",
+        "count": 8
       },
       {
         "word": "합당",
-        "count": 3
+        "count": 6
       },
       {
-        "word": "주택",
-        "count": 2
+        "word": "의혹에",
+        "count": 4
       },
       {
-        "word": "감면",
-        "count": 2
+        "word": "부부",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 2
+        "count": 5
       },
       {
         "word": "선수",
+        "count": 4
+      },
+      {
+        "word": "최초",
+        "count": 3
+      },
+      {
+        "word": "기록",
+        "count": 3
+      },
+      {
+        "word": "결승전서",
         "count": 2
-      },
-      {
-        "word": "쓰는",
-        "count": 1
-      },
-      {
-        "word": "스케이터",
-        "count": 1
-      },
-      {
-        "word": "김현겸",
-        "count": 1
       }
     ],
     "economy": [
       {
         "word": "중국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "이혜훈",
-        "count": 2
+        "count": 4
       },
       {
         "word": "동영상",
-        "count": 1
+        "count": 2
       },
       {
         "word": "약진",
-        "count": 1
+        "count": 2
       },
       {
         "word": "클링",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "압수수색",
+        "count": 3
+      },
+      {
+        "word": "결국",
+        "count": 3
+      },
+      {
+        "word": "대장동",
+        "count": 2
+      },
       {
         "word": "사의",
         "count": 2
       },
       {
-        "word": "결국",
+        "word": "경찰",
         "count": 2
-      },
-      {
-        "word": "무인기",
-        "count": 1
-      },
-      {
-        "word": "침투",
-        "count": 1
-      },
-      {
-        "word": "출금",
-        "count": 1
       }
     ],
     "international": [
       {
-        "word": "다카이치",
-        "count": 2
+        "word": "트럼프",
+        "count": 6
       },
       {
-        "word": "트럼프",
-        "count": 2
+        "word": "다카이치",
+        "count": 3
+      },
+      {
+        "word": "손등에",
+        "count": 3
+      },
+      {
+        "word": "이란",
+        "count": 3
       },
       {
         "word": "총리",
-        "count": 1
-      },
-      {
-        "word": "중의원",
-        "count": 1
-      },
-      {
-        "word": "해산",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "김연아",
-        "count": 2
-      },
-      {
-        "word": "미스트롯",
-        "count": 2
-      },
-      {
-        "word": "적우",
-        "count": 2
-      },
-      {
         "word": "임성근",
-        "count": 2
+        "count": 4
       },
       {
         "word": "음주운전",
+        "count": 4
+      },
+      {
+        "word": "박찬욱",
+        "count": 2
+      },
+      {
+        "word": "아카데미",
+        "count": 2
+      },
+      {
+        "word": "냉대",
         "count": 2
       }
     ]
