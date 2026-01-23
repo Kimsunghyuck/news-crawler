@@ -1,13 +1,220 @@
 {
   "date": "2026-01-23",
-  "generated_at": "2026-01-23T09:36:17.572339+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-23T15:10:43.511266+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이혜훈",
+      "count": 7
+    },
+    {
+      "word": "장남",
+      "count": 5
+    },
+    {
+      "word": "논란",
+      "count": 3
+    },
+    {
+      "word": "결국",
+      "count": 3
+    },
+    {
+      "word": "합당",
+      "count": 3
+    },
+    {
+      "word": "부부",
+      "count": 3
+    },
+    {
+      "word": "중국",
+      "count": 3
+    },
+    {
+      "word": "선수",
+      "count": 3
+    },
+    {
+      "word": "김연아",
+      "count": 2
+    },
+    {
+      "word": "미스트롯",
+      "count": 2
+    },
+    {
+      "word": "적우",
+      "count": 2
+    },
+    {
+      "word": "눈물",
+      "count": 2
+    },
+    {
+      "word": "운동",
+      "count": 2
+    },
+    {
+      "word": "걱정",
+      "count": 2
+    },
+    {
+      "word": "임성근",
+      "count": 2
+    },
+    {
+      "word": "음주운전",
+      "count": 2
+    },
+    {
+      "word": "주택",
+      "count": 2
+    },
+    {
+      "word": "감면",
+      "count": 2
+    },
+    {
+      "word": "청문회",
+      "count": 2
+    },
+    {
+      "word": "정청래",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "장남",
+        "count": 5
+      },
+      {
+        "word": "이혜훈",
+        "count": 5
+      },
+      {
+        "word": "합당",
+        "count": 3
+      },
+      {
+        "word": "주택",
+        "count": 2
+      },
+      {
+        "word": "감면",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "선수",
+        "count": 2
+      },
+      {
+        "word": "쓰는",
+        "count": 1
+      },
+      {
+        "word": "스케이터",
+        "count": 1
+      },
+      {
+        "word": "김현겸",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "중국",
+        "count": 2
+      },
+      {
+        "word": "이혜훈",
+        "count": 2
+      },
+      {
+        "word": "동영상",
+        "count": 1
+      },
+      {
+        "word": "약진",
+        "count": 1
+      },
+      {
+        "word": "클링",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "사의",
+        "count": 2
+      },
+      {
+        "word": "결국",
+        "count": 2
+      },
+      {
+        "word": "무인기",
+        "count": 1
+      },
+      {
+        "word": "침투",
+        "count": 1
+      },
+      {
+        "word": "출금",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "다카이치",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "총리",
+        "count": 1
+      },
+      {
+        "word": "중의원",
+        "count": 1
+      },
+      {
+        "word": "해산",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "김연아",
+        "count": 2
+      },
+      {
+        "word": "미스트롯",
+        "count": 2
+      },
+      {
+        "word": "적우",
+        "count": 2
+      },
+      {
+        "word": "임성근",
+        "count": 2
+      },
+      {
+        "word": "음주운전",
+        "count": 2
+      }
+    ]
   }
 }
