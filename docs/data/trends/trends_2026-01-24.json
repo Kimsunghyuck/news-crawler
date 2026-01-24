@@ -1,180 +1,184 @@
 {
   "date": "2026-01-24",
-  "generated_at": "2026-01-24T15:07:37.349691+09:00",
+  "generated_at": "2026-01-24T19:10:27.651378+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 5
+      "count": 7
     },
     {
       "word": "논란",
-      "count": 3
-    },
-    {
-      "word": "이혜훈",
-      "count": 3
-    },
-    {
-      "word": "억제",
-      "count": 3
-    },
-    {
-      "word": "전과",
-      "count": 2
-    },
-    {
-      "word": "임성근",
-      "count": 2
+      "count": 6
     },
     {
       "word": "피겨",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "관계",
-      "count": 2
-    },
-    {
-      "word": "조국혁신당",
-      "count": 2
-    },
-    {
-      "word": "의총",
-      "count": 2
-    },
-    {
-      "word": "합당",
-      "count": 2
-    },
-    {
-      "word": "논의",
-      "count": 2
-    },
-    {
-      "word": "이해찬",
-      "count": 2
-    },
-    {
-      "word": "의식",
-      "count": 2
+      "word": "이혜훈",
+      "count": 5
     },
     {
       "word": "조국",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "사망",
+      "count": 4
+    },
+    {
+      "word": "전과",
+      "count": 4
+    },
+    {
+      "word": "임성근",
+      "count": 4
+    },
+    {
+      "word": "합당",
+      "count": 4
+    },
+    {
+      "word": "한동훈",
+      "count": 4
+    },
+    {
+      "word": "이해찬",
+      "count": 4
+    },
+    {
+      "word": "의식",
+      "count": 4
     },
     {
       "word": "이유는",
-      "count": 2
-    },
-    {
-      "word": "없어",
-      "count": 2
+      "count": 4
     },
     {
       "word": "이어",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "아들",
-      "count": 2
+      "word": "주사이모",
+      "count": 4
     },
     {
-      "word": "투자사기",
-      "count": 2
+      "word": "반대",
+      "count": 4
+    },
+    {
+      "word": "쿠팡",
+      "count": 4
+    },
+    {
+      "word": "세계",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "동메달",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "이혜훈",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "조국혁신당",
-        "count": 2
-      },
-      {
-        "word": "의총",
-        "count": 2
+        "word": "조국",
+        "count": 5
       },
       {
         "word": "합당",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "논의",
-        "count": 2
+        "word": "이해찬",
+        "count": 4
+      },
+      {
+        "word": "의식",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "최고",
-        "count": 2
-      },
-      {
-        "word": "경기",
-        "count": 2
-      },
-      {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "동메달",
-        "count": 2
+        "count": 4
       },
       {
         "word": "선수",
+        "count": 4
+      },
+      {
+        "word": "경기",
+        "count": 3
+      },
+      {
+        "word": "최고",
         "count": 2
       }
     ],
     "economy": [
       {
         "word": "세계",
-        "count": 2
+        "count": 4
       },
       {
         "word": "가격",
-        "count": 2
+        "count": 3
       },
       {
         "word": "바이오주",
-        "count": 1
+        "count": 2
       },
       {
         "word": "기술",
-        "count": 1
+        "count": 2
       },
       {
         "word": "수출",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "주사이모",
+        "count": 4
+      },
+      {
         "word": "투자사기",
-        "count": 2
+        "count": 3
       },
       {
         "word": "혐의",
-        "count": 2
+        "count": 3
       },
       {
         "word": "피의자",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "체포",
-        "count": 2
-      },
-      {
-        "word": "주사이모",
-        "count": 2
+        "word": "사망",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
+        "count": 6
+      },
+      {
+        "word": "이란",
         "count": 4
       },
       {
@@ -182,38 +186,34 @@
         "count": 3
       },
       {
-        "word": "주된",
-        "count": 2
-      },
-      {
         "word": "국방전략",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "성조기",
-        "count": 1
+        "word": "김상식",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "전과",
-        "count": 2
+        "count": 4
       },
       {
         "word": "임성근",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "공백기",
-        "count": 1
+        "word": "춘향뎐",
+        "count": 3
       },
       {
-        "word": "설움",
-        "count": 1
+        "word": "늑대소년",
+        "count": 3
       },
       {
-        "word": "날린",
-        "count": 1
+        "word": "원로배우",
+        "count": 3
       }
     ]
   }
