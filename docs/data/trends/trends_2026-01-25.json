@@ -1,153 +1,153 @@
 {
   "date": "2026-01-25",
-  "generated_at": "2026-01-25T15:09:57.077156+09:00",
+  "generated_at": "2026-01-25T19:11:17.162522+09:00",
   "daily_top_keywords": [
     {
       "word": "대통령",
-      "count": 5
-    },
-    {
-      "word": "이혜훈",
-      "count": 5
+      "count": 10
     },
     {
       "word": "사망",
-      "count": 4
+      "count": 7
     },
     {
-      "word": "지명",
-      "count": 4
-    },
-    {
-      "word": "철회",
-      "count": 4
-    },
-    {
-      "word": "한국",
-      "count": 4
+      "word": "이혜훈",
+      "count": 7
     },
     {
       "word": "트럼프",
-      "count": 4
+      "count": 7
+    },
+    {
+      "word": "이해찬",
+      "count": 6
+    },
+    {
+      "word": "지명",
+      "count": 6
+    },
+    {
+      "word": "철회",
+      "count": 6
+    },
+    {
+      "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "별세",
+      "count": 6
     },
     {
       "word": "국민",
-      "count": 3
+      "count": 5
     },
     {
       "word": "종료",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "달러",
+      "count": 5
     },
     {
       "word": "아시안컵",
-      "count": 3
+      "count": 5
     },
     {
       "word": "만에",
-      "count": 3
+      "count": 5
     },
     {
       "word": "이어",
-      "count": 2
+      "count": 4
     },
     {
       "word": "세계",
-      "count": 2
+      "count": 4
     },
     {
       "word": "고윤정",
-      "count": 2
+      "count": 4
     },
     {
       "word": "팔아",
-      "count": 2
+      "count": 4
     },
     {
       "word": "외국인들",
-      "count": 2
+      "count": 4
     },
     {
       "word": "한학자",
-      "count": 2
-    },
-    {
-      "word": "이유",
-      "count": 2
-    },
-    {
-      "word": "논의",
-      "count": 2
-    },
-    {
-      "word": "정부",
-      "count": 2
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 5
+        "count": 9
       },
       {
         "word": "이혜훈",
-        "count": 5
+        "count": 7
+      },
+      {
+        "word": "이해찬",
+        "count": 6
       },
       {
         "word": "지명",
-        "count": 4
+        "count": 6
       },
       {
         "word": "철회",
-        "count": 4
-      },
-      {
-        "word": "국민",
-        "count": 3
+        "count": 6
       }
     ],
     "sports": [
       {
         "word": "아시안컵",
-        "count": 3
-      },
-      {
-        "word": "계약",
-        "count": 2
-      },
-      {
-        "word": "셰플러",
-        "count": 2
+        "count": 5
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "베트남에",
+        "count": 4
+      },
+      {
+        "word": "계약",
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "달러",
+        "count": 5
+      },
+      {
         "word": "만달러",
-        "count": 2
+        "count": 4
       },
       {
         "word": "가격",
-        "count": 2
+        "count": 3
       },
       {
         "word": "시대",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "달러",
-        "count": 2
-      },
-      {
-        "word": "고환율",
-        "count": 2
+        "word": "외국인",
+        "count": 3
       }
     ],
     "society": [
@@ -156,64 +156,64 @@
         "count": 2
       },
       {
-        "word": "서울",
+        "word": "디스크",
         "count": 2
       },
       {
-        "word": "쌓아놓고",
-        "count": 1
+        "word": "수술",
+        "count": 2
       },
       {
-        "word": "같이",
-        "count": 1
+        "word": "환자",
+        "count": 2
       },
       {
-        "word": "드실",
-        "count": 1
+        "word": "사망",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
+        "count": 7
       },
       {
         "word": "만에",
+        "count": 5
+      },
+      {
+        "word": "타이베이",
         "count": 3
       },
       {
         "word": "서열",
-        "count": 2
-      },
-      {
-        "word": "관세",
-        "count": 2
+        "count": 3
       },
       {
         "word": "미네소타서",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "고윤정",
-        "count": 2
+        "count": 4
       },
       {
         "word": "외국인들",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한학자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "폐섬유증",
-        "count": 1
+        "count": 2
       },
       {
         "word": "투병",
-        "count": 1
+        "count": 2
       }
     ]
   }
