@@ -1,13 +1,220 @@
 {
   "date": "2026-01-25",
-  "generated_at": "2026-01-25T09:39:01.960119+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-25T15:09:57.077156+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "이혜훈",
+      "count": 5
+    },
+    {
+      "word": "사망",
+      "count": 4
+    },
+    {
+      "word": "지명",
+      "count": 4
+    },
+    {
+      "word": "철회",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "국민",
+      "count": 3
+    },
+    {
+      "word": "종료",
+      "count": 3
+    },
+    {
+      "word": "아시안컵",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "이어",
+      "count": 2
+    },
+    {
+      "word": "세계",
+      "count": 2
+    },
+    {
+      "word": "고윤정",
+      "count": 2
+    },
+    {
+      "word": "팔아",
+      "count": 2
+    },
+    {
+      "word": "외국인들",
+      "count": 2
+    },
+    {
+      "word": "한학자",
+      "count": 2
+    },
+    {
+      "word": "이유",
+      "count": 2
+    },
+    {
+      "word": "논의",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 5
+      },
+      {
+        "word": "이혜훈",
+        "count": 5
+      },
+      {
+        "word": "지명",
+        "count": 4
+      },
+      {
+        "word": "철회",
+        "count": 4
+      },
+      {
+        "word": "국민",
+        "count": 3
+      }
+    ],
+    "sports": [
+      {
+        "word": "아시안컵",
+        "count": 3
+      },
+      {
+        "word": "계약",
+        "count": 2
+      },
+      {
+        "word": "셰플러",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만달러",
+        "count": 2
+      },
+      {
+        "word": "가격",
+        "count": 2
+      },
+      {
+        "word": "시대",
+        "count": 2
+      },
+      {
+        "word": "달러",
+        "count": 2
+      },
+      {
+        "word": "고환율",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "부담금",
+        "count": 2
+      },
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "쌓아놓고",
+        "count": 1
+      },
+      {
+        "word": "같이",
+        "count": 1
+      },
+      {
+        "word": "드실",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "만에",
+        "count": 3
+      },
+      {
+        "word": "서열",
+        "count": 2
+      },
+      {
+        "word": "관세",
+        "count": 2
+      },
+      {
+        "word": "미네소타서",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "고윤정",
+        "count": 2
+      },
+      {
+        "word": "외국인들",
+        "count": 2
+      },
+      {
+        "word": "한학자",
+        "count": 2
+      },
+      {
+        "word": "폐섬유증",
+        "count": 1
+      },
+      {
+        "word": "투병",
+        "count": 1
+      }
+    ]
   }
 }
