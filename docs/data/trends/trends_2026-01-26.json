@@ -1,13 +1,220 @@
 {
   "date": "2026-01-26",
-  "generated_at": "2026-01-26T09:36:32.608423+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-26T15:11:18.708260+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "올림픽",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "이준석",
+      "count": 3
+    },
+    {
+      "word": "대형",
+      "count": 3
+    },
+    {
+      "word": "맨유",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "피해",
+      "count": 2
+    },
+    {
+      "word": "시작",
+      "count": 2
+    },
+    {
+      "word": "차은우",
+      "count": 2
+    },
+    {
+      "word": "여성",
+      "count": 2
+    },
+    {
+      "word": "관왕",
+      "count": 2
+    },
+    {
+      "word": "한학자",
+      "count": 2
+    },
+    {
+      "word": "수백억",
+      "count": 2
+    },
+    {
+      "word": "내가",
+      "count": 2
+    },
+    {
+      "word": "강훈식",
+      "count": 2
+    },
+    {
+      "word": "캐나다",
+      "count": 2
+    },
+    {
+      "word": "출국",
+      "count": 2
+    },
+    {
+      "word": "당무",
+      "count": 2
+    },
+    {
+      "word": "이해찬",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "장동혁",
+        "count": 3
+      },
+      {
+        "word": "이준석",
+        "count": 3
+      },
+      {
+        "word": "강훈식",
+        "count": 2
+      },
+      {
+        "word": "캐나다",
+        "count": 2
+      },
+      {
+        "word": "출국",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "맨유",
+        "count": 3
+      },
+      {
+        "word": "남자",
+        "count": 3
+      },
+      {
+        "word": "올림픽",
+        "count": 3
+      },
+      {
+        "word": "캐릭",
+        "count": 2
+      },
+      {
+        "word": "선두",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "대형",
+        "count": 3
+      },
+      {
+        "word": "이상",
+        "count": 2
+      },
+      {
+        "word": "법안",
+        "count": 2
+      },
+      {
+        "word": "노인",
+        "count": 2
+      },
+      {
+        "word": "수도권",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "수에",
+        "count": 1
+      },
+      {
+        "word": "필라테스",
+        "count": 1
+      },
+      {
+        "word": "더한",
+        "count": 1
+      },
+      {
+        "word": "대치동",
+        "count": 1
+      },
+      {
+        "word": "어린이들",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "눈폭풍",
+        "count": 2
+      },
+      {
+        "word": "전역",
+        "count": 2
+      },
+      {
+        "word": "지지율",
+        "count": 2
+      },
+      {
+        "word": "다카이치",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "차은우",
+        "count": 2
+      },
+      {
+        "word": "한학자",
+        "count": 2
+      },
+      {
+        "word": "아들에게",
+        "count": 1
+      },
+      {
+        "word": "피해",
+        "count": 1
+      },
+      {
+        "word": "될까봐",
+        "count": 1
+      }
+    ]
   }
 }
