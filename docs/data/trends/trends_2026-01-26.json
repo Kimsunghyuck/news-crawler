@@ -1,219 +1,219 @@
 {
   "date": "2026-01-26",
-  "generated_at": "2026-01-26T15:11:18.708260+09:00",
+  "generated_at": "2026-01-26T19:13:06.141101+09:00",
   "daily_top_keywords": [
     {
-      "word": "올림픽",
-      "count": 4
+      "word": "이준석",
+      "count": 7
+    },
+    {
+      "word": "트럼프",
+      "count": 6
     },
     {
       "word": "만에",
-      "count": 3
+      "count": 5
     },
     {
       "word": "장동혁",
-      "count": 3
-    },
-    {
-      "word": "이준석",
-      "count": 3
+      "count": 5
     },
     {
       "word": "대형",
-      "count": 3
-    },
-    {
-      "word": "맨유",
-      "count": 3
+      "count": 5
     },
     {
       "word": "남자",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "피해",
-      "count": 2
+      "word": "올림픽",
+      "count": 5
     },
     {
-      "word": "시작",
-      "count": 2
+      "word": "영상",
+      "count": 5
     },
     {
-      "word": "차은우",
-      "count": 2
-    },
-    {
-      "word": "여성",
-      "count": 2
-    },
-    {
-      "word": "관왕",
-      "count": 2
+      "word": "쐈다",
+      "count": 5
     },
     {
       "word": "한학자",
-      "count": 2
+      "count": 4
     },
     {
       "word": "수백억",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "내가",
-      "count": 2
+      "word": "결정",
+      "count": 4
     },
     {
-      "word": "강훈식",
-      "count": 2
+      "word": "유승민",
+      "count": 4
     },
     {
-      "word": "캐나다",
-      "count": 2
+      "word": "이름만",
+      "count": 4
     },
     {
-      "word": "출국",
-      "count": 2
+      "word": "나오면",
+      "count": 4
     },
     {
-      "word": "당무",
-      "count": 2
+      "word": "쌍욕",
+      "count": 4
     },
     {
-      "word": "이해찬",
-      "count": 2
+      "word": "경악시킨",
+      "count": 4
+    },
+    {
+      "word": "한마디",
+      "count": 4
+    },
+    {
+      "word": "소송",
+      "count": 4
+    },
+    {
+      "word": "이상",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "장동혁",
-        "count": 3
-      },
-      {
         "word": "이준석",
-        "count": 3
+        "count": 7
       },
       {
-        "word": "강훈식",
-        "count": 2
+        "word": "장동혁",
+        "count": 5
       },
       {
-        "word": "캐나다",
-        "count": 2
+        "word": "결정",
+        "count": 4
       },
       {
-        "word": "출국",
-        "count": 2
+        "word": "유승민",
+        "count": 4
+      },
+      {
+        "word": "이름만",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "맨유",
-        "count": 3
-      },
-      {
         "word": "남자",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "올림픽",
-        "count": 3
+        "word": "맨유",
+        "count": 4
       },
       {
-        "word": "캐릭",
-        "count": 2
+        "word": "한국",
+        "count": 4
       },
       {
-        "word": "선두",
-        "count": 2
+        "word": "역전승",
+        "count": 4
+      },
+      {
+        "word": "우승",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "대형",
-        "count": 3
+        "count": 5
       },
       {
         "word": "이상",
-        "count": 2
+        "count": 4
       },
       {
         "word": "법안",
-        "count": 2
+        "count": 4
       },
       {
         "word": "노인",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "수도권",
-        "count": 1
+        "word": "역대",
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "수에",
-        "count": 1
+        "word": "공무원",
+        "count": 3
       },
       {
-        "word": "필라테스",
-        "count": 1
+        "word": "경찰",
+        "count": 2
       },
       {
-        "word": "더한",
-        "count": 1
+        "word": "김경",
+        "count": 2
       },
       {
-        "word": "대치동",
-        "count": 1
+        "word": "사퇴",
+        "count": 2
       },
       {
-        "word": "어린이들",
-        "count": 1
+        "word": "처벌",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 2
+        "count": 6
+      },
+      {
+        "word": "영상",
+        "count": 5
+      },
+      {
+        "word": "쐈다",
+        "count": 5
+      },
+      {
+        "word": "이민당국",
+        "count": 4
       },
       {
         "word": "눈폭풍",
-        "count": 2
-      },
-      {
-        "word": "전역",
-        "count": 2
-      },
-      {
-        "word": "지지율",
-        "count": 2
-      },
-      {
-        "word": "다카이치",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "차은우",
-        "count": 2
-      },
-      {
         "word": "한학자",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "아들에게",
-        "count": 1
+        "word": "차은우",
+        "count": 3
+      },
+      {
+        "word": "신지",
+        "count": 3
+      },
+      {
+        "word": "결혼",
+        "count": 3
       },
       {
         "word": "피해",
-        "count": 1
-      },
-      {
-        "word": "될까봐",
-        "count": 1
+        "count": 2
       }
     ]
   }
