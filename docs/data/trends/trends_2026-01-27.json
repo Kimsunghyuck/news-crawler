@@ -1,13 +1,220 @@
 {
   "date": "2026-01-27",
-  "generated_at": "2026-01-27T09:38:04.683696+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-27T15:10:27.639125+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "관세",
+      "count": 5
+    },
+    {
+      "word": "차은우",
+      "count": 4
+    },
+    {
+      "word": "탈세",
+      "count": 3
+    },
+    {
+      "word": "의혹",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "이강인",
+      "count": 2
+    },
+    {
+      "word": "롯데",
+      "count": 2
+    },
+    {
+      "word": "맞은",
+      "count": 2
+    },
+    {
+      "word": "멕시코",
+      "count": 2
+    },
+    {
+      "word": "세계가",
+      "count": 2
+    },
+    {
+      "word": "지금",
+      "count": 2
+    },
+    {
+      "word": "한학자",
+      "count": 2
+    },
+    {
+      "word": "저격",
+      "count": 2
+    },
+    {
+      "word": "공연",
+      "count": 2
+    },
+    {
+      "word": "사과",
+      "count": 2
+    },
+    {
+      "word": "뒤통수",
+      "count": 2
+    },
+    {
+      "word": "맞아",
+      "count": 2
+    },
+    {
+      "word": "장철민",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "장철민",
+        "count": 2
+      },
+      {
+        "word": "여론조사는",
+        "count": 2
+      },
+      {
+        "word": "위험",
+        "count": 2
+      },
+      {
+        "word": "이해찬",
+        "count": 2
+      },
+      {
+        "word": "총리",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "영입",
+        "count": 2
+      },
+      {
+        "word": "세계",
+        "count": 2
+      },
+      {
+        "word": "접전서",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "다시",
+        "count": 2
+      },
+      {
+        "word": "시장",
+        "count": 2
+      },
+      {
+        "word": "이기는",
+        "count": 2
+      },
+      {
+        "word": "정부",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "유족",
+        "count": 2
+      },
+      {
+        "word": "아닙니다",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "혈세낭비",
+        "count": 1
+      },
+      {
+        "word": "황금박쥐상",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "관세",
+        "count": 2
+      },
+      {
+        "word": "무역합의",
+        "count": 2
+      },
+      {
+        "word": "비준",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "차은우",
+        "count": 4
+      },
+      {
+        "word": "탈세",
+        "count": 3
+      },
+      {
+        "word": "의혹",
+        "count": 3
+      },
+      {
+        "word": "멕시코",
+        "count": 2
+      },
+      {
+        "word": "세계가",
+        "count": 2
+      }
+    ]
   }
 }
