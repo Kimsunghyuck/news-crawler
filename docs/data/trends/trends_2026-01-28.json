@@ -1,219 +1,219 @@
 {
   "date": "2026-01-28",
-  "generated_at": "2026-01-28T15:11:17.130495+09:00",
+  "generated_at": "2026-01-28T19:15:42.203199+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
+      "count": 11
+    },
+    {
+      "word": "징역",
+      "count": 7
+    },
+    {
+      "word": "김건희",
       "count": 6
     },
     {
       "word": "관세",
-      "count": 4
-    },
-    {
-      "word": "의혹",
-      "count": 4
-    },
-    {
-      "word": "처리",
-      "count": 3
-    },
-    {
-      "word": "인상",
-      "count": 3
-    },
-    {
-      "word": "너무",
-      "count": 2
-    },
-    {
-      "word": "아내",
-      "count": 2
-    },
-    {
-      "word": "핫라인",
-      "count": 2
-    },
-    {
-      "word": "아닌",
-      "count": 2
-    },
-    {
-      "word": "핫바지",
-      "count": 2
-    },
-    {
-      "word": "담배처럼",
-      "count": 2
-    },
-    {
-      "word": "설탕세",
-      "count": 2
-    },
-    {
-      "word": "목표",
-      "count": 2
-    },
-    {
-      "word": "김건희",
-      "count": 2
-    },
-    {
-      "word": "징역",
-      "count": 2
+      "count": 6
     },
     {
       "word": "개월",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "인상",
+      "count": 5
     },
     {
       "word": "한동훈에",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "의혹",
+      "count": 5
+    },
+    {
+      "word": "처리",
+      "count": 4
     },
     {
       "word": "짓이",
-      "count": 2
+      "count": 4
     },
     {
       "word": "정상이야",
-      "count": 2
+      "count": 4
     },
     {
       "word": "친윤에",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "버럭",
+      "count": 4
+    },
+    {
+      "word": "장동혁이었다",
+      "count": 4
+    },
+    {
+      "word": "세계",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "아내",
+      "count": 3
+    },
+    {
+      "word": "차은우",
+      "count": 3
+    },
+    {
+      "word": "손절",
+      "count": 3
+    },
+    {
+      "word": "아닌",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "핫라인",
-        "count": 2
+        "word": "한동훈에",
+        "count": 5
       },
       {
-        "word": "핫바지",
-        "count": 2
+        "word": "짓이",
+        "count": 4
       },
       {
-        "word": "트럼프",
-        "count": 2
+        "word": "정상이야",
+        "count": 4
       },
       {
-        "word": "담배처럼",
-        "count": 2
+        "word": "친윤에",
+        "count": 4
       },
       {
-        "word": "설탕세",
-        "count": 2
+        "word": "버럭",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "러시아",
-        "count": 2
+        "word": "유일한",
+        "count": 3
       },
       {
-        "word": "벨라루스",
-        "count": 2
-      },
-      {
-        "word": "출전",
-        "count": 2
+        "word": "우승",
+        "count": 3
       },
       {
         "word": "오현규",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "악재",
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "만원",
-        "count": 2
+        "word": "하이닉스",
+        "count": 3
       },
       {
         "word": "소버린",
-        "count": 1
+        "count": 2
       },
       {
         "word": "건다",
-        "count": 1
+        "count": 2
       },
       {
         "word": "세계",
-        "count": 1
+        "count": 2
       },
       {
         "word": "각국이",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "징역",
+        "count": 6
+      },
       {
         "word": "의혹",
         "count": 4
       },
       {
-        "word": "특혜",
-        "count": 2
+        "word": "개월",
+        "count": 4
       },
       {
         "word": "무죄",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "결국",
-        "count": 2
-      },
-      {
-        "word": "이상직",
-        "count": 1
+        "word": "김건희",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
+        "count": 7
       },
       {
         "word": "관세",
-        "count": 3
-      },
-      {
-        "word": "디지털",
-        "count": 2
+        "count": 5
       },
       {
         "word": "기억",
-        "count": 1
+        "count": 2
       },
       {
         "word": "잃어도",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "사랑은",
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "대부의",
-        "count": 1
+        "word": "아내",
+        "count": 2
       },
       {
-        "word": "알파치노",
-        "count": 1
+        "word": "사생활",
+        "count": 2
       },
       {
-        "word": "같다",
-        "count": 1
+        "word": "폭로에",
+        "count": 2
       },
       {
-        "word": "현빈이",
-        "count": 1
+        "word": "롯데",
+        "count": 2
       },
       {
-        "word": "정갈한",
-        "count": 1
+        "word": "정철원",
+        "count": 2
       }
     ]
   }
