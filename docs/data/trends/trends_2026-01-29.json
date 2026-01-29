@@ -1,219 +1,219 @@
 {
   "date": "2026-01-29",
-  "generated_at": "2026-01-29T15:17:30.134450+09:00",
+  "generated_at": "2026-01-29T19:20:51.923795+09:00",
   "daily_top_keywords": [
     {
-      "word": "배우",
-      "count": 4
+      "word": "한동훈",
+      "count": 7
     },
     {
-      "word": "한동훈",
-      "count": 4
+      "word": "배우",
+      "count": 6
     },
     {
       "word": "유선호",
-      "count": 3
+      "count": 5
     },
     {
       "word": "신은수",
-      "count": 3
+      "count": 5
     },
     {
       "word": "열애",
-      "count": 3
+      "count": 5
     },
     {
       "word": "동갑내기",
-      "count": 3
-    },
-    {
-      "word": "관세",
-      "count": 3
-    },
-    {
-      "word": "대통령",
-      "count": 3
-    },
-    {
-      "word": "김건희",
-      "count": 3
-    },
-    {
-      "word": "현대차",
-      "count": 3
-    },
-    {
-      "word": "커플",
-      "count": 2
-    },
-    {
-      "word": "탄생",
-      "count": 2
-    },
-    {
-      "word": "됐다",
-      "count": 2
-    },
-    {
-      "word": "수십억",
-      "count": 2
-    },
-    {
-      "word": "장동주",
-      "count": 2
-    },
-    {
-      "word": "뭔일",
-      "count": 2
-    },
-    {
-      "word": "이젠",
-      "count": 2
+      "count": 5
     },
     {
       "word": "논란",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "실체",
-      "count": 2
+      "word": "요구",
+      "count": 5
     },
     {
-      "word": "돌아오겠다",
-      "count": 2
+      "word": "김건희",
+      "count": 5
+    },
+    {
+      "word": "공급",
+      "count": 5
+    },
+    {
+      "word": "됐다",
+      "count": 4
+    },
+    {
+      "word": "확정",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "충격",
+      "count": 4
+    },
+    {
+      "word": "뭔일",
+      "count": 4
+    },
+    {
+      "word": "관세",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "경찰",
+      "count": 4
+    },
+    {
+      "word": "오늘의",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "한동훈",
+        "count": 7
+      },
+      {
+        "word": "국힘",
         "count": 4
       },
       {
         "word": "돌아오겠다",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "트럼프",
-        "count": 2
+        "word": "장동혁",
+        "count": 3
       },
       {
-        "word": "관세",
-        "count": 2
-      },
-      {
-        "word": "합의",
-        "count": 2
+        "word": "사퇴",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 2
-      },
-      {
-        "word": "리그",
-        "count": 2
+        "count": 4
       },
       {
         "word": "이제",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "리그",
+        "count": 3
+      },
+      {
+        "word": "도전",
+        "count": 3
       },
       {
         "word": "명의",
-        "count": 1
-      },
-      {
-        "word": "힙한",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
+        "word": "공급",
+        "count": 5
+      },
+      {
+        "word": "반도체",
+        "count": 4
+      },
+      {
         "word": "현대차",
+        "count": 4
+      },
+      {
+        "word": "연속",
         "count": 3
       },
       {
         "word": "최대",
-        "count": 2
-      },
-      {
-        "word": "영업이익",
-        "count": 2
-      },
-      {
-        "word": "반도체",
-        "count": 2
-      },
-      {
-        "word": "공급",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "김건희",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "퇴직금",
-        "count": 2
+        "word": "경찰",
+        "count": 4
       },
       {
         "word": "오늘의",
-        "count": 2
+        "count": 4
       },
       {
         "word": "운세",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "같은",
-        "count": 1
+        "word": "종로",
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "작은",
+        "word": "네덜란드",
         "count": 2
       },
       {
-        "word": "기네스",
+        "word": "동성애자",
         "count": 2
       },
       {
-        "word": "이건희",
-        "count": 1
+        "word": "총리예비",
+        "count": 2
       },
       {
-        "word": "컬렉션",
-        "count": 1
+        "word": "신랑은",
+        "count": 2
       },
       {
-        "word": "갈라",
-        "count": 1
+        "word": "필드하키",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "배우",
-        "count": 4
+        "count": 6
       },
       {
         "word": "유선호",
-        "count": 3
+        "count": 5
       },
       {
         "word": "신은수",
-        "count": 3
+        "count": 5
       },
       {
         "word": "열애",
-        "count": 3
+        "count": 5
       },
       {
         "word": "동갑내기",
-        "count": 3
+        "count": 5
       }
     ]
   }
