@@ -1,13 +1,220 @@
 {
   "date": "2026-01-30",
-  "generated_at": "2026-01-30T09:40:04.184226+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-30T15:18:18.996595+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "합당",
+      "count": 4
+    },
+    {
+      "word": "징역",
+      "count": 4
+    },
+    {
+      "word": "개월",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "싶어",
+      "count": 3
+    },
+    {
+      "word": "아냐",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "전쟁",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "배우",
+      "count": 2
+    },
+    {
+      "word": "모두",
+      "count": 2
+    },
+    {
+      "word": "건강",
+      "count": 2
+    },
+    {
+      "word": "썼다",
+      "count": 2
+    },
+    {
+      "word": "절대",
+      "count": 2
+    },
+    {
+      "word": "여성",
+      "count": 2
+    },
+    {
+      "word": "밀약",
+      "count": 2
+    },
+    {
+      "word": "메시지",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "민주",
+      "count": 2
+    },
+    {
+      "word": "장동혁",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "합당",
+        "count": 4
+      },
+      {
+        "word": "밀약",
+        "count": 2
+      },
+      {
+        "word": "메시지",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "민주",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "두산",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "올림픽에",
+        "count": 1
+      },
+      {
+        "word": "찬밥",
+        "count": 1
+      },
+      {
+        "word": "없다태극전사들",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "오픈",
+        "count": 1
+      },
+      {
+        "word": "소셜미디어",
+        "count": 1
+      },
+      {
+        "word": "장난",
+        "count": 1
+      },
+      {
+        "word": "하게",
+        "count": 1
+      },
+      {
+        "word": "막는다",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "징역",
+        "count": 4
+      },
+      {
+        "word": "개월",
+        "count": 4
+      },
+      {
+        "word": "무죄",
+        "count": 2
+      },
+      {
+        "word": "양승태",
+        "count": 2
+      },
+      {
+        "word": "집유",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "시사",
+        "count": 2
+      },
+      {
+        "word": "항모",
+        "count": 1
+      },
+      {
+        "word": "이어",
+        "count": 1
+      },
+      {
+        "word": "정찰기",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "배우",
+        "count": 2
+      },
+      {
+        "word": "싶어",
+        "count": 2
+      },
+      {
+        "word": "썼다",
+        "count": 2
+      },
+      {
+        "word": "심은경",
+        "count": 1
+      },
+      {
+        "word": "키네마",
+        "count": 1
+      }
+    ]
   }
 }
