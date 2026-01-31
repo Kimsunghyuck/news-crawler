@@ -1,13 +1,220 @@
 {
   "date": "2026-01-31",
-  "generated_at": "2026-01-31T09:38:38.325065+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-01-31T15:14:28.982642+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 6
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "부동산",
+      "count": 3
+    },
+    {
+      "word": "정상화",
+      "count": 3
+    },
+    {
+      "word": "마지막",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "워시",
+      "count": 3
+    },
+    {
+      "word": "올림픽",
+      "count": 3
+    },
+    {
+      "word": "케빈",
+      "count": 3
+    },
+    {
+      "word": "개월",
+      "count": 3
+    },
+    {
+      "word": "몰라",
+      "count": 2
+    },
+    {
+      "word": "가구",
+      "count": 2
+    },
+    {
+      "word": "아닌",
+      "count": 2
+    },
+    {
+      "word": "장동혁",
+      "count": 2
+    },
+    {
+      "word": "피보다",
+      "count": 2
+    },
+    {
+      "word": "이해찬",
+      "count": 2
+    },
+    {
+      "word": "기회",
+      "count": 2
+    },
+    {
+      "word": "관세",
+      "count": 2
+    },
+    {
+      "word": "쿠팡",
+      "count": 2
+    },
+    {
+      "word": "경기",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "부동산",
+        "count": 3
+      },
+      {
+        "word": "정상화",
+        "count": 3
+      },
+      {
+        "word": "장동혁",
+        "count": 2
+      },
+      {
+        "word": "피보다",
+        "count": 2
+      },
+      {
+        "word": "이해찬",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "올림픽",
+        "count": 3
+      },
+      {
+        "word": "격돌",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "밀라노",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "편의점",
+        "count": 2
+      },
+      {
+        "word": "이유",
+        "count": 2
+      },
+      {
+        "word": "워시",
+        "count": 2
+      },
+      {
+        "word": "폴란드",
+        "count": 1
+      },
+      {
+        "word": "전차",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "일요일까지",
+        "count": 1
+      },
+      {
+        "word": "막바지",
+        "count": 1
+      },
+      {
+        "word": "추위",
+        "count": 1
+      },
+      {
+        "word": "기온은",
+        "count": 1
+      },
+      {
+        "word": "영상까지",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "케빈",
+        "count": 3
+      },
+      {
+        "word": "개월",
+        "count": 3
+      },
+      {
+        "word": "캐서린",
+        "count": 2
+      },
+      {
+        "word": "오하라",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "가구",
+        "count": 2
+      },
+      {
+        "word": "장윤정",
+        "count": 1
+      },
+      {
+        "word": "방에",
+        "count": 1
+      },
+      {
+        "word": "초대형",
+        "count": 1
+      },
+      {
+        "word": "금고",
+        "count": 1
+      }
+    ]
   }
 }
