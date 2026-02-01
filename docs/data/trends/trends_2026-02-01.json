@@ -1,13 +1,220 @@
 {
   "date": "2026-02-01",
-  "generated_at": "2026-02-01T09:46:38.937498+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-01T15:21:18.905578+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "가구",
+      "count": 3
+    },
+    {
+      "word": "유치원생처럼",
+      "count": 3
+    },
+    {
+      "word": "한동훈",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "호주오픈",
+      "count": 3
+    },
+    {
+      "word": "연준",
+      "count": 3
+    },
+    {
+      "word": "의장",
+      "count": 3
+    },
+    {
+      "word": "배우",
+      "count": 2
+    },
+    {
+      "word": "번째",
+      "count": 2
+    },
+    {
+      "word": "여성",
+      "count": 2
+    },
+    {
+      "word": "시대",
+      "count": 2
+    },
+    {
+      "word": "논란",
+      "count": 2
+    },
+    {
+      "word": "사과",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "알아들어",
+      "count": 2
+    },
+    {
+      "word": "이광재",
+      "count": 2
+    },
+    {
+      "word": "부동산",
+      "count": 2
+    },
+    {
+      "word": "한밤",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "유치원생처럼",
+        "count": 3
+      },
+      {
+        "word": "한동훈",
+        "count": 3
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "알아들어",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "호주오픈",
+        "count": 3
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "리바키나",
+        "count": 2
+      },
+      {
+        "word": "세계",
+        "count": 2
+      },
+      {
+        "word": "사발렌카",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "수출",
+        "count": 2
+      },
+      {
+        "word": "최대",
+        "count": 2
+      },
+      {
+        "word": "폴란드",
+        "count": 1
+      },
+      {
+        "word": "전차",
+        "count": 1
+      },
+      {
+        "word": "현대로템",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "비상",
+        "count": 2
+      },
+      {
+        "word": "밤부터",
+        "count": 2
+      },
+      {
+        "word": "행안부",
+        "count": 2
+      },
+      {
+        "word": "예보에",
+        "count": 1
+      },
+      {
+        "word": "서울시",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "연준",
+        "count": 3
+      },
+      {
+        "word": "의장",
+        "count": 3
+      },
+      {
+        "word": "잡스가",
+        "count": 2
+      },
+      {
+        "word": "서명한",
+        "count": 2
+      },
+      {
+        "word": "수표",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "가구",
+        "count": 2
+      },
+      {
+        "word": "논란",
+        "count": 2
+      },
+      {
+        "word": "사과",
+        "count": 2
+      },
+      {
+        "word": "이혼",
+        "count": 1
+      },
+      {
+        "word": "황재균의",
+        "count": 1
+      }
+    ]
   }
 }
