@@ -1,13 +1,220 @@
 {
   "date": "2026-02-02",
-  "generated_at": "2026-02-02T09:42:06.845989+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-02T15:26:09.121993+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "그래미",
+      "count": 4
+    },
+    {
+      "word": "케데헌",
+      "count": 3
+    },
+    {
+      "word": "골든",
+      "count": 3
+    },
+    {
+      "word": "수상",
+      "count": 3
+    },
+    {
+      "word": "아파트",
+      "count": 3
+    },
+    {
+      "word": "알쓸톡",
+      "count": 3
+    },
+    {
+      "word": "여성",
+      "count": 3
+    },
+    {
+      "word": "이언주",
+      "count": 3
+    },
+    {
+      "word": "올림픽",
+      "count": 3
+    },
+    {
+      "word": "최초",
+      "count": 2
+    },
+    {
+      "word": "그래미상",
+      "count": 2
+    },
+    {
+      "word": "어워즈",
+      "count": 2
+    },
+    {
+      "word": "통일교",
+      "count": 2
+    },
+    {
+      "word": "만든",
+      "count": 2
+    },
+    {
+      "word": "재경부",
+      "count": 2
+    },
+    {
+      "word": "차관에",
+      "count": 2
+    },
+    {
+      "word": "정청래",
+      "count": 2
+    },
+    {
+      "word": "젠장",
+      "count": 2
+    },
+    {
+      "word": "이건",
+      "count": 2
+    },
+    {
+      "word": "무조건",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "이언주",
+        "count": 3
+      },
+      {
+        "word": "재경부",
+        "count": 2
+      },
+      {
+        "word": "차관에",
+        "count": 2
+      },
+      {
+        "word": "정청래",
+        "count": 2
+      },
+      {
+        "word": "젠장",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "올림픽",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "임경진",
+        "count": 2
+      },
+      {
+        "word": "꺾고",
+        "count": 2
+      },
+      {
+        "word": "우승",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "쇼크",
+        "count": 2
+      },
+      {
+        "word": "김정은도",
+        "count": 1
+      },
+      {
+        "word": "마두로도",
+        "count": 1
+      },
+      {
+        "word": "쓴다",
+        "count": 1
+      },
+      {
+        "word": "불법",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "두쫀쿠",
+        "count": 2
+      },
+      {
+        "word": "하루",
+        "count": 2
+      },
+      {
+        "word": "놀라운",
+        "count": 2
+      },
+      {
+        "word": "시간",
+        "count": 2
+      },
+      {
+        "word": "일매출",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "엡스타인",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "텃밭",
+        "count": 2
+      },
+      {
+        "word": "충격",
+        "count": 2
+      },
+      {
+        "word": "이민단속국",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "그래미",
+        "count": 4
+      },
+      {
+        "word": "케데헌",
+        "count": 3
+      },
+      {
+        "word": "골든",
+        "count": 3
+      },
+      {
+        "word": "수상",
+        "count": 3
+      },
+      {
+        "word": "아파트",
+        "count": 3
+      }
+    ]
   }
 }
