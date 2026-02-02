@@ -1,219 +1,219 @@
 {
   "date": "2026-02-02",
-  "generated_at": "2026-02-02T15:26:09.121993+09:00",
+  "generated_at": "2026-02-02T19:25:39.157783+09:00",
   "daily_top_keywords": [
     {
       "word": "그래미",
-      "count": 4
-    },
-    {
-      "word": "케데헌",
-      "count": 3
+      "count": 13
     },
     {
       "word": "골든",
-      "count": 3
+      "count": 6
     },
     {
       "word": "수상",
-      "count": 3
-    },
-    {
-      "word": "아파트",
-      "count": 3
-    },
-    {
-      "word": "알쓸톡",
-      "count": 3
-    },
-    {
-      "word": "여성",
-      "count": 3
-    },
-    {
-      "word": "이언주",
-      "count": 3
-    },
-    {
-      "word": "올림픽",
-      "count": 3
+      "count": 6
     },
     {
       "word": "최초",
-      "count": 2
-    },
-    {
-      "word": "그래미상",
-      "count": 2
+      "count": 6
     },
     {
       "word": "어워즈",
-      "count": 2
+      "count": 6
     },
     {
-      "word": "통일교",
-      "count": 2
+      "word": "두쫀쿠",
+      "count": 6
     },
     {
-      "word": "만든",
-      "count": 2
+      "word": "충격",
+      "count": 6
     },
     {
-      "word": "재경부",
-      "count": 2
+      "word": "여성",
+      "count": 5
     },
     {
-      "word": "차관에",
-      "count": 2
+      "word": "이언주",
+      "count": 5
+    },
+    {
+      "word": "케데헌",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "그래미상",
+      "count": 4
     },
     {
       "word": "정청래",
-      "count": 2
+      "count": 4
     },
     {
       "word": "젠장",
-      "count": 2
+      "count": 4
     },
     {
       "word": "이건",
-      "count": 2
+      "count": 4
     },
     {
       "word": "무조건",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "탄핵이야",
+      "count": 4
+    },
+    {
+      "word": "그날밤",
+      "count": 4
+    },
+    {
+      "word": "장제원",
+      "count": 4
+    },
+    {
+      "word": "싱가포르",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "이언주",
-        "count": 3
-      },
-      {
-        "word": "재경부",
-        "count": 2
-      },
-      {
-        "word": "차관에",
-        "count": 2
+        "count": 5
       },
       {
         "word": "정청래",
-        "count": 2
+        "count": 4
       },
       {
         "word": "젠장",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "이건",
+        "count": 4
+      },
+      {
+        "word": "무조건",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "올림픽",
-        "count": 2
+        "word": "남자",
+        "count": 4
       },
       {
-        "word": "남자",
-        "count": 2
+        "word": "올림픽",
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 3
       },
       {
         "word": "임경진",
-        "count": 2
+        "count": 3
       },
       {
         "word": "꺾고",
-        "count": 2
-      },
-      {
-        "word": "우승",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "매도",
+        "count": 4
+      },
+      {
+        "word": "삼성",
+        "count": 3
+      },
+      {
         "word": "쇼크",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "김정은도",
-        "count": 1
+        "word": "코스피",
+        "count": 3
       },
       {
-        "word": "마두로도",
-        "count": 1
-      },
-      {
-        "word": "쓴다",
-        "count": 1
-      },
-      {
-        "word": "불법",
-        "count": 1
+        "word": "사이드카",
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "두쫀쿠",
-        "count": 2
+        "count": 6
       },
       {
         "word": "하루",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "담배",
+        "count": 3
       },
       {
         "word": "놀라운",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "시간",
+        "word": "억원",
         "count": 2
-      },
-      {
-        "word": "일매출",
-        "count": 1
       }
     ],
     "international": [
       {
-        "word": "엡스타인",
-        "count": 2
-      },
-      {
-        "word": "트럼프",
-        "count": 2
-      },
-      {
-        "word": "텃밭",
-        "count": 2
-      },
-      {
         "word": "충격",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "이민단속국",
-        "count": 1
+        "word": "엡스타인",
+        "count": 3
+      },
+      {
+        "word": "백인",
+        "count": 3
+      },
+      {
+        "word": "흑인",
+        "count": 3
+      },
+      {
+        "word": "영상",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "그래미",
-        "count": 4
-      },
-      {
-        "word": "케데헌",
-        "count": 3
+        "count": 13
       },
       {
         "word": "골든",
-        "count": 3
+        "count": 6
       },
       {
         "word": "수상",
-        "count": 3
+        "count": 6
       },
       {
-        "word": "아파트",
-        "count": 3
+        "word": "어워즈",
+        "count": 6
+      },
+      {
+        "word": "케데헌",
+        "count": 4
       }
     ]
   }
