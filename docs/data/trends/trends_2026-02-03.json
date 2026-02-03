@@ -1,13 +1,220 @@
 {
   "date": "2026-02-03",
-  "generated_at": "2026-02-03T09:42:18.098196+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-03T15:21:32.733834+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "혐의",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "부동산",
+      "count": 3
+    },
+    {
+      "word": "안영미",
+      "count": 2
+    },
+    {
+      "word": "서희원",
+      "count": 2
+    },
+    {
+      "word": "아이유",
+      "count": 2
+    },
+    {
+      "word": "잘못",
+      "count": 2
+    },
+    {
+      "word": "시간",
+      "count": 2
+    },
+    {
+      "word": "깜짝",
+      "count": 2
+    },
+    {
+      "word": "세계",
+      "count": 2
+    },
+    {
+      "word": "장동혁",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "구윤철",
+      "count": 2
+    },
+    {
+      "word": "일까지",
+      "count": 2
+    },
+    {
+      "word": "계약",
+      "count": 2
+    },
+    {
+      "word": "개월",
+      "count": 2
+    },
+    {
+      "word": "잔금",
+      "count": 2
+    },
+    {
+      "word": "내면",
+      "count": 2
+    },
+    {
+      "word": "중과유예",
+      "count": 2
+    },
+    {
+      "word": "검토",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "부동산",
+        "count": 3
+      },
+      {
+        "word": "장동혁",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "구윤철",
+        "count": 2
+      },
+      {
+        "word": "일까지",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "완벽한",
+        "count": 1
+      },
+      {
+        "word": "우승",
+        "count": 1
+      },
+      {
+        "word": "후보",
+        "count": 1
+      },
+      {
+        "word": "올림픽",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "한화오션",
+        "count": 1
+      },
+      {
+        "word": "찾은",
+        "count": 1
+      },
+      {
+        "word": "캐나다",
+        "count": 1
+      },
+      {
+        "word": "잠수함",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "혐의",
+        "count": 2
+      },
+      {
+        "word": "서부지법",
+        "count": 2
+      },
+      {
+        "word": "난동",
+        "count": 2
+      },
+      {
+        "word": "배후",
+        "count": 2
+      },
+      {
+        "word": "전광훈",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "일본",
+        "count": 2
+      },
+      {
+        "word": "식당",
+        "count": 2
+      },
+      {
+        "word": "점원에",
+        "count": 2
+      },
+      {
+        "word": "영수증통",
+        "count": 2
+      },
+      {
+        "word": "던진",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "안영미",
+        "count": 2
+      },
+      {
+        "word": "서희원",
+        "count": 2
+      },
+      {
+        "word": "볼이",
+        "count": 1
+      },
+      {
+        "word": "패인",
+        "count": 1
+      },
+      {
+        "word": "야윈",
+        "count": 1
+      }
+    ]
   }
 }
