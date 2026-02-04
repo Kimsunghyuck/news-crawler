@@ -1,13 +1,220 @@
 {
   "date": "2026-02-04",
-  "generated_at": "2026-02-04T09:38:31.934119+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-04T15:21:58.524802+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "그래미",
+      "count": 4
+    },
+    {
+      "word": "돌파",
+      "count": 4
+    },
+    {
+      "word": "논란",
+      "count": 4
+    },
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "전한길",
+      "count": 3
+    },
+    {
+      "word": "사상",
+      "count": 3
+    },
+    {
+      "word": "개막",
+      "count": 2
+    },
+    {
+      "word": "뭔일",
+      "count": 2
+    },
+    {
+      "word": "선거",
+      "count": 2
+    },
+    {
+      "word": "처가",
+      "count": 2
+    },
+    {
+      "word": "잘못한",
+      "count": 2
+    },
+    {
+      "word": "있나",
+      "count": 2
+    },
+    {
+      "word": "원전",
+      "count": 2
+    },
+    {
+      "word": "파티",
+      "count": 2
+    },
+    {
+      "word": "박살낸",
+      "count": 2
+    },
+    {
+      "word": "폭언",
+      "count": 2
+    },
+    {
+      "word": "시대",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "행사",
+      "count": 2
+    },
+    {
+      "word": "소환",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "장동혁",
+        "count": 3
+      },
+      {
+        "word": "전한길",
+        "count": 2
+      },
+      {
+        "word": "처가",
+        "count": 2
+      },
+      {
+        "word": "잘못한",
+        "count": 2
+      },
+      {
+        "word": "있나",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "홈런왕",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "문정원의",
+        "count": 1
+      },
+      {
+        "word": "책임감도로공사",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "돌파",
+        "count": 3
+      },
+      {
+        "word": "삼성전자",
+        "count": 2
+      },
+      {
+        "word": "국내",
+        "count": 2
+      },
+      {
+        "word": "시가총액",
+        "count": 2
+      },
+      {
+        "word": "스페이스",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "소환",
+        "count": 2
+      },
+      {
+        "word": "논란",
+        "count": 2
+      },
+      {
+        "word": "병원",
+        "count": 2
+      },
+      {
+        "word": "검찰",
+        "count": 1
+      },
+      {
+        "word": "중간간부",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "게이츠",
+        "count": 2
+      },
+      {
+        "word": "성병",
+        "count": 2
+      },
+      {
+        "word": "의혹",
+        "count": 2
+      },
+      {
+        "word": "믿을",
+        "count": 2
+      },
+      {
+        "word": "슬퍼",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "그래미",
+        "count": 4
+      },
+      {
+        "word": "캣츠아이",
+        "count": 1
+      },
+      {
+        "word": "공연",
+        "count": 1
+      },
+      {
+        "word": "이어",
+        "count": 1
+      },
+      {
+        "word": "수퍼볼",
+        "count": 1
+      }
+    ]
   }
 }
