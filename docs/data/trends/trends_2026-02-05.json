@@ -1,153 +1,153 @@
 {
   "date": "2026-02-05",
-  "generated_at": "2026-02-05T15:25:15.926651+09:00",
+  "generated_at": "2026-02-05T19:29:06.389851+09:00",
   "daily_top_keywords": [
     {
       "word": "한국",
+      "count": 8
+    },
+    {
+      "word": "장동혁",
+      "count": 6
+    },
+    {
+      "word": "대신",
       "count": 5
+    },
+    {
+      "word": "걸고",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "돌파",
+      "count": 4
+    },
+    {
+      "word": "개월",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
     },
     {
       "word": "논란",
       "count": 3
     },
     {
-      "word": "걸고",
+      "word": "오세훈",
       "count": 3
     },
     {
-      "word": "장동혁",
+      "word": "대표",
       "count": 3
-    },
-    {
-      "word": "개월",
-      "count": 3
-    },
-    {
-      "word": "엄마",
-      "count": 3
-    },
-    {
-      "word": "돌파",
-      "count": 2
-    },
-    {
-      "word": "여학우",
-      "count": 2
-    },
-    {
-      "word": "성희롱",
-      "count": 2
-    },
-    {
-      "word": "천하람",
-      "count": 2
-    },
-    {
-      "word": "과거",
-      "count": 2
-    },
-    {
-      "word": "지식인",
-      "count": 2
-    },
-    {
-      "word": "답변",
-      "count": 2
-    },
-    {
-      "word": "중단",
-      "count": 2
-    },
-    {
-      "word": "않고",
-      "count": 2
     },
     {
       "word": "당원",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "대통령",
-      "count": 2
+      "word": "투표",
+      "count": 3
     },
     {
-      "word": "용산",
-      "count": 2
+      "word": "추천",
+      "count": 3
+    },
+    {
+      "word": "권창영",
+      "count": 3
+    },
+    {
+      "word": "변호사",
+      "count": 3
     },
     {
       "word": "정청래",
-      "count": 2
+      "count": 3
     },
     {
       "word": "합당",
-      "count": 2
+      "count": 3
+    },
+    {
+      "word": "공천",
+      "count": 3
+    },
+    {
+      "word": "베트남",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "걸고",
-        "count": 3
+        "word": "장동혁",
+        "count": 6
       },
       {
-        "word": "장동혁",
+        "word": "걸고",
+        "count": 5
+      },
+      {
+        "word": "오세훈",
         "count": 3
       },
       {
         "word": "당원",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "정청래",
-        "count": 2
-      },
-      {
-        "word": "합당",
-        "count": 2
+        "word": "대통령",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "오현규",
-        "count": 2
-      },
-      {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "개월",
+        "count": 3
+      },
+      {
+        "word": "국가대표",
         "count": 2
       },
       {
-        "word": "연속",
+        "word": "오현규",
         "count": 2
       }
     ],
     "economy": [
       {
         "word": "대신",
-        "count": 2
+        "count": 3
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "주택연금",
-        "count": 2
-      },
-      {
-        "word": "실거주",
-        "count": 2
+        "word": "돌파",
+        "count": 3
       },
       {
         "word": "월세",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "내야죠",
+        "count": 2
       }
     ],
     "society": [
@@ -156,64 +156,64 @@
         "count": 3
       },
       {
-        "word": "벌금형",
+        "word": "베트남",
         "count": 2
       },
       {
-        "word": "형사",
+        "word": "젊은",
         "count": 2
       },
       {
-        "word": "시속",
-        "count": 1
+        "word": "처녀",
+        "count": 2
       },
       {
-        "word": "사이로",
-        "count": 1
+        "word": "수입",
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "충격",
+        "word": "권총",
         "count": 2
       },
       {
-        "word": "이래서",
+        "word": "사격에",
         "count": 2
       },
       {
-        "word": "피식",
-        "count": 1
+        "word": "행군까지",
+        "count": 2
       },
       {
-        "word": "비웃는",
-        "count": 1
+        "word": "네덜란드",
+        "count": 2
       },
       {
-        "word": "표정",
-        "count": 1
+        "word": "왕비",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "브루노",
-        "count": 1
+        "count": 2
       },
       {
         "word": "마스",
-        "count": 1
+        "count": 2
       },
       {
         "word": "등장한",
-        "count": 1
+        "count": 2
       },
       {
         "word": "조선일보",
-        "count": 1
+        "count": 2
       },
       {
         "word": "지면",
-        "count": 1
+        "count": 2
       }
     ]
   }
