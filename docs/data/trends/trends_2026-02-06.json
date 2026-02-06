@@ -1,13 +1,220 @@
 {
   "date": "2026-02-06",
-  "generated_at": "2026-02-06T09:38:44.314546+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-06T15:23:47.731982+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "서울",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "의혹",
+      "count": 3
+    },
+    {
+      "word": "반박",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "정청래",
+      "count": 3
+    },
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "올림픽",
+      "count": 3
+    },
+    {
+      "word": "성매매",
+      "count": 2
+    },
+    {
+      "word": "문화",
+      "count": 2
+    },
+    {
+      "word": "저작권료",
+      "count": 2
+    },
+    {
+      "word": "개월",
+      "count": 2
+    },
+    {
+      "word": "이유는",
+      "count": 2
+    },
+    {
+      "word": "아파트",
+      "count": 2
+    },
+    {
+      "word": "문건",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "몰빵",
+      "count": 2
+    },
+    {
+      "word": "전략은",
+      "count": 2
+    },
+    {
+      "word": "집값",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "정청래",
+        "count": 3
+      },
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "장동혁",
+        "count": 3
+      },
+      {
+        "word": "문건",
+        "count": 2
+      },
+      {
+        "word": "못한다",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "올림픽",
+        "count": 3
+      },
+      {
+        "word": "컬링",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "동계",
+        "count": 2
+      },
+      {
+        "word": "감독",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "우려",
+        "count": 2
+      },
+      {
+        "word": "함께",
+        "count": 2
+      },
+      {
+        "word": "원대",
+        "count": 1
+      },
+      {
+        "word": "환율",
+        "count": 1
+      },
+      {
+        "word": "고착화",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "아들",
+        "count": 2
+      },
+      {
+        "word": "무기징역",
+        "count": 2
+      },
+      {
+        "word": "경찰",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 2
+      },
+      {
+        "word": "운세",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "분위기",
+        "count": 2
+      },
+      {
+        "word": "좋지",
+        "count": 2
+      },
+      {
+        "word": "말해",
+        "count": 2
+      },
+      {
+        "word": "발칵",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "성매매",
+        "count": 2
+      },
+      {
+        "word": "의혹",
+        "count": 2
+      },
+      {
+        "word": "반박",
+        "count": 2
+      },
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "흑백요리사가",
+        "count": 1
+      }
+    ]
   }
 }
