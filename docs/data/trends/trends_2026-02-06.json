@@ -1,219 +1,219 @@
 {
   "date": "2026-02-06",
-  "generated_at": "2026-02-06T15:23:47.731982+09:00",
+  "generated_at": "2026-02-06T19:21:11.944131+09:00",
   "daily_top_keywords": [
     {
-      "word": "서울",
-      "count": 4
-    },
-    {
-      "word": "대통령",
-      "count": 4
-    },
-    {
       "word": "한국",
-      "count": 4
-    },
-    {
-      "word": "의혹",
-      "count": 3
-    },
-    {
-      "word": "반박",
-      "count": 3
-    },
-    {
-      "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "정청래",
-      "count": 3
-    },
-    {
-      "word": "장동혁",
-      "count": 3
+      "count": 13
     },
     {
       "word": "올림픽",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "성매매",
-      "count": 2
+      "word": "대통령",
+      "count": 7
+    },
+    {
+      "word": "서울",
+      "count": 6
+    },
+    {
+      "word": "반박",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "정청래",
+      "count": 5
+    },
+    {
+      "word": "의혹",
+      "count": 4
     },
     {
       "word": "문화",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "저작권료",
-      "count": 2
-    },
-    {
-      "word": "개월",
-      "count": 2
-    },
-    {
-      "word": "이유는",
-      "count": 2
-    },
-    {
-      "word": "아파트",
-      "count": 2
-    },
-    {
-      "word": "문건",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
+      "word": "논란",
+      "count": 4
     },
     {
       "word": "몰빵",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "전략은",
-      "count": 2
+      "word": "장동혁",
+      "count": 4
     },
     {
-      "word": "집값",
-      "count": 2
+      "word": "되나",
+      "count": 4
+    },
+    {
+      "word": "대형마트",
+      "count": 4
+    },
+    {
+      "word": "발칵",
+      "count": 4
+    },
+    {
+      "word": "우려",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "반도체",
+      "count": 4
+    },
+    {
+      "word": "성매매",
+      "count": 3
+    },
+    {
+      "word": "키움",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "정청래",
-        "count": 3
+        "count": 5
       },
       {
         "word": "대통령",
-        "count": 3
+        "count": 5
       },
       {
         "word": "장동혁",
+        "count": 4
+      },
+      {
+        "word": "합당",
         "count": 3
       },
       {
         "word": "문건",
-        "count": 2
-      },
-      {
-        "word": "못한다",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "올림픽",
-        "count": 3
-      },
-      {
-        "word": "컬링",
-        "count": 2
+        "count": 5
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "컬링",
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 3
       },
       {
         "word": "동계",
-        "count": 2
-      },
-      {
-        "word": "감독",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "우려",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "함께",
-        "count": 2
+        "word": "영업익",
+        "count": 3
       },
       {
         "word": "원대",
-        "count": 1
+        "count": 2
       },
       {
         "word": "환율",
-        "count": 1
+        "count": 2
       },
       {
         "word": "고착화",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "지귀연",
+        "count": 3
+      },
+      {
+        "word": "오늘의",
+        "count": 3
+      },
+      {
+        "word": "운세",
+        "count": 3
+      },
       {
         "word": "아들",
         "count": 2
       },
       {
-        "word": "무기징역",
-        "count": 2
-      },
-      {
-        "word": "경찰",
-        "count": 2
-      },
-      {
-        "word": "오늘의",
-        "count": 2
-      },
-      {
-        "word": "운세",
+        "word": "남성",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "한국",
-        "count": 3
+        "count": 8
+      },
+      {
+        "word": "반도체",
+        "count": 4
       },
       {
         "word": "분위기",
-        "count": 2
+        "count": 3
       },
       {
         "word": "좋지",
-        "count": 2
+        "count": 3
       },
       {
         "word": "말해",
-        "count": 2
-      },
-      {
-        "word": "발칵",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "성매매",
-        "count": 2
+        "count": 3
       },
       {
         "word": "의혹",
-        "count": 2
+        "count": 3
       },
       {
         "word": "반박",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "서울",
-        "count": 2
+        "word": "키움",
+        "count": 3
       },
       {
-        "word": "흑백요리사가",
-        "count": 1
+        "word": "이주형",
+        "count": 3
       }
     ]
   }
