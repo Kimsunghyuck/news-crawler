@@ -1,219 +1,219 @@
 {
   "date": "2026-02-07",
-  "generated_at": "2026-02-07T15:23:00.326286+09:00",
+  "generated_at": "2026-02-07T19:18:52.136739+09:00",
   "daily_top_keywords": [
     {
-      "word": "합당",
-      "count": 3
-    },
-    {
-      "word": "직원",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
       "word": "결혼",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "조국",
-      "count": 2
-    },
-    {
-      "word": "죽일",
-      "count": 2
-    },
-    {
-      "word": "달려들어",
-      "count": 2
+      "word": "합당",
+      "count": 4
     },
     {
       "word": "대통령",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "먹는",
-      "count": 2
-    },
-    {
-      "word": "수도권",
-      "count": 2
-    },
-    {
-      "word": "엄마",
-      "count": 2
+      "word": "직원",
+      "count": 4
     },
     {
       "word": "시장",
-      "count": 2
-    },
-    {
-      "word": "꾸미는",
-      "count": 2
-    },
-    {
-      "word": "패배",
-      "count": 2
+      "count": 4
     },
     {
       "word": "남자",
-      "count": 2
+      "count": 4
     },
     {
       "word": "한국",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "꺾고",
+      "count": 4
+    },
+    {
+      "word": "조국",
+      "count": 3
+    },
+    {
+      "word": "죽일",
+      "count": 3
+    },
+    {
+      "word": "달려들어",
+      "count": 3
+    },
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "먹는",
+      "count": 3
+    },
+    {
+      "word": "수도권",
+      "count": 3
+    },
+    {
+      "word": "집회",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "패배",
+      "count": 3
+    },
+    {
+      "word": "일본",
+      "count": 3
     },
     {
       "word": "올림픽",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "원숭이",
-      "count": 2
-    },
-    {
-      "word": "오바마",
-      "count": 2
-    },
-    {
-      "word": "실수",
-      "count": 2
+      "word": "밀라노",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "합당",
-        "count": 3
-      },
-      {
-        "word": "조국",
-        "count": 2
-      },
-      {
-        "word": "죽일",
-        "count": 2
-      },
-      {
-        "word": "달려들어",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대통령",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "조국",
+        "count": 3
+      },
+      {
+        "word": "죽일",
+        "count": 3
+      },
+      {
+        "word": "달려들어",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "꺾고",
+        "count": 4
       },
       {
         "word": "사우디",
-        "count": 1
+        "count": 2
       },
       {
         "word": "리그",
-        "count": 1
-      },
-      {
-        "word": "호날두에",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "시장",
-        "count": 2
-      },
-      {
-        "word": "꾸미는",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대기업",
-        "count": 1
+        "count": 2
       },
       {
         "word": "수도권",
-        "count": 1
+        "count": 2
       },
       {
         "word": "지역",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "청년은",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "수도권",
-        "count": 1
+        "word": "집회",
+        "count": 3
       },
       {
-        "word": "체감",
-        "count": 1
+        "word": "거절하며",
+        "count": 2
       },
       {
-        "word": "영하",
-        "count": 1
+        "word": "몸싸움",
+        "count": 2
       },
       {
-        "word": "주말",
-        "count": 1
+        "word": "먼저",
+        "count": 2
       },
       {
-        "word": "내내",
-        "count": 1
+        "word": "달라해",
+        "count": 2
       }
     ],
     "international": [
+      {
+        "word": "원숭이",
+        "count": 3
+      },
+      {
+        "word": "오바마",
+        "count": 3
+      },
       {
         "word": "트럼프",
         "count": 3
       },
       {
-        "word": "원숭이",
-        "count": 2
-      },
-      {
-        "word": "오바마",
-        "count": 2
-      },
-      {
         "word": "직원",
-        "count": 2
+        "count": 3
       },
       {
         "word": "실수",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "결혼",
+        "count": 4
+      },
+      {
+        "word": "프러포즈",
         "count": 2
       },
       {
-        "word": "팬미팅",
-        "count": 1
+        "word": "사진",
+        "count": 2
       },
       {
-        "word": "전부터",
-        "count": 1
+        "word": "공개했던",
+        "count": 2
       },
       {
-        "word": "늘어선",
-        "count": 1
-      },
-      {
-        "word": "지드래곤의",
-        "count": 1
+        "word": "이재오는",
+        "count": 2
       }
     ]
   }
