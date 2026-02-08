@@ -1,13 +1,220 @@
 {
   "date": "2026-02-08",
-  "generated_at": "2026-02-08T09:49:38.819021+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-08T15:27:51.389532+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "특검",
+      "count": 3
+    },
+    {
+      "word": "인사",
+      "count": 3
+    },
+    {
+      "word": "검증",
+      "count": 3
+    },
+    {
+      "word": "실패",
+      "count": 3
+    },
+    {
+      "word": "죄송",
+      "count": 3
+    },
+    {
+      "word": "수도권",
+      "count": 3
+    },
+    {
+      "word": "캐나다",
+      "count": 3
+    },
+    {
+      "word": "이제",
+      "count": 2
+    },
+    {
+      "word": "구준엽",
+      "count": 2
+    },
+    {
+      "word": "조국",
+      "count": 2
+    },
+    {
+      "word": "전한길",
+      "count": 2
+    },
+    {
+      "word": "대회",
+      "count": 2
+    },
+    {
+      "word": "장동혁",
+      "count": 2
+    },
+    {
+      "word": "모습",
+      "count": 2
+    },
+    {
+      "word": "정청래",
+      "count": 2
+    },
+    {
+      "word": "쌍방울",
+      "count": 2
+    },
+    {
+      "word": "변호인",
+      "count": 2
+    },
+    {
+      "word": "추천",
+      "count": 2
+    },
+    {
+      "word": "호텔서",
+      "count": 2
+    },
+    {
+      "word": "보여",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "특검",
+        "count": 3
+      },
+      {
+        "word": "인사",
+        "count": 3
+      },
+      {
+        "word": "검증",
+        "count": 3
+      },
+      {
+        "word": "실패",
+        "count": 3
+      },
+      {
+        "word": "죄송",
+        "count": 3
+      }
+    ],
+    "sports": [
+      {
+        "word": "부상으로",
+        "count": 2
+      },
+      {
+        "word": "패배",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "캐나다",
+        "count": 2
+      },
+      {
+        "word": "과제",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "시장",
+        "count": 2
+      },
+      {
+        "word": "대기업",
+        "count": 1
+      },
+      {
+        "word": "수도권",
+        "count": 1
+      },
+      {
+        "word": "지역",
+        "count": 1
+      },
+      {
+        "word": "청년은",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "한밤",
+        "count": 1
+      },
+      {
+        "word": "해운대",
+        "count": 1
+      },
+      {
+        "word": "호텔서",
+        "count": 1
+      },
+      {
+        "word": "화재",
+        "count": 1
+      },
+      {
+        "word": "소동",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "사령관",
+        "count": 1
+      },
+      {
+        "word": "군복",
+        "count": 1
+      },
+      {
+        "word": "입고",
+        "count": 1
+      },
+      {
+        "word": "협상장에",
+        "count": 1
+      },
+      {
+        "word": "트럼프식",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "심형래",
+        "count": 1
+      },
+      {
+        "word": "영구와",
+        "count": 1
+      },
+      {
+        "word": "땡칠이",
+        "count": 1
+      },
+      {
+        "word": "촬영할",
+        "count": 1
+      },
+      {
+        "word": "출연료",
+        "count": 1
+      }
+    ]
   }
 }
