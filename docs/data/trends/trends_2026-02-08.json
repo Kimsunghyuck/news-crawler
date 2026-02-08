@@ -1,219 +1,219 @@
 {
   "date": "2026-02-08",
-  "generated_at": "2026-02-08T15:27:51.389532+09:00",
+  "generated_at": "2026-02-08T19:14:36.179083+09:00",
   "daily_top_keywords": [
     {
       "word": "특검",
-      "count": 3
+      "count": 5
     },
     {
       "word": "인사",
-      "count": 3
-    },
-    {
-      "word": "검증",
-      "count": 3
+      "count": 5
     },
     {
       "word": "실패",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "검증",
+      "count": 4
     },
     {
       "word": "죄송",
-      "count": 3
-    },
-    {
-      "word": "수도권",
-      "count": 3
-    },
-    {
-      "word": "캐나다",
-      "count": 3
-    },
-    {
-      "word": "이제",
-      "count": 2
-    },
-    {
-      "word": "구준엽",
-      "count": 2
-    },
-    {
-      "word": "조국",
-      "count": 2
+      "count": 4
     },
     {
       "word": "전한길",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "수도권",
+      "count": 4
+    },
+    {
+      "word": "시장",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "이제",
+      "count": 3
+    },
+    {
+      "word": "조사",
+      "count": 3
+    },
+    {
+      "word": "먹는",
+      "count": 3
+    },
+    {
+      "word": "이유",
+      "count": 3
+    },
+    {
+      "word": "조국",
+      "count": 3
+    },
+    {
+      "word": "합당",
+      "count": 3
+    },
+    {
+      "word": "이준석",
+      "count": 3
+    },
+    {
+      "word": "의원직",
+      "count": 3
     },
     {
       "word": "대회",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "장동혁",
-      "count": 2
-    },
-    {
-      "word": "모습",
-      "count": 2
-    },
-    {
-      "word": "정청래",
-      "count": 2
-    },
-    {
-      "word": "쌍방울",
-      "count": 2
-    },
-    {
-      "word": "변호인",
-      "count": 2
-    },
-    {
-      "word": "추천",
-      "count": 2
-    },
-    {
-      "word": "호텔서",
-      "count": 2
-    },
-    {
-      "word": "보여",
-      "count": 2
+      "word": "제주",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "특검",
-        "count": 3
+        "count": 4
       },
       {
         "word": "인사",
-        "count": 3
+        "count": 4
       },
       {
         "word": "검증",
-        "count": 3
+        "count": 4
       },
       {
         "word": "실패",
-        "count": 3
+        "count": 4
       },
       {
         "word": "죄송",
-        "count": 3
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "부상으로",
-        "count": 2
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "한국",
+        "count": 4
       },
       {
         "word": "패배",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "남자",
-        "count": 2
+        "word": "역전승",
+        "count": 3
       },
       {
-        "word": "캐나다",
-        "count": 2
-      },
-      {
-        "word": "과제",
+        "word": "부상으로",
         "count": 2
       }
     ],
     "economy": [
       {
         "word": "시장",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대기업",
-        "count": 1
+        "count": 2
       },
       {
         "word": "수도권",
-        "count": 1
+        "count": 2
       },
       {
         "word": "지역",
-        "count": 1
+        "count": 2
       },
       {
         "word": "청년은",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "한밤",
-        "count": 1
+        "word": "제주",
+        "count": 3
       },
       {
-        "word": "해운대",
-        "count": 1
+        "word": "결항",
+        "count": 3
       },
       {
-        "word": "호텔서",
-        "count": 1
+        "word": "경주",
+        "count": 3
       },
       {
-        "word": "화재",
-        "count": 1
+        "word": "산불",
+        "count": 3
       },
       {
-        "word": "소동",
-        "count": 1
+        "word": "폭설에",
+        "count": 2
       }
     ],
     "international": [
       {
+        "word": "다카이치",
+        "count": 3
+      },
+      {
         "word": "사령관",
-        "count": 1
+        "count": 2
       },
       {
         "word": "군복",
-        "count": 1
+        "count": 2
       },
       {
         "word": "입고",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "협상장에",
-        "count": 1
-      },
-      {
-        "word": "트럼프식",
-        "count": 1
+        "word": "압박",
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "심형래",
-        "count": 1
-      },
-      {
-        "word": "영구와",
-        "count": 1
-      },
-      {
-        "word": "땡칠이",
-        "count": 1
-      },
-      {
-        "word": "촬영할",
-        "count": 1
-      },
-      {
         "word": "출연료",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "이제",
+        "count": 2
+      },
+      {
+        "word": "너희들",
+        "count": 2
+      },
+      {
+        "word": "차례",
+        "count": 2
+      },
+      {
+        "word": "주사이모",
+        "count": 2
       }
     ]
   }
