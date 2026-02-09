@@ -1,219 +1,219 @@
 {
   "date": "2026-02-09",
-  "generated_at": "2026-02-09T15:28:13.527682+09:00",
+  "generated_at": "2026-02-09T19:31:48.927099+09:00",
   "daily_top_keywords": [
+    {
+      "word": "올림픽",
+      "count": 9
+    },
+    {
+      "word": "김상겸",
+      "count": 7
+    },
+    {
+      "word": "무죄",
+      "count": 6
+    },
+    {
+      "word": "우승",
+      "count": 6
+    },
     {
       "word": "만원",
       "count": 5
     },
     {
-      "word": "올림픽",
-      "count": 4
+      "word": "논란",
+      "count": 5
     },
     {
       "word": "정청래",
-      "count": 3
-    },
-    {
-      "word": "논란",
-      "count": 3
-    },
-    {
-      "word": "무죄",
-      "count": 3
+      "count": 5
     },
     {
       "word": "추락",
-      "count": 3
-    },
-    {
-      "word": "김상겸",
-      "count": 3
-    },
-    {
-      "word": "박보검",
-      "count": 2
-    },
-    {
-      "word": "너무",
-      "count": 2
+      "count": 5
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "이어",
-      "count": 2
+      "word": "피겨",
+      "count": 4
     },
     {
-      "word": "겁니다",
-      "count": 2
-    },
-    {
-      "word": "뭐길래",
-      "count": 2
-    },
-    {
-      "word": "제명",
-      "count": 2
-    },
-    {
-      "word": "김상민",
-      "count": 2
-    },
-    {
-      "word": "다카이치",
-      "count": 2
-    },
-    {
-      "word": "추진",
-      "count": 2
+      "word": "자민당",
+      "count": 4
     },
     {
       "word": "헬기",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "영상",
-      "count": 2
+      "word": "졸업식",
+      "count": 4
     },
     {
-      "word": "경기",
-      "count": 2
+      "word": "징역",
+      "count": 4
+    },
+    {
+      "word": "서울",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "매출",
+      "count": 4
+    },
+    {
+      "word": "실적",
+      "count": 4
+    },
+    {
+      "word": "장사",
+      "count": 4
+    },
+    {
+      "word": "연속",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "정청래",
-        "count": 3
+        "count": 5
       },
       {
         "word": "제명",
-        "count": 2
+        "count": 3
       },
       {
         "word": "추진",
+        "count": 3
+      },
+      {
+        "word": "민주당",
+        "count": 3
+      },
+      {
+        "word": "국힘",
         "count": 2
-      },
-      {
-        "word": "특검",
-        "count": 1
-      },
-      {
-        "word": "추천",
-        "count": 1
       }
     ],
     "sports": [
       {
-        "word": "시애틀",
-        "count": 2
+        "word": "우승",
+        "count": 6
       },
       {
-        "word": "삼성",
-        "count": 2
+        "word": "김상겸",
+        "count": 5
       },
       {
         "word": "패배",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "은메달",
-        "count": 2
+        "word": "한국",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "서울",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "아닌",
-        "count": 2
+        "word": "최대",
+        "count": 4
+      },
+      {
+        "word": "매출",
+        "count": 4
+      },
+      {
+        "word": "실적",
+        "count": 4
       },
       {
         "word": "장사",
-        "count": 2
-      },
-      {
-        "word": "비트코인",
-        "count": 2
-      },
-      {
-        "word": "로봇",
-        "count": 2
+        "count": 4
       }
     ],
     "society": [
       {
-        "word": "만원",
-        "count": 3
-      },
-      {
         "word": "무죄",
-        "count": 2
+        "count": 5
       },
       {
         "word": "헬기",
-        "count": 2
+        "count": 3
       },
       {
         "word": "추락",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "앞에서",
-        "count": 1
+        "word": "졸업식",
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 3
       }
     ],
     "international": [
       {
-        "word": "자민당",
-        "count": 2
-      },
-      {
-        "word": "년간",
-        "count": 2
+        "word": "올림픽",
+        "count": 5
       },
       {
         "word": "홍콩",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "올림픽",
-        "count": 2
+        "word": "자민당",
+        "count": 3
       },
       {
-        "word": "너무",
-        "count": 1
+        "word": "징역",
+        "count": 3
+      },
+      {
+        "word": "린지",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "박보검",
-        "count": 1
+        "word": "어게인",
+        "count": 2
       },
       {
-        "word": "만난",
-        "count": 1
+        "word": "광화문",
+        "count": 2
       },
       {
-        "word": "조지",
-        "count": 1
+        "word": "공연",
+        "count": 2
       },
       {
-        "word": "클루니",
-        "count": 1
+        "word": "모인다",
+        "count": 2
       },
       {
-        "word": "너무",
-        "count": 1
+        "word": "논란",
+        "count": 2
       }
     ]
   }
