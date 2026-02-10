@@ -1,219 +1,219 @@
 {
   "date": "2026-02-10",
-  "generated_at": "2026-02-10T15:29:14.257011+09:00",
+  "generated_at": "2026-02-10T19:26:29.493564+09:00",
   "daily_top_keywords": [
     {
       "word": "한국",
-      "count": 4
-    },
-    {
-      "word": "서울",
-      "count": 3
+      "count": 6
     },
     {
       "word": "합당",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "어렵다",
-      "count": 3
-    },
-    {
-      "word": "사고",
-      "count": 3
-    },
-    {
-      "word": "메달",
-      "count": 3
-    },
-    {
-      "word": "김상겸",
-      "count": 3
-    },
-    {
-      "word": "금메달",
-      "count": 3
+      "word": "투자",
+      "count": 6
     },
     {
       "word": "올림픽",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "메달",
+      "count": 5
+    },
+    {
+      "word": "금메달",
+      "count": 5
     },
     {
       "word": "포토타임",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "세계",
-      "count": 3
+      "word": "서울",
+      "count": 4
     },
     {
-      "word": "고발",
-      "count": 2
+      "word": "무대",
+      "count": 4
+    },
+    {
+      "word": "살아",
+      "count": 4
     },
     {
       "word": "여성",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "케데헌",
-      "count": 2
-    },
-    {
-      "word": "구윤철",
-      "count": 2
-    },
-    {
-      "word": "강남",
-      "count": 2
+      "word": "어렵다",
+      "count": 4
     },
     {
       "word": "민주당",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "의총서",
-      "count": 2
+      "word": "뽑는다",
+      "count": 4
     },
     {
-      "word": "총리",
-      "count": 2
+      "word": "증원",
+      "count": 4
     },
     {
-      "word": "없이",
-      "count": 2
+      "word": "상담",
+      "count": 4
+    },
+    {
+      "word": "사유",
+      "count": 4
+    },
+    {
+      "word": "삼성",
+      "count": 4
+    },
+    {
+      "word": "올해의",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "합당",
-        "count": 3
-      },
-      {
-        "word": "구윤철",
-        "count": 2
-      },
-      {
-        "word": "어렵다",
-        "count": 2
+        "count": 6
       },
       {
         "word": "민주당",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "의총서",
-        "count": 2
+        "word": "어렵다",
+        "count": 3
+      },
+      {
+        "word": "의총",
+        "count": 3
+      },
+      {
+        "word": "총리",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "김상겸",
-        "count": 3
-      },
-      {
         "word": "금메달",
-        "count": 3
+        "count": 5
       },
       {
         "word": "포토타임",
+        "count": 5
+      },
+      {
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "메달",
+        "count": 4
+      },
+      {
+        "word": "한국",
         "count": 3
-      },
-      {
-        "word": "최재훈",
-        "count": 2
-      },
-      {
-        "word": "김형준",
-        "count": 2
       }
     ],
     "economy": [
       {
         "word": "투자",
-        "count": 2
+        "count": 5
       },
       {
         "word": "올해의",
-        "count": 2
+        "count": 4
       },
       {
         "word": "포르셰",
-        "count": 1
+        "count": 2
       },
       {
         "word": "한국",
-        "count": 1
+        "count": 2
       },
       {
         "word": "판매",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "사고",
-        "count": 2
-      },
-      {
-        "word": "가방",
-        "count": 2
-      },
-      {
-        "word": "청년",
-        "count": 2
-      },
-      {
-        "word": "살아",
-        "count": 2
+        "word": "증원",
+        "count": 4
       },
       {
         "word": "상담",
+        "count": 4
+      },
+      {
+        "word": "의대",
+        "count": 3
+      },
+      {
+        "word": "살아",
+        "count": 3
+      },
+      {
+        "word": "사고",
         "count": 2
       }
     ],
     "international": [
       {
-        "word": "세계",
-        "count": 3
+        "word": "트럼프",
+        "count": 4
       },
       {
         "word": "파먹는",
-        "count": 2
+        "count": 4
       },
       {
         "word": "구더기",
-        "count": 2
+        "count": 4
       },
       {
         "word": "텍사스",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "큐브",
-        "count": 2
+        "word": "세계",
+        "count": 4
       }
     ],
     "culture": [
       {
+        "word": "무대",
+        "count": 3
+      },
+      {
         "word": "케데헌",
-        "count": 2
+        "count": 3
       },
       {
         "word": "마린스키",
-        "count": 1
+        "count": 2
       },
       {
         "word": "김기민",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "볼레로",
-        "count": 1
-      },
-      {
-        "word": "무대로",
-        "count": 1
+        "word": "버스커버스커",
+        "count": 2
       }
     ]
   }
