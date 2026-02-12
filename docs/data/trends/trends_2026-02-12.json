@@ -1,13 +1,220 @@
 {
   "date": "2026-02-12",
-  "generated_at": "2026-02-12T09:41:03.516599+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-12T15:28:28.940731+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "오찬",
+      "count": 4
+    },
+    {
+      "word": "내란",
+      "count": 3
+    },
+    {
+      "word": "시간",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "과징금",
+      "count": 3
+    },
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "징역",
+      "count": 3
+    },
+    {
+      "word": "건설",
+      "count": 3
+    },
+    {
+      "word": "선수",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "블랙핑크",
+      "count": 2
+    },
+    {
+      "word": "아티스트",
+      "count": 2
+    },
+    {
+      "word": "협업",
+      "count": 2
+    },
+    {
+      "word": "안나",
+      "count": 2
+    },
+    {
+      "word": "카레니나",
+      "count": 2
+    },
+    {
+      "word": "국중박",
+      "count": 2
+    },
+    {
+      "word": "최초",
+      "count": 2
+    },
+    {
+      "word": "사망",
+      "count": 2
+    },
+    {
+      "word": "여성",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "오찬",
+        "count": 4
+      },
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "장동혁",
+        "count": 3
+      },
+      {
+        "word": "시간",
+        "count": 2
+      },
+      {
+        "word": "불참",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "뮌헨",
+        "count": 2
+      },
+      {
+        "word": "김민재",
+        "count": 2
+      },
+      {
+        "word": "연속",
+        "count": 2
+      },
+      {
+        "word": "꺾고",
+        "count": 2
+      },
+      {
+        "word": "컵대회",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "주택",
+        "count": 2
+      },
+      {
+        "word": "주식",
+        "count": 2
+      },
+      {
+        "word": "팔아",
+        "count": 2
+      },
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "되어서야",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "징역",
+        "count": 3
+      },
+      {
+        "word": "민희진",
+        "count": 2
+      },
+      {
+        "word": "풋옵션",
+        "count": 2
+      },
+      {
+        "word": "법원",
+        "count": 2
+      },
+      {
+        "word": "이상민",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "하원",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "성인잡지",
+        "count": 1
+      },
+      {
+        "word": "모델",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "블랙핑크",
+        "count": 2
+      },
+      {
+        "word": "아티스트",
+        "count": 2
+      },
+      {
+        "word": "협업",
+        "count": 2
+      },
+      {
+        "word": "안나",
+        "count": 2
+      }
+    ]
   }
 }
