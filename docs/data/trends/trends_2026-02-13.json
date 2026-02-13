@@ -1,13 +1,220 @@
 {
   "date": "2026-02-13",
-  "generated_at": "2026-02-13T09:44:27.528186+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-13T15:24:19.954962+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "송영길",
+      "count": 3
+    },
+    {
+      "word": "금메달",
+      "count": 3
+    },
+    {
+      "word": "지원",
+      "count": 3
+    },
+    {
+      "word": "공연",
+      "count": 3
+    },
+    {
+      "word": "최가온",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "논란",
+      "count": 3
+    },
+    {
+      "word": "토트넘",
+      "count": 3
+    },
+    {
+      "word": "민주당",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "계엄",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "강동길",
+      "count": 2
+    },
+    {
+      "word": "해군참모총장",
+      "count": 2
+    },
+    {
+      "word": "직무배제",
+      "count": 2
+    },
+    {
+      "word": "선거",
+      "count": 2
+    },
+    {
+      "word": "국민",
+      "count": 2
+    },
+    {
+      "word": "생각",
+      "count": 2
+    },
+    {
+      "word": "설상",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "송영길",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "계엄",
+        "count": 2
+      },
+      {
+        "word": "의혹",
+        "count": 2
+      },
+      {
+        "word": "강동길",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "토트넘",
+        "count": 3
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "감독",
+        "count": 2
+      },
+      {
+        "word": "삼성",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "지원",
+        "count": 2
+      },
+      {
+        "word": "부산",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "설상",
+        "count": 1
+      },
+      {
+        "word": "금메달",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "김선태",
+        "count": 2
+      },
+      {
+        "word": "구독자",
+        "count": 1
+      },
+      {
+        "word": "만명",
+        "count": 1
+      },
+      {
+        "word": "충주맨",
+        "count": 1
+      },
+      {
+        "word": "돌연",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "불굴의",
+        "count": 2
+      },
+      {
+        "word": "최가온",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "단속",
+        "count": 2
+      },
+      {
+        "word": "나선",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "올렸다",
+        "count": 2
+      },
+      {
+        "word": "정은우",
+        "count": 2
+      },
+      {
+        "word": "이승기",
+        "count": 2
+      },
+      {
+        "word": "아이",
+        "count": 2
+      },
+      {
+        "word": "아빠",
+        "count": 2
+      }
+    ]
   }
 }
