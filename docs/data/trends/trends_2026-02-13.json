@@ -1,218 +1,218 @@
 {
   "date": "2026-02-13",
-  "generated_at": "2026-02-13T15:24:19.954962+09:00",
+  "generated_at": "2026-02-13T19:23:44.543368+09:00",
   "daily_top_keywords": [
     {
-      "word": "만원",
-      "count": 4
-    },
-    {
-      "word": "송영길",
-      "count": 3
-    },
-    {
-      "word": "금메달",
-      "count": 3
-    },
-    {
-      "word": "지원",
-      "count": 3
-    },
-    {
-      "word": "공연",
-      "count": 3
-    },
-    {
-      "word": "최가온",
-      "count": 3
-    },
-    {
       "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "논란",
-      "count": 3
-    },
-    {
-      "word": "토트넘",
-      "count": 3
-    },
-    {
-      "word": "민주당",
-      "count": 2
+      "count": 7
     },
     {
       "word": "국힘",
-      "count": 2
+      "count": 6
     },
     {
-      "word": "계엄",
-      "count": 2
+      "word": "배현진",
+      "count": 6
+    },
+    {
+      "word": "금메달",
+      "count": 6
+    },
+    {
+      "word": "최가온",
+      "count": 6
+    },
+    {
+      "word": "징계",
+      "count": 5
+    },
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "사망",
+      "count": 5
+    },
+    {
+      "word": "토트넘",
+      "count": 5
+    },
+    {
+      "word": "송영길",
+      "count": 4
     },
     {
       "word": "의혹",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "강동길",
-      "count": 2
+      "word": "당원권",
+      "count": 4
     },
     {
-      "word": "해군참모총장",
-      "count": 2
+      "word": "정지",
+      "count": 4
     },
     {
-      "word": "직무배제",
-      "count": 2
+      "word": "친한계",
+      "count": 4
     },
     {
       "word": "선거",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "국민",
-      "count": 2
-    },
-    {
-      "word": "생각",
-      "count": 2
+      "word": "장동혁",
+      "count": 4
     },
     {
       "word": "설상",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "지원",
+      "count": 4
+    },
+    {
+      "word": "많아",
+      "count": 4
+    },
+    {
+      "word": "건설",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "송영길",
-        "count": 2
-      },
-      {
         "word": "국힘",
-        "count": 2
+        "count": 6
       },
       {
-        "word": "계엄",
-        "count": 2
+        "word": "배현진",
+        "count": 6
       },
       {
-        "word": "의혹",
-        "count": 2
+        "word": "당원권",
+        "count": 4
       },
       {
-        "word": "강동길",
-        "count": 2
+        "word": "정지",
+        "count": 4
+      },
+      {
+        "word": "친한계",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "토트넘",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "컬링",
+        "count": 4
       },
       {
         "word": "손흥민",
-        "count": 2
+        "count": 3
       },
       {
         "word": "감독",
-        "count": 2
-      },
-      {
-        "word": "삼성",
-        "count": 2
-      },
-      {
-        "word": "만원",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "지원",
-        "count": 2
-      },
-      {
-        "word": "부산",
-        "count": 2
-      },
-      {
-        "word": "만원",
-        "count": 2
+        "count": 3
       },
       {
         "word": "설상",
-        "count": 1
+        "count": 2
       },
       {
         "word": "금메달",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "기적",
+        "count": 2
+      },
+      {
+        "word": "뒤엔",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "김선태",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "의대",
+        "count": 3
       },
       {
         "word": "구독자",
-        "count": 1
+        "count": 2
       },
       {
         "word": "만명",
-        "count": 1
+        "count": 2
       },
       {
         "word": "충주맨",
-        "count": 1
-      },
-      {
-        "word": "돌연",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
+        "word": "한국",
+        "count": 4
+      },
+      {
         "word": "불굴의",
-        "count": 2
+        "count": 3
       },
       {
         "word": "최가온",
-        "count": 2
-      },
-      {
-        "word": "한국",
-        "count": 2
+        "count": 3
       },
       {
         "word": "단속",
-        "count": 2
+        "count": 3
       },
       {
         "word": "나선",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "올렸다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "정은우",
+        "count": 4
+      },
+      {
+        "word": "올린",
+        "count": 3
+      },
+      {
+        "word": "남편은",
         "count": 2
       },
       {
-        "word": "이승기",
-        "count": 2
-      },
-      {
-        "word": "아이",
-        "count": 2
-      },
-      {
-        "word": "아빠",
+        "word": "예수",
         "count": 2
       }
     ]
