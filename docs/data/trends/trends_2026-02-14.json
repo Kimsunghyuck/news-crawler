@@ -1,219 +1,219 @@
 {
   "date": "2026-02-14",
-  "generated_at": "2026-02-14T15:17:46.109856+09:00",
+  "generated_at": "2026-02-14T19:14:39.597152+09:00",
   "daily_top_keywords": [
     {
+      "word": "연휴",
+      "count": 7
+    },
+    {
       "word": "차준환",
+      "count": 7
+    },
+    {
+      "word": "국힘",
+      "count": 6
+    },
+    {
+      "word": "오세훈",
+      "count": 5
+    },
+    {
+      "word": "배현진",
+      "count": 5
+    },
+    {
+      "word": "징계",
       "count": 5
     },
     {
       "word": "정치",
-      "count": 4
+      "count": 5
     },
     {
       "word": "올림픽",
-      "count": 4
+      "count": 5
     },
     {
       "word": "경찰",
-      "count": 4
-    },
-    {
-      "word": "국힘",
-      "count": 3
-    },
-    {
-      "word": "대통령",
-      "count": 3
-    },
-    {
-      "word": "비판",
-      "count": 3
-    },
-    {
-      "word": "피겨",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "결국",
-      "count": 3
-    },
-    {
-      "word": "만명",
-      "count": 3
-    },
-    {
-      "word": "협력",
-      "count": 3
-    },
-    {
-      "word": "마술사",
-      "count": 3
+      "count": 5
     },
     {
       "word": "이것",
-      "count": 2
-    },
-    {
-      "word": "배현진",
-      "count": 2
-    },
-    {
-      "word": "당원권",
-      "count": 2
-    },
-    {
-      "word": "정지",
-      "count": 2
-    },
-    {
-      "word": "징계",
-      "count": 2
+      "count": 4
     },
     {
       "word": "장동혁",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "검찰",
-      "count": 2
+      "word": "찾는다",
+      "count": 4
+    },
+    {
+      "word": "이어",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "올렸다",
+      "count": 4
+    },
+    {
+      "word": "여성",
+      "count": 4
+    },
+    {
+      "word": "유일한",
+      "count": 4
+    },
+    {
+      "word": "사망",
+      "count": 4
+    },
+    {
+      "word": "논란",
+      "count": 4
+    },
+    {
+      "word": "피겨",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "정치",
-        "count": 4
-      },
-      {
         "word": "국힘",
-        "count": 3
-      },
-      {
-        "word": "대통령",
-        "count": 3
-      },
-      {
-        "word": "비판",
-        "count": 3
+        "count": 6
       },
       {
         "word": "배현진",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "징계",
+        "count": 5
+      },
+      {
+        "word": "정치",
+        "count": 5
+      },
+      {
+        "word": "오세훈",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "차준환",
+        "word": "감독",
+        "count": 4
+      },
+      {
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "토트넘",
         "count": 3
       },
       {
-        "word": "감독",
-        "count": 2
+        "word": "강등권",
+        "count": 3
       },
       {
         "word": "결국",
-        "count": 2
-      },
-      {
-        "word": "르브론",
-        "count": 2
-      },
-      {
-        "word": "최고령",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "로저스",
+        "count": 3
+      },
+      {
+        "word": "쿠팡",
+        "count": 3
+      },
+      {
+        "word": "규모",
+        "count": 3
+      },
+      {
         "word": "설상",
-        "count": 1
+        "count": 2
       },
       {
         "word": "금메달",
-        "count": 1
-      },
-      {
-        "word": "기적",
-        "count": 1
-      },
-      {
-        "word": "뒤엔",
-        "count": 1
-      },
-      {
-        "word": "지원",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "경찰",
-        "count": 4
+        "count": 5
+      },
+      {
+        "word": "만명",
+        "count": 3
+      },
+      {
+        "word": "버스",
+        "count": 3
       },
       {
         "word": "마술사",
         "count": 3
       },
       {
-        "word": "만명",
-        "count": 2
-      },
-      {
-        "word": "버스",
-        "count": 2
-      },
-      {
-        "word": "유명",
+        "word": "배달",
         "count": 2
       }
     ],
     "international": [
       {
+        "word": "차준환",
+        "count": 4
+      },
+      {
         "word": "트럼프",
-        "count": 3
+        "count": 4
       },
       {
         "word": "협력",
+        "count": 4
+      },
+      {
+        "word": "올림픽",
         "count": 3
       },
       {
-        "word": "차준환",
-        "count": 2
-      },
-      {
         "word": "마두로",
-        "count": 2
-      },
-      {
-        "word": "마스가",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "올렸다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "로맨스",
-        "count": 2
+        "count": 3
       },
       {
         "word": "청담",
-        "count": 1
+        "count": 2
       },
       {
         "word": "명품거리",
-        "count": 1
+        "count": 2
       },
       {
         "word": "한복판서",
-        "count": 1
+        "count": 2
       }
     ]
   }
