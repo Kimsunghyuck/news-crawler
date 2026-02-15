@@ -1,13 +1,220 @@
 {
   "date": "2026-02-15",
-  "generated_at": "2026-02-15T09:43:47.959182+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-15T15:22:42.244052+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "연휴",
+      "count": 5
+    },
+    {
+      "word": "이것",
+      "count": 3
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "문화",
+      "count": 3
+    },
+    {
+      "word": "대만",
+      "count": 3
+    },
+    {
+      "word": "논란",
+      "count": 3
+    },
+    {
+      "word": "영상",
+      "count": 3
+    },
+    {
+      "word": "감독",
+      "count": 3
+    },
+    {
+      "word": "오세훈",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "코스피",
+      "count": 2
+    },
+    {
+      "word": "최고치",
+      "count": 2
+    },
+    {
+      "word": "경신",
+      "count": 2
+    },
+    {
+      "word": "지목",
+      "count": 2
+    },
+    {
+      "word": "다카이치",
+      "count": 2
+    },
+    {
+      "word": "정치",
+      "count": 2
+    },
+    {
+      "word": "테슬라",
+      "count": 2
+    },
+    {
+      "word": "만든",
+      "count": 2
+    },
+    {
+      "word": "넘어",
+      "count": 2
+    },
+    {
+      "word": "명절",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 3
+      },
+      {
+        "word": "오세훈",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "코스피",
+        "count": 2
+      },
+      {
+        "word": "최고치",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "감독",
+        "count": 3
+      },
+      {
+        "word": "토트넘",
+        "count": 2
+      },
+      {
+        "word": "선임",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "대회",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "문화",
+        "count": 3
+      },
+      {
+        "word": "테슬라",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 1
+      },
+      {
+        "word": "몇년",
+        "count": 1
+      },
+      {
+        "word": "타야",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "미세먼지",
+        "count": 2
+      },
+      {
+        "word": "철석같이",
+        "count": 1
+      },
+      {
+        "word": "믿고",
+        "count": 1
+      },
+      {
+        "word": "달리다",
+        "count": 1
+      },
+      {
+        "word": "숨졌다",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "올림픽",
+        "count": 2
+      },
+      {
+        "word": "영상",
+        "count": 2
+      },
+      {
+        "word": "콘돔",
+        "count": 1
+      },
+      {
+        "word": "만개",
+        "count": 1
+      },
+      {
+        "word": "사흘만에",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "올렸다",
+        "count": 2
+      },
+      {
+        "word": "아들",
+        "count": 2
+      },
+      {
+        "word": "군법",
+        "count": 2
+      },
+      {
+        "word": "위반",
+        "count": 2
+      },
+      {
+        "word": "김구라",
+        "count": 2
+      }
+    ]
   }
 }
