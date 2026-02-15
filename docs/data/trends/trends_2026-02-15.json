@@ -1,219 +1,219 @@
 {
   "date": "2026-02-15",
-  "generated_at": "2026-02-15T15:22:42.244052+09:00",
+  "generated_at": "2026-02-15T19:13:54.574102+09:00",
   "daily_top_keywords": [
     {
       "word": "연휴",
-      "count": 5
+      "count": 10
     },
     {
       "word": "이것",
-      "count": 3
+      "count": 6
     },
     {
       "word": "국힘",
-      "count": 3
-    },
-    {
-      "word": "문화",
-      "count": 3
+      "count": 6
     },
     {
       "word": "대만",
-      "count": 3
+      "count": 5
     },
     {
       "word": "논란",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "영상",
-      "count": 3
+      "word": "남자",
+      "count": 5
     },
     {
       "word": "감독",
-      "count": 3
+      "count": 5
     },
     {
       "word": "오세훈",
-      "count": 2
-    },
-    {
-      "word": "대통령",
-      "count": 2
-    },
-    {
-      "word": "코스피",
-      "count": 2
-    },
-    {
-      "word": "최고치",
-      "count": 2
+      "count": 4
     },
     {
       "word": "경신",
-      "count": 2
-    },
-    {
-      "word": "지목",
-      "count": 2
+      "count": 4
     },
     {
       "word": "다카이치",
-      "count": 2
+      "count": 4
     },
     {
       "word": "정치",
-      "count": 2
+      "count": 4
     },
     {
       "word": "테슬라",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "문화",
+      "count": 4
     },
     {
       "word": "만든",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "넘어",
-      "count": 2
+      "word": "유일한",
+      "count": 4
     },
     {
-      "word": "명절",
-      "count": 2
+      "word": "올림픽",
+      "count": 4
+    },
+    {
+      "word": "영상",
+      "count": 4
+    },
+    {
+      "word": "충주맨",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "코스피",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
-        "count": 3
+        "count": 6
       },
       {
         "word": "오세훈",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대통령",
-        "count": 2
+        "count": 3
       },
       {
         "word": "코스피",
-        "count": 2
+        "count": 3
       },
       {
         "word": "최고치",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "감독",
-        "count": 3
-      },
-      {
-        "word": "토트넘",
-        "count": 2
-      },
-      {
-        "word": "선임",
-        "count": 2
+        "count": 5
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "대회",
-        "count": 2
+        "word": "토트넘",
+        "count": 3
+      },
+      {
+        "word": "선임",
+        "count": 3
+      },
+      {
+        "word": "역전승",
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "테슬라",
+        "count": 4
+      },
+      {
         "word": "문화",
+        "count": 4
+      },
+      {
+        "word": "조원",
         "count": 3
       },
       {
-        "word": "테슬라",
-        "count": 2
+        "word": "시장",
+        "count": 3
       },
       {
         "word": "만원",
-        "count": 1
-      },
-      {
-        "word": "몇년",
-        "count": 1
-      },
-      {
-        "word": "타야",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "미세먼지",
-        "count": 2
+        "word": "숨졌다",
+        "count": 3
+      },
+      {
+        "word": "연휴",
+        "count": 3
       },
       {
         "word": "철석같이",
-        "count": 1
+        "count": 2
       },
       {
         "word": "믿고",
-        "count": 1
+        "count": 2
       },
       {
         "word": "달리다",
-        "count": 1
-      },
-      {
-        "word": "숨졌다",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "올림픽",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 3
       },
       {
         "word": "영상",
-        "count": 2
+        "count": 3
       },
       {
         "word": "콘돔",
-        "count": 1
+        "count": 2
       },
       {
         "word": "만개",
-        "count": 1
-      },
-      {
-        "word": "사흘만에",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "올렸다",
-        "count": 2
+        "count": 3
       },
       {
         "word": "아들",
-        "count": 2
+        "count": 3
       },
       {
         "word": "군법",
-        "count": 2
+        "count": 3
       },
       {
         "word": "위반",
-        "count": 2
+        "count": 3
       },
       {
         "word": "김구라",
-        "count": 2
+        "count": 3
       }
     ]
   }
