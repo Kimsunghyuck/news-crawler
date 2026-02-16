@@ -1,219 +1,219 @@
 {
   "date": "2026-02-16",
-  "generated_at": "2026-02-16T15:27:31.484044+09:00",
+  "generated_at": "2026-02-16T19:27:05.954093+09:00",
   "daily_top_keywords": [
     {
+      "word": "장동혁",
+      "count": 7
+    },
+    {
       "word": "대통령",
+      "count": 7
+    },
+    {
+      "word": "사진",
+      "count": 6
+    },
+    {
+      "word": "최준희",
+      "count": 6
+    },
+    {
+      "word": "부른",
+      "count": 6
+    },
+    {
+      "word": "직접",
       "count": 5
+    },
+    {
+      "word": "서울",
+      "count": 5
+    },
+    {
+      "word": "최가온",
+      "count": 5
+    },
+    {
+      "word": "남자",
+      "count": 5
+    },
+    {
+      "word": "연속",
+      "count": 4
     },
     {
       "word": "다주택자",
       "count": 4
     },
     {
-      "word": "장동혁",
-      "count": 3
-    },
-    {
-      "word": "사진",
-      "count": 3
-    },
-    {
-      "word": "연속",
-      "count": 3
-    },
-    {
-      "word": "최준희",
-      "count": 3
-    },
-    {
-      "word": "부른",
-      "count": 3
-    },
-    {
-      "word": "최가온",
-      "count": 3
-    },
-    {
-      "word": "올림픽",
-      "count": 3
-    },
-    {
-      "word": "폐가",
-      "count": 3
-    },
-    {
-      "word": "남자",
-      "count": 3
-    },
-    {
-      "word": "직접",
-      "count": 2
-    },
-    {
-      "word": "불효자",
-      "count": 2
-    },
-    {
-      "word": "운다",
-      "count": 2
-    },
-    {
-      "word": "이란",
-      "count": 2
-    },
-    {
-      "word": "시골집",
-      "count": 2
+      "word": "아파트",
+      "count": 4
     },
     {
       "word": "신의",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "아파트",
-      "count": 2
+      "word": "됐다",
+      "count": 4
     },
     {
-      "word": "국힘",
-      "count": 2
+      "word": "경쟁",
+      "count": 4
     },
     {
-      "word": "국힘에",
-      "count": 2
+      "word": "천만원",
+      "count": 4
+    },
+    {
+      "word": "명절",
+      "count": 4
+    },
+    {
+      "word": "단종",
+      "count": 4
+    },
+    {
+      "word": "노홍철",
+      "count": 4
+    },
+    {
+      "word": "취한",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "장동혁",
+        "count": 7
+      },
+      {
         "word": "대통령",
-        "count": 5
+        "count": 7
       },
       {
         "word": "다주택자",
         "count": 4
       },
       {
-        "word": "장동혁",
+        "word": "주택",
         "count": 3
       },
       {
         "word": "불효자",
-        "count": 2
-      },
-      {
-        "word": "운다",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "골프",
-        "count": 2
-      },
-      {
-        "word": "이나현",
-        "count": 2
-      },
-      {
-        "word": "연속",
-        "count": 2
+        "word": "여자",
+        "count": 4
       },
       {
         "word": "컬링",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "골프",
+        "count": 3
+      },
+      {
+        "word": "우승",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "됐다",
-        "count": 2
-      },
-      {
-        "word": "삼성",
-        "count": 2
+        "count": 4
       },
       {
         "word": "경쟁",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "만원",
-        "count": 1
+        "word": "비교해보니",
+        "count": 3
       },
       {
-        "word": "테슬라",
-        "count": 1
+        "word": "조원",
+        "count": 3
+      },
+      {
+        "word": "삼성",
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "폐가",
-        "count": 3
+        "word": "시간",
+        "count": 4
       },
       {
         "word": "고속도로",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "시간",
-        "count": 2
+        "word": "충주맨",
+        "count": 3
       },
       {
-        "word": "체험",
-        "count": 2
+        "word": "부산",
+        "count": 3
       },
       {
-        "word": "할래",
-        "count": 2
+        "word": "폐가",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "최가온",
-        "count": 2
-      },
-      {
-        "word": "유럽",
-        "count": 2
+        "count": 3
       },
       {
         "word": "원펜타스의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "자랑",
-        "count": 1
+        "count": 2
       },
       {
         "word": "반포",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "아파트에",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "최준희",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "단종",
+        "count": 4
+      },
+      {
+        "word": "노홍철",
+        "count": 4
+      },
+      {
+        "word": "취한",
+        "count": 4
       },
       {
         "word": "최진실",
-        "count": 2
-      },
-      {
-        "word": "결혼설",
-        "count": 2
-      },
-      {
-        "word": "연상",
-        "count": 2
-      },
-      {
-        "word": "회사원",
-        "count": 2
+        "count": 3
       }
     ]
   }
