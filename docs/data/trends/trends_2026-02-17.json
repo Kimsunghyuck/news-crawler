@@ -1,219 +1,219 @@
 {
   "date": "2026-02-17",
-  "generated_at": "2026-02-17T15:24:57.926157+09:00",
+  "generated_at": "2026-02-17T19:26:21.063011+09:00",
   "daily_top_keywords": [
     {
-      "word": "대통령",
-      "count": 4
-    },
-    {
       "word": "이란",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "장동혁",
-      "count": 3
+      "word": "대통령",
+      "count": 6
     },
     {
       "word": "서울",
-      "count": 3
+      "count": 6
     },
     {
       "word": "남자",
-      "count": 3
-    },
-    {
-      "word": "난투극",
-      "count": 3
-    },
-    {
-      "word": "갈등",
-      "count": 3
-    },
-    {
-      "word": "국힘",
-      "count": 2
+      "count": 6
     },
     {
       "word": "경고",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "장동혁",
+      "count": 5
     },
     {
       "word": "김주애",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "평양",
-      "count": 2
+      "word": "엄마",
+      "count": 5
     },
     {
-      "word": "스킨십",
-      "count": 2
+      "word": "난투극",
+      "count": 5
+    },
+    {
+      "word": "갈등",
+      "count": 5
+    },
+    {
+      "word": "국힘",
+      "count": 4
     },
     {
       "word": "장군",
-      "count": 2
-    },
-    {
-      "word": "일반",
-      "count": 2
-    },
-    {
-      "word": "국민",
-      "count": 2
+      "count": 4
     },
     {
       "word": "인사",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "하이닉스",
-      "count": 2
+      "word": "일반",
+      "count": 4
+    },
+    {
+      "word": "평양",
+      "count": 4
+    },
+    {
+      "word": "스킨십",
+      "count": 4
+    },
+    {
+      "word": "국민",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
     },
     {
       "word": "전기차",
-      "count": 2
+      "count": 4
     },
     {
       "word": "시장",
-      "count": 2
-    },
-    {
-      "word": "한복판서",
-      "count": 2
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 4
+        "count": 6
       },
       {
         "word": "장동혁",
-        "count": 3
-      },
-      {
-        "word": "국힘",
-        "count": 2
+        "count": 5
       },
       {
         "word": "김주애",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "평양",
-        "count": 2
+        "word": "국힘",
+        "count": 4
+      },
+      {
+        "word": "장군",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "우승",
-        "count": 2
-      },
-      {
-        "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "아이스하키",
-        "count": 2
+        "count": 4
       },
       {
         "word": "중국에",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "역전승",
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "하이닉스",
-        "count": 2
+        "word": "전기차",
+        "count": 4
       },
       {
-        "word": "전기차",
-        "count": 2
+        "word": "하이닉스",
+        "count": 3
       },
       {
         "word": "제미나이",
-        "count": 1
+        "count": 2
       },
       {
         "word": "이렇게",
-        "count": 1
+        "count": 2
       },
       {
         "word": "써라",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "충주맨",
-        "count": 2
-      },
-      {
         "word": "엄마",
-        "count": 2
-      },
-      {
-        "word": "고속도로",
-        "count": 2
-      },
-      {
-        "word": "정체",
-        "count": 2
+        "count": 4
       },
       {
         "word": "서울",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "시험",
+        "count": 4
+      },
+      {
+        "word": "충주맨",
+        "count": 3
+      },
+      {
+        "word": "아내",
+        "count": 3
       }
     ],
     "international": [
       {
-        "word": "일본",
-        "count": 2
+        "word": "이란",
+        "count": 5
+      },
+      {
+        "word": "트럼프",
+        "count": 4
       },
       {
         "word": "집단",
-        "count": 2
+        "count": 3
       },
       {
         "word": "난투극",
-        "count": 2
+        "count": 3
       },
       {
         "word": "비상착륙",
-        "count": 2
-      },
-      {
-        "word": "갈등",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "단종",
-        "count": 2
+        "count": 4
       },
       {
         "word": "청담",
-        "count": 1
+        "count": 2
       },
       {
         "word": "명품거리",
-        "count": 1
+        "count": 2
       },
       {
         "word": "한복판서",
-        "count": 1
+        "count": 2
       },
       {
         "word": "시신",
-        "count": 1
+        "count": 2
       }
     ]
   }
