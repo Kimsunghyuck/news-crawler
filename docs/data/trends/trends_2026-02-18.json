@@ -1,219 +1,219 @@
 {
   "date": "2026-02-18",
-  "generated_at": "2026-02-18T15:27:27.426431+09:00",
+  "generated_at": "2026-02-18T19:25:06.348711+09:00",
   "daily_top_keywords": [
     {
-      "word": "대통령",
-      "count": 3
-    },
-    {
-      "word": "국힘",
-      "count": 3
-    },
-    {
-      "word": "머스크",
-      "count": 3
-    },
-    {
       "word": "트럼프",
-      "count": 3
+      "count": 6
     },
     {
       "word": "우승",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "아닌",
-      "count": 2
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "국힘",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "별세",
+      "count": 5
+    },
+    {
+      "word": "쇼트트랙",
+      "count": 5
     },
     {
       "word": "다주택",
-      "count": 2
+      "count": 4
     },
     {
       "word": "부추긴",
-      "count": 2
+      "count": 4
     },
     {
       "word": "정치인",
-      "count": 2
+      "count": 4
     },
     {
       "word": "후보",
-      "count": 2
-    },
-    {
-      "word": "윤상현",
-      "count": 2
+      "count": 4
     },
     {
       "word": "정동영",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "계양을",
-      "count": 2
-    },
-    {
-      "word": "송영길",
-      "count": 2
-    },
-    {
-      "word": "연휴",
-      "count": 2
+      "word": "추진",
+      "count": 4
     },
     {
       "word": "유튜브",
-      "count": 2
+      "count": 4
     },
     {
       "word": "시간",
-      "count": 2
+      "count": 4
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "결국",
-      "count": 2
+      "word": "머스크",
+      "count": 4
     },
     {
       "word": "최대",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "그녀",
+      "count": 4
+    },
+    {
+      "word": "유일한",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 3
+        "count": 5
       },
       {
         "word": "국힘",
-        "count": 3
-      },
-      {
-        "word": "아닌",
-        "count": 2
+        "count": 5
       },
       {
         "word": "다주택",
-        "count": 2
+        "count": 4
       },
       {
         "word": "부추긴",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "정치인",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "우승",
-        "count": 3
+        "count": 6
       },
       {
         "word": "손흥민",
-        "count": 2
-      },
-      {
-        "word": "시즌",
-        "count": 2
-      },
-      {
-        "word": "발목",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "아직",
+        "count": 4
+      },
+      {
+        "word": "시즌",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "제네시스",
-        "count": 2
+        "word": "유튜브",
+        "count": 3
+      },
+      {
+        "word": "시간",
+        "count": 3
+      },
+      {
+        "word": "만에",
+        "count": 3
+      },
+      {
+        "word": "복구",
+        "count": 3
       },
       {
         "word": "연휴",
-        "count": 1
-      },
-      {
-        "word": "마지막",
-        "count": 1
-      },
-      {
-        "word": "유튜브",
-        "count": 1
-      },
-      {
-        "word": "먹통",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "정유라",
-        "count": 2
+        "word": "사실",
+        "count": 3
       },
       {
-        "word": "재판",
-        "count": 2
+        "word": "대법",
+        "count": 3
       },
       {
-        "word": "구속",
-        "count": 2
-      },
-      {
-        "word": "수감",
-        "count": 2
+        "word": "김장",
+        "count": 3
       },
       {
         "word": "미성년",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "교제",
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "머스크",
-        "count": 3
-      },
-      {
         "word": "트럼프",
-        "count": 3
+        "count": 5
       },
       {
         "word": "브라",
-        "count": 2
+        "count": 3
       },
       {
         "word": "세리머니",
-        "count": 2
+        "count": 3
       },
       {
         "word": "우크라",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "머스크",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "단종",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "향한",
-        "count": 2
+        "word": "제이홉",
+        "count": 3
       },
       {
-        "word": "대신",
-        "count": 2
+        "word": "기부",
+        "count": 3
+      },
+      {
+        "word": "별세",
+        "count": 3
       },
       {
         "word": "장남의",
-        "count": 1
-      },
-      {
-        "word": "둘째",
-        "count": 1
+        "count": 2
       }
     ]
   }
