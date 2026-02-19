@@ -1,13 +1,220 @@
 {
   "date": "2026-02-19",
-  "generated_at": "2026-02-19T09:43:04.324847+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-19T15:26:26.957611+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "전과",
+      "count": 3
+    },
+    {
+      "word": "임성근",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "올림픽",
+      "count": 3
+    },
+    {
+      "word": "윤석열",
+      "count": 2
+    },
+    {
+      "word": "미쳤거나",
+      "count": 2
+    },
+    {
+      "word": "배현진",
+      "count": 2
+    },
+    {
+      "word": "돌파",
+      "count": 2
+    },
+    {
+      "word": "코스닥",
+      "count": 2
+    },
+    {
+      "word": "노안",
+      "count": 2
+    },
+    {
+      "word": "규모",
+      "count": 2
+    },
+    {
+      "word": "손실",
+      "count": 2
+    },
+    {
+      "word": "억달러",
+      "count": 2
+    },
+    {
+      "word": "역대",
+      "count": 2
+    },
+    {
+      "word": "최대",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "미쳤거나",
+        "count": 2
+      },
+      {
+        "word": "배현진",
+        "count": 2
+      },
+      {
+        "word": "조선",
+        "count": 1
+      },
+      {
+        "word": "보고",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "정의선",
+        "count": 2
+      },
+      {
+        "word": "타이거",
+        "count": 2
+      },
+      {
+        "word": "우즈",
+        "count": 2
+      },
+      {
+        "word": "년까지",
+        "count": 2
+      },
+      {
+        "word": "동행",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "코스닥",
+        "count": 2
+      },
+      {
+        "word": "규모",
+        "count": 2
+      },
+      {
+        "word": "억달러",
+        "count": 2
+      },
+      {
+        "word": "더는",
+        "count": 1
+      },
+      {
+        "word": "예전의",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      },
+      {
+        "word": "반년",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "올림픽",
+        "count": 2
+      },
+      {
+        "word": "결국",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "원에",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "임성근",
+        "count": 3
+      },
+      {
+        "word": "전과",
+        "count": 2
+      },
+      {
+        "word": "유튜브",
+        "count": 2
+      },
+      {
+        "word": "복귀",
+        "count": 2
+      },
+      {
+        "word": "장남의",
+        "count": 1
+      }
+    ]
   }
 }
