@@ -1,219 +1,219 @@
 {
   "date": "2026-02-20",
-  "generated_at": "2026-02-20T15:23:01.961755+09:00",
+  "generated_at": "2026-02-20T19:19:46.002418+09:00",
   "daily_top_keywords": [
     {
       "word": "장동혁",
-      "count": 5
+      "count": 8
     },
     {
       "word": "남자",
-      "count": 4
-    },
-    {
-      "word": "절윤",
-      "count": 4
-    },
-    {
-      "word": "논란",
-      "count": 3
-    },
-    {
-      "word": "돌파",
-      "count": 3
+      "count": 7
     },
     {
       "word": "대신",
-      "count": 3
-    },
-    {
-      "word": "무기징역",
-      "count": 3
-    },
-    {
-      "word": "최대",
-      "count": 3
+      "count": 7
     },
     {
       "word": "만에",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "절윤",
+      "count": 6
     },
     {
       "word": "정의선",
-      "count": 3
+      "count": 6
     },
     {
       "word": "동행",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "건강",
-      "count": 2
+      "word": "논란",
+      "count": 5
     },
     {
-      "word": "개최",
-      "count": 2
-    },
-    {
-      "word": "영화",
-      "count": 2
+      "word": "우즈",
+      "count": 5
     },
     {
       "word": "이유",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "팔로워",
-      "count": 2
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "최대",
+      "count": 5
+    },
+    {
+      "word": "검토",
+      "count": 4
+    },
+    {
+      "word": "돌파",
+      "count": 4
     },
     {
       "word": "무죄",
-      "count": 2
+      "count": 4
     },
     {
       "word": "추정해야",
-      "count": 2
+      "count": 4
     },
     {
       "word": "수호",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "계엄",
-      "count": 2
+      "word": "역대",
+      "count": 4
+    },
+    {
+      "word": "무기징역",
+      "count": 4
+    },
+    {
+      "word": "사망",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "장동혁",
-        "count": 5
+        "count": 8
       },
       {
         "word": "절윤",
-        "count": 4
-      },
-      {
-        "word": "무죄",
-        "count": 2
-      },
-      {
-        "word": "추정해야",
-        "count": 2
+        "count": 6
       },
       {
         "word": "대신",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "무죄",
+        "count": 4
+      },
+      {
+        "word": "추정해야",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 3
-      },
-      {
-        "word": "이강인",
-        "count": 2
-      },
-      {
-        "word": "홀란",
-        "count": 2
+        "count": 5
       },
       {
         "word": "패배",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "컬링",
-        "count": 2
+        "word": "정의선",
+        "count": 4
+      },
+      {
+        "word": "타이거",
+        "count": 4
+      },
+      {
+        "word": "우즈",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "버핏",
-        "count": 2
+        "count": 4
       },
       {
         "word": "애플",
-        "count": 2
+        "count": 4
       },
       {
         "word": "아마존",
-        "count": 2
+        "count": 4
       },
       {
         "word": "샀다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "최대",
-        "count": 2
+        "count": 4
       }
     ],
     "society": [
+      {
+        "word": "모은",
+        "count": 3
+      },
+      {
+        "word": "오늘의",
+        "count": 3
+      },
+      {
+        "word": "운세",
+        "count": 3
+      },
       {
         "word": "무기징역",
         "count": 2
       },
       {
-        "word": "오늘의",
+        "word": "옭아맨",
         "count": 2
-      },
-      {
-        "word": "운세",
-        "count": 2
-      },
-      {
-        "word": "구속",
-        "count": 1
-      },
-      {
-        "word": "취소와",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "이란에",
+        "count": 4
+      },
+      {
+        "word": "논란",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "결국",
+        "count": 3
+      },
+      {
+        "word": "열흘",
         "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "이유",
+        "count": 3
       },
       {
         "word": "논란",
         "count": 2
       },
       {
-        "word": "트럼프",
+        "word": "순직",
         "count": 2
       },
       {
-        "word": "관세",
+        "word": "만에",
         "count": 2
       },
       {
-        "word": "결국",
+        "word": "장남의",
         "count": 2
-      }
-    ],
-    "culture": [
-      {
-        "word": "선배들",
-        "count": 1
-      },
-      {
-        "word": "건강",
-        "count": 1
-      },
-      {
-        "word": "좋아",
-        "count": 1
-      },
-      {
-        "word": "박은수가",
-        "count": 1
-      },
-      {
-        "word": "전한",
-        "count": 1
       }
     ]
   }
