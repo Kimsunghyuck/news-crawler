@@ -1,219 +1,219 @@
 {
   "date": "2026-02-21",
-  "generated_at": "2026-02-21T15:16:25.095333+09:00",
+  "generated_at": "2026-02-21T19:12:56.119659+09:00",
   "daily_top_keywords": [
     {
-      "word": "트럼프",
-      "count": 5
+      "word": "관세",
+      "count": 10
     },
     {
       "word": "아티스트",
-      "count": 4
-    },
-    {
-      "word": "조사",
-      "count": 4
-    },
-    {
-      "word": "관세",
-      "count": 4
-    },
-    {
-      "word": "김길리",
-      "count": 4
-    },
-    {
-      "word": "최민정",
-      "count": 4
-    },
-    {
-      "word": "블랙핑크",
-      "count": 3
-    },
-    {
-      "word": "최초",
-      "count": 3
-    },
-    {
-      "word": "남자",
-      "count": 3
-    },
-    {
-      "word": "한학자",
-      "count": 3
-    },
-    {
-      "word": "산림청장",
-      "count": 3
-    },
-    {
-      "word": "면직",
-      "count": 3
-    },
-    {
-      "word": "국힘",
-      "count": 3
-    },
-    {
-      "word": "법원",
-      "count": 3
-    },
-    {
-      "word": "폭주",
-      "count": 3
+      "count": 8
     },
     {
       "word": "한국",
-      "count": 3
+      "count": 8
     },
     {
-      "word": "쇼트트랙",
-      "count": 3
+      "word": "트럼프",
+      "count": 8
     },
     {
-      "word": "억원",
-      "count": 3
+      "word": "조사",
+      "count": 7
     },
     {
-      "word": "유튜브",
-      "count": 2
+      "word": "남자",
+      "count": 7
+    },
+    {
+      "word": "국힘",
+      "count": 7
+    },
+    {
+      "word": "상호관세",
+      "count": 7
+    },
+    {
+      "word": "최민정",
+      "count": 7
+    },
+    {
+      "word": "블랙핑크",
+      "count": 6
+    },
+    {
+      "word": "최초",
+      "count": 6
     },
     {
       "word": "세계",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "한학자",
+      "count": 5
+    },
+    {
+      "word": "산림청장",
+      "count": 5
+    },
+    {
+      "word": "면직",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "사고",
+      "count": 5
+    },
+    {
+      "word": "절윤",
+      "count": 5
+    },
+    {
+      "word": "억원",
+      "count": 5
+    },
+    {
+      "word": "김길리",
+      "count": 5
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "국힘",
+        "count": 7
+      },
+      {
         "word": "산림청장",
-        "count": 3
+        "count": 5
       },
       {
         "word": "면직",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "국힘",
-        "count": 3
+        "word": "절윤",
+        "count": 5
       },
       {
-        "word": "당명",
-        "count": 2
-      },
-      {
-        "word": "압축",
-        "count": 2
+        "word": "대통령",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "은메달",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "김길리",
-        "count": 2
+        "word": "한국",
+        "count": 3
       },
       {
-        "word": "최민정",
-        "count": 2
+        "word": "동메달",
+        "count": 3
       },
       {
-        "word": "쇼트트랙",
-        "count": 2
+        "word": "감독",
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "상호관세",
+        "count": 4
+      },
+      {
+        "word": "한국",
+        "count": 3
+      },
+      {
         "word": "전기차",
-        "count": 2
+        "count": 3
       },
       {
         "word": "코스닥",
-        "count": 1
+        "count": 2
       },
       {
         "word": "부실",
-        "count": 1
-      },
-      {
-        "word": "조속",
-        "count": 1
-      },
-      {
-        "word": "퇴출",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "여학생",
+        "count": 4
+      },
+      {
         "word": "인니",
-        "count": 2
+        "count": 3
       },
       {
         "word": "남성",
-        "count": 2
-      },
-      {
-        "word": "여학생",
-        "count": 2
+        "count": 3
       },
       {
         "word": "영상",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "가봤더니",
-        "count": 1
+        "word": "한학자",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
+        "count": 7
       },
       {
         "word": "관세",
+        "count": 7
+      },
+      {
+        "word": "억원",
+        "count": 4
+      },
+      {
+        "word": "보수",
         "count": 3
       },
       {
         "word": "폭주",
-        "count": 2
-      },
-      {
-        "word": "억원",
-        "count": 2
-      },
-      {
-        "word": "발효",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "아티스트",
-        "count": 4
+        "count": 8
       },
       {
         "word": "블랙핑크",
-        "count": 3
+        "count": 6
       },
       {
         "word": "최초",
-        "count": 3
+        "count": 6
       },
       {
         "word": "유튜브",
-        "count": 2
+        "count": 4
       },
       {
         "word": "세계",
-        "count": 2
+        "count": 4
       }
     ]
   }
