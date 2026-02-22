@@ -1,219 +1,219 @@
 {
   "date": "2026-02-22",
-  "generated_at": "2026-02-22T15:18:19.296828+09:00",
+  "generated_at": "2026-02-22T19:12:08.932742+09:00",
   "daily_top_keywords": [
     {
-      "word": "남자",
-      "count": 5
+      "word": "한국",
+      "count": 10
     },
     {
-      "word": "이유",
-      "count": 4
+      "word": "남자",
+      "count": 9
     },
     {
       "word": "계엄",
-      "count": 4
+      "count": 8
     },
     {
-      "word": "한국",
-      "count": 4
-    },
-    {
-      "word": "트럼프",
-      "count": 4
-    },
-    {
-      "word": "장동혁",
-      "count": 3
-    },
-    {
-      "word": "대통령",
-      "count": 3
-    },
-    {
-      "word": "야상",
-      "count": 3
-    },
-    {
-      "word": "개월",
-      "count": 3
+      "word": "이유",
+      "count": 7
     },
     {
       "word": "반도체",
-      "count": 3
-    },
-    {
-      "word": "지원",
-      "count": 3
+      "count": 7
     },
     {
       "word": "상호관세",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "리그",
-      "count": 3
+      "word": "트럼프",
+      "count": 7
     },
     {
-      "word": "글로벌",
-      "count": 3
+      "word": "개월",
+      "count": 5
     },
     {
-      "word": "관세",
-      "count": 3
+      "word": "발언",
+      "count": 5
     },
     {
-      "word": "영화",
-      "count": 2
+      "word": "하이닉스",
+      "count": 5
     },
     {
-      "word": "국힘",
-      "count": 2
+      "word": "대통령",
+      "count": 4
     },
     {
-      "word": "논란에",
-      "count": 2
+      "word": "야상",
+      "count": 4
     },
     {
-      "word": "입은",
-      "count": 2
+      "word": "때리고",
+      "count": 4
     },
     {
-      "word": "이정현",
-      "count": 2
+      "word": "집사람",
+      "count": 4
+    },
+    {
+      "word": "보내",
+      "count": 4
+    },
+    {
+      "word": "취임",
+      "count": 4
+    },
+    {
+      "word": "취한",
+      "count": 4
+    },
+    {
+      "word": "경악",
+      "count": 4
+    },
+    {
+      "word": "러시아",
+      "count": 4
+    },
+    {
+      "word": "지원",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "계엄",
-        "count": 4
-      },
-      {
-        "word": "장동혁",
-        "count": 3
+        "count": 7
       },
       {
         "word": "야상",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "국힘",
-        "count": 2
+        "word": "때리고",
+        "count": 4
       },
       {
-        "word": "논란에",
-        "count": 2
+        "word": "집사람",
+        "count": 4
+      },
+      {
+        "word": "보내",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 4
-      },
-      {
-        "word": "리그",
-        "count": 3
-      },
-      {
-        "word": "도움",
-        "count": 2
+        "count": 7
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "리그",
+        "count": 4
+      },
+      {
+        "word": "도움",
+        "count": 4
       },
       {
         "word": "완파",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "코스피",
-        "count": 2
-      },
-      {
-        "word": "외국인",
-        "count": 2
+        "word": "반도체",
+        "count": 4
       },
       {
         "word": "삼성전자",
-        "count": 2
-      },
-      {
-        "word": "반도체",
-        "count": 2
+        "count": 3
       },
       {
         "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "기름값",
+        "count": 2
+      },
+      {
+        "word": "만에",
         "count": 2
       }
     ],
     "society": [
       {
         "word": "학원",
+        "count": 4
+      },
+      {
+        "word": "반도체",
+        "count": 3
+      },
+      {
+        "word": "공장",
         "count": 2
       },
       {
-        "word": "양양공항",
-        "count": 1
+        "word": "출근",
+        "count": 2
       },
       {
-        "word": "강풍에",
-        "count": 1
-      },
-      {
-        "word": "착륙",
-        "count": 1
-      },
-      {
-        "word": "실패",
-        "count": 1
+        "word": "행렬",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
-      },
-      {
-        "word": "글로벌",
-        "count": 3
-      },
-      {
-        "word": "관세",
-        "count": 3
+        "count": 6
       },
       {
         "word": "상호관세",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "글로벌",
+        "count": 4
+      },
+      {
+        "word": "관세",
+        "count": 4
       },
       {
         "word": "폭주",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "이유",
-        "count": 3
+        "count": 5
       },
       {
         "word": "영화",
+        "count": 3
+      },
+      {
+        "word": "남창희",
         "count": 2
       },
       {
-        "word": "배우",
-        "count": 1
+        "word": "결혼식",
+        "count": 2
       },
       {
-        "word": "이서준",
-        "count": 1
-      },
-      {
-        "word": "결혼",
-        "count": 1
+        "word": "사회",
+        "count": 2
       }
     ]
   }
