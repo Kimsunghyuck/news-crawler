@@ -1,13 +1,220 @@
 {
   "date": "2026-02-23",
-  "generated_at": "2026-02-23T09:42:23.689971+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-23T15:27:46.097639+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 6
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "피해",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "최고",
+      "count": 3
+    },
+    {
+      "word": "윤석열",
+      "count": 3
+    },
+    {
+      "word": "사망",
+      "count": 3
+    },
+    {
+      "word": "정동원",
+      "count": 2
+    },
+    {
+      "word": "해병대",
+      "count": 2
+    },
+    {
+      "word": "입대",
+      "count": 2
+    },
+    {
+      "word": "약속",
+      "count": 2
+    },
+    {
+      "word": "카이스트",
+      "count": 2
+    },
+    {
+      "word": "축사",
+      "count": 2
+    },
+    {
+      "word": "세상",
+      "count": 2
+    },
+    {
+      "word": "틀려도",
+      "count": 2
+    },
+    {
+      "word": "아이돌",
+      "count": 2
+    },
+    {
+      "word": "콘서트",
+      "count": 2
+    },
+    {
+      "word": "결혼",
+      "count": 2
+    },
+    {
+      "word": "연락두절",
+      "count": 2
+    },
+    {
+      "word": "반전",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "윤석열",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "당명",
+        "count": 2
+      },
+      {
+        "word": "개정",
+        "count": 2
+      },
+      {
+        "word": "현지",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "연속",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "메시와",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "아동",
+        "count": 2
+      },
+      {
+        "word": "빚투",
+        "count": 2
+      },
+      {
+        "word": "최고",
+        "count": 2
+      },
+      {
+        "word": "출시",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "조희대",
+        "count": 2
+      },
+      {
+        "word": "산불",
+        "count": 2
+      },
+      {
+        "word": "진화",
+        "count": 2
+      },
+      {
+        "word": "피해",
+        "count": 2
+      },
+      {
+        "word": "사법",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "앞두고",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "항공편",
+        "count": 1
+      },
+      {
+        "word": "있을",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "정동원",
+        "count": 2
+      },
+      {
+        "word": "해병대",
+        "count": 2
+      },
+      {
+        "word": "입대",
+        "count": 2
+      },
+      {
+        "word": "약속",
+        "count": 2
+      },
+      {
+        "word": "카이스트",
+        "count": 2
+      }
+    ]
   }
 }
