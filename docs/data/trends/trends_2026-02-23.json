@@ -1,158 +1,166 @@
 {
   "date": "2026-02-23",
-  "generated_at": "2026-02-23T15:27:46.097639+09:00",
+  "generated_at": "2026-02-23T19:27:09.564970+09:00",
   "daily_top_keywords": [
     {
       "word": "만에",
-      "count": 6
+      "count": 10
     },
     {
       "word": "만원",
-      "count": 4
+      "count": 6
     },
     {
-      "word": "피해",
-      "count": 3
+      "word": "논란",
+      "count": 5
     },
     {
       "word": "남자",
-      "count": 3
+      "count": 5
     },
     {
       "word": "최고",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "국힘",
+      "count": 5
+    },
+    {
+      "word": "당명",
+      "count": 5
+    },
+    {
+      "word": "공천",
+      "count": 5
     },
     {
       "word": "윤석열",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "사망",
-      "count": 3
+      "word": "시대",
+      "count": 5
     },
     {
       "word": "정동원",
-      "count": 2
+      "count": 4
     },
     {
       "word": "해병대",
-      "count": 2
+      "count": 4
     },
     {
       "word": "입대",
-      "count": 2
+      "count": 4
     },
     {
       "word": "약속",
-      "count": 2
+      "count": 4
     },
     {
       "word": "카이스트",
-      "count": 2
+      "count": 4
     },
     {
       "word": "축사",
-      "count": 2
+      "count": 4
     },
     {
       "word": "세상",
-      "count": 2
+      "count": 4
     },
     {
       "word": "틀려도",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "아이돌",
-      "count": 2
+      "word": "개정",
+      "count": 4
     },
     {
-      "word": "콘서트",
-      "count": 2
-    },
-    {
-      "word": "결혼",
-      "count": 2
-    },
-    {
-      "word": "연락두절",
-      "count": 2
-    },
-    {
-      "word": "반전",
-      "count": 2
+      "word": "현지",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "윤석열",
-        "count": 3
-      },
-      {
         "word": "국힘",
-        "count": 2
+        "count": 5
       },
       {
         "word": "당명",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "공천",
+        "count": 5
+      },
+      {
+        "word": "윤석열",
+        "count": 5
       },
       {
         "word": "개정",
-        "count": 2
-      },
-      {
-        "word": "현지",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "연속",
-        "count": 2
-      },
-      {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "손흥민",
-        "count": 2
+        "count": 4
       },
       {
         "word": "메시와",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "완승",
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "만원",
-        "count": 3
-      },
-      {
         "word": "아동",
-        "count": 2
+        "count": 4
       },
       {
         "word": "빚투",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "만원",
+        "count": 4
+      },
+      {
+        "word": "백화점",
+        "count": 3
       },
       {
         "word": "최고",
-        "count": 2
-      },
-      {
-        "word": "출시",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "조희대",
+        "count": 2
+      },
+      {
+        "word": "안에서",
+        "count": 2
+      },
+      {
+        "word": "경찰",
         "count": 2
       },
       {
@@ -162,58 +170,50 @@
       {
         "word": "진화",
         "count": 2
-      },
-      {
-        "word": "피해",
-        "count": 2
-      },
-      {
-        "word": "사법",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "앞두고",
-        "count": 2
+        "count": 3
       },
       {
         "word": "사망",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "만에",
-        "count": 2
+        "word": "사살",
+        "count": 3
       },
       {
-        "word": "항공편",
-        "count": 1
+        "word": "현상금",
+        "count": 3
       },
       {
-        "word": "있을",
-        "count": 1
+        "word": "마약왕",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "정동원",
-        "count": 2
+        "count": 4
       },
       {
         "word": "해병대",
-        "count": 2
+        "count": 4
       },
       {
         "word": "입대",
-        "count": 2
+        "count": 4
       },
       {
         "word": "약속",
-        "count": 2
+        "count": 4
       },
       {
         "word": "카이스트",
-        "count": 2
+        "count": 4
       }
     ]
   }
