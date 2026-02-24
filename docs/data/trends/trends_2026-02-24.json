@@ -1,156 +1,160 @@
 {
   "date": "2026-02-24",
-  "generated_at": "2026-02-24T15:25:54.020956+09:00",
+  "generated_at": "2026-02-24T19:25:02.231045+09:00",
   "daily_top_keywords": [
     {
-      "word": "아들",
-      "count": 4
+      "word": "만에",
+      "count": 6
     },
     {
       "word": "국힘",
-      "count": 4
+      "count": 6
     },
     {
       "word": "경기",
-      "count": 4
-    },
-    {
-      "word": "건진법사",
-      "count": 3
-    },
-    {
-      "word": "징역",
-      "count": 3
+      "count": 6
     },
     {
       "word": "삼전",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "브라질",
-      "count": 2
+      "word": "아들",
+      "count": 5
     },
     {
-      "word": "영부인",
-      "count": 2
-    },
-    {
-      "word": "만나",
-      "count": 2
-    },
-    {
-      "word": "이유",
-      "count": 2
+      "word": "배터리",
+      "count": 5
     },
     {
       "word": "출신",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "혐의",
-      "count": 2
+      "word": "법사위",
+      "count": 4
     },
     {
-      "word": "지원",
-      "count": 2
+      "word": "공격",
+      "count": 4
     },
     {
-      "word": "대상",
-      "count": 2
+      "word": "우려",
+      "count": 4
     },
     {
-      "word": "보류",
-      "count": 2
+      "word": "엄마",
+      "count": 4
     },
     {
-      "word": "수사",
-      "count": 2
+      "word": "의사",
+      "count": 4
     },
     {
-      "word": "김남준",
-      "count": 2
+      "word": "하닉",
+      "count": 4
     },
     {
-      "word": "계양을",
-      "count": 2
+      "word": "오른",
+      "count": 4
     },
     {
-      "word": "출마",
-      "count": 2
+      "word": "손흥민",
+      "count": 4
     },
     {
-      "word": "밝혀",
-      "count": 2
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "만나",
+      "count": 3
+    },
+    {
+      "word": "이유",
+      "count": 3
+    },
+    {
+      "word": "이상",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
+        "count": 5
+      },
+      {
+        "word": "법사위",
         "count": 4
       },
       {
-        "word": "대상",
-        "count": 2
-      },
-      {
-        "word": "보류",
-        "count": 2
-      },
-      {
         "word": "김남준",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "계양을",
-        "count": 2
+        "word": "전남광주",
+        "count": 3
+      },
+      {
+        "word": "위험",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "경기",
-        "count": 3
-      },
-      {
-        "word": "메달",
-        "count": 2
+        "count": 5
       },
       {
         "word": "손흥민",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "최전방",
-        "count": 2
+        "word": "메달",
+        "count": 3
+      },
+      {
+        "word": "선수",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "삼전",
-        "count": 3
+        "count": 6
       },
       {
         "word": "하닉",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "제안",
+        "count": 3
+      },
+      {
+        "word": "출신",
+        "count": 3
       },
       {
         "word": "딥시크",
-        "count": 1
-      },
-      {
-        "word": "이어",
-        "count": 1
-      },
-      {
-        "word": "시댄스",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "의사",
+        "count": 4
+      },
       {
         "word": "건진법사",
         "count": 3
@@ -160,41 +164,41 @@
         "count": 3
       },
       {
-        "word": "통일교",
-        "count": 2
+        "word": "헌재",
+        "count": 3
       },
       {
-        "word": "청탁",
-        "count": 2
-      },
-      {
-        "word": "의사",
+        "word": "우려",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 2
-      },
-      {
-        "word": "관세",
-        "count": 2
-      },
-      {
-        "word": "합참의장",
-        "count": 1
+        "count": 4
       },
       {
         "word": "이란",
-        "count": 1
+        "count": 3
       },
       {
-        "word": "공격",
-        "count": 1
+        "word": "만에",
+        "count": 3
+      },
+      {
+        "word": "배터리",
+        "count": 3
+      },
+      {
+        "word": "전력망",
+        "count": 3
       }
     ],
     "culture": [
+      {
+        "word": "이유",
+        "count": 3
+      },
       {
         "word": "브라질",
         "count": 2
@@ -204,16 +208,12 @@
         "count": 2
       },
       {
+        "word": "받았다",
+        "count": 2
+      },
+      {
         "word": "아들",
         "count": 2
-      },
-      {
-        "word": "이유",
-        "count": 2
-      },
-      {
-        "word": "백종원",
-        "count": 1
       }
     ]
   }
