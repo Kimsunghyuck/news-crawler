@@ -1,180 +1,188 @@
 {
   "date": "2026-02-25",
-  "generated_at": "2026-02-25T15:28:46.271556+09:00",
+  "generated_at": "2026-02-25T19:26:49.129955+09:00",
   "daily_top_keywords": [
     {
+      "word": "트럼프",
+      "count": 10
+    },
+    {
+      "word": "남자",
+      "count": 7
+    },
+    {
+      "word": "만에",
+      "count": 6
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
       "word": "관세",
+      "count": 5
+    },
+    {
+      "word": "소송",
       "count": 4
     },
     {
-      "word": "트럼프",
+      "word": "국힘",
       "count": 4
     },
     {
       "word": "정원오",
-      "count": 3
+      "count": 4
     },
     {
       "word": "시대",
+      "count": 4
+    },
+    {
+      "word": "민주당",
+      "count": 4
+    },
+    {
+      "word": "이어",
+      "count": 4
+    },
+    {
+      "word": "우승",
+      "count": 4
+    },
+    {
+      "word": "아이스하키",
+      "count": 4
+    },
+    {
+      "word": "파퀴아오",
+      "count": 4
+    },
+    {
+      "word": "메이웨더",
+      "count": 4
+    },
+    {
+      "word": "민희진",
       "count": 3
-    },
-    {
-      "word": "남자",
-      "count": 3
-    },
-    {
-      "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "억원",
-      "count": 2
-    },
-    {
-      "word": "소송",
-      "count": 2
-    },
-    {
-      "word": "푸켓",
-      "count": 2
     },
     {
       "word": "비밀",
-      "count": 2
+      "count": 3
     },
     {
       "word": "받은",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "국힘",
-      "count": 2
+      "word": "그녀",
+      "count": 3
     },
     {
       "word": "매매",
-      "count": 2
-    },
-    {
-      "word": "대통령",
-      "count": 2
-    },
-    {
-      "word": "독자",
-      "count": 2
-    },
-    {
-      "word": "농지",
-      "count": 2
-    },
-    {
-      "word": "공취모",
-      "count": 2
-    },
-    {
-      "word": "계파",
-      "count": 2
-    },
-    {
-      "word": "정체",
-      "count": 2
-    },
-    {
-      "word": "만원",
-      "count": 2
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "정원오",
-        "count": 3
+        "word": "대통령",
+        "count": 5
       },
       {
         "word": "국힘",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "정원오",
+        "count": 4
       },
       {
         "word": "매매",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "대통령",
-        "count": 2
-      },
-      {
-        "word": "독자",
-        "count": 2
+        "word": "시대",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 3
+        "count": 6
       },
       {
         "word": "우승",
-        "count": 2
+        "count": 4
       },
       {
         "word": "아이스하키",
-        "count": 2
-      },
-      {
-        "word": "만에",
-        "count": 2
+        "count": 4
       },
       {
         "word": "파퀴아오",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "메이웨더",
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "생산",
-        "count": 2
-      },
-      {
-        "word": "돌파",
-        "count": 2
-      },
-      {
-        "word": "선정",
-        "count": 2
-      },
-      {
         "word": "금값",
-        "count": 1
+        "count": 2
       },
       {
         "word": "급등하자",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "귀금속점",
+        "count": 2
+      },
+      {
+        "word": "보안",
+        "count": 2
+      },
+      {
+        "word": "수요",
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "재개발",
+        "count": 3
+      },
+      {
+        "word": "법원장회의",
+        "count": 2
+      },
+      {
+        "word": "체포",
+        "count": 2
+      },
+      {
+        "word": "강남경찰서",
+        "count": 2
+      },
+      {
         "word": "가구",
         "count": 2
-      },
-      {
-        "word": "재개발",
-        "count": 2
-      },
-      {
-        "word": "의사",
-        "count": 2
-      },
-      {
-        "word": "반짝",
-        "count": 1
-      },
-      {
-        "word": "추위",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "트럼프",
+        "count": 8
+      },
+      {
+        "word": "지금이",
+        "count": 3
+      },
+      {
+        "word": "황금기",
         "count": 3
       },
       {
@@ -182,38 +190,30 @@
         "count": 3
       },
       {
-        "word": "지금이",
-        "count": 2
-      },
-      {
-        "word": "황금기",
-        "count": 2
-      },
-      {
-        "word": "유지",
-        "count": 1
+        "word": "란코프",
+        "count": 3
       }
     ],
     "culture": [
+      {
+        "word": "민희진",
+        "count": 2
+      },
+      {
+        "word": "소송",
+        "count": 2
+      },
       {
         "word": "푸켓",
         "count": 2
       },
       {
-        "word": "민희진",
-        "count": 1
+        "word": "배우",
+        "count": 2
       },
       {
-        "word": "억원",
-        "count": 1
-      },
-      {
-        "word": "포기할테니",
-        "count": 1
-      },
-      {
-        "word": "뉴진스",
-        "count": 1
+        "word": "김지호",
+        "count": 2
       }
     ]
   }
