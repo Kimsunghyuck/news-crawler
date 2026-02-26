@@ -1,13 +1,220 @@
 {
   "date": "2026-02-26",
-  "generated_at": "2026-02-26T09:39:13.362759+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-26T15:23:29.635652+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "김정은",
+      "count": 3
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "기사",
+      "count": 2
+    },
+    {
+      "word": "당장",
+      "count": 2
+    },
+    {
+      "word": "내려",
+      "count": 2
+    },
+    {
+      "word": "분만에",
+      "count": 2
+    },
+    {
+      "word": "쌍욕",
+      "count": 2
+    },
+    {
+      "word": "전화",
+      "count": 2
+    },
+    {
+      "word": "시대",
+      "count": 2
+    },
+    {
+      "word": "대화",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "추진",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    },
+    {
+      "word": "기대",
+      "count": 2
+    },
+    {
+      "word": "수지",
+      "count": 2
+    },
+    {
+      "word": "만원",
+      "count": 2
+    },
+    {
+      "word": "엔비디아",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 3
+      },
+      {
+        "word": "기사",
+        "count": 2
+      },
+      {
+        "word": "당장",
+        "count": 2
+      },
+      {
+        "word": "내려",
+        "count": 2
+      },
+      {
+        "word": "분만에",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "파퀴아오",
+        "count": 2
+      },
+      {
+        "word": "메이웨더",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "김혜성",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "엔비디아",
+        "count": 2
+      },
+      {
+        "word": "삼성전자",
+        "count": 2
+      },
+      {
+        "word": "다시",
+        "count": 2
+      },
+      {
+        "word": "강남",
+        "count": 1
+      },
+      {
+        "word": "아파트값",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "숨졌다",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      },
+      {
+        "word": "성관계",
+        "count": 1
+      },
+      {
+        "word": "지갑",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "쿠바",
+        "count": 2
+      },
+      {
+        "word": "사살",
+        "count": 2
+      },
+      {
+        "word": "무관",
+        "count": 2
+      },
+      {
+        "word": "고속정",
+        "count": 1
+      },
+      {
+        "word": "타격",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "가수",
+        "count": 2
+      },
+      {
+        "word": "막힐",
+        "count": 1
+      },
+      {
+        "word": "정도의",
+        "count": 1
+      },
+      {
+        "word": "추녀",
+        "count": 1
+      },
+      {
+        "word": "연기",
+        "count": 1
+      }
+    ]
   }
 }
