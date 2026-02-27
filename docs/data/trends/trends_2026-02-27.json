@@ -1,13 +1,220 @@
 {
   "date": "2026-02-27",
-  "generated_at": "2026-02-27T09:41:53.895767+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-27T15:21:35.075370+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "법원행정처장",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "쿠팡",
+      "count": 3
+    },
+    {
+      "word": "수사",
+      "count": 3
+    },
+    {
+      "word": "검사",
+      "count": 3
+    },
+    {
+      "word": "정의선",
+      "count": 2
+    },
+    {
+      "word": "새만금",
+      "count": 2
+    },
+    {
+      "word": "투자",
+      "count": 2
+    },
+    {
+      "word": "정주영",
+      "count": 2
+    },
+    {
+      "word": "자랑스러워할",
+      "count": 2
+    },
+    {
+      "word": "이준석",
+      "count": 2
+    },
+    {
+      "word": "토론",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "김용",
+      "count": 2
+    },
+    {
+      "word": "출마",
+      "count": 2
+    },
+    {
+      "word": "사법",
+      "count": 2
+    },
+    {
+      "word": "강행에",
+      "count": 2
+    },
+    {
+      "word": "전한길",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    },
+    {
+      "word": "없어",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "정의선",
+        "count": 2
+      },
+      {
+        "word": "새만금",
+        "count": 2
+      },
+      {
+        "word": "투자",
+        "count": 2
+      },
+      {
+        "word": "정주영",
+        "count": 2
+      },
+      {
+        "word": "자랑스러워할",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "김주형",
+        "count": 2
+      },
+      {
+        "word": "선교사",
+        "count": 2
+      },
+      {
+        "word": "김혜성",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "경기",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "삼성전자",
+        "count": 2
+      },
+      {
+        "word": "하이닉스",
+        "count": 2
+      },
+      {
+        "word": "상법",
+        "count": 2
+      },
+      {
+        "word": "엔비디아",
+        "count": 1
+      },
+      {
+        "word": "일냈다",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "수사",
+        "count": 3
+      },
+      {
+        "word": "검사",
+        "count": 3
+      },
+      {
+        "word": "박영재",
+        "count": 2
+      },
+      {
+        "word": "법원행정처장",
+        "count": 2
+      },
+      {
+        "word": "사의",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "힐러리",
+        "count": 2
+      },
+      {
+        "word": "엡스타인",
+        "count": 2
+      },
+      {
+        "word": "욕조",
+        "count": 1
+      },
+      {
+        "word": "여성과",
+        "count": 1
+      },
+      {
+        "word": "클린턴",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "형님",
+        "count": 1
+      },
+      {
+        "word": "김일성",
+        "count": 1
+      },
+      {
+        "word": "덥석",
+        "count": 1
+      },
+      {
+        "word": "껴안았다",
+        "count": 1
+      },
+      {
+        "word": "기겁한",
+        "count": 1
+      }
+    ]
   }
 }
