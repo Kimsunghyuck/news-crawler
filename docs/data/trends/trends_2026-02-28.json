@@ -1,13 +1,220 @@
 {
   "date": "2026-02-28",
-  "generated_at": "2026-02-28T09:37:14.025883+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-02-28T15:10:41.193827+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "이준석",
+      "count": 4
+    },
+    {
+      "word": "전한길",
+      "count": 4
+    },
+    {
+      "word": "만명",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "시간",
+      "count": 3
+    },
+    {
+      "word": "광화문",
+      "count": 3
+    },
+    {
+      "word": "결정",
+      "count": 3
+    },
+    {
+      "word": "끝장토론",
+      "count": 2
+    },
+    {
+      "word": "내놨다",
+      "count": 2
+    },
+    {
+      "word": "영상",
+      "count": 2
+    },
+    {
+      "word": "무슨",
+      "count": 2
+    },
+    {
+      "word": "채는",
+      "count": 2
+    },
+    {
+      "word": "부정선거",
+      "count": 2
+    },
+    {
+      "word": "최고",
+      "count": 2
+    },
+    {
+      "word": "만건",
+      "count": 2
+    },
+    {
+      "word": "돌파",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "이준석",
+        "count": 3
+      },
+      {
+        "word": "전한길",
+        "count": 3
+      },
+      {
+        "word": "장동혁",
+        "count": 3
+      },
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 3
+      }
+    ],
+    "sports": [
+      {
+        "word": "김주형",
+        "count": 2
+      },
+      {
+        "word": "선교사",
+        "count": 2
+      },
+      {
+        "word": "대회",
+        "count": 2
+      },
+      {
+        "word": "대표팀",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만건",
+        "count": 2
+      },
+      {
+        "word": "주인님",
+        "count": 1
+      },
+      {
+        "word": "두쫀쿠",
+        "count": 1
+      },
+      {
+        "word": "구해놨어요",
+        "count": 1
+      },
+      {
+        "word": "네이버",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "국세청",
+        "count": 2
+      },
+      {
+        "word": "수사",
+        "count": 2
+      },
+      {
+        "word": "착수",
+        "count": 2
+      },
+      {
+        "word": "조현병",
+        "count": 1
+      },
+      {
+        "word": "딸이",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "피트",
+        "count": 2
+      },
+      {
+        "word": "만명",
+        "count": 2
+      },
+      {
+        "word": "가구",
+        "count": 2
+      },
+      {
+        "word": "연대",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "광화문",
+        "count": 2
+      },
+      {
+        "word": "결정",
+        "count": 2
+      },
+      {
+        "word": "아냐",
+        "count": 2
+      },
+      {
+        "word": "시간",
+        "count": 2
+      },
+      {
+        "word": "변요한",
+        "count": 1
+      }
+    ]
   }
 }
