@@ -1,219 +1,219 @@
 {
   "date": "2026-02-28",
-  "generated_at": "2026-02-28T15:10:41.193827+09:00",
+  "generated_at": "2026-02-28T19:10:06.935075+09:00",
   "daily_top_keywords": [
     {
+      "word": "이란",
+      "count": 14
+    },
+    {
       "word": "트럼프",
-      "count": 5
+      "count": 10
     },
     {
       "word": "이준석",
-      "count": 4
+      "count": 7
     },
     {
       "word": "전한길",
-      "count": 4
-    },
-    {
-      "word": "만명",
-      "count": 4
+      "count": 7
     },
     {
       "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "장동혁",
-      "count": 3
+      "count": 7
     },
     {
       "word": "대통령",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "국힘",
-      "count": 3
+      "word": "장동혁",
+      "count": 6
     },
     {
       "word": "시간",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "광화문",
-      "count": 3
+      "word": "이스라엘",
+      "count": 6
     },
     {
-      "word": "결정",
-      "count": 3
-    },
-    {
-      "word": "끝장토론",
-      "count": 2
+      "word": "만명",
+      "count": 5
     },
     {
       "word": "내놨다",
-      "count": 2
+      "count": 4
     },
     {
       "word": "영상",
-      "count": 2
-    },
-    {
-      "word": "무슨",
-      "count": 2
+      "count": 4
     },
     {
       "word": "채는",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "부정선거",
-      "count": 2
+      "word": "국힘",
+      "count": 4
     },
     {
-      "word": "최고",
-      "count": 2
+      "word": "산림청장에",
+      "count": 4
     },
     {
-      "word": "만건",
-      "count": 2
+      "word": "박은식",
+      "count": 4
     },
     {
       "word": "돌파",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "경기",
+      "count": 4
+    },
+    {
+      "word": "노출",
+      "count": 4
+    },
+    {
+      "word": "엡스타인",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "이준석",
-        "count": 3
-      },
-      {
-        "word": "전한길",
-        "count": 3
+        "word": "대통령",
+        "count": 7
       },
       {
         "word": "장동혁",
-        "count": 3
+        "count": 6
       },
       {
-        "word": "대통령",
-        "count": 3
+        "word": "이준석",
+        "count": 5
       },
       {
-        "word": "국힘",
-        "count": 3
+        "word": "전한길",
+        "count": 5
+      },
+      {
+        "word": "내놨다",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "김주형",
-        "count": 2
+        "count": 4
       },
       {
         "word": "선교사",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대회",
-        "count": 2
-      },
-      {
-        "word": "대표팀",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "결장",
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "만건",
+        "word": "주인님",
         "count": 2
       },
       {
-        "word": "주인님",
-        "count": 1
-      },
-      {
         "word": "두쫀쿠",
-        "count": 1
+        "count": 2
       },
       {
         "word": "구해놨어요",
-        "count": 1
+        "count": 2
       },
       {
         "word": "네이버",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "쿠팡",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "국세청",
-        "count": 2
+        "word": "내달",
+        "count": 3
       },
       {
-        "word": "수사",
-        "count": 2
+        "word": "전국",
+        "count": 3
       },
       {
-        "word": "착수",
-        "count": 2
+        "word": "법원장",
+        "count": 3
       },
       {
-        "word": "조현병",
-        "count": 1
+        "word": "간담회",
+        "count": 3
       },
       {
-        "word": "딸이",
-        "count": 1
+        "word": "사법",
+        "count": 3
       }
     ],
     "international": [
       {
+        "word": "이란",
+        "count": 12
+      },
+      {
         "word": "트럼프",
-        "count": 5
+        "count": 10
       },
       {
-        "word": "피트",
-        "count": 2
+        "word": "이스라엘",
+        "count": 6
       },
       {
-        "word": "만명",
-        "count": 2
+        "word": "공습",
+        "count": 4
       },
       {
-        "word": "가구",
-        "count": 2
-      },
-      {
-        "word": "연대",
-        "count": 1
+        "word": "공격",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "광화문",
-        "count": 2
-      },
-      {
-        "word": "결정",
-        "count": 2
+        "count": 3
       },
       {
         "word": "아냐",
-        "count": 2
+        "count": 3
       },
       {
         "word": "시간",
-        "count": 2
+        "count": 3
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "티파니",
+        "count": 2
       }
     ]
   }
