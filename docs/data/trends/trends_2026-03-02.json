@@ -1,13 +1,45 @@
 {
   "date": "2026-03-02",
-  "generated_at": "2026-03-02T15:22:24.251548+09:00",
+  "generated_at": "2026-03-02T19:25:39.369844+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 14
+      "count": 24
+    },
+    {
+      "word": "하메네이",
+      "count": 9
     },
     {
       "word": "대통령",
+      "count": 8
+    },
+    {
+      "word": "박홍근",
+      "count": 6
+    },
+    {
+      "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "왕사남",
+      "count": 6
+    },
+    {
+      "word": "천만",
+      "count": 6
+    },
+    {
+      "word": "이어",
+      "count": 6
+    },
+    {
+      "word": "인사에",
+      "count": 6
+    },
+    {
+      "word": "중동",
       "count": 5
     },
     {
@@ -15,205 +47,173 @@
       "count": 5
     },
     {
-      "word": "하메네이",
-      "count": 4
-    },
-    {
-      "word": "박홍근",
-      "count": 3
-    },
-    {
-      "word": "싱가포르",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "왕사남",
-      "count": 3
-    },
-    {
-      "word": "천만",
-      "count": 3
-    },
-    {
-      "word": "이어",
-      "count": 3
-    },
-    {
-      "word": "인사에",
-      "count": 3
-    },
-    {
-      "word": "공격",
-      "count": 3
+      "word": "시간",
+      "count": 5
     },
     {
       "word": "힘들어",
-      "count": 2
+      "count": 4
     },
     {
       "word": "흑기사",
-      "count": 2
+      "count": 4
     },
     {
       "word": "해드릴게",
-      "count": 2
+      "count": 4
     },
     {
       "word": "이준석도",
-      "count": 2
+      "count": 4
     },
     {
       "word": "뻗은",
-      "count": 2
+      "count": 4
     },
     {
       "word": "강중약",
-      "count": 2
+      "count": 4
     },
     {
       "word": "폭탄주",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "기획예산처",
-      "count": 2
+      "word": "싱가포르",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "대통령",
-        "count": 4
-      },
-      {
         "word": "박홍근",
-        "count": 3
+        "count": 6
       },
       {
-        "word": "싱가포르",
-        "count": 3
+        "word": "대통령",
+        "count": 5
       },
       {
         "word": "힘들어",
-        "count": 2
+        "count": 4
       },
       {
         "word": "흑기사",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "해드릴게",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "시즌",
-        "count": 2
-      },
-      {
-        "word": "이란",
-        "count": 2
-      },
-      {
         "word": "앞에서",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "시즌",
+        "count": 3
+      },
+      {
+        "word": "이란",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "달러",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이젠",
-        "count": 1
+        "word": "대통령",
+        "count": 3
       },
       {
-        "word": "버핏",
-        "count": 1
+        "word": "대상",
+        "count": 3
       },
       {
-        "word": "듣지마라",
-        "count": 1
+        "word": "사상",
+        "count": 3
       },
       {
-        "word": "한국",
-        "count": 1
+        "word": "정부가",
+        "count": 3
       }
     ],
     "society": [
       {
+        "word": "시간",
+        "count": 5
+      },
+      {
         "word": "폭행",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "중동",
+        "count": 3
       },
       {
         "word": "오늘의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "운세",
-        "count": 1
-      },
-      {
-        "word": "약으로",
-        "count": 1
-      },
-      {
-        "word": "카트",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 11
+        "count": 19
+      },
+      {
+        "word": "하메네이",
+        "count": 5
       },
       {
         "word": "트럼프",
         "count": 5
       },
       {
-        "word": "공격",
-        "count": 3
-      },
-      {
-        "word": "하메네이",
-        "count": 2
-      },
-      {
         "word": "사망",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "공습",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "왕사남",
-        "count": 3
+        "count": 6
       },
       {
         "word": "천만",
-        "count": 3
+        "count": 6
       },
       {
         "word": "이어",
-        "count": 3
+        "count": 6
       },
       {
         "word": "인사에",
-        "count": 3
+        "count": 6
       },
       {
         "word": "루나",
-        "count": 2
+        "count": 4
       }
     ]
   }
