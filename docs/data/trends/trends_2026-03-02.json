@@ -1,13 +1,220 @@
 {
   "date": "2026-03-02",
-  "generated_at": "2026-03-02T09:38:45.963809+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-02T15:22:24.251548+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 14
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "하메네이",
+      "count": 4
+    },
+    {
+      "word": "박홍근",
+      "count": 3
+    },
+    {
+      "word": "싱가포르",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "왕사남",
+      "count": 3
+    },
+    {
+      "word": "천만",
+      "count": 3
+    },
+    {
+      "word": "이어",
+      "count": 3
+    },
+    {
+      "word": "인사에",
+      "count": 3
+    },
+    {
+      "word": "공격",
+      "count": 3
+    },
+    {
+      "word": "힘들어",
+      "count": 2
+    },
+    {
+      "word": "흑기사",
+      "count": 2
+    },
+    {
+      "word": "해드릴게",
+      "count": 2
+    },
+    {
+      "word": "이준석도",
+      "count": 2
+    },
+    {
+      "word": "뻗은",
+      "count": 2
+    },
+    {
+      "word": "강중약",
+      "count": 2
+    },
+    {
+      "word": "폭탄주",
+      "count": 2
+    },
+    {
+      "word": "기획예산처",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 4
+      },
+      {
+        "word": "박홍근",
+        "count": 3
+      },
+      {
+        "word": "싱가포르",
+        "count": 3
+      },
+      {
+        "word": "힘들어",
+        "count": 2
+      },
+      {
+        "word": "흑기사",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "시즌",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "앞에서",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "달러",
+        "count": 2
+      },
+      {
+        "word": "이젠",
+        "count": 1
+      },
+      {
+        "word": "버핏",
+        "count": 1
+      },
+      {
+        "word": "듣지마라",
+        "count": 1
+      },
+      {
+        "word": "한국",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "폭행",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      },
+      {
+        "word": "약으로",
+        "count": 1
+      },
+      {
+        "word": "카트",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 11
+      },
+      {
+        "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "공격",
+        "count": 3
+      },
+      {
+        "word": "하메네이",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "왕사남",
+        "count": 3
+      },
+      {
+        "word": "천만",
+        "count": 3
+      },
+      {
+        "word": "이어",
+        "count": 3
+      },
+      {
+        "word": "인사에",
+        "count": 3
+      },
+      {
+        "word": "루나",
+        "count": 2
+      }
+    ]
   }
 }
