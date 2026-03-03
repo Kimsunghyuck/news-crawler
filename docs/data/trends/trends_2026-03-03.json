@@ -1,13 +1,220 @@
 {
   "date": "2026-03-03",
-  "generated_at": "2026-03-03T09:41:08.171130+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-03T15:20:20.127588+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 9
+    },
+    {
+      "word": "국힘",
+      "count": 5
+    },
+    {
+      "word": "중동",
+      "count": 5
+    },
+    {
+      "word": "탈출",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "중단",
+      "count": 3
+    },
+    {
+      "word": "항공",
+      "count": 3
+    },
+    {
+      "word": "장학금",
+      "count": 3
+    },
+    {
+      "word": "그들",
+      "count": 3
+    },
+    {
+      "word": "시간",
+      "count": 3
+    },
+    {
+      "word": "머리",
+      "count": 2
+    },
+    {
+      "word": "작전",
+      "count": 2
+    },
+    {
+      "word": "였다",
+      "count": 2
+    },
+    {
+      "word": "제명",
+      "count": 2
+    },
+    {
+      "word": "사법파괴",
+      "count": 2
+    },
+    {
+      "word": "국회",
+      "count": 2
+    },
+    {
+      "word": "청와대",
+      "count": 2
+    },
+    {
+      "word": "대회",
+      "count": 2
+    },
+    {
+      "word": "설치",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 5
+      },
+      {
+        "word": "제명",
+        "count": 2
+      },
+      {
+        "word": "사법파괴",
+        "count": 2
+      },
+      {
+        "word": "국회",
+        "count": 2
+      },
+      {
+        "word": "청와대",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "신지아",
+        "count": 2
+      },
+      {
+        "word": "장학금",
+        "count": 2
+      },
+      {
+        "word": "은메달",
+        "count": 2
+      },
+      {
+        "word": "컬링",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "단돈",
+        "count": 1
+      },
+      {
+        "word": "만원",
+        "count": 1
+      },
+      {
+        "word": "불렸다",
+        "count": 1
+      },
+      {
+        "word": "파이어족의",
+        "count": 1
+      },
+      {
+        "word": "계절",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "여성",
+        "count": 2
+      },
+      {
+        "word": "훈장",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      },
+      {
+        "word": "유재석",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 6
+      },
+      {
+        "word": "탈출",
+        "count": 4
+      },
+      {
+        "word": "중동",
+        "count": 4
+      },
+      {
+        "word": "추락",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "시신",
+        "count": 2
+      },
+      {
+        "word": "보고도",
+        "count": 2
+      },
+      {
+        "word": "걸로",
+        "count": 2
+      },
+      {
+        "word": "그들",
+        "count": 2
+      },
+      {
+        "word": "전원주",
+        "count": 2
+      }
+    ]
   }
 }
