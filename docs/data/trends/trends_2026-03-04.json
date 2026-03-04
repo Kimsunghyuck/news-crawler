@@ -1,219 +1,219 @@
 {
   "date": "2026-03-04",
-  "generated_at": "2026-03-04T15:17:58.827318+09:00",
+  "generated_at": "2026-03-04T19:18:52.237258+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 10
-    },
-    {
-      "word": "만원",
-      "count": 5
-    },
-    {
-      "word": "대통령",
-      "count": 4
-    },
-    {
-      "word": "아닌",
-      "count": 3
-    },
-    {
-      "word": "필리핀",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "왕사남",
-      "count": 3
-    },
-    {
-      "word": "경찰",
-      "count": 3
-    },
-    {
-      "word": "하메네이",
-      "count": 3
+      "count": 17
     },
     {
       "word": "트럼프",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "전쟁",
-      "count": 3
+      "word": "대통령",
+      "count": 6
+    },
+    {
+      "word": "만원",
+      "count": 6
     },
     {
       "word": "승리",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "없이",
-      "count": 2
+      "word": "필리핀",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "시신",
+      "count": 5
+    },
+    {
+      "word": "징역",
+      "count": 5
     },
     {
       "word": "시대",
-      "count": 2
+      "count": 4
     },
     {
       "word": "미사일",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "비밀",
-      "count": 2
+      "word": "한국이",
+      "count": 4
     },
     {
-      "word": "총리급",
-      "count": 2
+      "word": "국힘",
+      "count": 4
     },
     {
-      "word": "발탁",
-      "count": 2
+      "word": "코스피",
+      "count": 4
     },
     {
-      "word": "박용진",
-      "count": 2
+      "word": "중단",
+      "count": 4
     },
     {
-      "word": "나는",
-      "count": 2
+      "word": "만원에",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "선물",
+      "count": 4
+    },
+    {
+      "word": "왕사남",
+      "count": 4
+    },
+    {
+      "word": "보고도",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "국힘",
+        "count": 4
+      },
+      {
         "word": "없이",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "총리급",
-        "count": 2
+        "word": "당신",
+        "count": 3
       },
       {
-        "word": "발탁",
-        "count": 2
+        "word": "빼면",
+        "count": 3
       },
       {
-        "word": "박용진",
-        "count": 2
-      },
-      {
-        "word": "나는",
-        "count": 2
+        "word": "내가",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "승리",
-        "count": 3
+        "count": 6
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "태극마크",
-        "count": 1
+        "count": 2
       },
       {
         "word": "일본인",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "만원",
-        "count": 3
-      },
-      {
         "word": "코스피",
-        "count": 2
-      },
-      {
-        "word": "발동",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만원에",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이란",
-        "count": 2
+        "word": "대통령",
+        "count": 4
+      },
+      {
+        "word": "필리핀",
+        "count": 4
+      },
+      {
+        "word": "만원",
+        "count": 4
       }
     ],
     "society": [
       {
-        "word": "경찰",
-        "count": 2
-      },
-      {
         "word": "징역",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "만원",
-        "count": 2
+        "word": "경찰",
+        "count": 3
       },
       {
         "word": "오늘의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "운세",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "재벌은",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 7
-      },
-      {
-        "word": "하메네이",
-        "count": 3
+        "count": 13
       },
       {
         "word": "트럼프",
-        "count": 3
+        "count": 6
       },
       {
-        "word": "전쟁",
-        "count": 3
+        "word": "하메네이",
+        "count": 4
       },
       {
-        "word": "차기",
-        "count": 2
+        "word": "공습",
+        "count": 4
+      },
+      {
+        "word": "유조선",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "왕사남",
-        "count": 3
+        "count": 4
       },
       {
         "word": "시신",
-        "count": 2
+        "count": 4
       },
       {
         "word": "보고도",
-        "count": 2
+        "count": 4
       },
       {
         "word": "걸로",
-        "count": 2
+        "count": 4
       },
       {
         "word": "그들",
-        "count": 2
+        "count": 4
       }
     ]
   }
