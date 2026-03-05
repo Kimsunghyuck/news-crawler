@@ -1,219 +1,219 @@
 {
   "date": "2026-03-05",
-  "generated_at": "2026-03-05T15:19:50.772725+09:00",
+  "generated_at": "2026-03-05T19:21:28.203669+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 9
+      "count": 13
     },
     {
       "word": "한국",
-      "count": 5
+      "count": 12
     },
     {
       "word": "만에",
-      "count": 4
-    },
-    {
-      "word": "유조선",
-      "count": 3
-    },
-    {
-      "word": "대통령",
-      "count": 3
-    },
-    {
-      "word": "쿠팡",
-      "count": 3
-    },
-    {
-      "word": "수사",
-      "count": 3
-    },
-    {
-      "word": "정체",
-      "count": 3
-    },
-    {
-      "word": "연속",
-      "count": 3
+      "count": 8
     },
     {
       "word": "전쟁",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "트럼프",
-      "count": 3
+      "word": "유조선",
+      "count": 5
     },
     {
-      "word": "탈출",
-      "count": 3
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "정체",
+      "count": 5
     },
     {
       "word": "시대",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "장동혁",
+      "count": 4
+    },
+    {
+      "word": "국내",
+      "count": 4
+    },
+    {
+      "word": "지상전",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "배달",
+      "count": 3
     },
     {
       "word": "갇혔다",
-      "count": 2
+      "count": 3
+    },
+    {
+      "word": "이게",
+      "count": 3
+    },
+    {
+      "word": "내가",
+      "count": 3
     },
     {
       "word": "기업",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "규칙",
-      "count": 2
+      "word": "배현진",
+      "count": 3
     },
     {
-      "word": "어겨",
-      "count": 2
-    },
-    {
-      "word": "갔다",
-      "count": 2
-    },
-    {
-      "word": "엄벌",
-      "count": 2
-    },
-    {
-      "word": "확보",
-      "count": 2
+      "word": "효력",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "장동혁",
+        "count": 4
       },
       {
         "word": "시대",
-        "count": 2
+        "count": 3
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 3
       },
       {
         "word": "유조선",
-        "count": 2
-      },
-      {
-        "word": "갇혔다",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "한국",
-        "count": 2
-      },
-      {
-        "word": "승리",
-        "count": 2
-      },
-      {
-        "word": "이란",
-        "count": 2
-      },
-      {
-        "word": "감독",
-        "count": 2
+        "count": 7
       },
       {
         "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "승리",
+        "count": 3
+      },
+      {
+        "word": "태극마크",
+        "count": 2
+      },
+      {
+        "word": "일본인",
         "count": 2
       }
     ],
     "economy": [
       {
         "word": "정체",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "투자",
+        "count": 3
+      },
+      {
+        "word": "국내",
+        "count": 3
       },
       {
         "word": "삼겹살",
-        "count": 1
+        "count": 2
       },
       {
         "word": "인분",
-        "count": 1
-      },
-      {
-        "word": "비용으로",
-        "count": 1
-      },
-      {
-        "word": "배터지게",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "오늘의",
-        "count": 2
+        "count": 3
       },
       {
         "word": "운세",
+        "count": 3
+      },
+      {
+        "word": "검찰",
+        "count": 2
+      },
+      {
+        "word": "재판장",
         "count": 2
       },
       {
         "word": "쿠팡",
-        "count": 2
-      },
-      {
-        "word": "수사",
-        "count": 2
-      },
-      {
-        "word": "탈출",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 6
+        "count": 9
       },
       {
         "word": "전쟁",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "지상전",
+        "count": 4
       },
       {
         "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "빨리",
         "count": 3
-      },
-      {
-        "word": "쿠르드",
-        "count": 2
-      },
-      {
-        "word": "반군",
-        "count": 2
       }
     ],
     "culture": [
       {
         "word": "만에",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "천만",
+        "count": 3
       },
       {
         "word": "유리",
-        "count": 1
+        "count": 2
       },
       {
         "word": "속에서",
-        "count": 1
+        "count": 2
       },
       {
         "word": "찌들어간다",
-        "count": 1
-      },
-      {
-        "word": "년째",
-        "count": 1
+        "count": 2
       }
     ]
   }
