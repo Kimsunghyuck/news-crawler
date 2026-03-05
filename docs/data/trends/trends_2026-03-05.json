@@ -1,13 +1,220 @@
 {
   "date": "2026-03-05",
-  "generated_at": "2026-03-05T09:40:34.224292+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-05T15:19:50.772725+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 9
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "유조선",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "쿠팡",
+      "count": 3
+    },
+    {
+      "word": "수사",
+      "count": 3
+    },
+    {
+      "word": "정체",
+      "count": 3
+    },
+    {
+      "word": "연속",
+      "count": 3
+    },
+    {
+      "word": "전쟁",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "탈출",
+      "count": 3
+    },
+    {
+      "word": "시대",
+      "count": 2
+    },
+    {
+      "word": "갇혔다",
+      "count": 2
+    },
+    {
+      "word": "기업",
+      "count": 2
+    },
+    {
+      "word": "규칙",
+      "count": 2
+    },
+    {
+      "word": "어겨",
+      "count": 2
+    },
+    {
+      "word": "갔다",
+      "count": 2
+    },
+    {
+      "word": "엄벌",
+      "count": 2
+    },
+    {
+      "word": "확보",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "시대",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "유조선",
+        "count": 2
+      },
+      {
+        "word": "갇혔다",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "승리",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "감독",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "정체",
+        "count": 2
+      },
+      {
+        "word": "삼겹살",
+        "count": 1
+      },
+      {
+        "word": "인분",
+        "count": 1
+      },
+      {
+        "word": "비용으로",
+        "count": 1
+      },
+      {
+        "word": "배터지게",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "오늘의",
+        "count": 2
+      },
+      {
+        "word": "운세",
+        "count": 2
+      },
+      {
+        "word": "쿠팡",
+        "count": 2
+      },
+      {
+        "word": "수사",
+        "count": 2
+      },
+      {
+        "word": "탈출",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 6
+      },
+      {
+        "word": "전쟁",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "쿠르드",
+        "count": 2
+      },
+      {
+        "word": "반군",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "유리",
+        "count": 1
+      },
+      {
+        "word": "속에서",
+        "count": 1
+      },
+      {
+        "word": "찌들어간다",
+        "count": 1
+      },
+      {
+        "word": "년째",
+        "count": 1
+      }
+    ]
   }
 }
