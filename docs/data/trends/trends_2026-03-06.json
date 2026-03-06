@@ -1,13 +1,220 @@
 {
   "date": "2026-03-06",
-  "generated_at": "2026-03-06T09:45:01.865001+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-06T15:17:29.326767+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 7
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "왕사남",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "하메네이",
+      "count": 3
+    },
+    {
+      "word": "공습",
+      "count": 3
+    },
+    {
+      "word": "지원",
+      "count": 3
+    },
+    {
+      "word": "요청",
+      "count": 3
+    },
+    {
+      "word": "쇼크",
+      "count": 3
+    },
+    {
+      "word": "개월",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "주가조작",
+      "count": 2
+    },
+    {
+      "word": "정상화",
+      "count": 2
+    },
+    {
+      "word": "속도",
+      "count": 2
+    },
+    {
+      "word": "장동혁",
+      "count": 2
+    },
+    {
+      "word": "없어",
+      "count": 2
+    },
+    {
+      "word": "이상",
+      "count": 2
+    },
+    {
+      "word": "이란전쟁에",
+      "count": 2
+    },
+    {
+      "word": "국익",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "주가조작",
+        "count": 2
+      },
+      {
+        "word": "정상화",
+        "count": 2
+      },
+      {
+        "word": "속도",
+        "count": 2
+      },
+      {
+        "word": "장동혁",
+        "count": 2
+      },
+      {
+        "word": "지원",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "장타",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "홈런",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "대회",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "쇼크",
+        "count": 3
+      },
+      {
+        "word": "알파고",
+        "count": 2
+      },
+      {
+        "word": "삼겹살",
+        "count": 1
+      },
+      {
+        "word": "인분",
+        "count": 1
+      },
+      {
+        "word": "비용으로",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "이태원",
+        "count": 2
+      },
+      {
+        "word": "병원",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      },
+      {
+        "word": "봉사는",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 5
+      },
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "호르무즈",
+        "count": 2
+      },
+      {
+        "word": "하메네이",
+        "count": 2
+      },
+      {
+        "word": "이스라엘",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "왕사남",
+        "count": 4
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "천만",
+        "count": 2
+      },
+      {
+        "word": "장항준",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      }
+    ]
   }
 }
