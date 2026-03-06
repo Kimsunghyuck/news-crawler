@@ -1,219 +1,219 @@
 {
   "date": "2026-03-06",
-  "generated_at": "2026-03-06T15:17:29.326767+09:00",
+  "generated_at": "2026-03-06T19:18:22.298229+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 7
-    },
-    {
-      "word": "만원",
-      "count": 4
-    },
-    {
-      "word": "만에",
-      "count": 4
-    },
-    {
-      "word": "왕사남",
-      "count": 4
+      "count": 15
     },
     {
       "word": "트럼프",
-      "count": 4
+      "count": 8
     },
     {
-      "word": "하메네이",
-      "count": 3
-    },
-    {
-      "word": "공습",
-      "count": 3
-    },
-    {
-      "word": "지원",
-      "count": 3
-    },
-    {
-      "word": "요청",
-      "count": 3
-    },
-    {
-      "word": "쇼크",
-      "count": 3
-    },
-    {
-      "word": "개월",
-      "count": 3
+      "word": "만에",
+      "count": 7
     },
     {
       "word": "남자",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "주가조작",
-      "count": 2
+      "word": "하메네이",
+      "count": 6
     },
     {
-      "word": "정상화",
-      "count": 2
+      "word": "호르무즈",
+      "count": 6
     },
     {
-      "word": "속도",
-      "count": 2
+      "word": "만원",
+      "count": 6
     },
     {
-      "word": "장동혁",
-      "count": 2
+      "word": "왕사남",
+      "count": 6
     },
     {
-      "word": "없어",
-      "count": 2
+      "word": "원유",
+      "count": 5
     },
     {
-      "word": "이상",
-      "count": 2
+      "word": "한국",
+      "count": 5
     },
     {
-      "word": "이란전쟁에",
-      "count": 2
+      "word": "쇼크",
+      "count": 5
     },
     {
-      "word": "국익",
-      "count": 2
+      "word": "개월",
+      "count": 5
+    },
+    {
+      "word": "배럴",
+      "count": 4
+    },
+    {
+      "word": "지원",
+      "count": 4
+    },
+    {
+      "word": "요청",
+      "count": 4
+    },
+    {
+      "word": "정체",
+      "count": 4
+    },
+    {
+      "word": "천만",
+      "count": 4
+    },
+    {
+      "word": "영화",
+      "count": 4
+    },
+    {
+      "word": "사는",
+      "count": 4
+    },
+    {
+      "word": "장타",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "주가조작",
-        "count": 2
+        "word": "원유",
+        "count": 5
       },
       {
-        "word": "정상화",
-        "count": 2
-      },
-      {
-        "word": "속도",
-        "count": 2
+        "word": "배럴",
+        "count": 4
       },
       {
         "word": "장동혁",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "지원",
+        "word": "도입",
+        "count": 3
+      },
+      {
+        "word": "천안서",
         "count": 2
       }
     ],
     "sports": [
       {
         "word": "장타",
-        "count": 2
-      },
-      {
-        "word": "만에",
-        "count": 2
-      },
-      {
-        "word": "홈런",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "대회",
-        "count": 2
+        "word": "레전드",
+        "count": 3
+      },
+      {
+        "word": "만에",
+        "count": 3
+      },
+      {
+        "word": "리그",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "쇼크",
-        "count": 3
+        "count": 5
       },
       {
         "word": "알파고",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "농협",
+        "count": 3
       },
       {
         "word": "삼겹살",
-        "count": 1
+        "count": 2
       },
       {
         "word": "인분",
-        "count": 1
-      },
-      {
-        "word": "비용으로",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "이태원",
-        "count": 2
-      },
-      {
-        "word": "병원",
-        "count": 2
-      },
-      {
         "word": "오늘의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "운세",
-        "count": 1
+        "count": 2
       },
       {
         "word": "봉사는",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "번다",
+        "count": 2
+      },
+      {
+        "word": "틀렸다",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 5
+        "count": 12
       },
       {
         "word": "트럼프",
-        "count": 4
+        "count": 8
       },
       {
         "word": "호르무즈",
-        "count": 2
+        "count": 4
       },
       {
         "word": "하메네이",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이스라엘",
-        "count": 2
+        "word": "만명",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "왕사남",
-        "count": 4
+        "count": 6
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 4
       },
       {
         "word": "천만",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "장항준",
-        "count": 2
+        "word": "영화",
+        "count": 4
       },
       {
-        "word": "만원",
-        "count": 2
+        "word": "사는",
+        "count": 4
       }
     ]
   }
