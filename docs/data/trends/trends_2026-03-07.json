@@ -1,185 +1,189 @@
 {
   "date": "2026-03-07",
-  "generated_at": "2026-03-07T15:14:53.282275+09:00",
+  "generated_at": "2026-03-07T19:11:11.190734+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 7
+      "count": 15
     },
     {
       "word": "대통령",
-      "count": 5
+      "count": 8
     },
     {
       "word": "만원",
-      "count": 5
+      "count": 8
     },
     {
       "word": "지지율",
-      "count": 4
-    },
-    {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "전쟁",
-      "count": 3
-    },
-    {
-      "word": "아이언맨",
-      "count": 3
-    },
-    {
-      "word": "백악관",
-      "count": 3
-    },
-    {
-      "word": "배우",
-      "count": 3
-    },
-    {
-      "word": "이재룡",
-      "count": 3
-    },
-    {
-      "word": "장동혁",
-      "count": 2
-    },
-    {
-      "word": "역량",
-      "count": 2
-    },
-    {
-      "word": "외교부",
-      "count": 2
-    },
-    {
-      "word": "전세기",
-      "count": 2
-    },
-    {
-      "word": "국힘",
-      "count": 2
-    },
-    {
-      "word": "개인",
-      "count": 2
-    },
-    {
-      "word": "레벨",
-      "count": 2
-    },
-    {
-      "word": "와인",
-      "count": 2
+      "count": 6
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "남자",
+      "count": 5
+    },
+    {
+      "word": "전쟁",
+      "count": 5
+    },
+    {
+      "word": "배우",
+      "count": 5
+    },
+    {
+      "word": "이재룡",
+      "count": 5
+    },
+    {
+      "word": "역량",
+      "count": 4
+    },
+    {
+      "word": "부산",
+      "count": 4
+    },
+    {
+      "word": "레벨",
+      "count": 4
+    },
+    {
+      "word": "와인",
+      "count": 4
     },
     {
       "word": "스스로",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "일본",
+      "count": 4
+    },
+    {
+      "word": "전세",
+      "count": 4
+    },
+    {
+      "word": "개월",
+      "count": 4
+    },
+    {
+      "word": "도쿄",
+      "count": 4
+    },
+    {
+      "word": "공습에",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 4
+        "count": 6
       },
       {
         "word": "지지율",
+        "count": 6
+      },
+      {
+        "word": "역량",
         "count": 4
       },
       {
         "word": "장동혁",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "역량",
-        "count": 2
-      },
-      {
-        "word": "국힘",
-        "count": 2
+        "word": "최고치",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "오타니",
-        "count": 2
-      },
-      {
-        "word": "대만전",
-        "count": 2
-      },
-      {
         "word": "연패",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "은메달",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "오타니",
+        "count": 3
+      },
+      {
+        "word": "대만전",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "레벨",
-        "count": 2
+        "count": 4
       },
       {
         "word": "와인",
-        "count": 2
+        "count": 4
       },
       {
         "word": "스스로",
-        "count": 2
+        "count": 4
       },
       {
         "word": "전세",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "제일",
-        "count": 1
+        "word": "만에",
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "배우",
-        "count": 3
+        "count": 5
       },
       {
         "word": "이재룡",
-        "count": 3
-      },
-      {
-        "word": "만원",
-        "count": 3
+        "count": 5
       },
       {
         "word": "음주운전",
-        "count": 2
+        "count": 4
       },
       {
         "word": "사고",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "만원",
+        "count": 4
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 7
+        "count": 15
       },
       {
         "word": "전쟁",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "공습에",
+        "count": 4
       },
       {
         "word": "아이언맨",
@@ -188,32 +192,28 @@
       {
         "word": "백악관",
         "count": 3
-      },
-      {
-        "word": "공습에",
-        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "왕사남",
-        "count": 2
+        "word": "천만",
+        "count": 3
       },
       {
         "word": "잔나비",
-        "count": 2
+        "count": 3
       },
       {
         "word": "최정훈에",
-        "count": 2
+        "count": 3
       },
       {
         "word": "선재",
-        "count": 1
+        "count": 2
       },
       {
         "word": "스님",
-        "count": 1
+        "count": 2
       }
     ]
   }
