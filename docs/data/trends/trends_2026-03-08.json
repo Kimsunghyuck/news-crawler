@@ -1,219 +1,219 @@
 {
   "date": "2026-03-08",
-  "generated_at": "2026-03-08T15:17:21.101475+09:00",
+  "generated_at": "2026-03-08T19:10:49.678560+09:00",
   "daily_top_keywords": [
     {
-      "word": "트럼프",
-      "count": 4
-    },
-    {
       "word": "이란",
-      "count": 4
+      "count": 9
     },
     {
-      "word": "대통령",
-      "count": 3
-    },
-    {
-      "word": "당에",
-      "count": 3
+      "word": "서울시장",
+      "count": 7
     },
     {
       "word": "전쟁",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "찍은",
-      "count": 3
+      "word": "트럼프",
+      "count": 7
     },
     {
       "word": "한국",
-      "count": 3
+      "count": 7
+    },
+    {
+      "word": "후보",
+      "count": 6
+    },
+    {
+      "word": "오세훈",
+      "count": 6
+    },
+    {
+      "word": "찍은",
+      "count": 6
+    },
+    {
+      "word": "왕사남",
+      "count": 6
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "등록",
+      "count": 5
+    },
+    {
+      "word": "지원",
+      "count": 5
     },
     {
       "word": "최대",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "세계",
+      "count": 5
     },
     {
       "word": "엄마가",
-      "count": 2
+      "count": 4
     },
     {
       "word": "아들",
-      "count": 2
+      "count": 4
     },
     {
       "word": "다루듯",
-      "count": 2
+      "count": 4
     },
     {
       "word": "김건희",
-      "count": 2
+      "count": 4
     },
     {
       "word": "만난",
-      "count": 2
+      "count": 4
     },
     {
       "word": "행정관의",
-      "count": 2
-    },
-    {
-      "word": "탄식",
-      "count": 2
-    },
-    {
-      "word": "집권세력",
-      "count": 2
-    },
-    {
-      "word": "됐다고",
-      "count": 2
-    },
-    {
-      "word": "마음대로",
-      "count": 2
-    },
-    {
-      "word": "해선",
-      "count": 2
-    },
-    {
-      "word": "안돼",
-      "count": 2
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "당에",
-        "count": 3
+        "word": "서울시장",
+        "count": 7
+      },
+      {
+        "word": "후보",
+        "count": 6
+      },
+      {
+        "word": "오세훈",
+        "count": 6
+      },
+      {
+        "word": "등록",
+        "count": 5
       },
       {
         "word": "엄마가",
-        "count": 2
-      },
-      {
-        "word": "아들",
-        "count": 2
-      },
-      {
-        "word": "다루듯",
-        "count": 2
-      },
-      {
-        "word": "김건희",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "만의",
-        "count": 2
-      },
-      {
-        "word": "승리",
-        "count": 2
-      },
-      {
-        "word": "리그",
-        "count": 2
+        "word": "한국",
+        "count": 4
       },
       {
         "word": "손흥민",
-        "count": 2
+        "count": 4
       },
       {
         "word": "댈러스",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "무산",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "와인",
-        "count": 2
+        "count": 4
       },
       {
         "word": "레벨",
-        "count": 2
+        "count": 4
       },
       {
         "word": "스스로",
-        "count": 2
-      },
-      {
-        "word": "더현대",
-        "count": 2
+        "count": 4
       },
       {
         "word": "코스피는",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "경호",
+        "count": 3
+      },
+      {
         "word": "최대",
-        "count": 2
+        "count": 3
       },
       {
         "word": "군무원",
-        "count": 2
+        "count": 3
       },
       {
         "word": "늦게",
-        "count": 1
-      },
-      {
-        "word": "음주",
-        "count": 1
-      },
-      {
-        "word": "자제",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 4
-      },
-      {
-        "word": "트럼프",
-        "count": 3
+        "count": 9
       },
       {
         "word": "전쟁",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "트럼프",
+        "count": 5
       },
       {
         "word": "쿠르드족",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "일본",
-        "count": 1
+        "word": "반대",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "먹고",
-        "count": 2
+        "word": "왕사남",
+        "count": 6
       },
       {
-        "word": "왕사남",
-        "count": 2
+        "word": "먹고",
+        "count": 3
+      },
+      {
+        "word": "넘어섰다",
+        "count": 3
       },
       {
         "word": "이재룡",
-        "count": 1
+        "count": 2
       },
       {
         "word": "음주운전에",
-        "count": 1
-      },
-      {
-        "word": "최고",
-        "count": 1
+        "count": 2
       }
     ]
   }
