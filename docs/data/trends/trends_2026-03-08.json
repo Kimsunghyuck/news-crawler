@@ -1,13 +1,220 @@
 {
   "date": "2026-03-08",
-  "generated_at": "2026-03-08T09:42:14.993068+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-08T15:17:21.101475+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "당에",
+      "count": 3
+    },
+    {
+      "word": "전쟁",
+      "count": 3
+    },
+    {
+      "word": "찍은",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "엄마가",
+      "count": 2
+    },
+    {
+      "word": "아들",
+      "count": 2
+    },
+    {
+      "word": "다루듯",
+      "count": 2
+    },
+    {
+      "word": "김건희",
+      "count": 2
+    },
+    {
+      "word": "만난",
+      "count": 2
+    },
+    {
+      "word": "행정관의",
+      "count": 2
+    },
+    {
+      "word": "탄식",
+      "count": 2
+    },
+    {
+      "word": "집권세력",
+      "count": 2
+    },
+    {
+      "word": "됐다고",
+      "count": 2
+    },
+    {
+      "word": "마음대로",
+      "count": 2
+    },
+    {
+      "word": "해선",
+      "count": 2
+    },
+    {
+      "word": "안돼",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "당에",
+        "count": 3
+      },
+      {
+        "word": "엄마가",
+        "count": 2
+      },
+      {
+        "word": "아들",
+        "count": 2
+      },
+      {
+        "word": "다루듯",
+        "count": 2
+      },
+      {
+        "word": "김건희",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "만의",
+        "count": 2
+      },
+      {
+        "word": "승리",
+        "count": 2
+      },
+      {
+        "word": "리그",
+        "count": 2
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "댈러스",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "와인",
+        "count": 2
+      },
+      {
+        "word": "레벨",
+        "count": 2
+      },
+      {
+        "word": "스스로",
+        "count": 2
+      },
+      {
+        "word": "더현대",
+        "count": 2
+      },
+      {
+        "word": "코스피는",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "최대",
+        "count": 2
+      },
+      {
+        "word": "군무원",
+        "count": 2
+      },
+      {
+        "word": "늦게",
+        "count": 1
+      },
+      {
+        "word": "음주",
+        "count": 1
+      },
+      {
+        "word": "자제",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "전쟁",
+        "count": 2
+      },
+      {
+        "word": "쿠르드족",
+        "count": 2
+      },
+      {
+        "word": "일본",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "먹고",
+        "count": 2
+      },
+      {
+        "word": "왕사남",
+        "count": 2
+      },
+      {
+        "word": "이재룡",
+        "count": 1
+      },
+      {
+        "word": "음주운전에",
+        "count": 1
+      },
+      {
+        "word": "최고",
+        "count": 1
+      }
+    ]
   }
 }
