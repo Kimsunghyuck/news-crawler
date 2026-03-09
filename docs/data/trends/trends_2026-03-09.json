@@ -1,219 +1,219 @@
 {
   "date": "2026-03-09",
-  "generated_at": "2026-03-09T15:25:27.732848+09:00",
+  "generated_at": "2026-03-09T19:25:33.239281+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 7
-    },
-    {
-      "word": "통과",
-      "count": 4
+      "count": 15
     },
     {
       "word": "남자",
-      "count": 4
+      "count": 8
     },
     {
       "word": "국힘",
-      "count": 3
-    },
-    {
-      "word": "대미투자특별법",
-      "count": 3
-    },
-    {
-      "word": "국회",
-      "count": 3
-    },
-    {
-      "word": "본회의",
-      "count": 3
-    },
-    {
-      "word": "코스피",
-      "count": 3
-    },
-    {
-      "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "이재룡",
-      "count": 3
-    },
-    {
-      "word": "음주운전",
-      "count": 3
+      "count": 7
     },
     {
       "word": "논란",
-      "count": 3
+      "count": 7
+    },
+    {
+      "word": "석유",
+      "count": 5
+    },
+    {
+      "word": "통과",
+      "count": 5
+    },
+    {
+      "word": "코스피",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "이재룡",
+      "count": 5
     },
     {
       "word": "트럼프",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 5
     },
     {
       "word": "엄마가",
-      "count": 2
+      "count": 4
     },
     {
       "word": "아들",
-      "count": 2
+      "count": 4
     },
     {
       "word": "다루듯",
-      "count": 2
+      "count": 4
     },
     {
       "word": "김건희",
-      "count": 2
+      "count": 4
     },
     {
       "word": "만난",
-      "count": 2
+      "count": 4
     },
     {
       "word": "행정관의",
-      "count": 2
+      "count": 4
     },
     {
       "word": "탄식",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "최고가격제",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "국힘",
+        "count": 7
+      },
+      {
         "word": "통과",
+        "count": 5
+      },
+      {
+        "word": "엄마가",
         "count": 4
       },
       {
-        "word": "국힘",
-        "count": 3
+        "word": "아들",
+        "count": 4
       },
       {
-        "word": "대미투자특별법",
-        "count": 3
-      },
-      {
-        "word": "국회",
-        "count": 3
-      },
-      {
-        "word": "본회의",
-        "count": 3
+        "word": "다루듯",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 3
-      },
-      {
-        "word": "전영오픈",
-        "count": 2
-      },
-      {
-        "word": "연패",
-        "count": 2
+        "count": 6
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "전영오픈",
+        "count": 4
+      },
+      {
+        "word": "연패",
+        "count": 4
       },
       {
         "word": "최가온",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "코스피",
-        "count": 3
+        "count": 5
       },
       {
         "word": "폭락",
-        "count": 2
+        "count": 3
       },
       {
         "word": "발동",
-        "count": 2
+        "count": 3
       },
       {
         "word": "침착맨도",
-        "count": 1
+        "count": 2
       },
       {
         "word": "삼전",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "김소영",
+        "count": 4
+      },
+      {
+        "word": "모텔",
+        "count": 4
+      },
+      {
+        "word": "피의자",
+        "count": 4
+      },
+      {
+        "word": "신상공개",
+        "count": 4
+      },
+      {
         "word": "이재룡",
-        "count": 2
-      },
-      {
-        "word": "음주운전",
-        "count": 2
-      },
-      {
-        "word": "불편",
-        "count": 2
-      },
-      {
-        "word": "불허",
-        "count": 2
-      },
-      {
-        "word": "사우나서",
-        "count": 1
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 5
+        "count": 11
       },
       {
         "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "공습",
         "count": 3
       },
       {
-        "word": "유가",
-        "count": 2
+        "word": "논란",
+        "count": 3
       },
       {
-        "word": "평화",
-        "count": 2
-      },
-      {
-        "word": "작은",
-        "count": 2
+        "word": "이스라엘",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "만에",
-        "count": 2
+        "count": 3
       },
       {
         "word": "돌아온",
-        "count": 2
+        "count": 3
       },
       {
         "word": "이재룡",
-        "count": 1
+        "count": 2
       },
       {
         "word": "음주운전에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "최고",
-        "count": 1
+        "count": 2
       }
     ]
   }
