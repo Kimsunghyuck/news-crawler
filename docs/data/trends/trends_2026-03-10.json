@@ -1,13 +1,220 @@
 {
   "date": "2026-03-10",
-  "generated_at": "2026-03-10T09:35:09.566483+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-10T15:16:19.309188+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 9
+    },
+    {
+      "word": "전쟁",
+      "count": 7
+    },
+    {
+      "word": "중동",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "드론",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "투자",
+      "count": 3
+    },
+    {
+      "word": "혐의",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "절윤",
+      "count": 2
+    },
+    {
+      "word": "달러",
+      "count": 2
+    },
+    {
+      "word": "밝힌",
+      "count": 2
+    },
+    {
+      "word": "의견",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "아닌",
+      "count": 2
+    },
+    {
+      "word": "청년",
+      "count": 2
+    },
+    {
+      "word": "확대",
+      "count": 2
+    },
+    {
+      "word": "일부",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "장동혁",
+        "count": 3
+      },
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "절윤",
+        "count": 2
+      },
+      {
+        "word": "드론",
+        "count": 2
+      },
+      {
+        "word": "정부",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "호주",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "중국에",
+        "count": 2
+      },
+      {
+        "word": "올림픽",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "혐의",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "가격",
+        "count": 2
+      },
+      {
+        "word": "전쟁",
+        "count": 2
+      },
+      {
+        "word": "국민",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "사람",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      },
+      {
+        "word": "서울대",
+        "count": 1
+      },
+      {
+        "word": "보낼",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "전쟁",
+        "count": 5
+      },
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "중동",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "아이돌",
+        "count": 2
+      },
+      {
+        "word": "납석",
+        "count": 1
+      },
+      {
+        "word": "항아리",
+        "count": 1
+      },
+      {
+        "word": "조사해보니",
+        "count": 1
+      },
+      {
+        "word": "활석",
+        "count": 1
+      }
+    ]
   }
 }
