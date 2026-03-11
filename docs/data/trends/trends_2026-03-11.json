@@ -1,219 +1,219 @@
 {
   "date": "2026-03-11",
-  "generated_at": "2026-03-11T15:19:56.006542+09:00",
+  "generated_at": "2026-03-11T19:20:49.903412+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 4
+      "count": 9
     },
     {
       "word": "트럼프",
-      "count": 4
+      "count": 8
     },
     {
       "word": "공소취소",
-      "count": 3
-    },
-    {
-      "word": "사태",
-      "count": 3
-    },
-    {
-      "word": "대통령",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "감독",
-      "count": 3
+      "count": 6
     },
     {
       "word": "정부",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "사고",
+      "count": 5
+    },
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "정청래",
+      "count": 4
     },
     {
       "word": "머리",
-      "count": 2
+      "count": 4
     },
     {
       "word": "가발",
-      "count": 2
+      "count": 4
     },
     {
       "word": "같죠",
-      "count": 2
+      "count": 4
     },
     {
       "word": "당겨봐요",
-      "count": 2
+      "count": 4
     },
     {
       "word": "빵터뜨린",
-      "count": 2
+      "count": 4
     },
     {
       "word": "호탕",
-      "count": 2
+      "count": 4
     },
     {
       "word": "김건희",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "얼굴",
-      "count": 2
+      "word": "시대",
+      "count": 4
     },
     {
       "word": "거래설",
-      "count": 2
+      "count": 4
     },
     {
       "word": "마지막",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "방한한",
-      "count": 2
+      "word": "사태",
+      "count": 4
     },
     {
-      "word": "가나",
-      "count": 2
+      "word": "만에",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "공소취소",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "정청래",
+        "count": 4
       },
       {
         "word": "머리",
-        "count": 2
+        "count": 4
       },
       {
         "word": "가발",
-        "count": 2
+        "count": 4
       },
       {
         "word": "같죠",
-        "count": 2
-      },
-      {
-        "word": "당겨봐요",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
+        "word": "남자",
+        "count": 4
+      },
+      {
         "word": "감독",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "체코",
-        "count": 2
-      },
-      {
-        "word": "기립박수",
-        "count": 2
+        "word": "이탈리아에",
+        "count": 3
       },
       {
         "word": "경우의",
-        "count": 2
+        "count": 3
       },
       {
         "word": "손흥민",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "오류",
+        "count": 3
+      },
+      {
         "word": "금감원",
-        "count": 2
+        "count": 3
       },
       {
         "word": "최태원",
-        "count": 2
+        "count": 3
       },
       {
         "word": "사태",
-        "count": 2
-      },
-      {
-        "word": "성장",
-        "count": 2
+        "count": 3
       },
       {
         "word": "하루",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "주민",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "한국인",
-        "count": 2
+        "word": "마지막",
+        "count": 3
       },
       {
         "word": "오늘의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "운세",
-        "count": 1
+        "count": 2
       },
       {
         "word": "탈출하고",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 3
+        "count": 7
       },
       {
         "word": "트럼프",
+        "count": 6
+      },
+      {
+        "word": "지옥",
         "count": 3
       },
       {
-        "word": "잘만하면",
-        "count": 1
+        "word": "같았다",
+        "count": 3
       },
       {
-        "word": "받는다",
-        "count": 1
-      },
-      {
-        "word": "휩쓴",
-        "count": 1
+        "word": "테헤란",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "도록",
-        "count": 2
+        "count": 3
       },
       {
         "word": "기부금으로",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "봄의",
-        "count": 2
+        "word": "만원",
+        "count": 3
       },
       {
         "word": "천만영화",
-        "count": 1
+        "count": 2
       },
       {
         "word": "왕사남",
-        "count": 1
+        "count": 2
       }
     ]
   }
