@@ -1,219 +1,219 @@
 {
   "date": "2026-03-12",
-  "generated_at": "2026-03-12T15:19:36.257674+09:00",
+  "generated_at": "2026-03-12T19:22:13.909584+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 5
+      "count": 13
     },
     {
       "word": "한국",
-      "count": 4
-    },
-    {
-      "word": "머리",
-      "count": 2
-    },
-    {
-      "word": "가발",
-      "count": 2
-    },
-    {
-      "word": "같죠",
-      "count": 2
-    },
-    {
-      "word": "당겨봐요",
-      "count": 2
-    },
-    {
-      "word": "빵터뜨린",
-      "count": 2
-    },
-    {
-      "word": "호탕",
-      "count": 2
-    },
-    {
-      "word": "김건희",
-      "count": 2
-    },
-    {
-      "word": "공소취소",
-      "count": 2
-    },
-    {
-      "word": "거래설",
-      "count": 2
-    },
-    {
-      "word": "나왔다",
-      "count": 2
-    },
-    {
-      "word": "노리는",
-      "count": 2
-    },
-    {
-      "word": "정청래",
-      "count": 2
+      "count": 7
     },
     {
       "word": "대통령",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "직접",
-      "count": 2
+      "word": "머리",
+      "count": 4
     },
     {
-      "word": "신청",
-      "count": 2
+      "word": "가발",
+      "count": 4
+    },
+    {
+      "word": "같죠",
+      "count": 4
+    },
+    {
+      "word": "당겨봐요",
+      "count": 4
+    },
+    {
+      "word": "빵터뜨린",
+      "count": 4
+    },
+    {
+      "word": "호탕",
+      "count": 4
+    },
+    {
+      "word": "김건희",
+      "count": 4
+    },
+    {
+      "word": "공소취소",
+      "count": 4
+    },
+    {
+      "word": "거래설",
+      "count": 4
+    },
+    {
+      "word": "나왔다",
+      "count": 4
+    },
+    {
+      "word": "등록",
+      "count": 4
+    },
+    {
+      "word": "추진",
+      "count": 4
     },
     {
       "word": "가지",
-      "count": 2
+      "count": 4
     },
     {
       "word": "결국",
-      "count": 2
+      "count": 4
     },
     {
       "word": "달러",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "여성",
+      "count": 4
+    },
+    {
+      "word": "코드",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "머리",
-        "count": 2
+        "count": 4
       },
       {
         "word": "가발",
-        "count": 2
+        "count": 4
       },
       {
         "word": "같죠",
-        "count": 2
+        "count": 4
       },
       {
         "word": "당겨봐요",
-        "count": 2
+        "count": 4
       },
       {
         "word": "빵터뜨린",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "한국",
-        "count": 3
+        "count": 6
       },
       {
-        "word": "에스프레소",
-        "count": 2
+        "word": "강행",
+        "count": 4
       },
       {
         "word": "홈런",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이탈리아",
-        "count": 2
+        "word": "남자",
+        "count": 4
       },
       {
-        "word": "패배",
-        "count": 2
+        "word": "에스프레소",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "가지",
-        "count": 2
+        "count": 4
       },
       {
         "word": "달러",
-        "count": 2
-      },
-      {
-        "word": "캐나다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "코드",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "캐나다",
+        "count": 3
       },
       {
         "word": "맞고",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "주민",
-        "count": 2
+        "count": 4
       },
       {
         "word": "모텔",
-        "count": 2
+        "count": 3
       },
       {
         "word": "살인",
-        "count": 2
+        "count": 3
       },
       {
         "word": "양문석",
-        "count": 2
+        "count": 3
       },
       {
         "word": "배용준",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 4
+        "count": 11
       },
       {
         "word": "사진",
+        "count": 3
+      },
+      {
+        "word": "전투기",
         "count": 2
       },
       {
-        "word": "화산",
+        "word": "최소",
         "count": 2
       },
       {
-        "word": "용암",
-        "count": 2
-      },
-      {
-        "word": "치솟아",
+        "word": "박살",
         "count": 2
       }
     ],
     "culture": [
       {
         "word": "딩동",
-        "count": 2
-      },
-      {
-        "word": "인기",
-        "count": 2
+        "count": 3
       },
       {
         "word": "왕사남",
-        "count": 1
+        "count": 2
       },
       {
         "word": "기획안",
-        "count": 1
+        "count": 2
       },
       {
         "word": "들고",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "퇴사",
+        "count": 2
       }
     ]
   }
