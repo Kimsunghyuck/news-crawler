@@ -1,219 +1,219 @@
 {
   "date": "2026-03-13",
-  "generated_at": "2026-03-13T15:19:39.208904+09:00",
+  "generated_at": "2026-03-13T19:19:42.995728+09:00",
   "daily_top_keywords": [
     {
+      "word": "이란",
+      "count": 10
+    },
+    {
       "word": "서울",
-      "count": 5
+      "count": 8
     },
     {
       "word": "오세훈",
-      "count": 4
-    },
-    {
-      "word": "이정현",
-      "count": 4
-    },
-    {
-      "word": "한국",
-      "count": 4
-    },
-    {
-      "word": "국힘",
-      "count": 3
-    },
-    {
-      "word": "공관위원장",
-      "count": 3
-    },
-    {
-      "word": "혁신",
-      "count": 3
-    },
-    {
-      "word": "추진",
-      "count": 3
-    },
-    {
-      "word": "없어",
-      "count": 3
-    },
-    {
-      "word": "만원",
-      "count": 3
+      "count": 7
     },
     {
       "word": "트럼프",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "이란",
-      "count": 3
-    },
-    {
-      "word": "도미니카와",
-      "count": 3
-    },
-    {
-      "word": "공정이",
-      "count": 2
+      "word": "한국",
+      "count": 6
     },
     {
       "word": "생명",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "이정현",
+      "count": 5
+    },
+    {
+      "word": "김어준",
+      "count": 5
+    },
+    {
+      "word": "없어",
+      "count": 5
+    },
+    {
+      "word": "전쟁",
+      "count": 5
+    },
+    {
+      "word": "도미니카와",
+      "count": 5
+    },
+    {
+      "word": "강전",
+      "count": 5
+    },
+    {
+      "word": "공정이",
+      "count": 4
     },
     {
       "word": "드론에",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "사퇴",
-      "count": 2
+      "word": "혁신",
+      "count": 4
     },
     {
-      "word": "어렵다",
-      "count": 2
+      "word": "추진",
+      "count": 4
     },
     {
-      "word": "판단",
-      "count": 2
+      "word": "오늘부터",
+      "count": 4
     },
     {
-      "word": "한동훈",
-      "count": 2
+      "word": "석유",
+      "count": 4
+    },
+    {
+      "word": "최고가격제",
+      "count": 4
+    },
+    {
+      "word": "매출",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "오세훈",
+        "count": 7
+      },
+      {
+        "word": "공정이",
+        "count": 4
+      },
+      {
+        "word": "생명",
         "count": 4
       },
       {
         "word": "이정현",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "국힘",
-        "count": 3
-      },
-      {
-        "word": "공관위원장",
-        "count": 3
-      },
-      {
-        "word": "혁신",
-        "count": 3
+        "word": "김어준",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "도미니카와",
-        "count": 3
-      },
-      {
-        "word": "한국",
-        "count": 3
-      },
-      {
-        "word": "류현진",
-        "count": 2
+        "count": 5
       },
       {
         "word": "강전",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "산체스와",
-        "count": 2
+        "word": "류현진",
+        "count": 4
+      },
+      {
+        "word": "한국",
+        "count": 4
+      },
+      {
+        "word": "남자",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "매출",
-        "count": 2
+        "count": 4
       },
       {
         "word": "서울",
-        "count": 2
+        "count": 3
       },
       {
         "word": "은행",
-        "count": 2
+        "count": 3
       },
       {
         "word": "전쟁보다",
-        "count": 1
+        "count": 2
       },
       {
         "word": "위험한",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "사망",
-        "count": 2
-      },
-      {
-        "word": "만원",
-        "count": 2
-      },
-      {
-        "word": "서울",
-        "count": 2
+        "word": "숨진",
+        "count": 3
       },
       {
         "word": "오늘의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "운세",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "동방예의지국",
+        "count": 2
+      },
+      {
+        "word": "예의",
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "트럼프",
-        "count": 3
-      },
-      {
         "word": "이란",
-        "count": 3
+        "count": 9
       },
       {
-        "word": "공격",
-        "count": 2
+        "word": "트럼프",
+        "count": 6
+      },
+      {
+        "word": "전쟁",
+        "count": 5
+      },
+      {
+        "word": "호르무즈",
+        "count": 3
       },
       {
         "word": "우린",
-        "count": 1
-      },
-      {
-        "word": "베네수처럼",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "케데헌",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "광고",
+        "count": 3
       },
       {
         "word": "왕사남",
-        "count": 1
+        "count": 2
       },
       {
         "word": "기획안",
-        "count": 1
+        "count": 2
       },
       {
         "word": "들고",
-        "count": 1
-      },
-      {
-        "word": "퇴사",
-        "count": 1
+        "count": 2
       }
     ]
   }
