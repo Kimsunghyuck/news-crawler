@@ -1,13 +1,220 @@
 {
   "date": "2026-03-13",
-  "generated_at": "2026-03-13T09:40:09.689892+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-13T15:19:39.208904+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "서울",
+      "count": 5
+    },
+    {
+      "word": "오세훈",
+      "count": 4
+    },
+    {
+      "word": "이정현",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "공관위원장",
+      "count": 3
+    },
+    {
+      "word": "혁신",
+      "count": 3
+    },
+    {
+      "word": "추진",
+      "count": 3
+    },
+    {
+      "word": "없어",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "도미니카와",
+      "count": 3
+    },
+    {
+      "word": "공정이",
+      "count": 2
+    },
+    {
+      "word": "생명",
+      "count": 2
+    },
+    {
+      "word": "드론에",
+      "count": 2
+    },
+    {
+      "word": "사퇴",
+      "count": 2
+    },
+    {
+      "word": "어렵다",
+      "count": 2
+    },
+    {
+      "word": "판단",
+      "count": 2
+    },
+    {
+      "word": "한동훈",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "오세훈",
+        "count": 4
+      },
+      {
+        "word": "이정현",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 3
+      },
+      {
+        "word": "공관위원장",
+        "count": 3
+      },
+      {
+        "word": "혁신",
+        "count": 3
+      }
+    ],
+    "sports": [
+      {
+        "word": "도미니카와",
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "류현진",
+        "count": 2
+      },
+      {
+        "word": "강전",
+        "count": 2
+      },
+      {
+        "word": "산체스와",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "매출",
+        "count": 2
+      },
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "은행",
+        "count": 2
+      },
+      {
+        "word": "전쟁보다",
+        "count": 1
+      },
+      {
+        "word": "위험한",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "공격",
+        "count": 2
+      },
+      {
+        "word": "우린",
+        "count": 1
+      },
+      {
+        "word": "베네수처럼",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "케데헌",
+        "count": 2
+      },
+      {
+        "word": "왕사남",
+        "count": 1
+      },
+      {
+        "word": "기획안",
+        "count": 1
+      },
+      {
+        "word": "들고",
+        "count": 1
+      },
+      {
+        "word": "퇴사",
+        "count": 1
+      }
+    ]
   }
 }
