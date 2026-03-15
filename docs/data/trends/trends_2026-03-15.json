@@ -1,13 +1,220 @@
 {
   "date": "2026-03-15",
-  "generated_at": "2026-03-15T09:47:10.538977+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-15T15:23:53.378932+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "군함",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "공천",
+      "count": 3
+    },
+    {
+      "word": "이정현",
+      "count": 3
+    },
+    {
+      "word": "복귀",
+      "count": 3
+    },
+    {
+      "word": "압박",
+      "count": 3
+    },
+    {
+      "word": "이유",
+      "count": 3
+    },
+    {
+      "word": "호르무즈",
+      "count": 3
+    },
+    {
+      "word": "탈락",
+      "count": 3
+    },
+    {
+      "word": "손흥민",
+      "count": 3
+    },
+    {
+      "word": "꺾고",
+      "count": 3
+    },
+    {
+      "word": "된다",
+      "count": 2
+    },
+    {
+      "word": "무기",
+      "count": 2
+    },
+    {
+      "word": "캄보디아",
+      "count": 2
+    },
+    {
+      "word": "소년",
+      "count": 2
+    },
+    {
+      "word": "안은",
+      "count": 2
+    },
+    {
+      "word": "김건희",
+      "count": 2
+    },
+    {
+      "word": "햅번",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "공천",
+        "count": 3
+      },
+      {
+        "word": "이정현",
+        "count": 3
+      },
+      {
+        "word": "캄보디아",
+        "count": 2
+      },
+      {
+        "word": "소년",
+        "count": 2
+      },
+      {
+        "word": "안은",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "탈락",
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "손흥민",
+        "count": 3
+      },
+      {
+        "word": "꺾고",
+        "count": 3
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "유가",
+        "count": 2
+      },
+      {
+        "word": "건설",
+        "count": 2
+      },
+      {
+        "word": "현대차",
+        "count": 1
+      },
+      {
+        "word": "팰리세이드",
+        "count": 1
+      },
+      {
+        "word": "서도",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "지금",
+        "count": 1
+      },
+      {
+        "word": "아니면",
+        "count": 1
+      },
+      {
+        "word": "기다려야한다",
+        "count": 1
+      },
+      {
+        "word": "원의",
+        "count": 1
+      },
+      {
+        "word": "눈호강",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "군함",
+        "count": 3
+      },
+      {
+        "word": "보내라",
+        "count": 2
+      },
+      {
+        "word": "호르무즈",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "흥행",
+        "count": 2
+      },
+      {
+        "word": "왕사남",
+        "count": 2
+      },
+      {
+        "word": "무대",
+        "count": 2
+      },
+      {
+        "word": "변요한",
+        "count": 1
+      },
+      {
+        "word": "만날까",
+        "count": 1
+      }
+    ]
   }
 }
