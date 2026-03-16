@@ -1,13 +1,37 @@
 {
   "date": "2026-03-16",
-  "generated_at": "2026-03-16T15:35:22.187993+09:00",
+  "generated_at": "2026-03-16T19:31:42.751338+09:00",
   "daily_top_keywords": [
     {
       "word": "케데헌",
-      "count": 5
+      "count": 9
+    },
+    {
+      "word": "이란",
+      "count": 9
     },
     {
       "word": "국힘",
+      "count": 6
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "수상소감",
+      "count": 5
+    },
+    {
+      "word": "김건희",
+      "count": 4
+    },
+    {
+      "word": "시대",
+      "count": 4
+    },
+    {
+      "word": "공관위",
       "count": 4
     },
     {
@@ -15,78 +39,62 @@
       "count": 4
     },
     {
-      "word": "이란",
+      "word": "컷오프",
       "count": 4
     },
     {
-      "word": "공관위",
-      "count": 3
-    },
-    {
-      "word": "컷오프",
-      "count": 3
-    },
-    {
-      "word": "수상소감",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "손흥민",
-      "count": 3
-    },
-    {
-      "word": "김건희",
-      "count": 2
-    },
-    {
-      "word": "시대",
-      "count": 2
-    },
-    {
-      "word": "충북지사",
-      "count": 2
-    },
-    {
-      "word": "추가",
-      "count": 2
-    },
-    {
-      "word": "포기",
-      "count": 2
-    },
-    {
-      "word": "말라",
-      "count": 2
-    },
-    {
-      "word": "현역",
-      "count": 2
-    },
-    {
-      "word": "의혹",
-      "count": 2
-    },
-    {
       "word": "반발",
-      "count": 2
+      "count": 4
     },
     {
       "word": "한국",
-      "count": 2
+      "count": 4
     },
     {
       "word": "하루",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "개월",
+      "count": 4
+    },
+    {
+      "word": "진출",
+      "count": 4
+    },
+    {
+      "word": "관왕",
+      "count": 4
+    },
+    {
+      "word": "야구",
+      "count": 4
+    },
+    {
+      "word": "아카데미",
+      "count": 4
+    },
+    {
+      "word": "중단",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
+        "count": 6
+      },
+      {
+        "word": "김건희",
+        "count": 4
+      },
+      {
+        "word": "공관위",
         "count": 4
       },
       {
@@ -94,126 +102,118 @@
         "count": 4
       },
       {
-        "word": "공관위",
-        "count": 3
-      },
-      {
         "word": "컷오프",
-        "count": 3
-      },
-      {
-        "word": "김건희",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "손흥민",
-        "count": 3
+        "count": 4
       },
       {
         "word": "매치",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이강인",
-        "count": 2
+        "word": "홍명보호",
+        "count": 4
       },
       {
-        "word": "김민재",
-        "count": 2
+        "word": "도미니카",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "리콜",
-        "count": 1
+        "word": "효과",
+        "count": 3
       },
       {
-        "word": "비용만",
-        "count": 1
-      },
-      {
-        "word": "사망사고",
-        "count": 1
+        "word": "개월",
+        "count": 3
       },
       {
         "word": "팰리세이드",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "판매중단",
-        "count": 1
+        "word": "버핏",
+        "count": 2
+      },
+      {
+        "word": "듣지",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "서울시",
-        "count": 2
+        "word": "못해",
+        "count": 3
       },
       {
         "word": "오늘의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "운세",
-        "count": 1
+        "count": 2
       },
       {
         "word": "생태계",
-        "count": 1
+        "count": 2
       },
       {
         "word": "교란종",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 4
+        "count": 9
       },
       {
         "word": "트럼프",
-        "count": 3
+        "count": 4
       },
       {
         "word": "호르무즈",
-        "count": 2
+        "count": 4
       },
       {
         "word": "전쟁에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "막대한",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "케데헌",
+        "count": 7
+      },
+      {
+        "word": "아카데미",
         "count": 4
       },
       {
         "word": "왕사남",
-        "count": 2
+        "count": 3
       },
       {
         "word": "오스카",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "아카데미",
-        "count": 2
-      },
-      {
-        "word": "수상소감",
-        "count": 2
+        "word": "오디션",
+        "count": 3
       }
     ]
   }
