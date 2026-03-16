@@ -1,13 +1,220 @@
 {
   "date": "2026-03-16",
-  "generated_at": "2026-03-16T09:46:54.274722+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-16T15:35:22.187993+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "케데헌",
+      "count": 5
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "김영환",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "공관위",
+      "count": 3
+    },
+    {
+      "word": "컷오프",
+      "count": 3
+    },
+    {
+      "word": "수상소감",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "손흥민",
+      "count": 3
+    },
+    {
+      "word": "김건희",
+      "count": 2
+    },
+    {
+      "word": "시대",
+      "count": 2
+    },
+    {
+      "word": "충북지사",
+      "count": 2
+    },
+    {
+      "word": "추가",
+      "count": 2
+    },
+    {
+      "word": "포기",
+      "count": 2
+    },
+    {
+      "word": "말라",
+      "count": 2
+    },
+    {
+      "word": "현역",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "반발",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "하루",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 4
+      },
+      {
+        "word": "김영환",
+        "count": 4
+      },
+      {
+        "word": "공관위",
+        "count": 3
+      },
+      {
+        "word": "컷오프",
+        "count": 3
+      },
+      {
+        "word": "김건희",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "손흥민",
+        "count": 3
+      },
+      {
+        "word": "매치",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "이강인",
+        "count": 2
+      },
+      {
+        "word": "김민재",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "리콜",
+        "count": 1
+      },
+      {
+        "word": "비용만",
+        "count": 1
+      },
+      {
+        "word": "사망사고",
+        "count": 1
+      },
+      {
+        "word": "팰리세이드",
+        "count": 1
+      },
+      {
+        "word": "판매중단",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "서울시",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      },
+      {
+        "word": "생태계",
+        "count": 1
+      },
+      {
+        "word": "교란종",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "호르무즈",
+        "count": 2
+      },
+      {
+        "word": "전쟁에",
+        "count": 1
+      },
+      {
+        "word": "막대한",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "케데헌",
+        "count": 4
+      },
+      {
+        "word": "왕사남",
+        "count": 2
+      },
+      {
+        "word": "오스카",
+        "count": 2
+      },
+      {
+        "word": "아카데미",
+        "count": 2
+      },
+      {
+        "word": "수상소감",
+        "count": 2
+      }
+    ]
   }
 }
