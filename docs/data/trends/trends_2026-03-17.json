@@ -1,13 +1,220 @@
 {
   "date": "2026-03-17",
-  "generated_at": "2026-03-17T09:40:15.993540+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-17T15:32:51.813014+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "서울시장",
+      "count": 5
+    },
+    {
+      "word": "오세훈",
+      "count": 4
+    },
+    {
+      "word": "후보",
+      "count": 3
+    },
+    {
+      "word": "등록",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "의혹",
+      "count": 3
+    },
+    {
+      "word": "로봇",
+      "count": 2
+    },
+    {
+      "word": "한복",
+      "count": 2
+    },
+    {
+      "word": "입고",
+      "count": 2
+    },
+    {
+      "word": "투표",
+      "count": 2
+    },
+    {
+      "word": "공모",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "박수민",
+      "count": 2
+    },
+    {
+      "word": "깜짝",
+      "count": 2
+    },
+    {
+      "word": "경찰",
+      "count": 2
+    },
+    {
+      "word": "최전방",
+      "count": 2
+    },
+    {
+      "word": "사령관의",
+      "count": 2
+    },
+    {
+      "word": "마음",
+      "count": 2
+    },
+    {
+      "word": "한국인",
+      "count": 2
+    },
+    {
+      "word": "여성",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "서울시장",
+        "count": 5
+      },
+      {
+        "word": "오세훈",
+        "count": 4
+      },
+      {
+        "word": "후보",
+        "count": 3
+      },
+      {
+        "word": "등록",
+        "count": 3
+      },
+      {
+        "word": "로봇",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "격려",
+        "count": 2
+      },
+      {
+        "word": "받은",
+        "count": 2
+      },
+      {
+        "word": "노경은",
+        "count": 2
+      },
+      {
+        "word": "가문의",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "계약",
+        "count": 2
+      },
+      {
+        "word": "부담",
+        "count": 2
+      },
+      {
+        "word": "배터리",
+        "count": 1
+      },
+      {
+        "word": "업계",
+        "count": 1
+      },
+      {
+        "word": "조단위",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "의혹",
+        "count": 3
+      },
+      {
+        "word": "양평고속",
+        "count": 2
+      },
+      {
+        "word": "원희룡",
+        "count": 2
+      },
+      {
+        "word": "출국금지",
+        "count": 2
+      },
+      {
+        "word": "차특검",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "뱅크시",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "개전",
+        "count": 1
+      },
+      {
+        "word": "가장",
+        "count": 1
+      },
+      {
+        "word": "공격에도",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "아카데미",
+        "count": 2
+      },
+      {
+        "word": "이재",
+        "count": 2
+      },
+      {
+        "word": "빛낸",
+        "count": 1
+      },
+      {
+        "word": "드레스",
+        "count": 1
+      },
+      {
+        "word": "대한제국",
+        "count": 1
+      }
+    ]
   }
 }
