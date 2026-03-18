@@ -1,219 +1,219 @@
 {
   "date": "2026-03-18",
-  "generated_at": "2026-03-18T15:27:03.053399+09:00",
+  "generated_at": "2026-03-18T19:26:45.365129+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 4
+      "count": 9
     },
     {
       "word": "비밀",
-      "count": 3
-    },
-    {
-      "word": "정청래",
-      "count": 3
+      "count": 6
     },
     {
       "word": "남자",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "트럼프",
-      "count": 3
+      "word": "공연",
+      "count": 5
     },
     {
       "word": "배우",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "사건",
+      "count": 4
+    },
+    {
+      "word": "정청래",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "현장",
+      "count": 4
+    },
+    {
+      "word": "삼성전자",
+      "count": 4
+    },
+    {
+      "word": "대출",
+      "count": 4
+    },
+    {
+      "word": "글로벌",
+      "count": 4
+    },
+    {
+      "word": "논란",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "베네수엘라",
+      "count": 4
+    },
+    {
+      "word": "우승",
+      "count": 4
+    },
+    {
+      "word": "미성년",
+      "count": 4
+    },
+    {
+      "word": "키우는",
+      "count": 4
+    },
+    {
+      "word": "레전드",
+      "count": 4
     },
     {
       "word": "호르무즈",
-      "count": 3
-    },
-    {
-      "word": "안타",
-      "count": 3
-    },
-    {
-      "word": "원유",
-      "count": 2
-    },
-    {
-      "word": "최우선",
-      "count": 2
-    },
-    {
-      "word": "공급",
-      "count": 2
-    },
-    {
-      "word": "배럴",
-      "count": 2
-    },
-    {
-      "word": "투입",
-      "count": 2
-    },
-    {
-      "word": "의원직",
-      "count": 2
-    },
-    {
-      "word": "상실",
-      "count": 2
-    },
-    {
-      "word": "양문석",
-      "count": 2
-    },
-    {
-      "word": "재판소원",
-      "count": 2
-    },
-    {
-      "word": "경남",
-      "count": 2
-    },
-    {
-      "word": "숨은",
-      "count": 2
-    },
-    {
-      "word": "전쟁",
-      "count": 2
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "비밀",
+        "count": 4
+      },
+      {
         "word": "정청래",
+        "count": 4
+      },
+      {
+        "word": "수십명",
         "count": 3
       },
       {
-        "word": "비밀",
-        "count": 2
+        "word": "보는데",
+        "count": 3
       },
       {
-        "word": "원유",
-        "count": 2
-      },
-      {
-        "word": "최우선",
-        "count": 2
-      },
-      {
-        "word": "공급",
-        "count": 2
+        "word": "호출",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "안타",
+        "count": 4
+      },
+      {
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "강행",
         "count": 3
       },
       {
         "word": "시범경기",
-        "count": 2
-      },
-      {
-        "word": "남자",
-        "count": 2
+        "count": 3
       },
       {
         "word": "연속",
-        "count": 2
-      },
-      {
-        "word": "골프볼",
-        "count": 1
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "전쟁",
-        "count": 2
-      },
-      {
-        "word": "세계",
-        "count": 2
-      },
-      {
         "word": "현장",
-        "count": 2
+        "count": 4
       },
       {
         "word": "삼성전자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대출",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "전쟁",
+        "count": 3
+      },
+      {
+        "word": "세계",
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "배우",
+        "count": 3
+      },
+      {
+        "word": "이영애",
         "count": 2
       },
       {
-        "word": "이게",
+        "word": "미성년",
         "count": 2
       },
       {
-        "word": "사법부냐",
+        "word": "깜짝",
         "count": 2
       },
       {
-        "word": "김용현",
-        "count": 2
-      },
-      {
-        "word": "구속영장",
+        "word": "한양대",
         "count": 2
       }
     ],
     "international": [
       {
-        "word": "트럼프",
-        "count": 3
-      },
-      {
         "word": "이란",
-        "count": 3
+        "count": 7
       },
       {
-        "word": "호르무즈",
-        "count": 3
-      },
-      {
-        "word": "유럽에",
-        "count": 2
+        "word": "트럼프",
+        "count": 4
       },
       {
         "word": "키우는",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "레전드",
+        "count": 4
+      },
+      {
+        "word": "호르무즈",
+        "count": 4
       }
     ],
     "culture": [
       {
-        "word": "케데헌",
-        "count": 2
+        "word": "공연",
+        "count": 3
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
       },
       {
         "word": "만날까",
-        "count": 1
+        "count": 2
       },
       {
         "word": "걱정",
-        "count": 1
+        "count": 2
       },
       {
         "word": "유부녀",
-        "count": 1
+        "count": 2
       }
     ]
   }
