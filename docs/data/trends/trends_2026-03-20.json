@@ -1,218 +1,218 @@
 {
   "date": "2026-03-20",
-  "generated_at": "2026-03-20T15:19:57.826481+09:00",
+  "generated_at": "2026-03-20T19:19:42.045610+09:00",
   "daily_top_keywords": [
     {
-      "word": "경찰",
-      "count": 5
+      "word": "이란",
+      "count": 10
     },
     {
       "word": "의혹",
+      "count": 6
+    },
+    {
+      "word": "경찰",
+      "count": 6
+    },
+    {
+      "word": "부상",
+      "count": 6
+    },
+    {
+      "word": "트럼프",
+      "count": 6
+    },
+    {
+      "word": "호르무즈",
+      "count": 5
+    },
+    {
+      "word": "놀란",
+      "count": 5
+    },
+    {
+      "word": "컴백",
+      "count": 5
+    },
+    {
+      "word": "다카이치",
+      "count": 5
+    },
+    {
+      "word": "대전",
+      "count": 5
+    },
+    {
+      "word": "터진다",
       "count": 4
     },
     {
-      "word": "이란",
+      "word": "대통령",
       "count": 4
     },
     {
       "word": "서울",
-      "count": 3
-    },
-    {
-      "word": "놀란",
-      "count": 3
-    },
-    {
-      "word": "다카이치",
-      "count": 3
-    },
-    {
-      "word": "터진다",
-      "count": 2
-    },
-    {
-      "word": "국힘",
-      "count": 2
-    },
-    {
-      "word": "경북지사",
-      "count": 2
-    },
-    {
-      "word": "김재원",
-      "count": 2
-    },
-    {
-      "word": "이철우와",
-      "count": 2
-    },
-    {
-      "word": "본경선",
-      "count": 2
-    },
-    {
-      "word": "장경태",
-      "count": 2
-    },
-    {
-      "word": "탈당",
-      "count": 2
-    },
-    {
-      "word": "대통령",
-      "count": 2
+      "count": 4
     },
     {
       "word": "사업",
-      "count": 2
+      "count": 4
     },
     {
       "word": "재개",
-      "count": 2
+      "count": 4
     },
     {
       "word": "지시",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "없어",
-      "count": 2
+      "word": "장동혁",
+      "count": 4
     },
     {
-      "word": "김정은",
-      "count": 2
+      "word": "이혼",
+      "count": 4
+    },
+    {
+      "word": "막는",
+      "count": 4
+    },
+    {
+      "word": "순간",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "대통령",
+        "count": 4
+      },
+      {
         "word": "서울",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "국힘",
-        "count": 2
+        "word": "사업",
+        "count": 4
       },
       {
-        "word": "경북지사",
-        "count": 2
+        "word": "재개",
+        "count": 4
       },
       {
-        "word": "김재원",
-        "count": 2
-      },
-      {
-        "word": "이철우와",
-        "count": 2
+        "word": "지시",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "선두",
-        "count": 2
-      },
-      {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "배치기하다",
-        "count": 1
+        "count": 2
       },
       {
         "word": "디스크",
-        "count": 1
+        "count": 2
       },
       {
         "word": "터진다",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "지면반력",
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "이혼",
-        "count": 2
+        "count": 4
       },
       {
         "word": "현대차",
-        "count": 2
-      },
-      {
-        "word": "사장",
-        "count": 2
+        "count": 3
       },
       {
         "word": "출시",
-        "count": 2
+        "count": 3
       },
       {
         "word": "재산",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "절반되니",
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "대전",
+        "count": 4
+      },
+      {
+        "word": "화재",
+        "count": 4
+      },
       {
         "word": "경찰",
         "count": 4
       },
       {
-        "word": "대전",
-        "count": 2
+        "word": "부품",
+        "count": 3
       },
       {
-        "word": "매니저",
-        "count": 2
-      },
-      {
-        "word": "갑질",
-        "count": 2
-      },
-      {
-        "word": "의혹",
-        "count": 2
+        "word": "부상",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 4
-      },
-      {
-        "word": "다카이치",
-        "count": 3
+        "count": 9
       },
       {
         "word": "트럼프",
-        "count": 2
+        "count": 6
+      },
+      {
+        "word": "다카이치",
+        "count": 5
       },
       {
         "word": "순간",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "목에",
-        "count": 2
+        "word": "호르무즈",
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "놀란",
+        "count": 5
+      },
+      {
+        "word": "컴백",
+        "count": 5
+      },
+      {
+        "word": "얼굴",
         "count": 3
       },
       {
         "word": "왕사남",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "컴백",
-        "count": 2
-      },
-      {
-        "word": "스윔",
-        "count": 2
-      },
-      {
-        "word": "뮤비",
+        "word": "쎄하네",
         "count": 2
       }
     ]
