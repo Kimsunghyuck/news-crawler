@@ -1,219 +1,219 @@
 {
   "date": "2026-03-21",
-  "generated_at": "2026-03-21T15:15:53.712700+09:00",
+  "generated_at": "2026-03-21T19:11:01.860920+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 7
+      "count": 16
+    },
+    {
+      "word": "광화문",
+      "count": 11
     },
     {
       "word": "대전",
-      "count": 7
-    },
-    {
-      "word": "화재",
-      "count": 5
+      "count": 10
     },
     {
       "word": "만원",
-      "count": 4
+      "count": 8
     },
     {
-      "word": "트럼프",
-      "count": 4
+      "word": "화재",
+      "count": 7
     },
     {
-      "word": "검토",
-      "count": 4
-    },
-    {
-      "word": "공장",
-      "count": 3
-    },
-    {
-      "word": "장동혁",
-      "count": 2
-    },
-    {
-      "word": "국힘",
-      "count": 2
-    },
-    {
-      "word": "추가",
-      "count": 2
-    },
-    {
-      "word": "기득권",
-      "count": 2
+      "word": "통과",
+      "count": 6
     },
     {
       "word": "공연",
-      "count": 2
+      "count": 6
     },
     {
-      "word": "현장",
-      "count": 2
+      "word": "트럼프",
+      "count": 6
+    },
+    {
+      "word": "공장",
+      "count": 5
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "대표",
-      "count": 2
+      "word": "검토",
+      "count": 5
     },
     {
       "word": "이혼",
-      "count": 2
+      "count": 4
     },
     {
       "word": "얼마",
-      "count": 2
+      "count": 4
     },
     {
       "word": "아리랑",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "놀란",
-      "count": 2
+      "word": "컴백",
+      "count": 4
     },
     {
-      "word": "왕사남",
-      "count": 2
+      "word": "피해",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "연승",
+      "count": 4
+    },
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "호르무즈",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "통과",
+        "count": 4
+      },
+      {
         "word": "장동혁",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "국힘",
-        "count": 2
+        "word": "대통령",
+        "count": 3
       },
       {
-        "word": "김건희",
-        "count": 1
-      },
-      {
-        "word": "다짜고짜",
-        "count": 1
-      },
-      {
-        "word": "한동훈",
-        "count": 1
+        "word": "공천",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "웨일즈",
-        "count": 2
+        "word": "연승",
+        "count": 4
       },
       {
         "word": "골프볼",
-        "count": 1
+        "count": 2
       },
       {
         "word": "프로",
-        "count": 1
+        "count": 2
       },
       {
         "word": "작은",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "만에",
-        "count": 2
+        "count": 4
       },
       {
         "word": "이혼",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한때",
-        "count": 1
+        "count": 2
       },
       {
         "word": "만드는",
-        "count": 1
+        "count": 2
       },
       {
         "word": "대로",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "대전",
-        "count": 6
+        "count": 7
       },
       {
         "word": "화재",
-        "count": 5
+        "count": 6
       },
       {
         "word": "만원",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "있었다",
-        "count": 2
+        "word": "사망",
+        "count": 3
       },
       {
-        "word": "공장",
-        "count": 2
+        "word": "실종자",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 6
+        "count": 12
       },
       {
         "word": "트럼프",
-        "count": 4
+        "count": 6
       },
       {
         "word": "검토",
-        "count": 4
+        "count": 5
       },
       {
-        "word": "축소",
-        "count": 2
+        "word": "동안",
+        "count": 3
       },
       {
-        "word": "노리스",
-        "count": 2
+        "word": "피해",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "놀란",
-        "count": 2
+        "word": "광화문",
+        "count": 7
       },
       {
-        "word": "만원",
-        "count": 2
-      },
-      {
-        "word": "앨범",
-        "count": 1
-      },
-      {
-        "word": "트랙부터",
-        "count": 1
+        "word": "컴백",
+        "count": 4
       },
       {
         "word": "아리랑",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "놀란",
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 3
       }
     ]
   }
