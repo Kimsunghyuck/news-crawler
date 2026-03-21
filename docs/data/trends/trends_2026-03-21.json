@@ -1,13 +1,220 @@
 {
   "date": "2026-03-21",
-  "generated_at": "2026-03-21T09:39:55.631756+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-21T15:15:53.712700+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 7
+    },
+    {
+      "word": "대전",
+      "count": 7
+    },
+    {
+      "word": "화재",
+      "count": 5
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "검토",
+      "count": 4
+    },
+    {
+      "word": "공장",
+      "count": 3
+    },
+    {
+      "word": "장동혁",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "추가",
+      "count": 2
+    },
+    {
+      "word": "기득권",
+      "count": 2
+    },
+    {
+      "word": "공연",
+      "count": 2
+    },
+    {
+      "word": "현장",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "대표",
+      "count": 2
+    },
+    {
+      "word": "이혼",
+      "count": 2
+    },
+    {
+      "word": "얼마",
+      "count": 2
+    },
+    {
+      "word": "아리랑",
+      "count": 2
+    },
+    {
+      "word": "놀란",
+      "count": 2
+    },
+    {
+      "word": "왕사남",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "장동혁",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "김건희",
+        "count": 1
+      },
+      {
+        "word": "다짜고짜",
+        "count": 1
+      },
+      {
+        "word": "한동훈",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "웨일즈",
+        "count": 2
+      },
+      {
+        "word": "골프볼",
+        "count": 1
+      },
+      {
+        "word": "프로",
+        "count": 1
+      },
+      {
+        "word": "작은",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "이혼",
+        "count": 2
+      },
+      {
+        "word": "한때",
+        "count": 1
+      },
+      {
+        "word": "만드는",
+        "count": 1
+      },
+      {
+        "word": "대로",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "대전",
+        "count": 6
+      },
+      {
+        "word": "화재",
+        "count": 5
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "있었다",
+        "count": 2
+      },
+      {
+        "word": "공장",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 6
+      },
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "검토",
+        "count": 4
+      },
+      {
+        "word": "축소",
+        "count": 2
+      },
+      {
+        "word": "노리스",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "놀란",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "앨범",
+        "count": 1
+      },
+      {
+        "word": "트랙부터",
+        "count": 1
+      },
+      {
+        "word": "아리랑",
+        "count": 1
+      }
+    ]
   }
 }
