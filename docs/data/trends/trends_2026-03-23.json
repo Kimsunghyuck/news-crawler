@@ -1,13 +1,220 @@
 {
   "date": "2026-03-23",
-  "generated_at": "2026-03-23T09:44:11.170690+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-23T15:28:59.339734+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 5
+    },
+    {
+      "word": "충격",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "공연",
+      "count": 3
+    },
+    {
+      "word": "컴백",
+      "count": 3
+    },
+    {
+      "word": "투입",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "김효주",
+      "count": 3
+    },
+    {
+      "word": "호르무즈",
+      "count": 2
+    },
+    {
+      "word": "컷오프",
+      "count": 2
+    },
+    {
+      "word": "반발",
+      "count": 2
+    },
+    {
+      "word": "이정현",
+      "count": 2
+    },
+    {
+      "word": "아픈",
+      "count": 2
+    },
+    {
+      "word": "가야",
+      "count": 2
+    },
+    {
+      "word": "산다",
+      "count": 2
+    },
+    {
+      "word": "장동혁",
+      "count": 2
+    },
+    {
+      "word": "대구",
+      "count": 2
+    },
+    {
+      "word": "돌파",
+      "count": 2
+    },
+    {
+      "word": "출시",
+      "count": 2
+    },
+    {
+      "word": "이재용",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "컷오프",
+        "count": 2
+      },
+      {
+        "word": "이정현",
+        "count": 2
+      },
+      {
+        "word": "아픈",
+        "count": 2
+      },
+      {
+        "word": "가야",
+        "count": 2
+      },
+      {
+        "word": "산다",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "김효주",
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "파운더스컵",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "출시",
+        "count": 2
+      },
+      {
+        "word": "머스크",
+        "count": 1
+      },
+      {
+        "word": "반도체",
+        "count": 1
+      },
+      {
+        "word": "직접",
+        "count": 1
+      },
+      {
+        "word": "만든다",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "화재",
+        "count": 2
+      },
+      {
+        "word": "대전",
+        "count": 2
+      },
+      {
+        "word": "공장",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 5
+      },
+      {
+        "word": "정치인들",
+        "count": 2
+      },
+      {
+        "word": "공황",
+        "count": 2
+      },
+      {
+        "word": "상태",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "컴백",
+        "count": 3
+      },
+      {
+        "word": "공연",
+        "count": 2
+      },
+      {
+        "word": "아리랑",
+        "count": 2
+      },
+      {
+        "word": "왕사남",
+        "count": 2
+      },
+      {
+        "word": "이설의",
+        "count": 2
+      }
+    ]
   }
 }
