@@ -1,218 +1,218 @@
 {
   "date": "2026-03-24",
-  "generated_at": "2026-03-24T15:25:21.127989+09:00",
+  "generated_at": "2026-03-24T19:24:47.188509+09:00",
   "daily_top_keywords": [
     {
-      "word": "미사일",
-      "count": 4
-    },
-    {
       "word": "이란",
-      "count": 4
-    },
-    {
-      "word": "타격",
-      "count": 3
-    },
-    {
-      "word": "대구시장",
-      "count": 3
-    },
-    {
-      "word": "컷오프",
-      "count": 3
-    },
-    {
-      "word": "이진숙",
-      "count": 3
-    },
-    {
-      "word": "대통령",
-      "count": 3
-    },
-    {
-      "word": "내일부터",
-      "count": 3
-    },
-    {
-      "word": "부제",
-      "count": 3
-    },
-    {
-      "word": "만원",
-      "count": 3
+      "count": 8
     },
     {
       "word": "남자",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "아빠",
-      "count": 3
+      "word": "대구시장",
+      "count": 6
+    },
+    {
+      "word": "부제",
+      "count": 6
+    },
+    {
+      "word": "타격",
+      "count": 5
+    },
+    {
+      "word": "미사일",
+      "count": 5
+    },
+    {
+      "word": "컷오프",
+      "count": 5
+    },
+    {
+      "word": "이진숙",
+      "count": 5
+    },
+    {
+      "word": "아냐",
+      "count": 5
     },
     {
       "word": "대신",
-      "count": 2
+      "count": 4
     },
     {
       "word": "출마",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "신전떡볶이",
-      "count": 2
+      "word": "대통령",
+      "count": 4
     },
     {
-      "word": "공공기관",
-      "count": 2
-    },
-    {
-      "word": "국민",
-      "count": 2
+      "word": "내일부터",
+      "count": 4
     },
     {
       "word": "에너지",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "아껴",
-      "count": 2
+      "word": "차량",
+      "count": 4
     },
     {
-      "word": "써달라",
-      "count": 2
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "논란",
+      "count": 4
+    },
+    {
+      "word": "아빠",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "조짐",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대구시장",
-        "count": 3
+        "count": 6
       },
       {
         "word": "컷오프",
-        "count": 3
+        "count": 5
       },
       {
         "word": "이진숙",
-        "count": 3
-      },
-      {
-        "word": "대통령",
-        "count": 3
+        "count": 5
       },
       {
         "word": "출마",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "대통령",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이정후",
-        "count": 2
-      },
-      {
-        "word": "개막전",
-        "count": 2
+        "word": "회장",
+        "count": 3
       },
       {
         "word": "유도",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "세계선수권",
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "만원",
-        "count": 3
+        "count": 4
       },
       {
         "word": "체코",
-        "count": 1
+        "count": 2
       },
       {
         "word": "원전",
-        "count": 1
+        "count": 2
       },
       {
         "word": "첫삽도",
-        "count": 1
+        "count": 2
       },
       {
         "word": "뜨기전에",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "조짐",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "무슨",
-        "count": 2
-      },
-      {
-        "word": "일당",
-        "count": 2
-      },
-      {
-        "word": "징역",
-        "count": 2
+        "word": "아냐",
+        "count": 3
       },
       {
         "word": "전국노래자랑",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "발칵",
+        "count": 2
+      },
+      {
+        "word": "뒤집혔다",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
+        "count": 8
+      },
+      {
+        "word": "트럼프",
         "count": 4
+      },
+      {
+        "word": "이스라엘",
+        "count": 3
+      },
+      {
+        "word": "시간",
+        "count": 3
       },
       {
         "word": "미사일",
         "count": 3
-      },
-      {
-        "word": "이스라엘",
-        "count": 2
-      },
-      {
-        "word": "시간",
-        "count": 2
-      },
-      {
-        "word": "요격",
-        "count": 2
       }
     ],
     "culture": [
       {
         "word": "전시",
-        "count": 2
+        "count": 3
       },
       {
         "word": "배우",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "영화",
+        "count": 3
       },
       {
         "word": "왕사남",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "곽튜브",
-        "count": 2
-      },
-      {
-        "word": "아빠",
+        "word": "자식에",
         "count": 2
       }
     ]
