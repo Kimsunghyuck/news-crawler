@@ -1,13 +1,220 @@
 {
   "date": "2026-03-25",
-  "generated_at": "2026-03-25T09:41:18.955034+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-25T15:25:53.569510+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "통과",
+      "count": 3
+    },
+    {
+      "word": "자주국방",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "김부겸",
+      "count": 2
+    },
+    {
+      "word": "쇼크",
+      "count": 2
+    },
+    {
+      "word": "앞두고",
+      "count": 2
+    },
+    {
+      "word": "식사",
+      "count": 2
+    },
+    {
+      "word": "미리",
+      "count": 2
+    },
+    {
+      "word": "줄인",
+      "count": 2
+    },
+    {
+      "word": "극비",
+      "count": 2
+    },
+    {
+      "word": "단식작전",
+      "count": 2
+    },
+    {
+      "word": "이들만",
+      "count": 2
+    },
+    {
+      "word": "알았다",
+      "count": 2
+    },
+    {
+      "word": "장동혁",
+      "count": 2
+    },
+    {
+      "word": "인회",
+      "count": 2
+    },
+    {
+      "word": "담겨",
+      "count": 2
+    },
+    {
+      "word": "누가",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "신호",
+      "count": 2
+    },
+    {
+      "word": "게임",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "자주국방",
+        "count": 3
+      },
+      {
+        "word": "김부겸",
+        "count": 2
+      },
+      {
+        "word": "식사",
+        "count": 2
+      },
+      {
+        "word": "미리",
+        "count": 2
+      },
+      {
+        "word": "줄인",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "신세계그룹",
+        "count": 1
+      },
+      {
+        "word": "정용진",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "게임",
+        "count": 2
+      },
+      {
+        "word": "날릴만큼",
+        "count": 1
+      },
+      {
+        "word": "성과급",
+        "count": 1
+      },
+      {
+        "word": "급한가",
+        "count": 1
+      },
+      {
+        "word": "삼성전자",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "김건희만",
+        "count": 2
+      },
+      {
+        "word": "구속했어도",
+        "count": 2
+      },
+      {
+        "word": "살았다",
+        "count": 2
+      },
+      {
+        "word": "역사",
+        "count": 2
+      },
+      {
+        "word": "자멸",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "이란에",
+        "count": 2
+      },
+      {
+        "word": "유니폼",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "비적대적",
+        "count": 2
+      },
+      {
+        "word": "선박",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "케데헌",
+        "count": 2
+      },
+      {
+        "word": "컴백",
+        "count": 2
+      },
+      {
+        "word": "자식에",
+        "count": 1
+      },
+      {
+        "word": "대한",
+        "count": 1
+      },
+      {
+        "word": "그리움의",
+        "count": 1
+      }
+    ]
   }
 }
