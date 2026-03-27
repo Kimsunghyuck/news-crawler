@@ -1,13 +1,220 @@
 {
   "date": "2026-03-27",
-  "generated_at": "2026-03-27T09:44:58.927498+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-27T15:28:28.169476+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 6
+    },
+    {
+      "word": "경선",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "후보",
+      "count": 3
+    },
+    {
+      "word": "전재수",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "유튜브",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "가장",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "결국",
+      "count": 3
+    },
+    {
+      "word": "장동혁",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "이유",
+      "count": 2
+    },
+    {
+      "word": "한동훈",
+      "count": 2
+    },
+    {
+      "word": "재밌게",
+      "count": 2
+    },
+    {
+      "word": "봐달라",
+      "count": 2
+    },
+    {
+      "word": "없었다",
+      "count": 2
+    },
+    {
+      "word": "이재성",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "경선",
+        "count": 4
+      },
+      {
+        "word": "후보",
+        "count": 3
+      },
+      {
+        "word": "장동혁",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "한동훈",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 3
+      },
+      {
+        "word": "번째",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "다시",
+        "count": 2
+      },
+      {
+        "word": "역전승",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "방산",
+        "count": 2
+      },
+      {
+        "word": "일본은",
+        "count": 1
+      },
+      {
+        "word": "그래도",
+        "count": 1
+      },
+      {
+        "word": "포기",
+        "count": 1
+      },
+      {
+        "word": "신제품",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "결국",
+        "count": 2
+      },
+      {
+        "word": "아내",
+        "count": 1
+      },
+      {
+        "word": "임신",
+        "count": 1
+      },
+      {
+        "word": "만에",
+        "count": 1
+      },
+      {
+        "word": "외도",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 5
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "핵심무기",
+        "count": 1
+      },
+      {
+        "word": "재고",
+        "count": 1
+      },
+      {
+        "word": "치뿐",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "고백",
+        "count": 2
+      },
+      {
+        "word": "유튜브",
+        "count": 2
+      },
+      {
+        "word": "서인영",
+        "count": 2
+      },
+      {
+        "word": "개과천선",
+        "count": 2
+      },
+      {
+        "word": "마지막",
+        "count": 1
+      }
+    ]
   }
 }
