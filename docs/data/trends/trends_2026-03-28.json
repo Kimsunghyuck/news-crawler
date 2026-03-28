@@ -1,218 +1,218 @@
 {
   "date": "2026-03-28",
-  "generated_at": "2026-03-28T15:23:12.361587+09:00",
+  "generated_at": "2026-03-28T19:15:19.510887+09:00",
   "daily_top_keywords": [
     {
-      "word": "국힘",
-      "count": 4
-    },
-    {
       "word": "이란",
-      "count": 3
+      "count": 10
     },
     {
       "word": "트럼프",
-      "count": 3
+      "count": 8
+    },
+    {
+      "word": "국힘",
+      "count": 6
     },
     {
       "word": "세계",
-      "count": 3
+      "count": 5
     },
     {
       "word": "미사일",
-      "count": 3
+      "count": 5
     },
     {
       "word": "결국",
-      "count": 3
+      "count": 5
     },
     {
       "word": "장동혁",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "호르무즈",
+      "count": 4
+    },
+    {
+      "word": "성지",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "벌써",
+      "count": 4
     },
     {
       "word": "천안함",
-      "count": 3
-    },
-    {
-      "word": "유족",
-      "count": 3
-    },
-    {
-      "word": "가슴에",
-      "count": 3
+      "count": 4
     },
     {
       "word": "비수",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "나토",
-      "count": 2
+      "word": "대통령",
+      "count": 4
     },
     {
-      "word": "탈퇴",
-      "count": 2
+      "word": "미래",
+      "count": 4
     },
     {
-      "word": "이스라엘",
-      "count": 2
+      "word": "근황",
+      "count": 4
     },
     {
-      "word": "개최",
-      "count": 2
+      "word": "한국",
+      "count": 4
     },
     {
-      "word": "피해",
-      "count": 2
+      "word": "프로야구",
+      "count": 4
     },
     {
-      "word": "쐈다",
-      "count": 2
+      "word": "개막전",
+      "count": 4
     },
     {
-      "word": "이유는",
-      "count": 2
-    },
-    {
-      "word": "기름값",
-      "count": 2
-    },
-    {
-      "word": "의대",
-      "count": 2
+      "word": "남자",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
-        "count": 4
+        "count": 6
       },
       {
         "word": "장동혁",
-        "count": 3
+        "count": 5
       },
       {
         "word": "천안함",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "유족",
-        "count": 3
+        "word": "비수",
+        "count": 4
       },
       {
-        "word": "가슴에",
-        "count": 3
+        "word": "대통령",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "세계선수권",
-        "count": 2
+        "word": "프로야구",
+        "count": 4
       },
       {
-        "word": "대표팀",
-        "count": 2
-      },
-      {
-        "word": "시즌",
-        "count": 2
+        "word": "개막전",
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "세계선수권",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "결국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "미래",
-        "count": 2
+        "count": 4
       },
       {
         "word": "증시",
-        "count": 1
+        "count": 2
       },
       {
         "word": "뒤흔든",
-        "count": 1
+        "count": 2
       },
       {
         "word": "터보퀀트",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "의대",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "검사",
+        "count": 3
       },
       {
         "word": "엄마",
-        "count": 1
+        "count": 2
       },
       {
         "word": "죽자",
-        "count": 1
+        "count": 2
       },
       {
         "word": "물건",
-        "count": 1
-      },
-      {
-        "word": "버려주세요",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 3
+        "count": 9
       },
       {
         "word": "트럼프",
-        "count": 3
+        "count": 8
       },
       {
         "word": "나토",
-        "count": 2
+        "count": 3
       },
       {
         "word": "탈퇴",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "이스라엘",
-        "count": 2
+        "word": "가능성",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "엄지원",
+        "word": "근황",
+        "count": 4
+      },
+      {
+        "word": "서울",
         "count": 2
       },
       {
-        "word": "단종",
+        "word": "떠난다",
         "count": 2
       },
       {
-        "word": "시신",
+        "word": "고양콘",
         "count": 2
       },
       {
-        "word": "수습한",
-        "count": 2
-      },
-      {
-        "word": "엄흥도",
+        "word": "성지",
         "count": 2
       }
     ]
