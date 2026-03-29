@@ -1,219 +1,219 @@
 {
   "date": "2026-03-29",
-  "generated_at": "2026-03-29T15:26:46.839690+09:00",
+  "generated_at": "2026-03-29T19:15:41.916838+09:00",
   "daily_top_keywords": [
     {
       "word": "남자",
-      "count": 5
-    },
-    {
-      "word": "이란",
-      "count": 4
+      "count": 9
     },
     {
       "word": "만에",
-      "count": 4
+      "count": 7
     },
     {
       "word": "출마",
-      "count": 4
+      "count": 7
     },
     {
-      "word": "트럼프",
-      "count": 3
+      "word": "논란",
+      "count": 6
     },
     {
       "word": "부른",
-      "count": 3
+      "count": 6
     },
     {
       "word": "세계",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "서울",
-      "count": 3
+      "word": "이란",
+      "count": 5
     },
     {
-      "word": "여자",
-      "count": 3
-    },
-    {
-      "word": "엔비디아",
-      "count": 2
-    },
-    {
-      "word": "국방부",
-      "count": 2
-    },
-    {
-      "word": "준비",
-      "count": 2
-    },
-    {
-      "word": "패배",
-      "count": 2
-    },
-    {
-      "word": "걸린",
-      "count": 2
-    },
-    {
-      "word": "역대",
-      "count": 2
-    },
-    {
-      "word": "다카이치",
-      "count": 2
-    },
-    {
-      "word": "수술",
-      "count": 2
-    },
-    {
-      "word": "위반",
-      "count": 2
+      "word": "트럼프",
+      "count": 5
     },
     {
       "word": "한국",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "완패",
-      "count": 2
+      "word": "여자",
+      "count": 5
+    },
+    {
+      "word": "감독",
+      "count": 5
+    },
+    {
+      "word": "개막",
+      "count": 5
+    },
+    {
+      "word": "엔비디아",
+      "count": 4
+    },
+    {
+      "word": "수술",
+      "count": 4
+    },
+    {
+      "word": "우즈",
+      "count": 4
+    },
+    {
+      "word": "공식",
+      "count": 4
+    },
+    {
+      "word": "성지",
+      "count": 4
+    },
+    {
+      "word": "아들",
+      "count": 4
+    },
+    {
+      "word": "김부겸",
+      "count": 4
+    },
+    {
+      "word": "이유",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "출마",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "김정은",
-        "count": 2
+        "word": "삼촌이라",
+        "count": 4
       },
       {
-        "word": "김건희",
-        "count": 2
+        "word": "부른",
+        "count": 4
       },
       {
-        "word": "비서",
-        "count": 2
+        "word": "진짜",
+        "count": 4
       },
       {
-        "word": "나도",
-        "count": 2
+        "word": "실세",
+        "count": 4
       }
     ],
     "sports": [
       {
+        "word": "감독",
+        "count": 5
+      },
+      {
+        "word": "개막",
+        "count": 5
+      },
+      {
         "word": "드라이버",
-        "count": 2
+        "count": 4
       },
       {
         "word": "홍명보호",
-        "count": 2
+        "count": 4
       },
       {
         "word": "신문선",
-        "count": 2
-      },
-      {
-        "word": "월드컵은",
-        "count": 2
-      },
-      {
-        "word": "감독",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "반도체",
-        "count": 2
-      },
-      {
-        "word": "사흘째",
-        "count": 2
-      },
-      {
-        "word": "서울",
-        "count": 2
-      },
-      {
-        "word": "돌파",
-        "count": 2
-      },
-      {
         "word": "대출",
+        "count": 4
+      },
+      {
+        "word": "반도체",
+        "count": 3
+      },
+      {
+        "word": "띄울수록",
+        "count": 2
+      },
+      {
+        "word": "손해",
+        "count": 2
+      },
+      {
+        "word": "항공사들",
         "count": 2
       }
     ],
     "society": [
       {
         "word": "아들",
-        "count": 2
+        "count": 4
       },
       {
         "word": "작년에만",
-        "count": 1
+        "count": 2
       },
       {
         "word": "만명",
-        "count": 1
+        "count": 2
       },
       {
         "word": "다녀갔다",
-        "count": 1
+        "count": 2
       },
       {
         "word": "필수코스",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "이란",
-        "count": 3
+        "word": "트럼프",
+        "count": 5
       },
       {
-        "word": "트럼프",
-        "count": 3
+        "word": "이란",
+        "count": 4
       },
       {
         "word": "국방부",
-        "count": 2
+        "count": 3
       },
       {
         "word": "준비",
-        "count": 2
+        "count": 3
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "남자",
-        "count": 3
+        "count": 5
       },
       {
         "word": "여자",
-        "count": 2
+        "count": 3
       },
       {
         "word": "도끼",
-        "count": 2
+        "count": 3
       },
       {
         "word": "이하이",
-        "count": 2
+        "count": 3
       },
       {
         "word": "열애",
-        "count": 2
+        "count": 3
       }
     ]
   }
