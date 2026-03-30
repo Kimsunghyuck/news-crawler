@@ -1,13 +1,220 @@
 {
   "date": "2026-03-30",
-  "generated_at": "2026-03-30T09:53:46.689692+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-30T15:37:48.282131+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "정체",
+      "count": 2
+    },
+    {
+      "word": "이란과",
+      "count": 2
+    },
+    {
+      "word": "협상",
+      "count": 2
+    },
+    {
+      "word": "엔비디아",
+      "count": 2
+    },
+    {
+      "word": "년만에",
+      "count": 2
+    },
+    {
+      "word": "검토",
+      "count": 2
+    },
+    {
+      "word": "허용",
+      "count": 2
+    },
+    {
+      "word": "중동",
+      "count": 2
+    },
+    {
+      "word": "아들",
+      "count": 2
+    },
+    {
+      "word": "외도",
+      "count": 2
+    },
+    {
+      "word": "난리",
+      "count": 2
+    },
+    {
+      "word": "사과",
+      "count": 2
+    },
+    {
+      "word": "홍서범",
+      "count": 2
+    },
+    {
+      "word": "며느리",
+      "count": 2
+    },
+    {
+      "word": "인생",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "인정하자",
+        "count": 2
+      },
+      {
+        "word": "보수는",
+        "count": 2
+      },
+      {
+        "word": "참패했다",
+        "count": 2
+      },
+      {
+        "word": "열다",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "김효주",
+        "count": 2
+      },
+      {
+        "word": "달성",
+        "count": 2
+      },
+      {
+        "word": "감독",
+        "count": 2
+      },
+      {
+        "word": "드라이버",
+        "count": 2
+      },
+      {
+        "word": "데뷔",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "전쟁",
+        "count": 2
+      },
+      {
+        "word": "역대",
+        "count": 2
+      },
+      {
+        "word": "벌써",
+        "count": 1
+      },
+      {
+        "word": "가격",
+        "count": 1
+      },
+      {
+        "word": "뛰었다",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "징역",
+        "count": 2
+      },
+      {
+        "word": "봉투",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      },
+      {
+        "word": "아들",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 5
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "정체",
+        "count": 2
+      },
+      {
+        "word": "이란과",
+        "count": 2
+      },
+      {
+        "word": "협상",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "감량",
+        "count": 2
+      },
+      {
+        "word": "마약",
+        "count": 1
+      },
+      {
+        "word": "누명",
+        "count": 1
+      },
+      {
+        "word": "배우",
+        "count": 1
+      },
+      {
+        "word": "이상보",
+        "count": 1
+      }
+    ]
   }
 }
