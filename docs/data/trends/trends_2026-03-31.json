@@ -1,13 +1,220 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T09:44:24.324793+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-03-31T15:31:06.458327+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "호르무즈",
+      "count": 4
+    },
+    {
+      "word": "전쟁",
+      "count": 3
+    },
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "정원오",
+      "count": 3
+    },
+    {
+      "word": "돌파",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "김효주",
+      "count": 3
+    },
+    {
+      "word": "폰세",
+      "count": 3
+    },
+    {
+      "word": "중국에",
+      "count": 2
+    },
+    {
+      "word": "이유",
+      "count": 2
+    },
+    {
+      "word": "종말",
+      "count": 2
+    },
+    {
+      "word": "하늘",
+      "count": 2
+    },
+    {
+      "word": "빼나",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "중국",
+      "count": 2
+    },
+    {
+      "word": "대만",
+      "count": 2
+    },
+    {
+      "word": "두바이",
+      "count": 2
+    },
+    {
+      "word": "쿠웨이트",
+      "count": 2
+    },
+    {
+      "word": "유치원",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "정원오",
+        "count": 3
+      },
+      {
+        "word": "개헌",
+        "count": 2
+      },
+      {
+        "word": "부마",
+        "count": 2
+      },
+      {
+        "word": "명시",
+        "count": 2
+      },
+      {
+        "word": "적고",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "김효주",
+        "count": 3
+      },
+      {
+        "word": "폰세",
+        "count": 3
+      },
+      {
+        "word": "부상",
+        "count": 2
+      },
+      {
+        "word": "이정후",
+        "count": 2
+      },
+      {
+        "word": "시즌",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "코스피",
+        "count": 2
+      },
+      {
+        "word": "최종",
+        "count": 2
+      },
+      {
+        "word": "고유가",
+        "count": 1
+      },
+      {
+        "word": "지원금",
+        "count": 1
+      },
+      {
+        "word": "선별",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "유치원",
+        "count": 2
+      },
+      {
+        "word": "교사",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      },
+      {
+        "word": "부모님",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "호르무즈",
+        "count": 4
+      },
+      {
+        "word": "종말",
+        "count": 2
+      },
+      {
+        "word": "하늘",
+        "count": 2
+      },
+      {
+        "word": "빼나",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "돌파",
+        "count": 2
+      },
+      {
+        "word": "흑백요리사",
+        "count": 1
+      },
+      {
+        "word": "중식여신",
+        "count": 1
+      },
+      {
+        "word": "박은영",
+        "count": 1
+      },
+      {
+        "word": "셰프",
+        "count": 1
+      }
+    ]
   }
 }
