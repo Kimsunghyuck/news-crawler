@@ -1,219 +1,219 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T15:31:06.458327+09:00",
+  "generated_at": "2026-03-31T19:27:43.701371+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 4
+      "count": 8
     },
     {
       "word": "호르무즈",
+      "count": 6
+    },
+    {
+      "word": "서울",
+      "count": 6
+    },
+    {
+      "word": "정원오",
+      "count": 6
+    },
+    {
+      "word": "남자",
+      "count": 6
+    },
+    {
+      "word": "통과",
+      "count": 5
+    },
+    {
+      "word": "중국에",
+      "count": 4
+    },
+    {
+      "word": "종말",
+      "count": 4
+    },
+    {
+      "word": "하늘",
       "count": 4
     },
     {
       "word": "전쟁",
-      "count": 3
-    },
-    {
-      "word": "서울",
-      "count": 3
-    },
-    {
-      "word": "정원오",
-      "count": 3
-    },
-    {
-      "word": "돌파",
-      "count": 3
-    },
-    {
-      "word": "남자",
-      "count": 3
-    },
-    {
-      "word": "김효주",
-      "count": 3
-    },
-    {
-      "word": "폰세",
-      "count": 3
-    },
-    {
-      "word": "중국에",
-      "count": 2
-    },
-    {
-      "word": "이유",
-      "count": 2
-    },
-    {
-      "word": "종말",
-      "count": 2
-    },
-    {
-      "word": "하늘",
-      "count": 2
-    },
-    {
-      "word": "빼나",
-      "count": 2
-    },
-    {
-      "word": "이란",
-      "count": 2
-    },
-    {
-      "word": "중국",
-      "count": 2
+      "count": 4
     },
     {
       "word": "대만",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "두바이",
-      "count": 2
+      "word": "마지막",
+      "count": 4
     },
     {
-      "word": "쿠웨이트",
-      "count": 2
+      "word": "고유가",
+      "count": 4
     },
     {
-      "word": "유치원",
-      "count": 2
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "돌파",
+      "count": 4
+    },
+    {
+      "word": "고백",
+      "count": 4
+    },
+    {
+      "word": "김효주",
+      "count": 4
+    },
+    {
+      "word": "폰세",
+      "count": 4
+    },
+    {
+      "word": "이정후",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "정원오",
+        "count": 6
+      },
+      {
+        "word": "국힘",
+        "count": 4
+      },
+      {
+        "word": "김영환",
         "count": 3
       },
       {
-        "word": "개헌",
-        "count": 2
-      },
-      {
-        "word": "부마",
-        "count": 2
-      },
-      {
-        "word": "명시",
-        "count": 2
+        "word": "컷오프",
+        "count": 3
       },
       {
         "word": "적고",
-        "count": 1
+        "count": 2
       }
     ],
     "sports": [
       {
         "word": "김효주",
-        "count": 3
+        "count": 4
       },
       {
         "word": "폰세",
-        "count": 3
-      },
-      {
-        "word": "부상",
-        "count": 2
+        "count": 4
       },
       {
         "word": "이정후",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "시즌",
-        "count": 2
+        "word": "타율",
+        "count": 4
+      },
+      {
+        "word": "남자",
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "코스피",
-        "count": 2
-      },
-      {
-        "word": "최종",
-        "count": 2
-      },
-      {
         "word": "고유가",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "최대",
+        "count": 3
+      },
+      {
+        "word": "추경안",
+        "count": 3
+      },
+      {
+        "word": "코스피",
+        "count": 3
       },
       {
         "word": "지원금",
-        "count": 1
-      },
-      {
-        "word": "선별",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "서울",
+        "count": 3
+      },
+      {
         "word": "유치원",
-        "count": 2
+        "count": 3
       },
       {
         "word": "교사",
-        "count": 2
+        "count": 3
       },
       {
         "word": "오늘의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "운세",
-        "count": 1
-      },
-      {
-        "word": "부모님",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
+        "count": 8
       },
       {
         "word": "호르무즈",
-        "count": 4
+        "count": 6
       },
       {
         "word": "종말",
-        "count": 2
+        "count": 4
       },
       {
         "word": "하늘",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "빼나",
-        "count": 2
+        "word": "발칵",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "돌파",
-        "count": 2
+        "count": 3
       },
       {
         "word": "흑백요리사",
-        "count": 1
+        "count": 2
       },
       {
         "word": "중식여신",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박은영",
-        "count": 1
+        "count": 2
       },
       {
         "word": "셰프",
-        "count": 1
+        "count": 2
       }
     ]
   }
