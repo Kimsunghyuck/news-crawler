@@ -1,13 +1,220 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T09:49:31.935410+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-04-01T15:37:55.870316+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "김관영",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "시즌",
+      "count": 3
+    },
+    {
+      "word": "월드컵",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "이번엔",
+      "count": 2
+    },
+    {
+      "word": "군용기",
+      "count": 2
+    },
+    {
+      "word": "사라진다",
+      "count": 2
+    },
+    {
+      "word": "이중",
+      "count": 2
+    },
+    {
+      "word": "받고",
+      "count": 2
+    },
+    {
+      "word": "여성",
+      "count": 2
+    },
+    {
+      "word": "개최",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "유포에",
+      "count": 2
+    },
+    {
+      "word": "대리비",
+      "count": 2
+    },
+    {
+      "word": "보니",
+      "count": 2
+    },
+    {
+      "word": "좌절",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "김관영",
+        "count": 3
+      },
+      {
+        "word": "대리비",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "보니",
+        "count": 2
+      },
+      {
+        "word": "인니",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "시즌",
+        "count": 3
+      },
+      {
+        "word": "월드컵",
+        "count": 3
+      },
+      {
+        "word": "경기",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "본선행",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "환율",
+        "count": 2
+      },
+      {
+        "word": "최대",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "준다",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "의혹",
+        "count": 2
+      },
+      {
+        "word": "띄운",
+        "count": 1
+      },
+      {
+        "word": "노인",
+        "count": 1
+      },
+      {
+        "word": "무임승차",
+        "count": 1
+      },
+      {
+        "word": "제한",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "군용기",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 1
+      },
+      {
+        "word": "종전",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "결혼",
+        "count": 2
+      },
+      {
+        "word": "조갑경",
+        "count": 2
+      },
+      {
+        "word": "며느리",
+        "count": 2
+      },
+      {
+        "word": "흑백요리사",
+        "count": 1
+      },
+      {
+        "word": "중식여신",
+        "count": 1
+      }
+    ]
   }
 }
