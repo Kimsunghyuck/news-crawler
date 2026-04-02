@@ -1,13 +1,220 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T09:42:30.488440+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-04-02T15:29:14.024252+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "위기",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "석기시대",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "없어",
+      "count": 3
+    },
+    {
+      "word": "도움",
+      "count": 3
+    },
+    {
+      "word": "호르무즈",
+      "count": 2
+    },
+    {
+      "word": "퇴사",
+      "count": 2
+    },
+    {
+      "word": "앞으로",
+      "count": 2
+    },
+    {
+      "word": "강한",
+      "count": 2
+    },
+    {
+      "word": "인류",
+      "count": 2
+    },
+    {
+      "word": "다시",
+      "count": 2
+    },
+    {
+      "word": "아르테미스",
+      "count": 2
+    },
+    {
+      "word": "발사",
+      "count": 2
+    },
+    {
+      "word": "성폭행까지",
+      "count": 2
+    },
+    {
+      "word": "추락",
+      "count": 2
+    },
+    {
+      "word": "무슨",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "내가",
+        "count": 2
+      },
+      {
+        "word": "감옥",
+        "count": 2
+      },
+      {
+        "word": "가도",
+        "count": 2
+      },
+      {
+        "word": "할거야",
+        "count": 2
+      },
+      {
+        "word": "술이",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "위기",
+        "count": 2
+      },
+      {
+        "word": "홍명보",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "대학으로",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "준다",
+        "count": 2
+      },
+      {
+        "word": "뒤통수",
+        "count": 1
+      },
+      {
+        "word": "트럼프",
+        "count": 1
+      },
+      {
+        "word": "연설",
+        "count": 1
+      },
+      {
+        "word": "코스피",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "멜론빵에서",
+        "count": 2
+      },
+      {
+        "word": "인분",
+        "count": 2
+      },
+      {
+        "word": "실수로",
+        "count": 2
+      },
+      {
+        "word": "넣었다",
+        "count": 2
+      },
+      {
+        "word": "도로",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 6
+      },
+      {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "석기시대",
+        "count": 3
+      },
+      {
+        "word": "호르무즈",
+        "count": 2
+      },
+      {
+        "word": "앞으로",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "배우",
+        "count": 2
+      },
+      {
+        "word": "사람",
+        "count": 2
+      },
+      {
+        "word": "이효리",
+        "count": 1
+      },
+      {
+        "word": "요가원에",
+        "count": 1
+      },
+      {
+        "word": "무슨",
+        "count": 1
+      }
+    ]
   }
 }
