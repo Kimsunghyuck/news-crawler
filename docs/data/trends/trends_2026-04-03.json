@@ -1,219 +1,219 @@
 {
   "date": "2026-04-03",
-  "generated_at": "2026-04-03T15:27:46.140136+09:00",
+  "generated_at": "2026-04-03T19:20:49.081435+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 6
-    },
-    {
-      "word": "트럼프",
-      "count": 5
-    },
-    {
-      "word": "정부",
-      "count": 4
+      "count": 10
     },
     {
       "word": "한국",
-      "count": 4
+      "count": 10
     },
     {
-      "word": "무슨",
-      "count": 3
-    },
-    {
-      "word": "대통령",
-      "count": 3
+      "word": "트럼프",
+      "count": 8
     },
     {
       "word": "연속",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "서울",
-      "count": 3
+      "word": "정부",
+      "count": 7
     },
     {
-      "word": "먼저",
-      "count": 3
-    },
-    {
-      "word": "개최",
-      "count": 3
+      "word": "무슨",
+      "count": 6
     },
     {
       "word": "달러",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "국힘",
+      "count": 5
+    },
+    {
+      "word": "서울",
+      "count": 5
+    },
+    {
+      "word": "개최",
+      "count": 5
     },
     {
       "word": "우승",
-      "count": 3
-    },
-    {
-      "word": "이란전쟁",
-      "count": 2
-    },
-    {
-      "word": "석기시대",
-      "count": 2
+      "count": 5
     },
     {
       "word": "호르무즈",
-      "count": 2
+      "count": 4
     },
     {
       "word": "부상",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "전쟁",
-      "count": 2
-    },
-    {
-      "word": "병역",
-      "count": 2
+      "word": "체포",
+      "count": 4
     },
     {
       "word": "대만",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "미사일",
-      "count": 2
+      "word": "배우",
+      "count": 4
+    },
+    {
+      "word": "찾은",
+      "count": 4
+    },
+    {
+      "word": "확보",
+      "count": 4
+    },
+    {
+      "word": "먼저",
+      "count": 4
+    },
+    {
+      "word": "선두와",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "국힘",
+        "count": 5
+      },
+      {
+        "word": "김정은",
+        "count": 3
+      },
+      {
+        "word": "주애",
+        "count": 3
+      },
+      {
         "word": "대통령",
         "count": 3
       },
       {
-        "word": "김정은",
-        "count": 2
-      },
-      {
-        "word": "주애",
-        "count": 2
-      },
-      {
-        "word": "국힘",
-        "count": 2
-      },
-      {
-        "word": "오찬",
+        "word": "가슴팍에",
         "count": 2
       }
     ],
     "sports": [
       {
         "word": "우승",
-        "count": 3
+        "count": 5
       },
       {
         "word": "연속",
-        "count": 2
+        "count": 4
       },
       {
         "word": "선두와",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "개최",
-        "count": 2
+        "word": "남자",
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "정부",
-        "count": 3
+        "word": "달러",
+        "count": 6
       },
       {
-        "word": "달러",
-        "count": 3
+        "word": "정부",
+        "count": 5
       },
       {
         "word": "확보",
-        "count": 2
+        "count": 4
       },
       {
         "word": "서울",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "먼저",
+        "word": "대체",
         "count": 2
       }
     ],
     "society": [
       {
         "word": "무슨",
-        "count": 2
-      },
-      {
-        "word": "협박",
-        "count": 2
-      },
-      {
-        "word": "금지",
-        "count": 2
+        "count": 4
       },
       {
         "word": "오늘의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "운세",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "사자",
+        "count": 2
+      },
+      {
+        "word": "성기",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 5
+        "count": 9
       },
       {
         "word": "트럼프",
-        "count": 4
+        "count": 7
       },
       {
         "word": "호르무즈",
-        "count": 2
+        "count": 4
       },
       {
         "word": "전쟁",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "미사일",
-        "count": 2
+        "word": "우즈",
+        "count": 3
       }
     ],
     "culture": [
       {
+        "word": "한국",
+        "count": 5
+      },
+      {
         "word": "주년",
-        "count": 2
+        "count": 3
       },
       {
         "word": "헤비메탈의",
-        "count": 2
+        "count": 3
       },
       {
         "word": "드러머",
-        "count": 2
+        "count": 3
       },
       {
         "word": "한춘근",
-        "count": 2
-      },
-      {
-        "word": "별세",
-        "count": 2
+        "count": 3
       }
     ]
   }
