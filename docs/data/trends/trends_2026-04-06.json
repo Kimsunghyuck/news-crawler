@@ -1,13 +1,220 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T09:46:10.443267+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-04-06T15:38:18.438901+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 6
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "호르무즈",
+      "count": 3
+    },
+    {
+      "word": "앞두고",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "로봇",
+      "count": 3
+    },
+    {
+      "word": "패배",
+      "count": 2
+    },
+    {
+      "word": "중국이",
+      "count": 2
+    },
+    {
+      "word": "부활절",
+      "count": 2
+    },
+    {
+      "word": "추진",
+      "count": 2
+    },
+    {
+      "word": "검거",
+      "count": 2
+    },
+    {
+      "word": "경찰",
+      "count": 2
+    },
+    {
+      "word": "살포",
+      "count": 2
+    },
+    {
+      "word": "경기남부",
+      "count": 2
+    },
+    {
+      "word": "영하",
+      "count": 2
+    },
+    {
+      "word": "시대",
+      "count": 2
+    },
+    {
+      "word": "끝났다",
+      "count": 2
+    },
+    {
+      "word": "될거야",
+      "count": 2
+    },
+    {
+      "word": "당신은",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "될거야",
+        "count": 2
+      },
+      {
+        "word": "당신은",
+        "count": 2
+      },
+      {
+        "word": "경악한",
+        "count": 2
+      },
+      {
+        "word": "정주영",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "김서아",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "김혜성",
+        "count": 2
+      },
+      {
+        "word": "콜업",
+        "count": 2
+      },
+      {
+        "word": "시즌",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "로봇",
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "투자",
+        "count": 2
+      },
+      {
+        "word": "오픈",
+        "count": 2
+      },
+      {
+        "word": "롯데타워",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "경찰",
+        "count": 2
+      },
+      {
+        "word": "살포",
+        "count": 2
+      },
+      {
+        "word": "경기남부",
+        "count": 2
+      },
+      {
+        "word": "영하",
+        "count": 2
+      },
+      {
+        "word": "시대",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 6
+      },
+      {
+        "word": "호르무즈",
+        "count": 3
+      },
+      {
+        "word": "부활절",
+        "count": 2
+      },
+      {
+        "word": "하느님",
+        "count": 1
+      },
+      {
+        "word": "선하시다",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "왕과",
+        "count": 2
+      },
+      {
+        "word": "사는",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "돌파",
+        "count": 2
+      },
+      {
+        "word": "역대",
+        "count": 2
+      }
+    ]
   }
 }
