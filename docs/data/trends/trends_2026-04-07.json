@@ -1,13 +1,220 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T09:45:33.451405+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-04-07T15:33:38.731295+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "결국",
+      "count": 3
+    },
+    {
+      "word": "걸린",
+      "count": 3
+    },
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "개월",
+      "count": 3
+    },
+    {
+      "word": "국민",
+      "count": 3
+    },
+    {
+      "word": "삼성",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "김혜성",
+      "count": 3
+    },
+    {
+      "word": "억원",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "후보",
+      "count": 2
+    },
+    {
+      "word": "협상",
+      "count": 2
+    },
+    {
+      "word": "전면",
+      "count": 2
+    },
+    {
+      "word": "투입",
+      "count": 2
+    },
+    {
+      "word": "전쟁",
+      "count": 2
+    },
+    {
+      "word": "테러",
+      "count": 2
+    },
+    {
+      "word": "응급실",
+      "count": 2
+    },
+    {
+      "word": "시끄러우니",
+      "count": 2
+    },
+    {
+      "word": "박수",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "시끄러우니",
+        "count": 2
+      },
+      {
+        "word": "박수",
+        "count": 2
+      },
+      {
+        "word": "그만",
+        "count": 2
+      },
+      {
+        "word": "쳐라",
+        "count": 2
+      },
+      {
+        "word": "유엔에",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "김혜성",
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "선발",
+        "count": 2
+      },
+      {
+        "word": "복귀",
+        "count": 2
+      },
+      {
+        "word": "안타",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "삼성",
+        "count": 3
+      },
+      {
+        "word": "영업익",
+        "count": 2
+      },
+      {
+        "word": "축포",
+        "count": 2
+      },
+      {
+        "word": "포착된",
+        "count": 2
+      },
+      {
+        "word": "게임",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "응급실",
+        "count": 2
+      },
+      {
+        "word": "결국",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      },
+      {
+        "word": "황대헌",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "전쟁",
+        "count": 2
+      },
+      {
+        "word": "어깨",
+        "count": 1
+      },
+      {
+        "word": "만원",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "환율",
+        "count": 1
+      },
+      {
+        "word": "원대",
+        "count": 1
+      },
+      {
+        "word": "오르자",
+        "count": 1
+      },
+      {
+        "word": "조인성",
+        "count": 1
+      },
+      {
+        "word": "때아닌",
+        "count": 1
+      }
+    ]
   }
 }
