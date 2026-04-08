@@ -1,13 +1,220 @@
 {
   "date": "2026-04-08",
-  "generated_at": "2026-04-08T09:45:29.067242+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-04-08T15:35:02.064905+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "필드골",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "호르무즈",
+      "count": 4
+    },
+    {
+      "word": "수술",
+      "count": 4
+    },
+    {
+      "word": "다시",
+      "count": 4
+    },
+    {
+      "word": "김정은",
+      "count": 3
+    },
+    {
+      "word": "손흥민",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "특검",
+      "count": 3
+    },
+    {
+      "word": "주가조작",
+      "count": 3
+    },
+    {
+      "word": "김건희",
+      "count": 3
+    },
+    {
+      "word": "징역",
+      "count": 3
+    },
+    {
+      "word": "구형",
+      "count": 3
+    },
+    {
+      "word": "전원주",
+      "count": 3
+    },
+    {
+      "word": "고관절",
+      "count": 3
+    },
+    {
+      "word": "터졌다",
+      "count": 2
+    },
+    {
+      "word": "수용",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "주간",
+      "count": 2
+    },
+    {
+      "word": "역할",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "보라매",
+        "count": 2
+      },
+      {
+        "word": "시제기",
+        "count": 2
+      },
+      {
+        "word": "안규백",
+        "count": 2
+      },
+      {
+        "word": "병력",
+        "count": 2
+      },
+      {
+        "word": "깔던",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "라운드",
+        "count": 2
+      },
+      {
+        "word": "필드골",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "한국을",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "삼성",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "부른다",
+        "count": 2
+      },
+      {
+        "word": "대기업",
+        "count": 2
+      },
+      {
+        "word": "급등",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "비법",
+        "count": 2
+      },
+      {
+        "word": "탈출",
+        "count": 2
+      },
+      {
+        "word": "특검",
+        "count": 2
+      },
+      {
+        "word": "주가조작",
+        "count": 2
+      },
+      {
+        "word": "김건희",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "호르무즈",
+        "count": 4
+      },
+      {
+        "word": "김정은",
+        "count": 2
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "필드골",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "전원주",
+        "count": 3
+      },
+      {
+        "word": "고관절",
+        "count": 3
+      },
+      {
+        "word": "수술",
+        "count": 3
+      },
+      {
+        "word": "다시",
+        "count": 2
+      },
+      {
+        "word": "팔팔합니다",
+        "count": 2
+      }
+    ]
   }
 }
