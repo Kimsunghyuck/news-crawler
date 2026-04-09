@@ -1,219 +1,219 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T15:34:16.336536+09:00",
+  "generated_at": "2026-04-09T19:32:21.724461+09:00",
   "daily_top_keywords": [
     {
-      "word": "한국",
-      "count": 5
+      "word": "이란",
+      "count": 8
     },
     {
-      "word": "이란",
-      "count": 4
+      "word": "한국",
+      "count": 8
     },
     {
       "word": "만원",
-      "count": 4
+      "count": 8
+    },
+    {
+      "word": "만에",
+      "count": 6
     },
     {
       "word": "호르무즈",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "휴전",
+      "count": 5
     },
     {
       "word": "트럼프",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "징역",
-      "count": 3
+      "word": "논란",
+      "count": 5
+    },
+    {
+      "word": "이름",
+      "count": 5
     },
     {
       "word": "다시",
-      "count": 3
+      "count": 5
     },
     {
       "word": "됐다",
-      "count": 2
+      "count": 4
     },
     {
       "word": "장면",
-      "count": 2
-    },
-    {
-      "word": "억원",
-      "count": 2
-    },
-    {
-      "word": "규모",
-      "count": 2
-    },
-    {
-      "word": "투입",
-      "count": 2
-    },
-    {
-      "word": "선고",
-      "count": 2
+      "count": 4
     },
     {
       "word": "이진호",
-      "count": 2
-    },
-    {
-      "word": "뇌출혈로",
-      "count": 2
-    },
-    {
-      "word": "쓰러져",
-      "count": 2
+      "count": 4
     },
     {
       "word": "수술",
-      "count": 2
+      "count": 4
     },
     {
       "word": "차은우",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "폭로",
-      "count": 2
+      "word": "과반",
+      "count": 4
     },
     {
-      "word": "추미애",
-      "count": 2
+      "word": "서울시장",
+      "count": 4
+    },
+    {
+      "word": "후보",
+      "count": 4
+    },
+    {
+      "word": "민주당",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "추미애",
-        "count": 2
+        "word": "과반",
+        "count": 4
       },
       {
-        "word": "포토타임",
-        "count": 2
+        "word": "서울시장",
+        "count": 4
       },
       {
         "word": "후보",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "내가",
-        "count": 1
+        "word": "민주당",
+        "count": 4
       },
       {
-        "word": "조연",
-        "count": 1
+        "word": "추미애",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "류현진",
-        "count": 2
-      },
-      {
-        "word": "여자",
-        "count": 2
-      },
-      {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "투수",
-        "count": 1
+        "word": "류현진",
+        "count": 3
+      },
+      {
+        "word": "여자",
+        "count": 3
+      },
+      {
+        "word": "감독",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "만원",
+        "count": 6
+      },
+      {
+        "word": "대출",
         "count": 3
       },
       {
-        "word": "체질",
+        "word": "집은",
         "count": 2
       },
       {
-        "word": "집은",
-        "count": 1
-      },
-      {
         "word": "억인데",
-        "count": 1
+        "count": 2
       },
       {
         "word": "생활비는",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "징역",
+        "word": "오늘의",
         "count": 2
       },
       {
-        "word": "오늘의",
-        "count": 1
-      },
-      {
         "word": "운세",
-        "count": 1
+        "count": 2
       },
       {
         "word": "여아에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "벗어봐",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "성착취",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 4
+        "count": 7
+      },
+      {
+        "word": "휴전",
+        "count": 5
       },
       {
         "word": "트럼프",
-        "count": 3
+        "count": 5
       },
       {
         "word": "호르무즈",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
-      },
-      {
-        "word": "여전히",
-        "count": 1
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "깜짝",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "알쓸톡",
-        "count": 2
+        "word": "만에",
+        "count": 3
       },
       {
         "word": "고현정",
-        "count": 1
+        "count": 2
       },
       {
         "word": "악마는",
-        "count": 1
+        "count": 2
       },
       {
         "word": "프라다를",
-        "count": 1
+        "count": 2
       }
     ]
   }
