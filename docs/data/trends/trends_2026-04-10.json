@@ -1,13 +1,220 @@
 {
   "date": "2026-04-10",
-  "generated_at": "2026-04-10T09:45:12.919338+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-04-10T15:38:08.300968+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "휴전",
+      "count": 4
+    },
+    {
+      "word": "호르무즈",
+      "count": 3
+    },
+    {
+      "word": "시대",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "월드컵",
+      "count": 3
+    },
+    {
+      "word": "심판",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "후보",
+      "count": 3
+    },
+    {
+      "word": "지원금",
+      "count": 3
+    },
+    {
+      "word": "외교부",
+      "count": 2
+    },
+    {
+      "word": "끝났다",
+      "count": 2
+    },
+    {
+      "word": "멜라니아",
+      "count": 2
+    },
+    {
+      "word": "만남",
+      "count": 2
+    },
+    {
+      "word": "시진핑",
+      "count": 2
+    },
+    {
+      "word": "대만",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "통화",
+      "count": 2
+    },
+    {
+      "word": "대상",
+      "count": 2
+    },
+    {
+      "word": "압박",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "후보",
+        "count": 3
+      },
+      {
+        "word": "지원금",
+        "count": 3
+      },
+      {
+        "word": "정원오",
+        "count": 2
+      },
+      {
+        "word": "여야",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "월드컵",
+        "count": 3
+      },
+      {
+        "word": "심판",
+        "count": 3
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "세계",
+        "count": 1
+      },
+      {
+        "word": "안세영",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "기고",
+        "count": 2
+      },
+      {
+        "word": "정부",
+        "count": 2
+      },
+      {
+        "word": "테슬라",
+        "count": 2
+      },
+      {
+        "word": "추간공확장술",
+        "count": 1
+      },
+      {
+        "word": "해부학적",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "합수본",
+        "count": 1
+      },
+      {
+        "word": "전재수",
+        "count": 1
+      },
+      {
+        "word": "통일교",
+        "count": 1
+      },
+      {
+        "word": "뇌물",
+        "count": 1
+      },
+      {
+        "word": "의혹",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 6
+      },
+      {
+        "word": "휴전",
+        "count": 4
+      },
+      {
+        "word": "호르무즈",
+        "count": 2
+      },
+      {
+        "word": "멜라니아",
+        "count": 2
+      },
+      {
+        "word": "시진핑",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "결혼",
+        "count": 2
+      },
+      {
+        "word": "조리원",
+        "count": 2
+      },
+      {
+        "word": "협찬",
+        "count": 2
+      },
+      {
+        "word": "논란",
+        "count": 2
+      },
+      {
+        "word": "곽튜브",
+        "count": 2
+      }
+    ]
   }
 }
