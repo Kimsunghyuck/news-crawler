@@ -1,13 +1,220 @@
 {
   "date": "2026-04-11",
-  "generated_at": "2026-04-11T09:43:42.536853+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-04-11T15:25:21.686882+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 8
+    },
+    {
+      "word": "지원금",
+      "count": 5
+    },
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "오현규",
+      "count": 3
+    },
+    {
+      "word": "고유가",
+      "count": 3
+    },
+    {
+      "word": "일부터",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "이스라엘",
+      "count": 3
+    },
+    {
+      "word": "들고",
+      "count": 2
+    },
+    {
+      "word": "갈리바프",
+      "count": 2
+    },
+    {
+      "word": "전쟁",
+      "count": 2
+    },
+    {
+      "word": "제막식서",
+      "count": 2
+    },
+    {
+      "word": "부러진",
+      "count": 2
+    },
+    {
+      "word": "이치로가",
+      "count": 2
+    },
+    {
+      "word": "배로",
+      "count": 2
+    },
+    {
+      "word": "사람",
+      "count": 2
+    },
+    {
+      "word": "세계",
+      "count": 2
+    },
+    {
+      "word": "동상",
+      "count": 2
+    },
+    {
+      "word": "배트",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "이스라엘",
+        "count": 3
+      },
+      {
+        "word": "지원금",
+        "count": 3
+      },
+      {
+        "word": "최대",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "오현규",
+        "count": 3
+      },
+      {
+        "word": "이정후",
+        "count": 2
+      },
+      {
+        "word": "시즌",
+        "count": 2
+      },
+      {
+        "word": "홈런",
+        "count": 2
+      },
+      {
+        "word": "폭발",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "매출",
+        "count": 2
+      },
+      {
+        "word": "커머스",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 1
+      },
+      {
+        "word": "나도",
+        "count": 1
+      },
+      {
+        "word": "받을",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "발견",
+        "count": 2
+      },
+      {
+        "word": "늑대",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "마시고",
+        "count": 1
+      },
+      {
+        "word": "운전한",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 8
+      },
+      {
+        "word": "갈리바프",
+        "count": 2
+      },
+      {
+        "word": "이치로가",
+        "count": 2
+      },
+      {
+        "word": "협상단",
+        "count": 1
+      },
+      {
+        "word": "오폭",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "서인영",
+        "count": 2
+      },
+      {
+        "word": "키워준",
+        "count": 2
+      },
+      {
+        "word": "새엄마",
+        "count": 2
+      },
+      {
+        "word": "친자식",
+        "count": 2
+      },
+      {
+        "word": "낳아",
+        "count": 2
+      }
+    ]
   }
 }
