@@ -1,219 +1,219 @@
 {
   "date": "2026-04-11",
-  "generated_at": "2026-04-11T15:25:21.686882+09:00",
+  "generated_at": "2026-04-11T19:17:12.037848+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 8
-    },
-    {
-      "word": "지원금",
-      "count": 5
+      "count": 13
     },
     {
       "word": "만원",
-      "count": 5
+      "count": 11
     },
     {
-      "word": "오현규",
-      "count": 3
+      "word": "지원금",
+      "count": 8
     },
     {
       "word": "고유가",
-      "count": 3
+      "count": 5
     },
     {
       "word": "일부터",
-      "count": 3
+      "count": 5
     },
     {
       "word": "최대",
-      "count": 3
-    },
-    {
-      "word": "대통령",
-      "count": 3
+      "count": 5
     },
     {
       "word": "이스라엘",
-      "count": 3
+      "count": 5
     },
     {
       "word": "들고",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "갈리바프",
-      "count": 2
+      "word": "발견",
+      "count": 4
     },
     {
       "word": "전쟁",
-      "count": 2
-    },
-    {
-      "word": "제막식서",
-      "count": 2
-    },
-    {
-      "word": "부러진",
-      "count": 2
+      "count": 4
     },
     {
       "word": "이치로가",
-      "count": 2
-    },
-    {
-      "word": "배로",
-      "count": 2
+      "count": 4
     },
     {
       "word": "사람",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "세계",
-      "count": 2
+      "word": "서울",
+      "count": 4
     },
     {
-      "word": "동상",
-      "count": 2
+      "word": "감독",
+      "count": 4
     },
     {
-      "word": "배트",
-      "count": 2
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "후보",
+      "count": 4
+    },
+    {
+      "word": "매출",
+      "count": 4
+    },
+    {
+      "word": "커머스",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 3
+        "count": 4
       },
       {
         "word": "이스라엘",
-        "count": 3
+        "count": 4
       },
       {
         "word": "지원금",
-        "count": 3
+        "count": 4
       },
       {
         "word": "최대",
-        "count": 2
+        "count": 3
       },
       {
         "word": "만원",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
+      {
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "시즌",
+        "count": 3
+      },
       {
         "word": "오현규",
         "count": 3
       },
       {
-        "word": "이정후",
-        "count": 2
+        "word": "우승",
+        "count": 3
       },
       {
-        "word": "시즌",
-        "count": 2
-      },
-      {
-        "word": "홈런",
-        "count": 2
-      },
-      {
-        "word": "폭발",
-        "count": 2
+        "word": "감독",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "매출",
-        "count": 2
+        "count": 4
       },
       {
         "word": "커머스",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만원",
-        "count": 1
+        "count": 2
       },
       {
         "word": "나도",
-        "count": 1
+        "count": 2
       },
       {
         "word": "받을",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "만원",
+        "count": 5
+      },
+      {
         "word": "발견",
-        "count": 2
+        "count": 3
       },
       {
         "word": "늑대",
+        "count": 3
+      },
+      {
+        "word": "들고",
+        "count": 3
+      },
+      {
+        "word": "경찰",
         "count": 2
-      },
-      {
-        "word": "만원",
-        "count": 2
-      },
-      {
-        "word": "마시고",
-        "count": 1
-      },
-      {
-        "word": "운전한",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 8
-      },
-      {
-        "word": "갈리바프",
-        "count": 2
+        "count": 13
       },
       {
         "word": "이치로가",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "협상단",
-        "count": 1
+        "word": "교황",
+        "count": 3
       },
       {
-        "word": "오폭",
-        "count": 1
+        "word": "축복",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 3
       }
     ],
     "culture": [
       {
+        "word": "옥주현",
+        "count": 3
+      },
+      {
+        "word": "한남더힐",
+        "count": 3
+      },
+      {
+        "word": "매입",
+        "count": 3
+      },
+      {
         "word": "서인영",
-        "count": 2
+        "count": 3
       },
       {
         "word": "키워준",
-        "count": 2
-      },
-      {
-        "word": "새엄마",
-        "count": 2
-      },
-      {
-        "word": "친자식",
-        "count": 2
-      },
-      {
-        "word": "낳아",
-        "count": 2
+        "count": 3
       }
     ]
   }
