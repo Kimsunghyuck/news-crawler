@@ -1,219 +1,219 @@
 {
   "date": "2026-04-12",
-  "generated_at": "2026-04-12T15:35:08.790069+09:00",
+  "generated_at": "2026-04-12T19:21:33.398122+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 9
+      "count": 15
     },
     {
       "word": "한국",
-      "count": 5
+      "count": 7
     },
     {
       "word": "호르무즈",
-      "count": 4
+      "count": 6
+    },
+    {
+      "word": "협상",
+      "count": 6
     },
     {
       "word": "결렬",
-      "count": 3
-    },
-    {
-      "word": "경기",
-      "count": 3
-    },
-    {
-      "word": "종전협상",
-      "count": 3
-    },
-    {
-      "word": "안우진",
-      "count": 3
-    },
-    {
-      "word": "시즌",
-      "count": 3
+      "count": 6
     },
     {
       "word": "남자",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "안우진",
+      "count": 5
     },
     {
       "word": "역대",
-      "count": 3
+      "count": 5
     },
     {
       "word": "최대",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "장동혁",
+      "count": 5
+    },
+    {
+      "word": "논란",
+      "count": 4
+    },
+    {
+      "word": "경기",
+      "count": 4
+    },
+    {
+      "word": "종전협상",
+      "count": 4
+    },
+    {
+      "word": "시즌",
+      "count": 4
+    },
+    {
+      "word": "패배",
+      "count": 4
+    },
+    {
+      "word": "서울",
+      "count": 4
+    },
+    {
+      "word": "남편",
+      "count": 4
     },
     {
       "word": "사망",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "귀환",
-      "count": 2
-    },
-    {
-      "word": "휴전",
-      "count": 2
-    },
-    {
-      "word": "처음",
-      "count": 2
-    },
-    {
-      "word": "해협",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "밴스",
-      "count": 2
-    },
-    {
-      "word": "합의",
-      "count": 2
-    },
-    {
-      "word": "여자축구",
-      "count": 2
+      "word": "시대",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "장동혁",
-        "count": 2
-      },
-      {
-        "word": "정원오",
-        "count": 2
-      },
-      {
-        "word": "추미애",
-        "count": 2
-      },
-      {
-        "word": "박찬대",
-        "count": 2
+        "count": 5
       },
       {
         "word": "이스라엘",
+        "count": 4
+      },
+      {
+        "word": "논란",
+        "count": 3
+      },
+      {
+        "word": "이명박",
+        "count": 3
+      },
+      {
+        "word": "안전",
         "count": 2
       }
     ],
     "sports": [
       {
         "word": "안우진",
-        "count": 3
+        "count": 5
       },
       {
         "word": "시즌",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "패배",
+        "count": 4
+      },
+      {
+        "word": "남자",
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
-      },
-      {
-        "word": "여자축구",
-        "count": 2
-      },
-      {
-        "word": "브라질에",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "덥다",
-        "count": 1
+        "word": "시대",
+        "count": 3
       },
       {
-        "word": "예보에",
-        "count": 1
+        "word": "수요",
+        "count": 3
       },
       {
-        "word": "삼성전자",
-        "count": 1
+        "word": "데이터센터",
+        "count": 2
       },
       {
-        "word": "에어컨",
-        "count": 1
+        "word": "냉각",
+        "count": 2
       },
       {
-        "word": "생산라인",
-        "count": 1
+        "word": "급증",
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "실종",
+        "count": 3
+      },
+      {
         "word": "병원",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "남편",
+        "count": 3
       },
       {
         "word": "사망",
+        "count": 3
+      },
+      {
+        "word": "패러글라이딩",
         "count": 2
-      },
-      {
-        "word": "썼던",
-        "count": 1
-      },
-      {
-        "word": "지퍼백도",
-        "count": 1
-      },
-      {
-        "word": "다시",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 9
+        "count": 15
       },
       {
         "word": "호르무즈",
-        "count": 4
+        "count": 6
+      },
+      {
+        "word": "협상",
+        "count": 6
       },
       {
         "word": "결렬",
-        "count": 3
+        "count": 6
       },
       {
         "word": "종전협상",
-        "count": 3
-      },
-      {
-        "word": "휴전",
-        "count": 2
+        "count": 4
       }
     ],
     "culture": [
       {
-        "word": "한국",
+        "word": "타쿠야",
         "count": 2
       },
       {
-        "word": "타쿠야",
-        "count": 1
-      },
-      {
         "word": "동생에게",
-        "count": 1
+        "count": 2
       },
       {
         "word": "숨긴",
-        "count": 1
+        "count": 2
       },
       {
         "word": "가족사",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "아버지",
+        "count": 2
       }
     ]
   }
