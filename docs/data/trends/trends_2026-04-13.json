@@ -1,219 +1,219 @@
 {
   "date": "2026-04-13",
-  "generated_at": "2026-04-13T15:46:06.913770+09:00",
+  "generated_at": "2026-04-13T19:39:01.922016+09:00",
   "daily_top_keywords": [
     {
-      "word": "트럼프",
-      "count": 6
-    },
-    {
       "word": "이란",
-      "count": 6
+      "count": 10
     },
     {
       "word": "남자",
-      "count": 5
+      "count": 10
+    },
+    {
+      "word": "트럼프",
+      "count": 8
     },
     {
       "word": "역대",
-      "count": 4
+      "count": 7
     },
     {
       "word": "부산",
+      "count": 7
+    },
+    {
+      "word": "막말",
+      "count": 6
+    },
+    {
+      "word": "롯데",
+      "count": 6
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "방산",
+      "count": 5
+    },
+    {
+      "word": "번째",
+      "count": 5
+    },
+    {
+      "word": "협력",
+      "count": 5
+    },
+    {
+      "word": "이명박",
+      "count": 5
+    },
+    {
+      "word": "교황",
+      "count": 4
+    },
+    {
+      "word": "봉쇄",
+      "count": 4
+    },
+    {
+      "word": "천궁",
       "count": 4
     },
     {
       "word": "빨리",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "막말",
-      "count": 3
+      "word": "요청",
+      "count": 4
     },
     {
-      "word": "롯데",
-      "count": 3
+      "word": "세계",
+      "count": 4
     },
     {
-      "word": "번째",
-      "count": 3
+      "word": "최충연",
+      "count": 4
     },
     {
-      "word": "김수미",
-      "count": 3
-    },
-    {
-      "word": "출연료",
-      "count": 3
-    },
-    {
-      "word": "고인",
-      "count": 3
-    },
-    {
-      "word": "모독",
-      "count": 3
-    },
-    {
-      "word": "방산",
-      "count": 3
-    },
-    {
-      "word": "협력",
-      "count": 3
-    },
-    {
-      "word": "한동훈",
-      "count": 3
-    },
-    {
-      "word": "만덕에",
-      "count": 3
-    },
-    {
-      "word": "출마",
-      "count": 3
-    },
-    {
-      "word": "이명박",
-      "count": 3
-    },
-    {
-      "word": "교황",
-      "count": 2
+      "word": "못한",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "부산",
-        "count": 4
+        "count": 6
+      },
+      {
+        "word": "이명박",
+        "count": 5
       },
       {
         "word": "방산",
-        "count": 3
+        "count": 4
       },
       {
         "word": "협력",
-        "count": 3
+        "count": 4
       },
       {
         "word": "한동훈",
-        "count": 3
-      },
-      {
-        "word": "만덕에",
-        "count": 3
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
+        "count": 7
+      },
+      {
+        "word": "패배",
         "count": 4
       },
       {
         "word": "롯데",
-        "count": 2
+        "count": 3
       },
       {
         "word": "마스터스",
-        "count": 2
+        "count": 3
       },
       {
         "word": "연패",
-        "count": 2
-      },
-      {
-        "word": "태권도",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "역대",
-        "count": 2
-      },
-      {
-        "word": "최대",
-        "count": 2
+        "word": "분기",
+        "count": 4
       },
       {
         "word": "삼성",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "전기차",
-        "count": 1
+        "word": "역대",
+        "count": 3
       },
       {
-        "word": "타이어",
-        "count": 1
+        "word": "최대",
+        "count": 3
+      },
+      {
+        "word": "환율",
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "반짝",
-        "count": 2
+        "word": "롯데",
+        "count": 3
       },
       {
-        "word": "수사",
-        "count": 2
+        "word": "최충연",
+        "count": 3
       },
       {
-        "word": "봄꽃",
-        "count": 1
+        "word": "타이어보다",
+        "count": 3
       },
       {
-        "word": "나들이객",
-        "count": 1
+        "word": "못한",
+        "count": 3
       },
       {
-        "word": "사로잡는",
-        "count": 1
+        "word": "뚱녀",
+        "count": 3
       }
     ],
     "international": [
       {
-        "word": "트럼프",
-        "count": 6
+        "word": "이란",
+        "count": 10
       },
       {
-        "word": "이란",
-        "count": 6
+        "word": "트럼프",
+        "count": 8
       },
       {
         "word": "교황",
-        "count": 2
+        "count": 4
       },
       {
         "word": "봉쇄",
-        "count": 2
+        "count": 4
       },
       {
         "word": "천궁",
-        "count": 2
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "김수미",
-        "count": 2
+        "count": 3
       },
       {
         "word": "출연료",
-        "count": 2
+        "count": 3
       },
       {
         "word": "고인",
-        "count": 2
+        "count": 3
       },
       {
         "word": "모독",
-        "count": 2
+        "count": 3
       },
       {
         "word": "연예협회",
-        "count": 2
+        "count": 3
       }
     ]
   }
