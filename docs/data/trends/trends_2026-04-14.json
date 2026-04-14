@@ -1,13 +1,220 @@
 {
   "date": "2026-04-14",
-  "generated_at": "2026-04-14T09:52:14.381099+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-04-14T15:38:05.163815+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 5
+    },
+    {
+      "word": "호르무즈",
+      "count": 3
+    },
+    {
+      "word": "손흥민",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "감독",
+      "count": 3
+    },
+    {
+      "word": "로봇",
+      "count": 3
+    },
+    {
+      "word": "등굣길",
+      "count": 2
+    },
+    {
+      "word": "시신으로",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "있어",
+      "count": 2
+    },
+    {
+      "word": "군함",
+      "count": 2
+    },
+    {
+      "word": "협상",
+      "count": 2
+    },
+    {
+      "word": "남성",
+      "count": 2
+    },
+    {
+      "word": "논란",
+      "count": 2
+    },
+    {
+      "word": "한화",
+      "count": 2
+    },
+    {
+      "word": "손아섭",
+      "count": 2
+    },
+    {
+      "word": "트레이드",
+      "count": 2
+    },
+    {
+      "word": "개막",
+      "count": 2
+    },
+    {
+      "word": "멕시코",
+      "count": 2
+    },
+    {
+      "word": "고지대",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "선거",
+        "count": 2
+      },
+      {
+        "word": "웬만한건",
+        "count": 1
+      },
+      {
+        "word": "형벌로",
+        "count": 1
+      },
+      {
+        "word": "처리하니",
+        "count": 1
+      },
+      {
+        "word": "사법권력",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "한화",
+        "count": 2
+      },
+      {
+        "word": "손아섭",
+        "count": 2
+      },
+      {
+        "word": "트레이드",
+        "count": 2
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "멕시코",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "로봇",
+        "count": 3
+      },
+      {
+        "word": "국민성장펀드",
+        "count": 2
+      },
+      {
+        "word": "새만금",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "바이오",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "늑구",
+        "count": 2
+      },
+      {
+        "word": "주운",
+        "count": 1
+      },
+      {
+        "word": "신분증으로",
+        "count": 1
+      },
+      {
+        "word": "년간",
+        "count": 1
+      },
+      {
+        "word": "타인",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "호르무즈",
+        "count": 3
+      },
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "등굣길",
+        "count": 2
+      },
+      {
+        "word": "시신으로",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "감독",
+        "count": 2
+      },
+      {
+        "word": "하춘화",
+        "count": 2
+      },
+      {
+        "word": "치매",
+        "count": 2
+      },
+      {
+        "word": "옥경이에",
+        "count": 2
+      },
+      {
+        "word": "거금",
+        "count": 2
+      }
+    ]
   }
 }
