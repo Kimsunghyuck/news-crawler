@@ -1,9 +1,73 @@
 {
   "date": "2026-04-15",
-  "generated_at": "2026-04-15T15:40:47.762334+09:00",
+  "generated_at": "2026-04-15T19:35:11.395821+09:00",
   "daily_top_keywords": [
     {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "결혼",
+      "count": 7
+    },
+    {
+      "word": "전쟁",
+      "count": 5
+    },
+    {
+      "word": "발칵",
+      "count": 5
+    },
+    {
       "word": "감독",
+      "count": 5
+    },
+    {
+      "word": "남자",
+      "count": 5
+    },
+    {
+      "word": "문채원",
+      "count": 5
+    },
+    {
+      "word": "국힘",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "이스라엘",
+      "count": 4
+    },
+    {
+      "word": "거의",
+      "count": 4
+    },
+    {
+      "word": "주말",
+      "count": 4
+    },
+    {
+      "word": "북중미컵",
+      "count": 4
+    },
+    {
+      "word": "강행",
+      "count": 4
+    },
+    {
+      "word": "집중",
+      "count": 4
+    },
+    {
+      "word": "반도체",
+      "count": 4
+    },
+    {
+      "word": "연극",
       "count": 4
     },
     {
@@ -11,82 +75,26 @@
       "count": 4
     },
     {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "전쟁",
-      "count": 3
-    },
-    {
-      "word": "발칵",
-      "count": 3
-    },
-    {
-      "word": "결혼",
-      "count": 3
-    },
-    {
-      "word": "연말까지",
-      "count": 3
-    },
-    {
-      "word": "확보",
-      "count": 3
-    },
-    {
-      "word": "거의",
-      "count": 2
+      "word": "고성국",
+      "count": 4
     },
     {
       "word": "끝났다",
-      "count": 2
-    },
-    {
-      "word": "막은",
-      "count": 2
-    },
-    {
-      "word": "이스라엘군",
-      "count": 2
-    },
-    {
-      "word": "병원",
-      "count": 2
-    },
-    {
-      "word": "만에",
-      "count": 2
-    },
-    {
-      "word": "주말",
-      "count": 2
-    },
-    {
-      "word": "손흥민",
-      "count": 2
-    },
-    {
-      "word": "북중미컵",
-      "count": 2
-    },
-    {
-      "word": "시계",
-      "count": 2
-    },
-    {
-      "word": "강행",
-      "count": 2
-    },
-    {
-      "word": "남자",
-      "count": 2
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "국힘",
+        "count": 5
+      },
+      {
         "word": "강훈식",
+        "count": 4
+      },
+      {
+        "word": "고성국",
         "count": 4
       },
       {
@@ -96,58 +104,50 @@
       {
         "word": "확보",
         "count": 3
-      },
-      {
-        "word": "나프타",
-        "count": 2
-      },
-      {
-        "word": "원유",
-        "count": 2
       }
     ],
     "sports": [
       {
-        "word": "손흥민",
-        "count": 2
+        "word": "남자",
+        "count": 5
       },
       {
         "word": "북중미컵",
-        "count": 2
-      },
-      {
-        "word": "감독",
-        "count": 2
+        "count": 4
       },
       {
         "word": "강행",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "남자",
-        "count": 2
+        "word": "손흥민",
+        "count": 3
+      },
+      {
+        "word": "감독",
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "반도체",
+        "count": 4
+      },
+      {
         "word": "전자",
-        "count": 2
+        "count": 3
       },
       {
         "word": "글로벌",
+        "count": 3
+      },
+      {
+        "word": "부동산",
         "count": 2
       },
       {
-        "word": "반도체",
+        "word": "호르무즈에",
         "count": 2
-      },
-      {
-        "word": "한국에너지공단",
-        "count": 1
-      },
-      {
-        "word": "국민",
-        "count": 1
       }
     ],
     "society": [
@@ -156,63 +156,63 @@
         "count": 2
       },
       {
+        "word": "검찰",
+        "count": 2
+      },
+      {
+        "word": "폭행",
+        "count": 2
+      },
+      {
         "word": "도서관",
         "count": 2
       },
       {
-        "word": "년만의",
-        "count": 1
-      },
-      {
-        "word": "아기",
-        "count": 1
-      },
-      {
-        "word": "울음소리",
-        "count": 1
+        "word": "교사",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 7
       },
       {
         "word": "전쟁",
-        "count": 3
+        "count": 5
       },
       {
         "word": "거의",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "끝났다",
-        "count": 2
+        "word": "만에",
+        "count": 3
       },
       {
-        "word": "병원",
-        "count": 2
+        "word": "이스라엘",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "문채원",
-        "count": 2
+        "count": 5
       },
       {
         "word": "결혼",
-        "count": 2
+        "count": 5
       },
       {
         "word": "연극",
+        "count": 4
+      },
+      {
+        "word": "신랑은",
         "count": 2
       },
       {
-        "word": "전한",
-        "count": 2
-      },
-      {
-        "word": "근황",
+        "word": "비연예인",
         "count": 2
       }
     ]
