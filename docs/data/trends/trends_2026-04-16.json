@@ -1,197 +1,197 @@
 {
   "date": "2026-04-16",
-  "generated_at": "2026-04-16T15:47:08.943278+09:00",
+  "generated_at": "2026-04-16T19:36:35.654092+09:00",
   "daily_top_keywords": [
     {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "아파트",
-      "count": 2
-    },
-    {
-      "word": "현금",
-      "count": 2
+      "word": "이란",
+      "count": 6
     },
     {
       "word": "무기",
-      "count": 2
-    },
-    {
-      "word": "다시",
-      "count": 2
-    },
-    {
-      "word": "비극",
-      "count": 2
-    },
-    {
-      "word": "이란",
-      "count": 2
-    },
-    {
-      "word": "돌파",
-      "count": 2
-    },
-    {
-      "word": "김혜성",
-      "count": 2
-    },
-    {
-      "word": "시즌",
-      "count": 2
-    },
-    {
-      "word": "홈런",
-      "count": 2
-    },
-    {
-      "word": "서울",
-      "count": 2
+      "count": 5
     },
     {
       "word": "남자",
-      "count": 2
-    },
-    {
-      "word": "추진",
-      "count": 2
-    },
-    {
-      "word": "산업",
-      "count": 2
+      "count": 5
     },
     {
       "word": "검토",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "그림",
-      "count": 2
+      "word": "다시",
+      "count": 4
     },
     {
-      "word": "국민",
-      "count": 2
+      "word": "이번엔",
+      "count": 4
     },
     {
-      "word": "꾸민",
-      "count": 2
+      "word": "호르무즈",
+      "count": 4
     },
     {
-      "word": "대통령",
-      "count": 2
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "맨몸으로",
+      "count": 3
+    },
+    {
+      "word": "교장",
+      "count": 3
+    },
+    {
+      "word": "고교",
+      "count": 3
+    },
+    {
+      "word": "사우디",
+      "count": 3
+    },
+    {
+      "word": "민주당",
+      "count": 3
+    },
+    {
+      "word": "이스라엘",
+      "count": 3
+    },
+    {
+      "word": "레바논",
+      "count": 3
+    },
+    {
+      "word": "휴전",
+      "count": 3
+    },
+    {
+      "word": "돌파",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "김혜성",
+      "count": 3
+    },
+    {
+      "word": "시즌",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 2
+        "count": 3
       },
       {
         "word": "일부터",
-        "count": 2
+        "count": 3
       },
       {
         "word": "인도",
-        "count": 2
+        "count": 3
       },
       {
         "word": "베트남",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "위성",
-        "count": 2
+        "word": "호르무즈",
+        "count": 3
       }
     ],
     "sports": [
       {
+        "word": "남자",
+        "count": 4
+      },
+      {
         "word": "한국",
-        "count": 2
+        "count": 3
       },
       {
         "word": "김혜성",
-        "count": 2
+        "count": 3
       },
       {
         "word": "시즌",
-        "count": 2
+        "count": 3
       },
       {
         "word": "홈런",
-        "count": 2
-      },
-      {
-        "word": "남자",
         "count": 2
       }
     ],
     "economy": [
       {
-        "word": "땅콩버터",
-        "count": 1
+        "word": "사업",
+        "count": 3
       },
       {
-        "word": "열풍",
-        "count": 1
+        "word": "인수",
+        "count": 3
       },
       {
-        "word": "다음은",
-        "count": 1
+        "word": "신청",
+        "count": 2
       },
       {
-        "word": "피넛트라",
-        "count": 1
+        "word": "산업",
+        "count": 2
       },
       {
-        "word": "땅콩",
-        "count": 1
+        "word": "핵심",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "국립농산물품질관리원",
-        "count": 1
+        "word": "이란",
+        "count": 3
       },
       {
-        "word": "우수사례",
-        "count": 1
+        "word": "수사",
+        "count": 3
       },
       {
-        "word": "경진대회",
-        "count": 1
+        "word": "논란",
+        "count": 2
       },
       {
-        "word": "개최로",
-        "count": 1
+        "word": "특검보",
+        "count": 2
       },
       {
-        "word": "인증",
-        "count": 1
+        "word": "다른",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "무기",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "코첼라",
-        "count": 1
+        "word": "맨몸으로",
+        "count": 3
       },
       {
-        "word": "인증샷",
-        "count": 1
+        "word": "교장",
+        "count": 3
       },
       {
-        "word": "쏟아지더니",
-        "count": 1
+        "word": "고교",
+        "count": 3
       },
       {
-        "word": "인플루언서",
-        "count": 1
+        "word": "이스라엘",
+        "count": 3
       }
     ],
     "culture": [
@@ -200,20 +200,20 @@
         "count": 2
       },
       {
+        "word": "드리는",
+        "count": 2
+      },
+      {
+        "word": "다시",
+        "count": 2
+      },
+      {
         "word": "꾸민",
         "count": 2
       },
       {
-        "word": "만원짜리",
-        "count": 1
-      },
-      {
-        "word": "복권",
-        "count": 1
-      },
-      {
-        "word": "샀다가",
-        "count": 1
+        "word": "너무",
+        "count": 2
       }
     ]
   }
