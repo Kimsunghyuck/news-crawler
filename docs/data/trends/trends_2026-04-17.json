@@ -1,219 +1,219 @@
 {
   "date": "2026-04-17",
-  "generated_at": "2026-04-17T15:39:46.937747+09:00",
+  "generated_at": "2026-04-17T19:32:50.931860+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "만에",
+      "count": 6
+    },
+    {
+      "word": "호르무즈",
+      "count": 5
+    },
+    {
+      "word": "회사",
+      "count": 5
+    },
+    {
+      "word": "결국",
+      "count": 5
+    },
+    {
+      "word": "늑구",
+      "count": 5
+    },
+    {
+      "word": "복귀",
+      "count": 5
+    },
+    {
+      "word": "국힘",
       "count": 5
     },
     {
       "word": "후보",
+      "count": 5
+    },
+    {
+      "word": "장동혁",
+      "count": 5
+    },
+    {
+      "word": "귀국",
+      "count": 5
+    },
+    {
+      "word": "사흘",
+      "count": 5
+    },
+    {
+      "word": "국무부",
+      "count": 5
+    },
+    {
+      "word": "유조선",
       "count": 4
     },
     {
-      "word": "호르무즈",
-      "count": 3
-    },
-    {
-      "word": "결국",
-      "count": 3
-    },
-    {
-      "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "복귀",
-      "count": 3
-    },
-    {
-      "word": "유영하",
-      "count": 3
-    },
-    {
-      "word": "대구시장",
-      "count": 3
-    },
-    {
-      "word": "교황",
-      "count": 2
-    },
-    {
       "word": "몰라",
-      "count": 2
+      "count": 4
     },
     {
       "word": "제거",
-      "count": 2
-    },
-    {
-      "word": "감독",
-      "count": 2
-    },
-    {
-      "word": "회사",
-      "count": 2
+      "count": 4
     },
     {
       "word": "직원",
-      "count": 2
-    },
-    {
-      "word": "신발",
-      "count": 2
-    },
-    {
-      "word": "사건",
-      "count": 2
-    },
-    {
-      "word": "자격",
-      "count": 2
+      "count": 4
     },
     {
       "word": "흥국생명",
-      "count": 2
-    },
-    {
-      "word": "정호영",
-      "count": 2
+      "count": 4
     },
     {
       "word": "영입",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "후보",
-        "count": 4
-      },
-      {
-        "word": "유영하",
-        "count": 3
-      },
-      {
-        "word": "대구시장",
-        "count": 3
-      },
-      {
-        "word": "추경호",
-        "count": 2
-      },
-      {
         "word": "국힘",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "후보",
+        "count": 5
+      },
+      {
+        "word": "장동혁",
+        "count": 5
+      },
+      {
+        "word": "귀국",
+        "count": 5
+      },
+      {
+        "word": "사흘",
+        "count": 5
       }
     ],
     "sports": [
       {
         "word": "흥국생명",
-        "count": 2
-      },
-      {
-        "word": "정호영",
-        "count": 2
+        "count": 4
       },
       {
         "word": "영입",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "사구",
-        "count": 1
+        "word": "정호영",
+        "count": 3
+      },
+      {
+        "word": "연패",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "시지바이오",
-        "count": 1
+        "word": "금융",
+        "count": 2
       },
       {
-        "word": "디클래시",
-        "count": 1
+        "word": "진행",
+        "count": 2
       },
       {
-        "word": "임상",
-        "count": 1
+        "word": "시대",
+        "count": 2
       },
       {
-        "word": "승인",
-        "count": 1
+        "word": "액티브",
+        "count": 2
       },
       {
-        "word": "스킨부스터",
-        "count": 1
+        "word": "돌파",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "늑구",
+        "count": 4
+      },
+      {
+        "word": "아내",
+        "count": 3
+      },
+      {
+        "word": "살해한",
         "count": 2
       },
       {
-        "word": "남원",
-        "count": 1
+        "word": "신혼집에",
+        "count": 2
       },
       {
-        "word": "다리서",
-        "count": 1
-      },
-      {
-        "word": "실족한",
-        "count": 1
-      },
-      {
-        "word": "아래로",
-        "count": 1
+        "word": "홈캠",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
+        "count": 5
       },
       {
         "word": "교황",
+        "count": 3
+      },
+      {
+        "word": "이란",
         "count": 2
       },
       {
-        "word": "몇개인지",
-        "count": 1
+        "word": "전자담배",
+        "count": 2
       },
       {
-        "word": "필수",
-        "count": 1
-      },
-      {
-        "word": "케밥",
-        "count": 1
+        "word": "이란도",
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "칼럼니스트",
-        "count": 2
+        "word": "결혼",
+        "count": 4
       },
       {
-        "word": "결혼",
-        "count": 2
+        "word": "칼럼니스트",
+        "count": 3
       },
       {
         "word": "복귀",
-        "count": 2
+        "count": 3
       },
       {
         "word": "가수",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "피부",
-        "count": 1
+        "word": "한국문화관광연구원장",
+        "count": 2
       }
     ]
   }
