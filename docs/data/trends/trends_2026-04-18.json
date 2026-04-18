@@ -1,219 +1,219 @@
 {
   "date": "2026-04-18",
-  "generated_at": "2026-04-18T15:27:42.554933+09:00",
+  "generated_at": "2026-04-18T19:22:06.379097+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 6
+      "count": 11
     },
     {
       "word": "국힘",
-      "count": 6
+      "count": 9
     },
     {
       "word": "트럼프",
-      "count": 5
+      "count": 8
     },
     {
       "word": "호르무즈",
-      "count": 4
-    },
-    {
-      "word": "우려",
-      "count": 4
-    },
-    {
-      "word": "개방",
-      "count": 3
-    },
-    {
-      "word": "남자",
-      "count": 3
-    },
-    {
-      "word": "서울시장",
-      "count": 3
+      "count": 8
     },
     {
       "word": "후보",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "합의",
-      "count": 2
-    },
-    {
-      "word": "수도",
-      "count": 2
-    },
-    {
-      "word": "당근",
-      "count": 2
-    },
-    {
-      "word": "열릴",
-      "count": 2
-    },
-    {
-      "word": "폭탄",
-      "count": 2
-    },
-    {
-      "word": "분에",
-      "count": 2
-    },
-    {
-      "word": "부족",
-      "count": 2
-    },
-    {
-      "word": "아이스하키",
-      "count": 2
+      "word": "개방",
+      "count": 5
     },
     {
       "word": "패배",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "년간",
-      "count": 2
+      "word": "남자",
+      "count": 5
     },
     {
       "word": "확정",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "우려",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "장특공제",
+      "count": 5
+    },
+    {
+      "word": "폐지가",
+      "count": 5
+    },
+    {
+      "word": "주택자",
+      "count": 5
+    },
+    {
+      "word": "오세훈",
+      "count": 5
+    },
+    {
+      "word": "당근",
+      "count": 4
+    },
+    {
+      "word": "해협",
+      "count": 4
+    },
+    {
+      "word": "분에",
+      "count": 4
+    },
+    {
+      "word": "부족",
+      "count": 4
+    },
+    {
+      "word": "조롱",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
-        "count": 6
-      },
-      {
-        "word": "우려",
-        "count": 3
-      },
-      {
-        "word": "서울시장",
-        "count": 3
+        "count": 9
       },
       {
         "word": "후보",
-        "count": 3
+        "count": 7
       },
       {
-        "word": "김용",
-        "count": 2
+        "word": "대통령",
+        "count": 5
+      },
+      {
+        "word": "장특공제",
+        "count": 5
+      },
+      {
+        "word": "폐지가",
+        "count": 5
       }
     ],
     "sports": [
       {
-        "word": "아이스하키",
-        "count": 2
+        "word": "패배",
+        "count": 5
       },
       {
-        "word": "패배",
-        "count": 2
+        "word": "아이스하키",
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "여자",
-        "count": 1
+        "count": 2
       },
       {
         "word": "카자흐스탄에",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "달러",
-        "count": 2
+        "count": 4
       },
       {
         "word": "숨은",
-        "count": 2
+        "count": 4
       },
       {
         "word": "저비용항공사",
-        "count": 1
+        "count": 2
       },
       {
         "word": "유류할증료",
-        "count": 1
+        "count": 2
       },
       {
         "word": "급등",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "유명",
-        "count": 2
-      },
-      {
         "word": "마약",
-        "count": 2
+        "count": 3
       },
       {
         "word": "성추행",
-        "count": 2
+        "count": 3
       },
       {
         "word": "혐의",
-        "count": 2
+        "count": 3
       },
       {
         "word": "걸그룹",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "멤버",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 5
-      },
-      {
-        "word": "트럼프",
-        "count": 4
-      },
-      {
-        "word": "개방",
-        "count": 3
+        "count": 9
       },
       {
         "word": "호르무즈",
-        "count": 3
+        "count": 7
       },
       {
-        "word": "합의",
-        "count": 2
+        "word": "트럼프",
+        "count": 6
+      },
+      {
+        "word": "개방",
+        "count": 5
+      },
+      {
+        "word": "당근",
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "먼저",
-        "count": 2
+        "count": 4
       },
       {
         "word": "임성한",
-        "count": 2
+        "count": 3
       },
       {
         "word": "작가",
-        "count": 2
+        "count": 3
       },
       {
         "word": "셔터를",
-        "count": 1
+        "count": 2
       },
       {
         "word": "누르기",
-        "count": 1
+        "count": 2
       }
     ]
   }
