@@ -1,219 +1,219 @@
 {
   "date": "2026-04-19",
-  "generated_at": "2026-04-19T15:38:27.968885+09:00",
+  "generated_at": "2026-04-19T19:21:58.708048+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 7
+      "count": 13
     },
     {
       "word": "호르무즈",
-      "count": 5
-    },
-    {
-      "word": "선박",
-      "count": 3
-    },
-    {
-      "word": "혁명수비대",
-      "count": 3
-    },
-    {
-      "word": "협상",
-      "count": 3
+      "count": 10
     },
     {
       "word": "패배",
-      "count": 3
-    },
-    {
-      "word": "재봉쇄",
-      "count": 3
-    },
-    {
-      "word": "남자",
-      "count": 3
+      "count": 6
     },
     {
       "word": "연속",
-      "count": 3
-    },
-    {
-      "word": "보인다",
-      "count": 3
-    },
-    {
-      "word": "김세영",
-      "count": 3
-    },
-    {
-      "word": "챔피언십",
-      "count": 3
-    },
-    {
-      "word": "달러",
-      "count": 3
-    },
-    {
-      "word": "만원",
-      "count": 3
-    },
-    {
-      "word": "세계",
-      "count": 2
-    },
-    {
-      "word": "연계",
-      "count": 2
-    },
-    {
-      "word": "나포작전",
-      "count": 2
-    },
-    {
-      "word": "개시",
-      "count": 2
-    },
-    {
-      "word": "논란",
-      "count": 2
+      "count": 6
     },
     {
       "word": "트럼프",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "남자",
+      "count": 5
+    },
+    {
+      "word": "달러",
+      "count": 5
+    },
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "특별감찰관",
+      "count": 5
+    },
+    {
+      "word": "세계",
+      "count": 4
+    },
+    {
+      "word": "선박",
+      "count": 4
+    },
+    {
+      "word": "참여",
+      "count": 4
+    },
+    {
+      "word": "혁명수비대",
+      "count": 4
+    },
+    {
+      "word": "재봉쇄",
+      "count": 4
+    },
+    {
+      "word": "경기",
+      "count": 4
+    },
+    {
+      "word": "안타",
+      "count": 4
+    },
+    {
+      "word": "보인다",
+      "count": 4
+    },
+    {
+      "word": "김세영",
+      "count": 4
+    },
+    {
+      "word": "챔피언십",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "홍준표",
-        "count": 2
+        "word": "특별감찰관",
+        "count": 5
       },
       {
-        "word": "오찬",
-        "count": 2
+        "word": "국회에",
+        "count": 4
       },
       {
-        "word": "총리설에",
-        "count": 2
+        "word": "대통령",
+        "count": 4
       },
       {
         "word": "이명박이란",
-        "count": 2
+        "count": 4
       },
       {
         "word": "놈이",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "연속",
-        "count": 3
-      },
-      {
-        "word": "보인다",
-        "count": 3
-      },
-      {
-        "word": "김세영",
-        "count": 3
-      },
-      {
-        "word": "챔피언십",
-        "count": 3
+        "count": 6
       },
       {
         "word": "경기",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "안타",
+        "count": 4
+      },
+      {
+        "word": "패배",
+        "count": 4
+      },
+      {
+        "word": "보인다",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "달러",
-        "count": 3
+        "count": 5
       },
       {
         "word": "만원",
-        "count": 3
-      },
-      {
-        "word": "최대",
-        "count": 2
-      },
-      {
-        "word": "전략",
-        "count": 2
+        "count": 5
       },
       {
         "word": "은퇴",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "최대",
+        "count": 3
+      },
+      {
+        "word": "전략",
+        "count": 3
       }
     ],
     "society": [
+      {
+        "word": "연구관",
+        "count": 2
+      },
+      {
+        "word": "헌재",
+        "count": 2
+      },
+      {
+        "word": "논란",
+        "count": 2
+      },
       {
         "word": "높은",
         "count": 2
       },
       {
-        "word": "서울시",
-        "count": 1
-      },
-      {
-        "word": "비전",
-        "count": 1
-      },
-      {
-        "word": "펀드",
-        "count": 1
-      },
-      {
-        "word": "상반기",
-        "count": 1
+        "word": "끊기고",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 6
+        "count": 12
       },
       {
         "word": "호르무즈",
-        "count": 4
+        "count": 9
       },
       {
-        "word": "세계",
-        "count": 2
-      },
-      {
-        "word": "연계",
-        "count": 2
+        "word": "트럼프",
+        "count": 5
       },
       {
         "word": "선박",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "개방",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "송중기",
-        "count": 2
+        "count": 4
       },
       {
         "word": "일정",
-        "count": 2
+        "count": 4
       },
       {
         "word": "아리랑",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "한국인이",
-        "count": 1
+        "word": "참여",
+        "count": 3
       },
       {
-        "word": "지난",
-        "count": 1
+        "word": "도쿄돔",
+        "count": 3
       }
     ]
   }
