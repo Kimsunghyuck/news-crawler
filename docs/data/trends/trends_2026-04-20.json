@@ -1,219 +1,219 @@
 {
   "date": "2026-04-20",
-  "generated_at": "2026-04-20T15:46:56.965403+09:00",
+  "generated_at": "2026-04-20T19:41:34.855990+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
-      "count": 5
-    },
-    {
-      "word": "논란",
-      "count": 4
+      "count": 9
     },
     {
       "word": "남자",
-      "count": 4
+      "count": 7
     },
     {
       "word": "우승",
+      "count": 7
+    },
+    {
+      "word": "논란",
+      "count": 6
+    },
+    {
+      "word": "장동혁",
+      "count": 6
+    },
+    {
+      "word": "호르무즈",
+      "count": 5
+    },
+    {
+      "word": "단체전",
+      "count": 5
+    },
+    {
+      "word": "김세영",
+      "count": 5
+    },
+    {
+      "word": "연장",
+      "count": 5
+    },
+    {
+      "word": "그린",
+      "count": 5
+    },
+    {
+      "word": "드라마",
+      "count": 5
+    },
+    {
+      "word": "유럽",
+      "count": 4
+    },
+    {
+      "word": "경보",
       "count": 4
     },
     {
       "word": "사진",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "호르무즈",
-      "count": 3
-    },
-    {
-      "word": "단체전",
-      "count": 3
-    },
-    {
-      "word": "그린",
-      "count": 3
-    },
-    {
-      "word": "드라마",
-      "count": 3
-    },
-    {
-      "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "최대",
-      "count": 3
-    },
-    {
-      "word": "장동혁",
-      "count": 3
-    },
-    {
-      "word": "비행기",
-      "count": 2
-    },
-    {
-      "word": "요격",
-      "count": 2
-    },
-    {
-      "word": "보복",
-      "count": 2
-    },
-    {
-      "word": "예수상",
-      "count": 2
+      "word": "배럴",
+      "count": 4
     },
     {
       "word": "한국",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "닮은",
-      "count": 2
+      "word": "까닭",
+      "count": 4
     },
     {
-      "word": "경제",
-      "count": 2
+      "word": "임진희",
+      "count": 4
     },
     {
-      "word": "나포에",
-      "count": 2
+      "word": "챔피언십",
+      "count": 4
+    },
+    {
+      "word": "준우승",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "장동혁",
-        "count": 3
-      },
-      {
-        "word": "정청래",
-        "count": 2
-      },
-      {
-        "word": "한동훈",
-        "count": 2
-      },
-      {
-        "word": "악마의",
-        "count": 2
+        "count": 6
       },
       {
         "word": "대체",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "이재명",
+        "count": 4
+      },
+      {
+        "word": "만납니까",
+        "count": 4
+      },
+      {
+        "word": "용산",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 4
+        "count": 7
       },
       {
         "word": "우승",
-        "count": 4
+        "count": 7
       },
       {
         "word": "단체전",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "사브르",
-        "count": 2
+        "word": "김세영",
+        "count": 5
       },
       {
-        "word": "파도바",
-        "count": 2
+        "word": "연장",
+        "count": 5
       }
     ],
     "economy": [
       {
+        "word": "현장",
+        "count": 4
+      },
+      {
         "word": "최대",
+        "count": 3
+      },
+      {
+        "word": "올리브영",
+        "count": 3
+      },
+      {
+        "word": "오비맥주",
         "count": 2
       },
       {
-        "word": "삼성",
-        "count": 1
-      },
-      {
-        "word": "벤츠와",
-        "count": 1
-      },
-      {
-        "word": "배터리",
-        "count": 1
-      },
-      {
-        "word": "공급",
-        "count": 1
+        "word": "역대",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "경기",
-        "count": 1
+        "word": "중국",
+        "count": 3
       },
       {
-        "word": "평택시",
-        "count": 1
+        "word": "멧돼지가",
+        "count": 2
       },
       {
-        "word": "공공산후조리원",
-        "count": 1
+        "word": "화장실",
+        "count": 2
       },
       {
-        "word": "연다",
-        "count": 1
+        "word": "쿵쿵",
+        "count": 2
       },
       {
-        "word": "나이",
-        "count": 1
+        "word": "아수라장",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 4
+        "count": 8
+      },
+      {
+        "word": "일본",
+        "count": 3
       },
       {
         "word": "논란",
         "count": 3
       },
       {
-        "word": "비행기",
-        "count": 2
+        "word": "협상",
+        "count": 3
       },
       {
-        "word": "요격",
-        "count": 2
-      },
-      {
-        "word": "보복",
-        "count": 2
+        "word": "규모",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "만에",
-        "count": 2
+        "word": "드라마",
+        "count": 4
       },
       {
-        "word": "드라마",
-        "count": 2
+        "word": "무대",
+        "count": 3
       },
       {
         "word": "국립현대미술관",
-        "count": 1
+        "count": 2
       },
       {
         "word": "과천관",
-        "count": 1
+        "count": 2
       },
       {
         "word": "상설전",
-        "count": 1
+        "count": 2
       }
     ]
   }
