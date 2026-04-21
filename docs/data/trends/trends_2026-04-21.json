@@ -1,219 +1,219 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21T15:40:09.246720+09:00",
+  "generated_at": "2026-04-21T19:37:13.558048+09:00",
   "daily_top_keywords": [
     {
       "word": "만에",
-      "count": 5
-    },
-    {
-      "word": "이란",
-      "count": 3
-    },
-    {
-      "word": "끊기나",
-      "count": 3
-    },
-    {
-      "word": "국힘",
-      "count": 3
-    },
-    {
-      "word": "대신",
-      "count": 2
+      "count": 8
     },
     {
       "word": "사망",
-      "count": 2
+      "count": 6
     },
     {
-      "word": "트럼프",
-      "count": 2
+      "word": "이란",
+      "count": 5
     },
     {
-      "word": "풀었다",
-      "count": 2
+      "word": "국힘",
+      "count": 5
     },
     {
-      "word": "사우디",
-      "count": 2
+      "word": "살해",
+      "count": 4
     },
     {
-      "word": "나선",
-      "count": 2
+      "word": "끊기나",
+      "count": 4
     },
     {
-      "word": "팬들",
-      "count": 2
+      "word": "논란",
+      "count": 4
     },
     {
-      "word": "박지성부터",
-      "count": 2
-    },
-    {
-      "word": "역사",
-      "count": 2
+      "word": "한화",
+      "count": 4
     },
     {
       "word": "남자",
-      "count": 2
+      "count": 4
     },
     {
       "word": "최고",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "추진",
-      "count": 2
+      "word": "복귀",
+      "count": 4
     },
     {
-      "word": "방시혁",
-      "count": 2
+      "word": "건설",
+      "count": 4
     },
     {
-      "word": "되나",
-      "count": 2
+      "word": "급증",
+      "count": 4
     },
     {
-      "word": "재산",
-      "count": 2
+      "word": "예정",
+      "count": 4
     },
     {
-      "word": "만원",
-      "count": 2
+      "word": "도전",
+      "count": 4
+    },
+    {
+      "word": "장동혁",
+      "count": 4
+    },
+    {
+      "word": "정원오",
+      "count": 4
+    },
+    {
+      "word": "만명",
+      "count": 3
+    },
+    {
+      "word": "가수",
+      "count": 3
+    },
+    {
+      "word": "트렁크에",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
-        "count": 3
+        "count": 5
       },
       {
         "word": "장동혁",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "대체",
-        "count": 2
+        "word": "정원오",
+        "count": 4
       },
       {
-        "word": "이재명",
-        "count": 2
+        "word": "장특공",
+        "count": 3
       },
       {
-        "word": "만납니까",
-        "count": 2
+        "word": "논란에",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "만에",
-        "count": 3
+        "count": 5
       },
       {
         "word": "끊기나",
-        "count": 3
-      },
-      {
-        "word": "박지성부터",
-        "count": 2
-      },
-      {
-        "word": "역사",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "박지성부터",
+        "count": 3
+      },
+      {
+        "word": "역사",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "건설",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "예정",
+        "count": 4
       },
       {
         "word": "인도",
         "count": 2
       },
       {
-        "word": "예정",
+        "word": "한계",
         "count": 2
       },
       {
-        "word": "재생에너지",
-        "count": 1
-      },
-      {
-        "word": "시장",
-        "count": 1
+        "word": "현대차",
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "여성",
+        "count": 3
+      },
+      {
+        "word": "방시혁",
+        "count": 3
+      },
       {
         "word": "추진",
         "count": 2
       },
       {
-        "word": "방시혁",
-        "count": 2
-      },
-      {
-        "word": "중증",
-        "count": 1
-      },
-      {
-        "word": "장애인",
-        "count": 1
-      },
-      {
-        "word": "방문치과진료",
-        "count": 1
-      }
-    ],
-    "international": [
-      {
-        "word": "이란",
-        "count": 3
-      },
-      {
-        "word": "대신",
+        "word": "미세먼지",
         "count": 2
       },
       {
         "word": "사망",
         "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 5
       },
       {
-        "word": "트럼프",
-        "count": 2
+        "word": "사망",
+        "count": 4
+      },
+      {
+        "word": "가수",
+        "count": 3
+      },
+      {
+        "word": "트렁크에",
+        "count": 3
       },
       {
         "word": "사우디",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
+      {
+        "word": "논란",
+        "count": 3
+      },
+      {
+        "word": "결혼",
+        "count": 3
+      },
+      {
+        "word": "몰라",
+        "count": 3
+      },
       {
         "word": "아내",
         "count": 2
       },
       {
-        "word": "논란",
+        "word": "솔로",
         "count": 2
-      },
-      {
-        "word": "에일리",
-        "count": 1
-      },
-      {
-        "word": "시험관",
-        "count": 1
-      },
-      {
-        "word": "실패",
-        "count": 1
       }
     ]
   }
