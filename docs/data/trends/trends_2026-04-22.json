@@ -1,9 +1,29 @@
 {
   "date": "2026-04-22",
-  "generated_at": "2026-04-22T15:47:31.136060+09:00",
+  "generated_at": "2026-04-22T19:37:24.795346+09:00",
   "daily_top_keywords": [
     {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "이란",
+      "count": 7
+    },
+    {
       "word": "징역",
+      "count": 6
+    },
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "한화",
+      "count": 5
+    },
+    {
+      "word": "탈출",
       "count": 5
     },
     {
@@ -11,174 +31,158 @@
       "count": 4
     },
     {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "직원",
+      "count": 4
+    },
+    {
+      "word": "기부",
+      "count": 4
+    },
+    {
+      "word": "김선태",
+      "count": 4
+    },
+    {
+      "word": "사람",
+      "count": 4
+    },
+    {
       "word": "만원",
       "count": 3
     },
     {
-      "word": "트럼프",
+      "word": "무기한",
       "count": 3
     },
     {
-      "word": "이란",
+      "word": "추신수",
       "count": 3
     },
     {
-      "word": "직원",
+      "word": "오타니",
       "count": 3
     },
     {
-      "word": "탈출",
+      "word": "경기",
       "count": 3
     },
     {
-      "word": "논란",
-      "count": 2
+      "word": "연속",
+      "count": 3
     },
     {
-      "word": "멕시코",
-      "count": 2
+      "word": "출루",
+      "count": 3
     },
     {
-      "word": "시즌",
-      "count": 2
-    },
-    {
-      "word": "남자",
-      "count": 2
-    },
-    {
-      "word": "사슴",
-      "count": 2
-    },
-    {
-      "word": "마리",
-      "count": 2
-    },
-    {
-      "word": "안전",
-      "count": 2
-    },
-    {
-      "word": "아리셀",
-      "count": 2
-    },
-    {
-      "word": "감형",
-      "count": 2
-    },
-    {
-      "word": "배터리",
-      "count": 2
-    },
-    {
-      "word": "지원",
-      "count": 2
-    },
-    {
-      "word": "한화",
-      "count": 2
-    },
-    {
-      "word": "명에",
-      "count": 2
+      "word": "신기록",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "억원",
-        "count": 2
+        "word": "주이란대사관",
+        "count": 3
       },
       {
-        "word": "송언석",
-        "count": 1
+        "word": "공천",
+        "count": 3
       },
       {
-        "word": "정동영인지",
-        "count": 1
+        "word": "국힘",
+        "count": 3
       },
       {
-        "word": "리호남인지",
-        "count": 1
+        "word": "김진태",
+        "count": 3
       },
       {
-        "word": "두둔",
-        "count": 1
+        "word": "장동혁",
+        "count": 3
       }
     ],
     "sports": [
+      {
+        "word": "남자",
+        "count": 4
+      },
       {
         "word": "시즌",
         "count": 2
       },
       {
-        "word": "남자",
+        "word": "롯데",
         "count": 2
       },
       {
-        "word": "한국인",
-        "count": 1
+        "word": "복귀",
+        "count": 2
       },
       {
-        "word": "더비",
-        "count": 1
-      },
-      {
-        "word": "이정후",
-        "count": 1
+        "word": "연패",
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "배터리",
-        "count": 2
-      },
-      {
         "word": "한화",
+        "count": 4
+      },
+      {
+        "word": "배터리",
+        "count": 3
+      },
+      {
+        "word": "개발",
         "count": 2
       },
       {
-        "word": "캐릭터부터",
-        "count": 1
+        "word": "분기",
+        "count": 2
       },
       {
-        "word": "야구까지",
-        "count": 1
-      },
-      {
-        "word": "협업으로",
-        "count": 1
+        "word": "에만",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "징역",
-        "count": 5
+        "count": 6
       },
       {
         "word": "사슴",
-        "count": 2
+        "count": 3
       },
       {
         "word": "마리",
-        "count": 2
+        "count": 3
       },
       {
         "word": "탈출",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "사망",
-        "count": 2
+        "word": "아리셀",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 7
       },
       {
         "word": "이란",
+        "count": 6
+      },
+      {
+        "word": "무기한",
         "count": 3
       },
       {
@@ -186,34 +190,30 @@
         "count": 2
       },
       {
-        "word": "원짜리가",
-        "count": 1
-      },
-      {
-        "word": "만원",
-        "count": 1
+        "word": "백악관",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "기부",
-        "count": 2
+        "count": 4
       },
       {
         "word": "김선태",
-        "count": 2
+        "count": 4
       },
       {
         "word": "사람",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "기안",
-        "count": 1
+        "word": "무대",
+        "count": 3
       },
       {
-        "word": "폐지",
-        "count": 1
+        "word": "송중기",
+        "count": 3
       }
     ]
   }
