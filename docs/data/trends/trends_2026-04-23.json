@@ -1,13 +1,220 @@
 {
   "date": "2026-04-23",
-  "generated_at": "2026-04-23T09:52:19.533510+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-04-23T15:41:50.176785+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이란",
+      "count": 8
+    },
+    {
+      "word": "장동혁",
+      "count": 7
+    },
+    {
+      "word": "호르무즈",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "반도체",
+      "count": 3
+    },
+    {
+      "word": "후보",
+      "count": 3
+    },
+    {
+      "word": "즉시",
+      "count": 3
+    },
+    {
+      "word": "교체",
+      "count": 3
+    },
+    {
+      "word": "요구",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "선박",
+      "count": 3
+    },
+    {
+      "word": "홍명보호",
+      "count": 2
+    },
+    {
+      "word": "멕시코",
+      "count": 2
+    },
+    {
+      "word": "대상",
+      "count": 2
+    },
+    {
+      "word": "체험",
+      "count": 2
+    },
+    {
+      "word": "여일",
+      "count": 2
+    },
+    {
+      "word": "평가한",
+      "count": 2
+    },
+    {
+      "word": "성적은",
+      "count": 2
+    },
+    {
+      "word": "침묵",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "장동혁",
+        "count": 7
+      },
+      {
+        "word": "후보",
+        "count": 3
+      },
+      {
+        "word": "즉시",
+        "count": 3
+      },
+      {
+        "word": "교체",
+        "count": 3
+      },
+      {
+        "word": "해당",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "홍명보호",
+        "count": 2
+      },
+      {
+        "word": "대상",
+        "count": 2
+      },
+      {
+        "word": "여일",
+        "count": 2
+      },
+      {
+        "word": "평가한",
+        "count": 2
+      },
+      {
+        "word": "성적은",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "반도체",
+        "count": 3
+      },
+      {
+        "word": "출시",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "엔비디아",
+        "count": 2
+      },
+      {
+        "word": "비결",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "만원만",
+        "count": 2
+      },
+      {
+        "word": "황당",
+        "count": 2
+      },
+      {
+        "word": "요구",
+        "count": 2
+      },
+      {
+        "word": "찾아가는",
+        "count": 1
+      },
+      {
+        "word": "정원서비스",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 7
+      },
+      {
+        "word": "호르무즈",
+        "count": 4
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "선박",
+        "count": 3
+      },
+      {
+        "word": "달러",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "소유",
+        "count": 2
+      },
+      {
+        "word": "박명수",
+        "count": 1
+      },
+      {
+        "word": "개그맨",
+        "count": 1
+      },
+      {
+        "word": "군기",
+        "count": 1
+      },
+      {
+        "word": "심각",
+        "count": 1
+      }
+    ]
   }
 }
