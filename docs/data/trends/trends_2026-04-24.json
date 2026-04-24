@@ -1,219 +1,219 @@
 {
   "date": "2026-04-24",
-  "generated_at": "2026-04-24T15:40:17.578639+09:00",
+  "generated_at": "2026-04-24T19:38:49.389299+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 7
-    },
-    {
-      "word": "전쟁",
-      "count": 4
+      "count": 12
     },
     {
       "word": "남자",
-      "count": 4
-    },
-    {
-      "word": "한국",
-      "count": 4
-    },
-    {
-      "word": "장동혁",
-      "count": 4
+      "count": 8
     },
     {
       "word": "이란",
-      "count": 3
+      "count": 7
+    },
+    {
+      "word": "장동혁",
+      "count": 7
     },
     {
       "word": "만에",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "아직도",
-      "count": 3
+      "word": "한국",
+      "count": 6
     },
     {
-      "word": "태진아",
-      "count": 3
+      "word": "반도체",
+      "count": 6
     },
     {
-      "word": "유승준",
-      "count": 3
-    },
-    {
-      "word": "호르무즈",
-      "count": 2
-    },
-    {
-      "word": "가나",
-      "count": 2
-    },
-    {
-      "word": "않겠다",
-      "count": 2
-    },
-    {
-      "word": "번째",
-      "count": 2
-    },
-    {
-      "word": "동맹국",
-      "count": 2
+      "word": "전쟁",
+      "count": 5
     },
     {
       "word": "도움",
-      "count": 2
-    },
-    {
-      "word": "기소",
-      "count": 2
+      "count": 4
     },
     {
       "word": "위에",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "간다",
-      "count": 2
+      "word": "만명",
+      "count": 4
     },
     {
-      "word": "위험한",
-      "count": 2
+      "word": "모수",
+      "count": 4
+    },
+    {
+      "word": "사과",
+      "count": 4
+    },
+    {
+      "word": "사퇴",
+      "count": 4
+    },
+    {
+      "word": "호르무즈",
+      "count": 3
+    },
+    {
+      "word": "않겠다",
+      "count": 3
+    },
+    {
+      "word": "아들",
+      "count": 3
+    },
+    {
+      "word": "기뢰",
+      "count": 3
+    },
+    {
+      "word": "번째",
+      "count": 3
+    },
+    {
+      "word": "띄웠다",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "장동혁",
+        "count": 7
+      },
+      {
+        "word": "사퇴",
         "count": 4
       },
       {
-        "word": "비거주",
-        "count": 2
-      },
-      {
-        "word": "국힘",
-        "count": 2
-      },
-      {
-        "word": "선거",
-        "count": 2
-      },
-      {
         "word": "원유",
+        "count": 3
+      },
+      {
+        "word": "비정상",
+        "count": 3
+      },
+      {
+        "word": "대통령",
         "count": 2
       }
     ],
     "sports": [
       {
-        "word": "만에",
-        "count": 2
-      },
-      {
         "word": "남자",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "억원",
-        "count": 1
+        "word": "만에",
+        "count": 3
       },
       {
-        "word": "돌파한",
-        "count": 1
+        "word": "김주성",
+        "count": 3
       },
       {
-        "word": "월드컵",
-        "count": 1
+        "word": "감독과",
+        "count": 3
+      },
+      {
+        "word": "오현규",
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "매출",
+        "count": 3
+      },
+      {
+        "word": "조원",
+        "count": 3
+      },
+      {
+        "word": "데이터센터",
+        "count": 3
+      },
+      {
+        "word": "반도체",
+        "count": 3
+      },
+      {
         "word": "참여",
         "count": 2
-      },
-      {
-        "word": "매출",
-        "count": 2
-      },
-      {
-        "word": "포스코이앤씨",
-        "count": 1
-      },
-      {
-        "word": "중림동",
-        "count": 1
-      },
-      {
-        "word": "재개발",
-        "count": 1
       }
     ],
     "society": [
       {
         "word": "검찰",
+        "count": 3
+      },
+      {
+        "word": "방시혁",
         "count": 2
       },
       {
-        "word": "한국",
+        "word": "구속영장",
         "count": 2
       },
       {
-        "word": "아직도",
+        "word": "반려",
         "count": 2
       },
       {
-        "word": "태진아",
-        "count": 2
-      },
-      {
-        "word": "유승준",
+        "word": "보완수사",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 6
+        "count": 10
       },
       {
         "word": "이란",
-        "count": 3
+        "count": 7
       },
       {
         "word": "전쟁",
-        "count": 3
+        "count": 4
       },
       {
         "word": "호르무즈",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "동맹국",
-        "count": 2
+        "word": "기뢰",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "모수",
-        "count": 2
+        "count": 4
       },
       {
         "word": "사과",
-        "count": 2
-      },
-      {
-        "word": "타블로",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 3
       },
       {
         "word": "이시언",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "연프",
+        "count": 2
       }
     ]
   }
