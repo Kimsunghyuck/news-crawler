@@ -1,13 +1,220 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T09:53:21.191186+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-04-26T15:40:50.382352+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "국힘",
+      "count": 7
+    },
+    {
+      "word": "대구시장",
+      "count": 5
+    },
+    {
+      "word": "총격",
+      "count": 4
+    },
+    {
+      "word": "추경호",
+      "count": 4
+    },
+    {
+      "word": "김부겸과",
+      "count": 4
+    },
+    {
+      "word": "맞대결",
+      "count": 4
+    },
+    {
+      "word": "용의자",
+      "count": 3
+    },
+    {
+      "word": "출신",
+      "count": 3
+    },
+    {
+      "word": "미국",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "이유",
+      "count": 3
+    },
+    {
+      "word": "최고",
+      "count": 3
+    },
+    {
+      "word": "후보",
+      "count": 3
+    },
+    {
+      "word": "이명박",
+      "count": 3
+    },
+    {
+      "word": "힐튼",
+      "count": 2
+    },
+    {
+      "word": "년전",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 7
+      },
+      {
+        "word": "대구시장",
+        "count": 5
+      },
+      {
+        "word": "추경호",
+        "count": 4
+      },
+      {
+        "word": "김부겸과",
+        "count": 4
+      },
+      {
+        "word": "맞대결",
+        "count": 4
+      }
+    ],
+    "sports": [
+      {
+        "word": "바람의",
+        "count": 2
+      },
+      {
+        "word": "이정후",
+        "count": 2
+      },
+      {
+        "word": "루타",
+        "count": 2
+      },
+      {
+        "word": "연패",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "최고",
+        "count": 2
+      },
+      {
+        "word": "삼성전자",
+        "count": 2
+      },
+      {
+        "word": "파업",
+        "count": 2
+      },
+      {
+        "word": "분기",
+        "count": 2
+      },
+      {
+        "word": "손주",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "세계",
+        "count": 2
+      },
+      {
+        "word": "일본해",
+        "count": 2
+      },
+      {
+        "word": "사라진다",
+        "count": 2
+      },
+      {
+        "word": "서울시",
+        "count": 1
+      },
+      {
+        "word": "장기사용",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 7
+      },
+      {
+        "word": "총격",
+        "count": 4
+      },
+      {
+        "word": "용의자",
+        "count": 3
+      },
+      {
+        "word": "출신",
+        "count": 2
+      },
+      {
+        "word": "힐튼",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "미국",
+        "count": 2
+      },
+      {
+        "word": "이기는",
+        "count": 1
+      },
+      {
+        "word": "겨울",
+        "count": 1
+      },
+      {
+        "word": "있던가요",
+        "count": 1
+      },
+      {
+        "word": "근심",
+        "count": 1
+      }
+    ]
   }
 }
