@@ -1,219 +1,219 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T16:01:55.465890+09:00",
+  "generated_at": "2026-04-27T19:46:04.209539+09:00",
   "daily_top_keywords": [
     {
-      "word": "총격",
-      "count": 3
-    },
-    {
       "word": "만원",
-      "count": 3
-    },
-    {
-      "word": "도전",
-      "count": 3
-    },
-    {
-      "word": "선언",
-      "count": 2
-    },
-    {
-      "word": "남성",
-      "count": 2
-    },
-    {
-      "word": "한국",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "와인",
-      "count": 2
-    },
-    {
-      "word": "여성",
-      "count": 2
-    },
-    {
-      "word": "먼저",
-      "count": 2
-    },
-    {
-      "word": "사건",
-      "count": 2
-    },
-    {
-      "word": "넘어",
-      "count": 2
-    },
-    {
-      "word": "개월",
-      "count": 2
-    },
-    {
-      "word": "만에",
-      "count": 2
+      "count": 6
     },
     {
       "word": "세계",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "사상",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "여성",
+      "count": 4
+    },
+    {
+      "word": "먼저",
+      "count": 4
+    },
+    {
+      "word": "총격",
+      "count": 4
+    },
+    {
+      "word": "개월",
+      "count": 4
     },
     {
       "word": "시간",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "음료수",
-      "count": 2
+      "word": "도전",
+      "count": 4
     },
     {
       "word": "남자",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "무죄",
-      "count": 2
+      "word": "세대",
+      "count": 4
     },
     {
-      "word": "출시",
-      "count": 2
+      "word": "김용",
+      "count": 4
+    },
+    {
+      "word": "하남갑",
+      "count": 4
+    },
+    {
+      "word": "김용남",
+      "count": 4
+    },
+    {
+      "word": "안산갑",
+      "count": 4
+    },
+    {
+      "word": "김남국",
+      "count": 4
+    },
+    {
+      "word": "놀이기구",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "세무조사",
-        "count": 2
+        "word": "김용",
+        "count": 4
       },
       {
-        "word": "부산",
-        "count": 2
+        "word": "하남갑",
+        "count": 4
       },
       {
-        "word": "논의",
-        "count": 2
+        "word": "김용남",
+        "count": 4
       },
       {
-        "word": "후보",
-        "count": 2
+        "word": "안산갑",
+        "count": 4
       },
       {
-        "word": "가족거래",
-        "count": 1
+        "word": "김남국",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "넬리",
+        "count": 3
+      },
+      {
+        "word": "세계",
+        "count": 3
+      },
+      {
+        "word": "이정후",
+        "count": 3
       },
       {
         "word": "음주운전",
-        "count": 1
-      },
-      {
-        "word": "안혜진",
-        "count": 1
-      },
-      {
-        "word": "엄중",
-        "count": 1
-      },
-      {
-        "word": "경고",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "출시",
-        "count": 2
-      },
-      {
-        "word": "최대",
-        "count": 2
-      },
-      {
         "word": "사상",
-        "count": 2
+        "count": 4
       },
       {
         "word": "세대",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "제이린드버그",
-        "count": 1
+        "word": "출시",
+        "count": 3
+      },
+      {
+        "word": "최대",
+        "count": 3
+      },
+      {
+        "word": "머스크",
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "만원",
+        "count": 3
+      },
       {
         "word": "무죄",
         "count": 2
       },
       {
-        "word": "만원",
+        "word": "사건",
         "count": 2
       },
       {
-        "word": "전단",
-        "count": 1
+        "word": "시작",
+        "count": 2
       },
       {
-        "word": "붙이던",
-        "count": 1
-      },
-      {
-        "word": "여성에",
-        "count": 1
+        "word": "벌금형",
+        "count": 2
       }
     ],
     "international": [
       {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
         "word": "총격",
+        "count": 4
+      },
+      {
+        "word": "놀이기구",
         "count": 3
       },
       {
-        "word": "트럼프",
-        "count": 2
-      },
-      {
         "word": "와인",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "이스라엘",
-        "count": 1
-      },
-      {
-        "word": "새로운",
-        "count": 1
+        "word": "먼저",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "생명의전화",
-        "count": 1
+        "word": "하나",
+        "count": 2
       },
       {
-        "word": "한화생명",
-        "count": 1
+        "word": "뉴진스",
+        "count": 2
       },
       {
-        "word": "청소년",
-        "count": 1
+        "word": "코펜하겐서",
+        "count": 2
       },
       {
-        "word": "자살예방",
-        "count": 1
+        "word": "신곡",
+        "count": 2
       },
       {
-        "word": "캠페인",
-        "count": 1
+        "word": "준비",
+        "count": 2
       }
     ]
   }
