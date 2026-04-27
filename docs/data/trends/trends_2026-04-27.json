@@ -1,13 +1,220 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T09:51:28.703880+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-04-27T16:01:55.465890+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "총격",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "도전",
+      "count": 3
+    },
+    {
+      "word": "선언",
+      "count": 2
+    },
+    {
+      "word": "남성",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "와인",
+      "count": 2
+    },
+    {
+      "word": "여성",
+      "count": 2
+    },
+    {
+      "word": "먼저",
+      "count": 2
+    },
+    {
+      "word": "사건",
+      "count": 2
+    },
+    {
+      "word": "넘어",
+      "count": 2
+    },
+    {
+      "word": "개월",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "세계",
+      "count": 2
+    },
+    {
+      "word": "시간",
+      "count": 2
+    },
+    {
+      "word": "음료수",
+      "count": 2
+    },
+    {
+      "word": "남자",
+      "count": 2
+    },
+    {
+      "word": "무죄",
+      "count": 2
+    },
+    {
+      "word": "출시",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "세무조사",
+        "count": 2
+      },
+      {
+        "word": "부산",
+        "count": 2
+      },
+      {
+        "word": "논의",
+        "count": 2
+      },
+      {
+        "word": "후보",
+        "count": 2
+      },
+      {
+        "word": "가족거래",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "음주운전",
+        "count": 1
+      },
+      {
+        "word": "안혜진",
+        "count": 1
+      },
+      {
+        "word": "엄중",
+        "count": 1
+      },
+      {
+        "word": "경고",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "출시",
+        "count": 2
+      },
+      {
+        "word": "최대",
+        "count": 2
+      },
+      {
+        "word": "사상",
+        "count": 2
+      },
+      {
+        "word": "세대",
+        "count": 2
+      },
+      {
+        "word": "제이린드버그",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "무죄",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "전단",
+        "count": 1
+      },
+      {
+        "word": "붙이던",
+        "count": 1
+      },
+      {
+        "word": "여성에",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "총격",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "와인",
+        "count": 2
+      },
+      {
+        "word": "이스라엘",
+        "count": 1
+      },
+      {
+        "word": "새로운",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "생명의전화",
+        "count": 1
+      },
+      {
+        "word": "한화생명",
+        "count": 1
+      },
+      {
+        "word": "청소년",
+        "count": 1
+      },
+      {
+        "word": "자살예방",
+        "count": 1
+      },
+      {
+        "word": "캠페인",
+        "count": 1
+      }
+    ]
   }
 }
