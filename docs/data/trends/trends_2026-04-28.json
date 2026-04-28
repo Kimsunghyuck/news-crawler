@@ -1,93 +1,93 @@
 {
   "date": "2026-04-28",
-  "generated_at": "2026-04-28T15:56:44.962465+09:00",
+  "generated_at": "2026-04-28T19:46:48.711785+09:00",
   "daily_top_keywords": [
     {
+      "word": "김건희",
+      "count": 8
+    },
+    {
       "word": "복귀",
-      "count": 4
+      "count": 7
     },
     {
       "word": "만에",
-      "count": 4
+      "count": 7
+    },
+    {
+      "word": "논란",
+      "count": 6
     },
     {
       "word": "개월",
+      "count": 6
+    },
+    {
+      "word": "배우",
+      "count": 5
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "호르무즈",
+      "count": 4
+    },
+    {
+      "word": "위기",
+      "count": 4
+    },
+    {
+      "word": "뒤덮은",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "주가조작",
+      "count": 4
+    },
+    {
+      "word": "대박",
+      "count": 4
+    },
+    {
+      "word": "계좌",
       "count": 3
     },
     {
-      "word": "김건희",
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "임신",
+      "count": 3
+    },
+    {
+      "word": "원주민",
+      "count": 3
+    },
+    {
+      "word": "종신형",
+      "count": 3
+    },
+    {
+      "word": "동료",
       "count": 3
     },
     {
       "word": "결국",
-      "count": 2
-    },
-    {
-      "word": "뒤덮은",
-      "count": 2
-    },
-    {
-      "word": "논란",
-      "count": 2
-    },
-    {
-      "word": "남자",
-      "count": 2
-    },
-    {
-      "word": "비밀",
-      "count": 2
-    },
-    {
-      "word": "책임",
-      "count": 2
-    },
-    {
-      "word": "오세훈",
-      "count": 2
-    },
-    {
-      "word": "이후",
-      "count": 2
-    },
-    {
-      "word": "계좌",
-      "count": 2
-    },
-    {
-      "word": "이란",
-      "count": 2
-    },
-    {
-      "word": "호르무즈",
-      "count": 2
-    },
-    {
-      "word": "임신",
-      "count": 2
-    },
-    {
-      "word": "백악관",
-      "count": 2
-    },
-    {
-      "word": "배우",
-      "count": 2
-    },
-    {
-      "word": "마의",
-      "count": 2
-    },
-    {
-      "word": "청소",
-      "count": 2
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "김건희",
-        "count": 2
+        "count": 4
       },
       {
         "word": "책임",
@@ -98,122 +98,122 @@
         "count": 2
       },
       {
-        "word": "시세조종",
-        "count": 1
+        "word": "기록",
+        "count": 2
       },
       {
-        "word": "직접",
-        "count": 1
+        "word": "하정우",
+        "count": 2
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "복귀",
+        "count": 3
       },
       {
         "word": "이호진",
-        "count": 1
+        "count": 2
       },
       {
         "word": "태광그룹",
-        "count": 1
+        "count": 2
       },
       {
         "word": "회장",
-        "count": 1
-      },
-      {
-        "word": "한국배구연맹",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "만에",
-        "count": 2
+        "count": 4
       },
       {
         "word": "개월",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "자이언트네트워크그룹",
-        "count": 1
+        "word": "삼성",
+        "count": 3
       },
       {
         "word": "연례",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "컨퍼런스",
-        "count": 1
+        "word": "논란",
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "김건희",
+        "count": 4
+      },
+      {
+        "word": "주가조작",
+        "count": 4
+      },
+      {
         "word": "서울",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "바람피웠어",
-        "count": 1
+        "word": "징역",
+        "count": 3
       },
       {
-        "word": "아내",
-        "count": 1
-      },
-      {
-        "word": "폭행해",
-        "count": 1
-      },
-      {
-        "word": "상해",
-        "count": 1
+        "word": "유죄로",
+        "count": 3
       }
     ],
     "international": [
       {
-        "word": "계좌",
-        "count": 2
-      },
-      {
         "word": "이란",
-        "count": 2
+        "count": 4
       },
       {
         "word": "호르무즈",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "백악관",
-        "count": 2
+        "word": "계좌",
+        "count": 3
       },
       {
-        "word": "복귀",
-        "count": 2
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "원주민",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "최고령",
-        "count": 2
+        "count": 3
       },
       {
         "word": "산모",
-        "count": 2
+        "count": 3
       },
       {
         "word": "한다감",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "위기",
+        "count": 3
       },
       {
         "word": "노부스",
-        "count": 1
-      },
-      {
-        "word": "콰르텟",
-        "count": 1
+        "count": 2
       }
     ]
   }
