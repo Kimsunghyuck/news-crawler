@@ -1,13 +1,220 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-04-29T09:56:28.114791+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-04-29T15:58:47.420145+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "도입",
+      "count": 3
+    },
+    {
+      "word": "승진",
+      "count": 3
+    },
+    {
+      "word": "패스트트랙",
+      "count": 3
+    },
+    {
+      "word": "인재",
+      "count": 3
+    },
+    {
+      "word": "연봉",
+      "count": 3
+    },
+    {
+      "word": "상한",
+      "count": 3
+    },
+    {
+      "word": "없앨",
+      "count": 3
+    },
+    {
+      "word": "얼굴",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "침묵",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "침수",
+      "count": 2
+    },
+    {
+      "word": "지하차도",
+      "count": 2
+    },
+    {
+      "word": "안내",
+      "count": 2
+    },
+    {
+      "word": "세계",
+      "count": 2
+    },
+    {
+      "word": "최대",
+      "count": 2
+    },
+    {
+      "word": "가사노동",
+      "count": 2
+    },
+    {
+      "word": "가치",
+      "count": 2
+    },
+    {
+      "word": "구글",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "승진",
+        "count": 3
+      },
+      {
+        "word": "패스트트랙",
+        "count": 3
+      },
+      {
+        "word": "인재",
+        "count": 3
+      },
+      {
+        "word": "연봉",
+        "count": 3
+      },
+      {
+        "word": "상한",
+        "count": 3
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "포스트",
+        "count": 1
+      },
+      {
+        "word": "아사다",
+        "count": 1
+      },
+      {
+        "word": "마오",
+        "count": 1
+      },
+      {
+        "word": "나카이",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "가사노동",
+        "count": 2
+      },
+      {
+        "word": "가치",
+        "count": 2
+      },
+      {
+        "word": "구글",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 1
+      },
+      {
+        "word": "집안일",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "침수",
+        "count": 2
+      },
+      {
+        "word": "지하차도",
+        "count": 2
+      },
+      {
+        "word": "안내",
+        "count": 2
+      },
+      {
+        "word": "내비게이션으로",
+        "count": 1
+      },
+      {
+        "word": "미리",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "얼굴",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "마약왕",
+        "count": 1
+      },
+      {
+        "word": "하마",
+        "count": 1
+      },
+      {
+        "word": "마리",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 1
+      },
+      {
+        "word": "미술에",
+        "count": 1
+      },
+      {
+        "word": "이미",
+        "count": 1
+      },
+      {
+        "word": "왕관",
+        "count": 1
+      }
+    ]
   }
 }
