@@ -1,13 +1,220 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T09:59:56.053165+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-01T15:56:43.503672+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "국힘",
+      "count": 5
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "피해",
+      "count": 4
+    },
+    {
+      "word": "대구",
+      "count": 4
+    },
+    {
+      "word": "이진숙",
+      "count": 4
+    },
+    {
+      "word": "거리",
+      "count": 3
+    },
+    {
+      "word": "중단",
+      "count": 3
+    },
+    {
+      "word": "호르무즈",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "역대",
+      "count": 3
+    },
+    {
+      "word": "오픈",
+      "count": 3
+    },
+    {
+      "word": "노동절",
+      "count": 3
+    },
+    {
+      "word": "아들",
+      "count": 3
+    },
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "반도체",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "영화",
+      "count": 3
+    },
+    {
+      "word": "세계",
+      "count": 2
+    },
+    {
+      "word": "노력",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 5
+      },
+      {
+        "word": "대구",
+        "count": 4
+      },
+      {
+        "word": "이진숙",
+        "count": 4
+      },
+      {
+        "word": "달성",
+        "count": 2
+      },
+      {
+        "word": "단수",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 3
+      },
+      {
+        "word": "꺾고",
+        "count": 2
+      },
+      {
+        "word": "연속",
+        "count": 2
+      },
+      {
+        "word": "드디어",
+        "count": 2
+      },
+      {
+        "word": "시즌",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "넘었다",
+        "count": 2
+      },
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "반도체",
+        "count": 2
+      },
+      {
+        "word": "억달러",
+        "count": 2
+      },
+      {
+        "word": "역대",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "노동절",
+        "count": 2
+      },
+      {
+        "word": "마약",
+        "count": 2
+      },
+      {
+        "word": "포켓몬",
+        "count": 2
+      },
+      {
+        "word": "행사",
+        "count": 2
+      },
+      {
+        "word": "긴급",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 6
+      },
+      {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "중국",
+        "count": 2
+      },
+      {
+        "word": "호르무즈",
+        "count": 2
+      },
+      {
+        "word": "한복판에",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "영화",
+        "count": 3
+      },
+      {
+        "word": "먼저",
+        "count": 1
+      },
+      {
+        "word": "태어난",
+        "count": 1
+      },
+      {
+        "word": "극소",
+        "count": 1
+      },
+      {
+        "word": "미숙아",
+        "count": 1
+      }
+    ]
   }
 }
