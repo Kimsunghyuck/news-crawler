@@ -1,219 +1,219 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T15:56:43.503672+09:00",
+  "generated_at": "2026-05-01T19:37:30.091704+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 7
+      "count": 15
     },
     {
-      "word": "국힘",
-      "count": 5
+      "word": "아들",
+      "count": 9
     },
     {
       "word": "이란",
-      "count": 4
+      "count": 8
     },
     {
-      "word": "피해",
-      "count": 4
+      "word": "국힘",
+      "count": 7
     },
     {
       "word": "대구",
-      "count": 4
+      "count": 7
+    },
+    {
+      "word": "피해",
+      "count": 6
+    },
+    {
+      "word": "역대",
+      "count": 6
+    },
+    {
+      "word": "남자",
+      "count": 6
     },
     {
       "word": "이진숙",
+      "count": 6
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "호르무즈",
+      "count": 5
+    },
+    {
+      "word": "논란",
+      "count": 5
+    },
+    {
+      "word": "서울",
+      "count": 5
+    },
+    {
+      "word": "반도체",
+      "count": 5
+    },
+    {
+      "word": "다시",
+      "count": 5
+    },
+    {
+      "word": "감축",
       "count": 4
     },
     {
       "word": "거리",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "중단",
-      "count": 3
+      "word": "급증",
+      "count": 4
     },
     {
-      "word": "호르무즈",
-      "count": 3
+      "word": "꺾고",
+      "count": 4
     },
     {
-      "word": "남자",
-      "count": 3
-    },
-    {
-      "word": "역대",
-      "count": 3
-    },
-    {
-      "word": "오픈",
-      "count": 3
-    },
-    {
-      "word": "노동절",
-      "count": 3
-    },
-    {
-      "word": "아들",
-      "count": 3
-    },
-    {
-      "word": "서울",
-      "count": 3
-    },
-    {
-      "word": "반도체",
-      "count": 3
-    },
-    {
-      "word": "대통령",
-      "count": 3
-    },
-    {
-      "word": "영화",
-      "count": 3
-    },
-    {
-      "word": "세계",
-      "count": 2
-    },
-    {
-      "word": "노력",
-      "count": 2
+      "word": "연속",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
-        "count": 5
+        "count": 7
       },
       {
         "word": "대구",
-        "count": 4
+        "count": 7
       },
       {
         "word": "이진숙",
+        "count": 6
+      },
+      {
+        "word": "박민식",
         "count": 4
       },
       {
-        "word": "달성",
-        "count": 2
-      },
-      {
-        "word": "단수",
-        "count": 2
+        "word": "이영풍",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "남자",
-        "count": 3
+        "count": 6
       },
       {
         "word": "꺾고",
-        "count": 2
+        "count": 4
       },
       {
         "word": "연속",
-        "count": 2
-      },
-      {
-        "word": "드디어",
-        "count": 2
+        "count": 4
       },
       {
         "word": "시즌",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "한국",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "넘었다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "서울",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "노조",
+        "count": 4
+      },
+      {
+        "word": "유플",
+        "count": 4
       },
       {
         "word": "반도체",
-        "count": 2
-      },
-      {
-        "word": "억달러",
-        "count": 2
-      },
-      {
-        "word": "역대",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
+        "word": "아들",
+        "count": 6
+      },
+      {
+        "word": "성심당",
+        "count": 3
+      },
+      {
+        "word": "청첩장",
+        "count": 3
+      },
+      {
+        "word": "교장",
+        "count": 3
+      },
+      {
         "word": "노동절",
-        "count": 2
-      },
-      {
-        "word": "마약",
-        "count": 2
-      },
-      {
-        "word": "포켓몬",
-        "count": 2
-      },
-      {
-        "word": "행사",
-        "count": 2
-      },
-      {
-        "word": "긴급",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 6
+        "count": 13
       },
       {
         "word": "이란",
+        "count": 8
+      },
+      {
+        "word": "감축",
         "count": 4
       },
       {
+        "word": "전쟁",
+        "count": 3
+      },
+      {
         "word": "중국",
-        "count": 2
-      },
-      {
-        "word": "호르무즈",
-        "count": 2
-      },
-      {
-        "word": "한복판에",
-        "count": 1
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "영화",
+        "count": 4
+      },
+      {
+        "word": "사이버",
         "count": 3
       },
       {
         "word": "먼저",
-        "count": 1
+        "count": 2
       },
       {
         "word": "태어난",
-        "count": 1
+        "count": 2
       },
       {
         "word": "극소",
-        "count": 1
-      },
-      {
-        "word": "미숙아",
-        "count": 1
+        "count": 2
       }
     ]
   }
