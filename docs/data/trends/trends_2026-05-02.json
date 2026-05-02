@@ -1,13 +1,220 @@
 {
   "date": "2026-05-02",
-  "generated_at": "2026-05-02T09:54:19.880925+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-02T15:41:20.022380+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "국힘",
+      "count": 6
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "개월",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "없어",
+      "count": 3
+    },
+    {
+      "word": "발언에",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "논란",
+      "count": 3
+    },
+    {
+      "word": "여러분",
+      "count": 3
+    },
+    {
+      "word": "때문에",
+      "count": 3
+    },
+    {
+      "word": "박형준",
+      "count": 3
+    },
+    {
+      "word": "개소식",
+      "count": 3
+    },
+    {
+      "word": "관세",
+      "count": 2
+    },
+    {
+      "word": "않을",
+      "count": 2
+    },
+    {
+      "word": "이래",
+      "count": 2
+    },
+    {
+      "word": "오른다",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "철수",
+      "count": 2
+    },
+    {
+      "word": "완료",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 6
+      },
+      {
+        "word": "여러분",
+        "count": 3
+      },
+      {
+        "word": "때문에",
+        "count": 3
+      },
+      {
+        "word": "박형준",
+        "count": 3
+      },
+      {
+        "word": "개소식",
+        "count": 3
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 3
+      },
+      {
+        "word": "연패",
+        "count": 2
+      },
+      {
+        "word": "발언에",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "이란축구협회",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "국평",
+        "count": 2
+      },
+      {
+        "word": "유플",
+        "count": 2
+      },
+      {
+        "word": "반도체",
+        "count": 1
+      },
+      {
+        "word": "효과",
+        "count": 1
+      },
+      {
+        "word": "무섭네",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "부산서",
+        "count": 2
+      },
+      {
+        "word": "미스",
+        "count": 2
+      },
+      {
+        "word": "춘향",
+        "count": 2
+      },
+      {
+        "word": "우크라이나",
+        "count": 2
+      },
+      {
+        "word": "청주여자교도소",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "관세",
+        "count": 2
+      },
+      {
+        "word": "개월",
+        "count": 2
+      },
+      {
+        "word": "철수",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "키키",
+        "count": 1
+      },
+      {
+        "word": "데뷔",
+        "count": 1
+      },
+      {
+        "word": "콘서트",
+        "count": 1
+      },
+      {
+        "word": "포스터",
+        "count": 1
+      },
+      {
+        "word": "매력",
+        "count": 1
+      }
+    ]
   }
 }
