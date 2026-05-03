@@ -1,219 +1,219 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T15:54:17.010319+09:00",
+  "generated_at": "2026-05-03T19:26:24.484000+09:00",
   "daily_top_keywords": [
     {
-      "word": "이란",
-      "count": 5
+      "word": "트럼프",
+      "count": 9
     },
     {
-      "word": "트럼프",
-      "count": 5
+      "word": "이란",
+      "count": 8
     },
     {
       "word": "논란",
-      "count": 5
+      "count": 8
     },
     {
       "word": "노조",
-      "count": 5
-    },
-    {
-      "word": "하정우",
-      "count": 5
-    },
-    {
-      "word": "번째",
-      "count": 3
-    },
-    {
-      "word": "미사일",
-      "count": 3
-    },
-    {
-      "word": "검토",
-      "count": 3
-    },
-    {
-      "word": "제안",
-      "count": 3
+      "count": 8
     },
     {
       "word": "시즌",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "복귀",
-      "count": 3
+      "word": "하정우",
+      "count": 6
     },
     {
-      "word": "폐업",
-      "count": 3
+      "word": "번째",
+      "count": 5
+    },
+    {
+      "word": "홈런",
+      "count": 5
     },
     {
       "word": "만에",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "보톡스",
-      "count": 2
-    },
-    {
-      "word": "제재",
-      "count": 2
-    },
-    {
-      "word": "경고",
-      "count": 2
+      "word": "이름에",
+      "count": 5
     },
     {
       "word": "원유",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "실은",
-      "count": 2
+      "word": "미사일",
+      "count": 4
     },
     {
-      "word": "선박",
-      "count": 2
+      "word": "검토",
+      "count": 4
     },
     {
-      "word": "홍해",
-      "count": 2
+      "word": "제안",
+      "count": 4
+    },
+    {
+      "word": "감축",
+      "count": 4
+    },
+    {
+      "word": "명보다",
+      "count": 4
+    },
+    {
+      "word": "선두",
+      "count": 4
+    },
+    {
+      "word": "황인범",
+      "count": 4
+    },
+    {
+      "word": "손흥민",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "하정우",
-        "count": 5
+        "count": 6
       },
       {
         "word": "논란",
-        "count": 2
+        "count": 3
       },
       {
         "word": "공천",
-        "count": 2
+        "count": 3
       },
       {
         "word": "정청래",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "호감도",
-        "count": 2
+        "word": "조작기소",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "시즌",
-        "count": 3
+        "count": 6
       },
       {
         "word": "홈런",
-        "count": 2
+        "count": 5
       },
       {
         "word": "선두",
-        "count": 2
+        "count": 4
       },
       {
         "word": "황인범",
-        "count": 2
+        "count": 4
       },
       {
         "word": "손흥민",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "노조",
-        "count": 4
+        "count": 6
       },
       {
         "word": "채용",
-        "count": 2
+        "count": 3
       },
       {
         "word": "동의",
-        "count": 2
+        "count": 3
       },
       {
         "word": "삼바",
-        "count": 2
+        "count": 3
       },
       {
         "word": "경영권",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "폐업",
-        "count": 2
-      },
-      {
-        "word": "강아지",
-        "count": 2
-      },
-      {
-        "word": "용산",
-        "count": 2
-      },
-      {
-        "word": "맛집",
-        "count": 2
-      },
-      {
         "word": "논란",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "친구들",
+        "count": 3
+      },
+      {
+        "word": "태우고",
+        "count": 3
+      },
+      {
+        "word": "음주운전",
+        "count": 3
+      },
+      {
+        "word": "사망",
+        "count": 3
       }
     ],
     "international": [
       {
-        "word": "이란",
-        "count": 5
+        "word": "트럼프",
+        "count": 9
       },
       {
-        "word": "트럼프",
-        "count": 5
+        "word": "이란",
+        "count": 8
+      },
+      {
+        "word": "원유",
+        "count": 4
       },
       {
         "word": "검토",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "제재",
-        "count": 2
-      },
-      {
-        "word": "경고",
-        "count": 2
+        "word": "감축",
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "아들",
-        "count": 2
+        "count": 4
       },
       {
         "word": "때도",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "돌아온",
-        "count": 1
+        "word": "대표와",
+        "count": 3
       },
       {
-        "word": "팝의",
-        "count": 1
+        "word": "센터",
+        "count": 3
       },
       {
-        "word": "황제",
-        "count": 1
+        "word": "슈가대디",
+        "count": 3
       }
     ]
   }
