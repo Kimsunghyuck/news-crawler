@@ -1,156 +1,160 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-04T16:03:46.355192+09:00",
+  "generated_at": "2026-05-04T19:46:40.714355+09:00",
   "daily_top_keywords": [
     {
-      "word": "경고",
-      "count": 4
-    },
-    {
-      "word": "올린",
-      "count": 4
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
       "word": "호르무즈",
-      "count": 3
+      "count": 6
     },
     {
       "word": "초긴장",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "경고",
+      "count": 6
+    },
+    {
+      "word": "올린",
+      "count": 6
+    },
+    {
+      "word": "트럼프",
+      "count": 5
     },
     {
       "word": "서울",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "황금사자기",
-      "count": 3
-    },
-    {
-      "word": "방한",
-      "count": 3
+      "word": "어린이날",
+      "count": 5
     },
     {
       "word": "지드래곤",
-      "count": 3
+      "count": 5
     },
     {
       "word": "사과",
-      "count": 3
-    },
-    {
-      "word": "골프장서",
-      "count": 2
-    },
-    {
-      "word": "만에",
-      "count": 2
-    },
-    {
-      "word": "가족",
-      "count": 2
+      "count": 5
     },
     {
       "word": "이란",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "비키니",
-      "count": 2
+      "word": "한국",
+      "count": 4
     },
     {
-      "word": "여성과",
-      "count": 2
+      "word": "방산",
+      "count": 4
     },
     {
-      "word": "엄지척",
-      "count": 2
+      "word": "감독",
+      "count": 4
     },
     {
-      "word": "트럼프가",
-      "count": 2
+      "word": "내야수",
+      "count": 4
     },
     {
-      "word": "사진의",
-      "count": 2
+      "word": "황금사자기",
+      "count": 4
     },
     {
-      "word": "경기",
-      "count": 2
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "사건",
+      "count": 4
+    },
+    {
+      "word": "아파트",
+      "count": 4
+    },
+    {
+      "word": "축구",
+      "count": 4
+    },
+    {
+      "word": "문구",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "장동혁",
-        "count": 2
+        "word": "특검법",
+        "count": 4
       },
       {
         "word": "오빠",
+        "count": 3
+      },
+      {
+        "word": "발언",
+        "count": 3
+      },
+      {
+        "word": "시기",
+        "count": 3
+      },
+      {
+        "word": "장동혁",
         "count": 2
-      },
-      {
-        "word": "후보",
-        "count": 2
-      },
-      {
-        "word": "김종인",
-        "count": 1
-      },
-      {
-        "word": "정치인으로서",
-        "count": 1
       }
     ],
     "sports": [
       {
-        "word": "황금사자기",
-        "count": 3
-      },
-      {
         "word": "내야수",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "구단",
-        "count": 2
-      },
-      {
-        "word": "올해의",
-        "count": 2
+        "word": "황금사자기",
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "구단",
+        "count": 3
+      },
+      {
+        "word": "멀리건",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "분기",
+        "count": 3
+      },
+      {
+        "word": "중국인도",
         "count": 2
       },
       {
-        "word": "발효",
-        "count": 1
+        "word": "일본인도",
+        "count": 2
       },
       {
-        "word": "뷰티",
-        "count": 1
+        "word": "몰려온다",
+        "count": 2
       },
       {
-        "word": "식품",
-        "count": 1
-      },
-      {
-        "word": "수출",
-        "count": 1
+        "word": "큰손",
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "아파트",
+        "count": 4
+      },
       {
         "word": "종합특검",
         "count": 2
@@ -160,60 +164,56 @@
         "count": 2
       },
       {
-        "word": "방한",
+        "word": "김창민",
         "count": 2
       },
       {
-        "word": "남북대결",
-        "count": 2
-      },
-      {
-        "word": "아파트",
+        "word": "감독",
         "count": 2
       }
     ],
     "international": [
       {
-        "word": "트럼프",
-        "count": 3
-      },
-      {
         "word": "호르무즈",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "골프장서",
-        "count": 2
-      },
-      {
-        "word": "가족",
-        "count": 2
+        "word": "트럼프",
+        "count": 4
       },
       {
         "word": "이란",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "경고",
+        "count": 4
+      },
+      {
+        "word": "비키니",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "지드래곤",
-        "count": 3
+        "count": 5
       },
       {
         "word": "사과",
-        "count": 3
+        "count": 5
       },
       {
         "word": "문구",
-        "count": 2
+        "count": 4
       },
       {
         "word": "소속사",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "공연",
-        "count": 2
+        "word": "의상에",
+        "count": 4
       }
     ]
   }
