@@ -1,13 +1,220 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T09:52:14.337253+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-05T15:47:45.236741+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "백악관",
+      "count": 3
+    },
+    {
+      "word": "호르무즈",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "화물선",
+      "count": 3
+    },
+    {
+      "word": "작전",
+      "count": 3
+    },
+    {
+      "word": "복귀",
+      "count": 3
+    },
+    {
+      "word": "골프",
+      "count": 3
+    },
+    {
+      "word": "어린이날",
+      "count": 3
+    },
+    {
+      "word": "공격",
+      "count": 2
+    },
+    {
+      "word": "선박",
+      "count": 2
+    },
+    {
+      "word": "화재",
+      "count": 2
+    },
+    {
+      "word": "앞둔",
+      "count": 2
+    },
+    {
+      "word": "논란",
+      "count": 2
+    },
+    {
+      "word": "피격",
+      "count": 2
+    },
+    {
+      "word": "됐다",
+      "count": 2
+    },
+    {
+      "word": "빅리그",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "빌라도",
+        "count": 2
+      },
+      {
+        "word": "엄연한",
+        "count": 2
+      },
+      {
+        "word": "아파트",
+        "count": 2
+      },
+      {
+        "word": "포기",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "복귀",
+        "count": 3
+      },
+      {
+        "word": "빅리그",
+        "count": 2
+      },
+      {
+        "word": "시즌",
+        "count": 2
+      },
+      {
+        "word": "유현조",
+        "count": 2
+      },
+      {
+        "word": "골프",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "레고",
+        "count": 2
+      },
+      {
+        "word": "노조",
+        "count": 2
+      },
+      {
+        "word": "삼성전기",
+        "count": 1
+      },
+      {
+        "word": "다우존스",
+        "count": 1
+      },
+      {
+        "word": "지속가능경영지수",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "고교생",
+        "count": 2
+      },
+      {
+        "word": "피습",
+        "count": 2
+      },
+      {
+        "word": "검거",
+        "count": 2
+      },
+      {
+        "word": "가장",
+        "count": 2
+      },
+      {
+        "word": "진료비",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "백악관",
+        "count": 3
+      },
+      {
+        "word": "정부",
+        "count": 3
+      },
+      {
+        "word": "호르무즈",
+        "count": 3
+      }
+    ],
+    "culture": [
+      {
+        "word": "실제보다",
+        "count": 1
+      },
+      {
+        "word": "환상적인",
+        "count": 1
+      },
+      {
+        "word": "풍경",
+        "count": 1
+      },
+      {
+        "word": "카프리초",
+        "count": 1
+      },
+      {
+        "word": "장르를",
+        "count": 1
+      }
+    ]
   }
 }
