@@ -1,219 +1,219 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T15:47:45.236741+09:00",
+  "generated_at": "2026-05-05T19:41:17.827642+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
+      "count": 9
+    },
+    {
+      "word": "어린이날",
+      "count": 7
+    },
+    {
+      "word": "정부",
+      "count": 6
+    },
+    {
+      "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "이란",
       "count": 5
     },
     {
       "word": "대통령",
-      "count": 4
-    },
-    {
-      "word": "정부",
-      "count": 4
-    },
-    {
-      "word": "이란",
-      "count": 3
-    },
-    {
-      "word": "백악관",
-      "count": 3
+      "count": 5
     },
     {
       "word": "호르무즈",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "화물선",
-      "count": 3
-    },
-    {
-      "word": "작전",
-      "count": 3
-    },
-    {
-      "word": "복귀",
-      "count": 3
-    },
-    {
-      "word": "골프",
-      "count": 3
-    },
-    {
-      "word": "어린이날",
-      "count": 3
-    },
-    {
-      "word": "공격",
-      "count": 2
-    },
-    {
-      "word": "선박",
-      "count": 2
-    },
-    {
-      "word": "화재",
-      "count": 2
+      "count": 5
     },
     {
       "word": "앞둔",
-      "count": 2
+      "count": 5
     },
     {
       "word": "논란",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "작전",
+      "count": 5
+    },
+    {
+      "word": "한동훈",
+      "count": 5
+    },
+    {
+      "word": "선박",
+      "count": 4
     },
     {
       "word": "피격",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "됐다",
-      "count": 2
+      "word": "화물선",
+      "count": 4
     },
     {
-      "word": "빅리그",
-      "count": 2
+      "word": "복귀",
+      "count": 4
+    },
+    {
+      "word": "시즌",
+      "count": 4
+    },
+    {
+      "word": "골프",
+      "count": 4
+    },
+    {
+      "word": "남자",
+      "count": 4
+    },
+    {
+      "word": "멀리건",
+      "count": 4
+    },
+    {
+      "word": "가장",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "오세훈",
+        "count": 4
+      },
+      {
+        "word": "참여",
+        "count": 4
       },
       {
         "word": "빌라도",
-        "count": 2
+        "count": 3
       },
       {
         "word": "엄연한",
-        "count": 2
-      },
-      {
-        "word": "아파트",
-        "count": 2
-      },
-      {
-        "word": "포기",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "복귀",
-        "count": 3
-      },
-      {
-        "word": "빅리그",
-        "count": 2
+        "count": 4
       },
       {
         "word": "시즌",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "유현조",
-        "count": 2
+        "word": "남자",
+        "count": 4
       },
       {
-        "word": "골프",
-        "count": 2
+        "word": "한국",
+        "count": 4
+      },
+      {
+        "word": "멀리건",
+        "count": 4
       }
     ],
     "economy": [
+      {
+        "word": "노조",
+        "count": 4
+      },
       {
         "word": "레고",
         "count": 2
       },
       {
-        "word": "노조",
+        "word": "소송",
         "count": 2
       },
       {
-        "word": "삼성전기",
-        "count": 1
+        "word": "분기",
+        "count": 2
       },
       {
-        "word": "다우존스",
-        "count": 1
-      },
-      {
-        "word": "지속가능경영지수",
-        "count": 1
+        "word": "서비스",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "고교생",
-        "count": 2
-      },
-      {
-        "word": "피습",
-        "count": 2
-      },
-      {
-        "word": "검거",
-        "count": 2
-      },
-      {
         "word": "가장",
+        "count": 4
+      },
+      {
+        "word": "어린이날",
+        "count": 3
+      },
+      {
+        "word": "여고생",
         "count": 2
       },
       {
-        "word": "진료비",
-        "count": 1
+        "word": "한동훈",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
+        "count": 7
       },
       {
         "word": "이란",
-        "count": 3
-      },
-      {
-        "word": "백악관",
-        "count": 3
-      },
-      {
-        "word": "정부",
-        "count": 3
+        "count": 5
       },
       {
         "word": "호르무즈",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "정부",
+        "count": 4
+      },
+      {
+        "word": "선박",
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "실제보다",
-        "count": 1
+        "count": 2
       },
       {
         "word": "환상적인",
-        "count": 1
+        "count": 2
       },
       {
         "word": "풍경",
-        "count": 1
+        "count": 2
       },
       {
         "word": "카프리초",
-        "count": 1
+        "count": 2
       },
       {
         "word": "장르를",
-        "count": 1
+        "count": 2
       }
     ]
   }
