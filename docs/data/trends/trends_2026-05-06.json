@@ -1,219 +1,219 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T15:55:27.164442+09:00",
+  "generated_at": "2026-05-06T19:49:19.165271+09:00",
   "daily_top_keywords": [
     {
+      "word": "이란",
+      "count": 9
+    },
+    {
       "word": "사상",
-      "count": 4
-    },
-    {
-      "word": "민주당",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "합의",
-      "count": 3
+      "count": 6
     },
     {
       "word": "디자이너",
-      "count": 3
-    },
-    {
-      "word": "선발",
-      "count": 3
+      "count": 6
     },
     {
       "word": "어린이날",
-      "count": 3
-    },
-    {
-      "word": "가비",
-      "count": 3
+      "count": 6
     },
     {
       "word": "로봇",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "한병도",
-      "count": 3
+      "word": "돌파",
+      "count": 5
     },
     {
-      "word": "연임",
-      "count": 3
+      "word": "선발",
+      "count": 5
     },
     {
-      "word": "수출",
-      "count": 2
+      "word": "가비",
+      "count": 5
     },
     {
-      "word": "이란",
-      "count": 2
+      "word": "민주당",
+      "count": 4
     },
     {
-      "word": "한국계",
-      "count": 2
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "쿠팡",
+      "count": 4
+    },
+    {
+      "word": "합의",
+      "count": 4
+    },
+    {
+      "word": "호르무즈",
+      "count": 4
     },
     {
       "word": "지수",
-      "count": 2
+      "count": 4
     },
     {
       "word": "폭로",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "무슨",
-      "count": 2
+      "word": "한화",
+      "count": 4
     },
     {
-      "word": "경기서",
-      "count": 2
+      "word": "남자",
+      "count": 4
     },
     {
-      "word": "안타",
-      "count": 2
+      "word": "멀리건",
+      "count": 4
     },
     {
-      "word": "만에",
-      "count": 2
+      "word": "공식",
+      "count": 4
+    },
+    {
+      "word": "신종오",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "한병도",
-        "count": 3
+        "count": 4
       },
       {
         "word": "연임",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "불법계엄",
+        "count": 4
       },
       {
         "word": "공소취소",
-        "count": 2
+        "count": 3
       },
       {
         "word": "민주당",
-        "count": 2
-      },
-      {
-        "word": "원내대표에",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "선발",
-        "count": 3
-      },
-      {
-        "word": "경기서",
-        "count": 2
-      },
-      {
-        "word": "안타",
-        "count": 2
-      },
-      {
-        "word": "어린이날",
-        "count": 2
+        "count": 5
       },
       {
         "word": "한화",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "멀리건",
+        "count": 4
+      },
+      {
+        "word": "어린이날",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "비트코인",
-        "count": 2
-      },
-      {
-        "word": "만달러",
-        "count": 2
+        "word": "분기",
+        "count": 4
       },
       {
         "word": "돌파",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "스테이블코인",
-        "count": 2
+        "word": "스페이스",
+        "count": 4
       },
       {
-        "word": "이자",
-        "count": 2
+        "word": "조치",
+        "count": 3
+      },
+      {
+        "word": "영업손실",
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "심도",
-        "count": 2
-      },
-      {
         "word": "신종오",
-        "count": 2
+        "count": 4
       },
       {
         "word": "김건희",
-        "count": 2
+        "count": 4
       },
       {
         "word": "판사",
+        "count": 3
+      },
+      {
+        "word": "하정우",
         "count": 2
       },
       {
-        "word": "소녀상",
-        "count": 1
+        "word": "심도",
+        "count": 2
       }
     ],
     "international": [
+      {
+        "word": "이란",
+        "count": 9
+      },
+      {
+        "word": "호르무즈",
+        "count": 4
+      },
       {
         "word": "트럼프",
         "count": 3
       },
       {
+        "word": "무슨",
+        "count": 3
+      },
+      {
         "word": "수출",
         "count": 2
-      },
-      {
-        "word": "이란",
-        "count": 2
-      },
-      {
-        "word": "무슨",
-        "count": 2
-      },
-      {
-        "word": "민주당",
-        "count": 1
       }
     ],
     "culture": [
       {
-        "word": "가비",
-        "count": 3
+        "word": "로봇",
+        "count": 6
       },
       {
-        "word": "로봇",
-        "count": 3
+        "word": "가비",
+        "count": 5
       },
       {
         "word": "과충전",
-        "count": 2
+        "count": 4
       },
       {
         "word": "않겠습니다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "디자이너",
-        "count": 2
+        "count": 4
       }
     ]
   }
