@@ -1,13 +1,220 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T09:55:38.548737+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-07T16:08:37.299316+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "세계",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "방중",
+      "count": 2
+    },
+    {
+      "word": "본격화",
+      "count": 2
+    },
+    {
+      "word": "논란",
+      "count": 2
+    },
+    {
+      "word": "고지대",
+      "count": 2
+    },
+    {
+      "word": "손흥민",
+      "count": 2
+    },
+    {
+      "word": "톨루카에",
+      "count": 2
+    },
+    {
+      "word": "결승행",
+      "count": 2
+    },
+    {
+      "word": "남자",
+      "count": 2
+    },
+    {
+      "word": "경찰",
+      "count": 2
+    },
+    {
+      "word": "대사관",
+      "count": 2
+    },
+    {
+      "word": "진입",
+      "count": 2
+    },
+    {
+      "word": "회원",
+      "count": 2
+    },
+    {
+      "word": "사진",
+      "count": 2
+    },
+    {
+      "word": "공급",
+      "count": 2
+    },
+    {
+      "word": "한동훈",
+      "count": 2
+    },
+    {
+      "word": "국정원",
+      "count": 2
+    },
+    {
+      "word": "대남",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "한동훈",
+        "count": 2
+      },
+      {
+        "word": "국정원",
+        "count": 2
+      },
+      {
+        "word": "대남",
+        "count": 2
+      },
+      {
+        "word": "적대성은",
+        "count": 2
+      },
+      {
+        "word": "도시로",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "고지대",
+        "count": 2
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "톨루카에",
+        "count": 2
+      },
+      {
+        "word": "결승행",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "세계",
+        "count": 2
+      },
+      {
+        "word": "뷰티",
+        "count": 1
+      },
+      {
+        "word": "기업",
+        "count": 1
+      },
+      {
+        "word": "에이피알",
+        "count": 1
+      },
+      {
+        "word": "해외",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "하필",
+        "count": 1
+      },
+      {
+        "word": "카네이션일까",
+        "count": 1
+      },
+      {
+        "word": "어버이날에",
+        "count": 1
+      },
+      {
+        "word": "숨겨진",
+        "count": 1
+      },
+      {
+        "word": "역사",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "방중",
+        "count": 2
+      },
+      {
+        "word": "본격화",
+        "count": 2
+      },
+      {
+        "word": "앞두고",
+        "count": 1
+      },
+      {
+        "word": "전용차",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "임윤찬",
+        "count": 1
+      },
+      {
+        "word": "리사이틀",
+        "count": 1
+      },
+      {
+        "word": "독자적",
+        "count": 1
+      },
+      {
+        "word": "음악세계",
+        "count": 1
+      },
+      {
+        "word": "입증",
+        "count": 1
+      }
+    ]
   }
 }
