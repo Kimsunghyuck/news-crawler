@@ -1,13 +1,220 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-09T09:56:00.967126+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-09T15:45:03.765907+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "장동혁",
+      "count": 4
+    },
+    {
+      "word": "나무호",
+      "count": 3
+    },
+    {
+      "word": "호르무즈",
+      "count": 3
+    },
+    {
+      "word": "전쟁",
+      "count": 3
+    },
+    {
+      "word": "같은",
+      "count": 3
+    },
+    {
+      "word": "연속",
+      "count": 3
+    },
+    {
+      "word": "삼성전자",
+      "count": 3
+    },
+    {
+      "word": "묻자",
+      "count": 2
+    },
+    {
+      "word": "교황",
+      "count": 2
+    },
+    {
+      "word": "나이키",
+      "count": 2
+    },
+    {
+      "word": "레오",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "발칵",
+      "count": 2
+    },
+    {
+      "word": "남자",
+      "count": 2
+    },
+    {
+      "word": "어린이날",
+      "count": 2
+    },
+    {
+      "word": "년에도",
+      "count": 2
+    },
+    {
+      "word": "남편",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "장동혁",
+        "count": 4
+      },
+      {
+        "word": "무시하냐",
+        "count": 2
+      },
+      {
+        "word": "역정",
+        "count": 2
+      },
+      {
+        "word": "목숨은",
+        "count": 2
+      },
+      {
+        "word": "온전히",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "년에도",
+        "count": 2
+      },
+      {
+        "word": "오타니",
+        "count": 1
+      },
+      {
+        "word": "결승타",
+        "count": 1
+      },
+      {
+        "word": "다저스",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "삼성전자",
+        "count": 3
+      },
+      {
+        "word": "연속",
+        "count": 2
+      },
+      {
+        "word": "수도",
+        "count": 2
+      },
+      {
+        "word": "반도체",
+        "count": 2
+      },
+      {
+        "word": "국제선",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "남편",
+        "count": 2
+      },
+      {
+        "word": "어선",
+        "count": 2
+      },
+      {
+        "word": "선원",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "단팥빵",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 6
+      },
+      {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "나무호",
+        "count": 3
+      },
+      {
+        "word": "호르무즈",
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 3
+      }
+    ],
+    "culture": [
+      {
+        "word": "방탄소년단",
+        "count": 2
+      },
+      {
+        "word": "흑백",
+        "count": 2
+      },
+      {
+        "word": "무급",
+        "count": 2
+      },
+      {
+        "word": "스태프",
+        "count": 2
+      },
+      {
+        "word": "왕사남",
+        "count": 2
+      }
+    ]
   }
 }
