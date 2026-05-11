@@ -1,219 +1,219 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T16:11:35.681442+09:00",
+  "generated_at": "2026-05-11T20:10:01.395138+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
+      "count": 10
+    },
+    {
+      "word": "나무호",
+      "count": 6
+    },
+    {
+      "word": "전쟁",
+      "count": 5
+    },
+    {
+      "word": "직업",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "노조",
+      "count": 5
+    },
+    {
+      "word": "삼성전자",
+      "count": 5
+    },
+    {
+      "word": "있어",
       "count": 5
     },
     {
       "word": "손흥민",
-      "count": 3
-    },
-    {
-      "word": "나무호",
-      "count": 3
-    },
-    {
-      "word": "직업",
-      "count": 3
-    },
-    {
-      "word": "우승",
-      "count": 3
-    },
-    {
-      "word": "노조",
-      "count": 3
-    },
-    {
-      "word": "의혹",
-      "count": 3
-    },
-    {
-      "word": "전쟁",
-      "count": 2
-    },
-    {
-      "word": "만의",
-      "count": 2
+      "count": 4
     },
     {
       "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "강력",
-      "count": 2
-    },
-    {
-      "word": "대응",
-      "count": 2
-    },
-    {
-      "word": "원칙",
-      "count": 2
+      "count": 4
     },
     {
       "word": "실종",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "교사",
-      "count": 2
-    },
-    {
-      "word": "침묵",
-      "count": 2
-    },
-    {
-      "word": "투어",
-      "count": 2
+      "word": "우승",
+      "count": 4
     },
     {
       "word": "남자",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "어깨",
-      "count": 2
+      "word": "빠진",
+      "count": 4
     },
     {
-      "word": "만에",
-      "count": 2
+      "word": "받는다",
+      "count": 4
+    },
+    {
+      "word": "의혹",
+      "count": 4
+    },
+    {
+      "word": "재혼",
+      "count": 4
+    },
+    {
+      "word": "강성연",
+      "count": 4
+    },
+    {
+      "word": "고유가",
+      "count": 4
+    },
+    {
+      "word": "무급",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "나무호",
-        "count": 2
+        "count": 4
       },
       {
         "word": "공격",
-        "count": 2
+        "count": 4
       },
       {
         "word": "규탄",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "추미애",
-        "count": 2
+        "word": "정원오",
+        "count": 4
       },
       {
-        "word": "김용남",
-        "count": 2
+        "word": "강력히",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "우승",
+        "count": 4
+      },
+      {
+        "word": "남자",
+        "count": 4
+      },
+      {
+        "word": "경남고",
         "count": 3
       },
       {
         "word": "손흥민",
-        "count": 2
+        "count": 3
       },
       {
         "word": "침묵",
-        "count": 2
-      },
-      {
-        "word": "투어",
-        "count": 2
-      },
-      {
-        "word": "남자",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "노조",
+        "count": 4
+      },
+      {
+        "word": "삼성전자",
+        "count": 3
+      },
+      {
+        "word": "정부",
+        "count": 3
+      },
+      {
+        "word": "수익",
+        "count": 3
+      },
+      {
+        "word": "취업",
         "count": 2
-      },
-      {
-        "word": "현대모비스",
-        "count": 1
-      },
-      {
-        "word": "모빌리티",
-        "count": 1
-      },
-      {
-        "word": "인재",
-        "count": 1
-      },
-      {
-        "word": "배출",
-        "count": 1
       }
     ],
     "society": [
       {
         "word": "의혹",
-        "count": 3
+        "count": 4
       },
       {
         "word": "블랙리스트",
+        "count": 3
+      },
+      {
+        "word": "소환",
         "count": 2
       },
       {
-        "word": "마약",
+        "word": "조사",
         "count": 2
       },
       {
-        "word": "교사",
-        "count": 1
-      },
-      {
-        "word": "정서",
-        "count": 1
+        "word": "지원금",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 4
+        "count": 9
       },
       {
         "word": "전쟁",
-        "count": 2
+        "count": 4
       },
       {
         "word": "트럼프",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "쓰는",
+        "count": 3
       },
       {
         "word": "젠슨",
-        "count": 1
-      },
-      {
-        "word": "쓰면",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "출연",
-        "count": 2
+        "word": "있어",
+        "count": 3
+      },
+      {
+        "word": "만에",
+        "count": 3
       },
       {
         "word": "테크노에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "빠진",
-        "count": 1
+        "count": 2
       },
       {
         "word": "하이브",
-        "count": 1
-      },
-      {
-        "word": "걸그룹",
-        "count": 1
+        "count": 2
       }
     ]
   }
