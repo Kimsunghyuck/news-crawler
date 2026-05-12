@@ -1,219 +1,219 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T15:58:42.463858+09:00",
+  "generated_at": "2026-05-12T20:06:12.639308+09:00",
   "daily_top_keywords": [
     {
       "word": "김용범",
-      "count": 4
+      "count": 8
     },
     {
       "word": "국민배당금",
-      "count": 4
-    },
-    {
-      "word": "엄마",
-      "count": 3
+      "count": 7
     },
     {
       "word": "대박",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "월드컵",
-      "count": 3
-    },
-    {
-      "word": "평균",
-      "count": 3
-    },
-    {
-      "word": "운영",
-      "count": 3
-    },
-    {
-      "word": "만원",
-      "count": 3
-    },
-    {
-      "word": "논란",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "이란",
-      "count": 2
-    },
-    {
-      "word": "사과",
-      "count": 2
-    },
-    {
-      "word": "직원",
-      "count": 2
-    },
-    {
-      "word": "주식",
-      "count": 2
-    },
-    {
-      "word": "회사",
-      "count": 2
+      "word": "엄마",
+      "count": 5
     },
     {
       "word": "한국",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "북한",
-      "count": 2
+      "word": "운영",
+      "count": 5
     },
     {
-      "word": "여자축구",
-      "count": 2
+      "word": "논란",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "아냐",
+      "count": 4
+    },
+    {
+      "word": "사망",
+      "count": 4
+    },
+    {
+      "word": "주식",
+      "count": 4
+    },
+    {
+      "word": "회사",
+      "count": 4
     },
     {
       "word": "남자",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "징역",
-      "count": 2
+      "word": "평균",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "수익",
+      "count": 4
+    },
+    {
+      "word": "발견",
+      "count": 3
+    },
+    {
+      "word": "두아",
+      "count": 3
+    },
+    {
+      "word": "리파",
+      "count": 3
+    },
+    {
+      "word": "억원",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "김용범",
-        "count": 4
+        "count": 7
       },
       {
         "word": "국민배당금",
-        "count": 4
+        "count": 6
+      },
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "응원에",
+        "count": 3
       },
       {
         "word": "초과이윤",
         "count": 2
-      },
-      {
-        "word": "여자축구팀",
-        "count": 2
-      },
-      {
-        "word": "휴전",
-        "count": 1
       }
     ],
     "sports": [
+      {
+        "word": "남자",
+        "count": 4
+      },
       {
         "word": "월드컵",
         "count": 3
       },
       {
-        "word": "남자",
+        "word": "대회",
+        "count": 3
+      },
+      {
+        "word": "왕옌청만",
         "count": 2
       },
       {
-        "word": "타율",
-        "count": 1
-      },
-      {
-        "word": "강릉고",
-        "count": 1
-      },
-      {
-        "word": "학년",
-        "count": 1
+        "word": "대박",
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "돌파",
-        "count": 2
+        "word": "수익",
+        "count": 4
+      },
+      {
+        "word": "노조",
+        "count": 3
       },
       {
         "word": "개미",
-        "count": 2
+        "count": 3
       },
       {
         "word": "평균",
-        "count": 2
+        "count": 3
       },
       {
         "word": "벌었다",
-        "count": 2
-      },
-      {
-        "word": "수익",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "징역",
-        "count": 2
+        "word": "대검",
+        "count": 3
       },
       {
-        "word": "만원",
-        "count": 2
+        "word": "박상용",
+        "count": 3
       },
       {
-        "word": "받는다",
-        "count": 2
+        "word": "검사",
+        "count": 3
       },
       {
-        "word": "언론사",
-        "count": 1
+        "word": "징계",
+        "count": 3
       },
       {
-        "word": "단전",
-        "count": 1
+        "word": "청구",
+        "count": 3
       }
     ],
     "international": [
       {
-        "word": "엄마",
-        "count": 2
-      },
-      {
         "word": "트럼프",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이란",
-        "count": 2
+        "word": "엄마",
+        "count": 3
       },
       {
-        "word": "누나",
-        "count": 1
+        "word": "호르무즈",
+        "count": 3
       },
       {
-        "word": "감사합니다",
-        "count": 1
+        "word": "봉쇄",
+        "count": 3
+      },
+      {
+        "word": "뚫었다",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "발라드의",
-        "count": 1
+        "word": "논란",
+        "count": 3
       },
       {
-        "word": "제왕",
-        "count": 1
+        "word": "이효리",
+        "count": 3
       },
       {
-        "word": "김성면",
-        "count": 1
+        "word": "요가원",
+        "count": 3
       },
       {
-        "word": "신곡",
-        "count": 1
+        "word": "운영",
+        "count": 3
       },
       {
-        "word": "삶의",
-        "count": 1
+        "word": "고충",
+        "count": 3
       }
     ]
   }
