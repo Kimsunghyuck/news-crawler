@@ -1,13 +1,220 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T09:59:57.007082+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-13T16:05:13.223704+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "파업",
+      "count": 4
+    },
+    {
+      "word": "아냐",
+      "count": 4
+    },
+    {
+      "word": "경기",
+      "count": 3
+    },
+    {
+      "word": "승도",
+      "count": 3
+    },
+    {
+      "word": "삼성전자",
+      "count": 3
+    },
+    {
+      "word": "노조",
+      "count": 3
+    },
+    {
+      "word": "대화",
+      "count": 3
+    },
+    {
+      "word": "안해",
+      "count": 3
+    },
+    {
+      "word": "외박",
+      "count": 3
+    },
+    {
+      "word": "폭행",
+      "count": 3
+    },
+    {
+      "word": "정원오",
+      "count": 3
+    },
+    {
+      "word": "전쟁",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "무슨",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "무실점",
+      "count": 2
+    },
+    {
+      "word": "패배",
+      "count": 2
+    },
+    {
+      "word": "연속",
+      "count": 2
+    },
+    {
+      "word": "복귀",
+      "count": 2
+    },
+    {
+      "word": "남자",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "외박",
+        "count": 3
+      },
+      {
+        "word": "폭행",
+        "count": 3
+      },
+      {
+        "word": "정원오",
+        "count": 3
+      },
+      {
+        "word": "시간",
+        "count": 2
+      },
+      {
+        "word": "지원",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "승도",
+        "count": 3
+      },
+      {
+        "word": "무실점",
+        "count": 2
+      },
+      {
+        "word": "패배",
+        "count": 2
+      },
+      {
+        "word": "연속",
+        "count": 2
+      },
+      {
+        "word": "복귀",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "억원",
+        "count": 2
+      },
+      {
+        "word": "삼성전자",
+        "count": 2
+      },
+      {
+        "word": "파업",
+        "count": 2
+      },
+      {
+        "word": "아우토반",
+        "count": 1
+      },
+      {
+        "word": "질주도",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "개월",
+        "count": 2
+      },
+      {
+        "word": "검사",
+        "count": 2
+      },
+      {
+        "word": "학년도",
+        "count": 1
+      },
+      {
+        "word": "지역의사제",
+        "count": 1
+      },
+      {
+        "word": "수시로",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "황제의",
+        "count": 1
+      },
+      {
+        "word": "공간",
+        "count": 1
+      },
+      {
+        "word": "초대하는",
+        "count": 1
+      },
+      {
+        "word": "시진핑",
+        "count": 1
+      },
+      {
+        "word": "년전엔",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "말투",
+        "count": 2
+      },
+      {
+        "word": "컨디션",
+        "count": 2
+      },
+      {
+        "word": "문제",
+        "count": 2
+      },
+      {
+        "word": "소통",
+        "count": 2
+      },
+      {
+        "word": "팬들",
+        "count": 1
+      }
+    ]
   }
 }
