@@ -1,13 +1,220 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T10:02:17.326090+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-14T16:01:57.883134+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "메시지",
+      "count": 3
+    },
+    {
+      "word": "승도",
+      "count": 3
+    },
+    {
+      "word": "대만",
+      "count": 2
+    },
+    {
+      "word": "회담",
+      "count": 2
+    },
+    {
+      "word": "얼굴",
+      "count": 2
+    },
+    {
+      "word": "맞은",
+      "count": 2
+    },
+    {
+      "word": "마크롱",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "여배우와",
+      "count": 2
+    },
+    {
+      "word": "도입",
+      "count": 2
+    },
+    {
+      "word": "시진핑",
+      "count": 2
+    },
+    {
+      "word": "주장",
+      "count": 2
+    },
+    {
+      "word": "연승",
+      "count": 2
+    },
+    {
+      "word": "황금사자기",
+      "count": 2
+    },
+    {
+      "word": "광주",
+      "count": 2
+    },
+    {
+      "word": "우승",
+      "count": 2
+    },
+    {
+      "word": "농구",
+      "count": 2
+    },
+    {
+      "word": "삼성",
+      "count": 2
+    },
+    {
+      "word": "남자",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "고리대는",
+        "count": 2
+      },
+      {
+        "word": "망국",
+        "count": 2
+      },
+      {
+        "word": "정원오",
+        "count": 2
+      },
+      {
+        "word": "장동혁",
+        "count": 1
+      },
+      {
+        "word": "민주당",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "승도",
+        "count": 3
+      },
+      {
+        "word": "연승",
+        "count": 2
+      },
+      {
+        "word": "황금사자기",
+        "count": 2
+      },
+      {
+        "word": "우승",
+        "count": 2
+      },
+      {
+        "word": "농구",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "외국인",
+        "count": 2
+      },
+      {
+        "word": "관광객",
+        "count": 2
+      },
+      {
+        "word": "거래소",
+        "count": 2
+      },
+      {
+        "word": "한전",
+        "count": 1
+      },
+      {
+        "word": "한수원",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "불법",
+        "count": 2
+      },
+      {
+        "word": "검거",
+        "count": 2
+      },
+      {
+        "word": "학교",
+        "count": 1
+      },
+      {
+        "word": "가기",
+        "count": 1
+      },
+      {
+        "word": "싫어서",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "대만",
+        "count": 2
+      },
+      {
+        "word": "얼굴",
+        "count": 2
+      },
+      {
+        "word": "맞은",
+        "count": 2
+      },
+      {
+        "word": "마크롱",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "엄마",
+        "count": 2
+      },
+      {
+        "word": "이진아",
+        "count": 1
+      },
+      {
+        "word": "아기띠",
+        "count": 1
+      },
+      {
+        "word": "메고",
+        "count": 1
+      },
+      {
+        "word": "건반",
+        "count": 1
+      }
+    ]
   }
 }
