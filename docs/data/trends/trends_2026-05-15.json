@@ -1,219 +1,219 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T16:08:12.875977+09:00",
+  "generated_at": "2026-05-15T19:55:04.129312+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 4
+      "count": 8
     },
     {
       "word": "시진핑",
+      "count": 7
+    },
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "이정후",
+      "count": 5
+    },
+    {
+      "word": "데뷔",
+      "count": 5
+    },
+    {
+      "word": "이미",
+      "count": 4
+    },
+    {
+      "word": "우승",
+      "count": 4
+    },
+    {
+      "word": "두나무",
+      "count": 4
+    },
+    {
+      "word": "아들",
+      "count": 4
+    },
+    {
+      "word": "엄마",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "삼전",
+      "count": 4
+    },
+    {
+      "word": "미중",
+      "count": 4
+    },
+    {
+      "word": "문제",
+      "count": 4
+    },
+    {
+      "word": "찾은",
       "count": 4
     },
     {
       "word": "판결",
-      "count": 3
-    },
-    {
-      "word": "이정후",
-      "count": 3
-    },
-    {
-      "word": "데뷔",
-      "count": 3
-    },
-    {
-      "word": "만에",
-      "count": 3
+      "count": 4
     },
     {
       "word": "임명",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "삼전",
-      "count": 3
-    },
-    {
-      "word": "함께",
-      "count": 2
-    },
-    {
-      "word": "머스크",
-      "count": 2
-    },
-    {
-      "word": "루비오",
-      "count": 2
-    },
-    {
-      "word": "다카이치",
-      "count": 2
-    },
-    {
-      "word": "추진",
-      "count": 2
-    },
-    {
-      "word": "계속",
-      "count": 2
-    },
-    {
-      "word": "먼저",
-      "count": 2
-    },
-    {
-      "word": "미중",
-      "count": 2
-    },
-    {
-      "word": "아들",
-      "count": 2
-    },
-    {
-      "word": "문제",
-      "count": 2
-    },
-    {
-      "word": "이유",
-      "count": 2
+      "word": "정상회담",
+      "count": 4
     },
     {
       "word": "홈런",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "안타",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "정상회담",
+        "count": 4
+      },
+      {
         "word": "삼전",
-        "count": 2
+        "count": 3
       },
       {
         "word": "할말",
+        "count": 3
+      },
+      {
+        "word": "파업",
         "count": 2
       },
       {
-        "word": "복지부",
-        "count": 2
-      },
-      {
-        "word": "차관",
-        "count": 2
-      },
-      {
-        "word": "이종욱",
+        "word": "긴급조정",
         "count": 2
       }
     ],
     "sports": [
       {
         "word": "이정후",
-        "count": 3
+        "count": 5
       },
       {
         "word": "데뷔",
-        "count": 3
+        "count": 5
       },
       {
         "word": "홈런",
-        "count": 2
+        "count": 4
       },
       {
         "word": "안타",
-        "count": 2
+        "count": 4
       },
       {
         "word": "이규섭",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "만주",
-        "count": 2
-      },
-      {
-        "word": "소각",
-        "count": 2
-      },
-      {
         "word": "두나무",
+        "count": 4
+      },
+      {
+        "word": "한국",
         "count": 2
       },
       {
-        "word": "크레버스",
-        "count": 1
+        "word": "성장률",
+        "count": 2
       },
       {
-        "word": "자사주",
-        "count": 1
+        "word": "오를",
+        "count": 2
+      },
+      {
+        "word": "수도",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "판결",
+        "count": 3
+      },
+      {
+        "word": "징역",
+        "count": 3
+      },
+      {
+        "word": "방통위서",
         "count": 2
       },
       {
-        "word": "노인들",
-        "count": 1
+        "word": "감사",
+        "count": 2
       },
       {
-        "word": "몰래",
-        "count": 1
-      },
-      {
-        "word": "에어팟",
-        "count": 1
-      },
-      {
-        "word": "끼워",
-        "count": 1
+        "word": "임명",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
+        "count": 8
       },
       {
         "word": "시진핑",
-        "count": 4
+        "count": 7
       },
       {
-        "word": "함께",
-        "count": 2
+        "word": "베이징",
+        "count": 3
       },
       {
         "word": "머스크",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "루비오",
-        "count": 2
+        "word": "함께",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "피아니스트",
-        "count": 1
+        "word": "우영우",
+        "count": 2
       },
       {
-        "word": "손세혁",
-        "count": 1
+        "word": "촬영",
+        "count": 2
       },
       {
-        "word": "프라하",
-        "count": 1
+        "word": "후유증",
+        "count": 2
       },
       {
-        "word": "국제",
-        "count": 1
+        "word": "박은빈",
+        "count": 2
       },
       {
-        "word": "음악",
-        "count": 1
+        "word": "머리",
+        "count": 2
       }
     ]
   }
