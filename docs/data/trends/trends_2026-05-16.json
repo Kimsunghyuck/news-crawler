@@ -1,219 +1,219 @@
 {
   "date": "2026-05-16",
-  "generated_at": "2026-05-16T15:50:10.816813+09:00",
+  "generated_at": "2026-05-16T19:33:03.197121+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 8
+      "count": 16
     },
     {
       "word": "인자",
-      "count": 4
+      "count": 8
     },
     {
       "word": "이재용",
-      "count": 3
-    },
-    {
-      "word": "아들",
-      "count": 3
-    },
-    {
-      "word": "제거",
-      "count": 3
-    },
-    {
-      "word": "당선",
-      "count": 3
-    },
-    {
-      "word": "배우",
-      "count": 2
-    },
-    {
-      "word": "반도체",
-      "count": 2
-    },
-    {
-      "word": "찍고",
-      "count": 2
-    },
-    {
-      "word": "오늘의",
-      "count": 2
-    },
-    {
-      "word": "운세",
-      "count": 2
-    },
-    {
-      "word": "됐다",
-      "count": 2
-    },
-    {
-      "word": "불닭",
-      "count": 2
-    },
-    {
-      "word": "며느리",
-      "count": 2
-    },
-    {
-      "word": "회장",
-      "count": 2
-    },
-    {
-      "word": "비바람",
-      "count": 2
-    },
-    {
-      "word": "제가",
-      "count": 2
+      "count": 7
     },
     {
       "word": "삼성전자",
-      "count": 2
+      "count": 6
     },
     {
-      "word": "국민께",
-      "count": 2
+      "word": "제거",
+      "count": 6
     },
     {
-      "word": "머리",
-      "count": 2
+      "word": "반도체",
+      "count": 5
+    },
+    {
+      "word": "비바람",
+      "count": 5
+    },
+    {
+      "word": "제가",
+      "count": 5
+    },
+    {
+      "word": "아들",
+      "count": 5
+    },
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "서울",
+      "count": 5
+    },
+    {
+      "word": "당선",
+      "count": 5
+    },
+    {
+      "word": "우승",
+      "count": 5
+    },
+    {
+      "word": "황금사자기",
+      "count": 5
+    },
+    {
+      "word": "찍고",
+      "count": 4
+    },
+    {
+      "word": "오늘의",
+      "count": 4
+    },
+    {
+      "word": "운세",
+      "count": 4
+    },
+    {
+      "word": "됐다",
+      "count": 4
+    },
+    {
+      "word": "불닭",
+      "count": 4
+    },
+    {
+      "word": "며느리",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "당선",
-        "count": 3
+        "count": 5
       },
       {
         "word": "조국",
-        "count": 2
-      },
-      {
-        "word": "정원오",
-        "count": 2
-      },
-      {
-        "word": "오세훈",
-        "count": 2
+        "count": 4
       },
       {
         "word": "부산",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "서울",
+        "count": 3
+      },
+      {
+        "word": "정원오",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "우승",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "황금사자기",
+        "count": 5
       },
       {
         "word": "오타니는",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "고진영",
-        "count": 1
+        "word": "충암고",
+        "count": 4
       },
       {
-        "word": "만에",
-        "count": 1
-      },
-      {
-        "word": "도전보기",
-        "count": 1
+        "word": "투수",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "이재용",
-        "count": 3
+        "count": 7
+      },
+      {
+        "word": "비바람",
+        "count": 5
+      },
+      {
+        "word": "제가",
+        "count": 5
+      },
+      {
+        "word": "삼성전자",
+        "count": 5
       },
       {
         "word": "됐다",
-        "count": 2
-      },
-      {
-        "word": "불닭",
-        "count": 2
-      },
-      {
-        "word": "며느리",
-        "count": 2
-      },
-      {
-        "word": "회장",
-        "count": 2
+        "count": 4
       }
     ],
     "society": [
       {
-        "word": "승용차",
-        "count": 2
+        "word": "날벼락",
+        "count": 3
+      },
+      {
+        "word": "수영장",
+        "count": 3
       },
       {
         "word": "아들",
-        "count": 2
+        "count": 3
       },
       {
         "word": "경찰",
-        "count": 2
-      },
-      {
-        "word": "수사",
-        "count": 2
+        "count": 3
       },
       {
         "word": "담배연기",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 8
+        "count": 16
       },
       {
         "word": "인자",
-        "count": 4
+        "count": 8
       },
       {
         "word": "제거",
-        "count": 3
+        "count": 6
       },
       {
         "word": "나이지리아",
-        "count": 2
+        "count": 4
       },
       {
         "word": "시진핑",
-        "count": 2
+        "count": 4
       }
     ],
     "culture": [
       {
-        "word": "배우",
-        "count": 2
-      },
-      {
         "word": "오늘의",
-        "count": 2
+        "count": 4
       },
       {
         "word": "운세",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "스무살부터",
-        "count": 1
+        "word": "배우",
+        "count": 3
       },
       {
         "word": "할머니",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "역할",
+        "count": 2
       }
     ]
   }
