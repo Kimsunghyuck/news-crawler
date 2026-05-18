@@ -1,13 +1,220 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T10:02:01.166777+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-18T16:21:03.152427+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "마지막",
+      "count": 3
+    },
+    {
+      "word": "삼성전자",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "연속",
+      "count": 3
+    },
+    {
+      "word": "우승",
+      "count": 3
+    },
+    {
+      "word": "대법",
+      "count": 3
+    },
+    {
+      "word": "한강",
+      "count": 2
+    },
+    {
+      "word": "채식주의자",
+      "count": 2
+    },
+    {
+      "word": "기립박수",
+      "count": 2
+    },
+    {
+      "word": "터졌다",
+      "count": 2
+    },
+    {
+      "word": "배우",
+      "count": 2
+    },
+    {
+      "word": "삼전",
+      "count": 2
+    },
+    {
+      "word": "만원",
+      "count": 2
+    },
+    {
+      "word": "역설",
+      "count": 2
+    },
+    {
+      "word": "이것",
+      "count": 2
+    },
+    {
+      "word": "삼성",
+      "count": 2
+    },
+    {
+      "word": "극적",
+      "count": 2
+    },
+    {
+      "word": "일본",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 4
+      },
+      {
+        "word": "노동권만큼",
+        "count": 2
+      },
+      {
+        "word": "경영권",
+        "count": 2
+      },
+      {
+        "word": "존중돼야",
+        "count": 2
+      },
+      {
+        "word": "정부",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "연속",
+        "count": 3
+      },
+      {
+        "word": "우승",
+        "count": 3
+      },
+      {
+        "word": "연패",
+        "count": 2
+      },
+      {
+        "word": "김혜성",
+        "count": 2
+      },
+      {
+        "word": "이정후는",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "홈플러스",
+        "count": 1
+      },
+      {
+        "word": "메리츠금융",
+        "count": 1
+      },
+      {
+        "word": "긴급",
+        "count": 1
+      },
+      {
+        "word": "자금",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "대법",
+        "count": 3
+      },
+      {
+        "word": "제동",
+        "count": 2
+      },
+      {
+        "word": "평시",
+        "count": 2
+      },
+      {
+        "word": "수준",
+        "count": 2
+      },
+      {
+        "word": "처벌",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "가능성",
+        "count": 2
+      },
+      {
+        "word": "반도체",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 1
+      },
+      {
+        "word": "국영방송서",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "한강",
+        "count": 2
+      },
+      {
+        "word": "채식주의자",
+        "count": 2
+      },
+      {
+        "word": "기립박수",
+        "count": 2
+      },
+      {
+        "word": "터졌다",
+        "count": 2
+      },
+      {
+        "word": "마지막",
+        "count": 2
+      }
+    ]
   }
 }
