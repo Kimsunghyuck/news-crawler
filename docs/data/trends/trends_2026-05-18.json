@@ -1,153 +1,153 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T16:21:03.152427+09:00",
+  "generated_at": "2026-05-18T20:34:31.558299+09:00",
   "daily_top_keywords": [
     {
       "word": "대통령",
-      "count": 4
+      "count": 7
     },
     {
-      "word": "마지막",
-      "count": 3
-    },
-    {
-      "word": "삼성전자",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "정부",
-      "count": 3
-    },
-    {
-      "word": "연속",
-      "count": 3
-    },
-    {
-      "word": "우승",
-      "count": 3
-    },
-    {
-      "word": "대법",
-      "count": 3
-    },
-    {
-      "word": "한강",
-      "count": 2
-    },
-    {
-      "word": "채식주의자",
-      "count": 2
-    },
-    {
-      "word": "기립박수",
-      "count": 2
-    },
-    {
-      "word": "터졌다",
-      "count": 2
-    },
-    {
-      "word": "배우",
-      "count": 2
+      "word": "월드컵",
+      "count": 6
     },
     {
       "word": "삼전",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "삼성전자",
+      "count": 5
+    },
+    {
+      "word": "정부",
+      "count": 5
+    },
+    {
+      "word": "노조",
+      "count": 5
+    },
+    {
+      "word": "연속",
+      "count": 5
+    },
+    {
+      "word": "마지막",
+      "count": 4
+    },
+    {
+      "word": "연패",
+      "count": 4
+    },
+    {
+      "word": "한강",
+      "count": 3
+    },
+    {
+      "word": "채식주의자",
+      "count": 3
+    },
+    {
+      "word": "감사",
+      "count": 3
+    },
+    {
+      "word": "지원",
+      "count": 3
     },
     {
       "word": "만원",
-      "count": 2
-    },
-    {
-      "word": "역설",
-      "count": 2
-    },
-    {
-      "word": "이것",
-      "count": 2
-    },
-    {
-      "word": "삼성",
-      "count": 2
+      "count": 3
     },
     {
       "word": "극적",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "일본",
-      "count": 2
+      "word": "법원",
+      "count": 3
+    },
+    {
+      "word": "파업",
+      "count": 3
+    },
+    {
+      "word": "제동",
+      "count": 3
+    },
+    {
+      "word": "인력",
+      "count": 3
+    },
+    {
+      "word": "보복",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 4
+        "count": 7
       },
       {
         "word": "노동권만큼",
-        "count": 2
+        "count": 3
       },
       {
         "word": "경영권",
-        "count": 2
+        "count": 3
       },
       {
         "word": "존중돼야",
-        "count": 2
+        "count": 3
       },
       {
         "word": "정부",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
+        "word": "월드컵",
+        "count": 6
+      },
+      {
         "word": "연속",
+        "count": 5
+      },
+      {
+        "word": "연패",
+        "count": 4
+      },
+      {
+        "word": "경기",
         "count": 3
       },
       {
         "word": "우승",
         "count": 3
-      },
-      {
-        "word": "연패",
-        "count": 2
-      },
-      {
-        "word": "김혜성",
-        "count": 2
-      },
-      {
-        "word": "이정후는",
-        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "만원",
-        "count": 2
+        "word": "지원",
+        "count": 3
+      },
+      {
+        "word": "삼전",
+        "count": 3
       },
       {
         "word": "홈플러스",
-        "count": 1
+        "count": 2
       },
       {
         "word": "메리츠금융",
-        "count": 1
+        "count": 2
       },
       {
         "word": "긴급",
-        "count": 1
-      },
-      {
-        "word": "자금",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
@@ -156,63 +156,63 @@
         "count": 3
       },
       {
+        "word": "내란",
+        "count": 2
+      },
+      {
+        "word": "혐의",
+        "count": 2
+      },
+      {
         "word": "제동",
         "count": 2
       },
       {
         "word": "평시",
         "count": 2
-      },
-      {
-        "word": "수준",
-        "count": 2
-      },
-      {
-        "word": "처벌",
-        "count": 2
       }
     ],
     "international": [
       {
+        "word": "드론",
+        "count": 3
+      },
+      {
         "word": "가능성",
-        "count": 2
-      },
-      {
-        "word": "반도체",
-        "count": 2
-      },
-      {
-        "word": "한국",
-        "count": 2
+        "count": 3
       },
       {
         "word": "이란",
-        "count": 1
+        "count": 2
       },
       {
         "word": "국영방송서",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "앵커가",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "한강",
-        "count": 2
+        "count": 3
       },
       {
         "word": "채식주의자",
+        "count": 3
+      },
+      {
+        "word": "장동민",
         "count": 2
       },
       {
-        "word": "기립박수",
+        "word": "본인",
         "count": 2
       },
       {
-        "word": "터졌다",
-        "count": 2
-      },
-      {
-        "word": "마지막",
+        "word": "회사선",
         "count": 2
       }
     ]
