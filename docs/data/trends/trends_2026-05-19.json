@@ -1,13 +1,220 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-19T10:02:06.272277+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-19T16:13:42.655215+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "다카이치",
+      "count": 5
+    },
+    {
+      "word": "개최",
+      "count": 4
+    },
+    {
+      "word": "총리",
+      "count": 4
+    },
+    {
+      "word": "논란에",
+      "count": 3
+    },
+    {
+      "word": "삼전",
+      "count": 3
+    },
+    {
+      "word": "주식",
+      "count": 3
+    },
+    {
+      "word": "영접",
+      "count": 3
+    },
+    {
+      "word": "법적",
+      "count": 2
+    },
+    {
+      "word": "대응",
+      "count": 2
+    },
+    {
+      "word": "대군부인",
+      "count": 2
+    },
+    {
+      "word": "찾은",
+      "count": 2
+    },
+    {
+      "word": "새벽",
+      "count": 2
+    },
+    {
+      "word": "태극기",
+      "count": 2
+    },
+    {
+      "word": "검토",
+      "count": 2
+    },
+    {
+      "word": "가장",
+      "count": 2
+    },
+    {
+      "word": "강력한",
+      "count": 2
+    },
+    {
+      "word": "엔비디아",
+      "count": 2
+    },
+    {
+      "word": "이어",
+      "count": 2
+    },
+    {
+      "word": "로또",
+      "count": 2
+    },
+    {
+      "word": "아파트",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "다카이치",
+        "count": 3
+      },
+      {
+        "word": "영접",
+        "count": 3
+      },
+      {
+        "word": "안동",
+        "count": 2
+      },
+      {
+        "word": "호텔",
+        "count": 2
+      },
+      {
+        "word": "입구서",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "최종",
+        "count": 2
+      },
+      {
+        "word": "명단에",
+        "count": 2
+      },
+      {
+        "word": "대표팀",
+        "count": 2
+      },
+      {
+        "word": "우승",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "엔비디아",
+        "count": 2
+      },
+      {
+        "word": "로또",
+        "count": 2
+      },
+      {
+        "word": "아파트",
+        "count": 2
+      },
+      {
+        "word": "탱크데이",
+        "count": 2
+      },
+      {
+        "word": "정용진",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "과천",
+        "count": 2
+      },
+      {
+        "word": "사채",
+        "count": 2
+      },
+      {
+        "word": "삼전",
+        "count": 1
+      },
+      {
+        "word": "노사",
+        "count": 1
+      },
+      {
+        "word": "양보하는",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "정상회담",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "호랑이",
+        "count": 2
+      },
+      {
+        "word": "치료제",
+        "count": 2
+      },
+      {
+        "word": "변종",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "개최",
+        "count": 4
+      },
+      {
+        "word": "대군부인",
+        "count": 2
+      },
+      {
+        "word": "논란에",
+        "count": 2
+      },
+      {
+        "word": "태극기",
+        "count": 2
+      },
+      {
+        "word": "서울부터",
+        "count": 1
+      }
+    ]
   }
 }
