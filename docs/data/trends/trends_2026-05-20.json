@@ -1,17 +1,49 @@
 {
   "date": "2026-05-20",
-  "generated_at": "2026-05-20T16:15:07.193379+09:00",
+  "generated_at": "2026-05-20T20:09:15.375910+09:00",
   "daily_top_keywords": [
     {
-      "word": "삼전",
-      "count": 4
-    },
-    {
       "word": "만원",
-      "count": 4
+      "count": 7
     },
     {
       "word": "노조",
+      "count": 7
+    },
+    {
+      "word": "삼전",
+      "count": 6
+    },
+    {
+      "word": "연속",
+      "count": 6
+    },
+    {
+      "word": "유조선",
+      "count": 5
+    },
+    {
+      "word": "호르무즈",
+      "count": 5
+    },
+    {
+      "word": "됐다",
+      "count": 4
+    },
+    {
+      "word": "출신",
+      "count": 4
+    },
+    {
+      "word": "앞세워",
+      "count": 4
+    },
+    {
+      "word": "조정",
+      "count": 4
+    },
+    {
+      "word": "노사",
       "count": 4
     },
     {
@@ -23,112 +55,88 @@
       "count": 4
     },
     {
-      "word": "조정",
-      "count": 3
-    },
-    {
-      "word": "명동점",
-      "count": 3
-    },
-    {
-      "word": "노사",
-      "count": 3
+      "word": "사망",
+      "count": 4
     },
     {
       "word": "한국",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "적정한",
-      "count": 3
+      "word": "통과",
+      "count": 4
     },
     {
-      "word": "연속",
-      "count": 3
+      "word": "영업이익",
+      "count": 4
     },
     {
-      "word": "출신",
-      "count": 2
+      "word": "배분",
+      "count": 4
     },
     {
-      "word": "작가",
-      "count": 2
+      "word": "요구",
+      "count": 4
     },
     {
-      "word": "됐다",
-      "count": 2
-    },
-    {
-      "word": "앞세워",
-      "count": 2
-    },
-    {
-      "word": "탱크데이",
-      "count": 2
-    },
-    {
-      "word": "총파업",
-      "count": 2
-    },
-    {
-      "word": "아린",
-      "count": 2
-    },
-    {
-      "word": "방문한",
-      "count": 2
-    },
-    {
-      "word": "투모로우바이투게더",
-      "count": 2
+      "word": "이런",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "적정한",
-        "count": 3
-      },
-      {
         "word": "영업이익",
-        "count": 2
+        "count": 4
       },
       {
         "word": "배분",
-        "count": 2
+        "count": 4
       },
       {
         "word": "요구",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "일부",
-        "count": 2
+        "word": "적정한",
+        "count": 4
+      },
+      {
+        "word": "일진과도",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "연속",
+        "count": 6
+      },
+      {
+        "word": "결과",
         "count": 3
       },
       {
-        "word": "시즌",
+        "word": "서건창의",
         "count": 2
       },
       {
-        "word": "점차",
-        "count": 1
+        "word": "낭만은",
+        "count": 2
       },
       {
-        "word": "뒤집어",
-        "count": 1
-      },
-      {
-        "word": "뉴욕",
-        "count": 1
+        "word": "키움에서",
+        "count": 2
       }
     ],
     "economy": [
+      {
+        "word": "만원",
+        "count": 4
+      },
+      {
+        "word": "삼전",
+        "count": 4
+      },
       {
         "word": "포토",
         "count": 4
@@ -138,82 +146,74 @@
         "count": 4
       },
       {
-        "word": "삼전",
+        "word": "노조",
         "count": 3
-      },
-      {
-        "word": "명동점",
-        "count": 3
-      },
-      {
-        "word": "만원",
-        "count": 2
       }
     ],
     "society": [
       {
-        "word": "혐의",
-        "count": 2
-      },
-      {
         "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "지리산서",
         "count": 2
       },
       {
-        "word": "삼성전자",
-        "count": 1
+        "word": "산삼",
+        "count": 2
       },
       {
-        "word": "노사협상",
-        "count": 1
+        "word": "발견",
+        "count": 2
       },
       {
-        "word": "재개",
-        "count": 1
+        "word": "감정가",
+        "count": 2
       }
     ],
     "international": [
       {
+        "word": "유조선",
+        "count": 4
+      },
+      {
         "word": "사망",
-        "count": 2
+        "count": 3
       },
       {
         "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "통과",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
         "count": 2
-      },
-      {
-        "word": "유조선",
-        "count": 2
-      },
-      {
-        "word": "년간",
-        "count": 1
-      },
-      {
-        "word": "달러",
-        "count": 1
       }
     ],
     "culture": [
       {
         "word": "작가",
+        "count": 3
+      },
+      {
+        "word": "만의",
         "count": 2
       },
       {
-        "word": "삼전",
-        "count": 1
+        "word": "조인성도",
+        "count": 2
       },
       {
-        "word": "하닉에",
-        "count": 1
+        "word": "감탄했다",
+        "count": 2
       },
       {
-        "word": "넣은",
-        "count": 1
-      },
-      {
-        "word": "소유",
-        "count": 1
+        "word": "숨소리",
+        "count": 2
       }
     ]
   }
