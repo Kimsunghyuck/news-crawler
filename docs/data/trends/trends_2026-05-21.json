@@ -1,153 +1,153 @@
 {
   "date": "2026-05-21",
-  "generated_at": "2026-05-21T16:17:23.523427+09:00",
+  "generated_at": "2026-05-21T20:12:20.506213+09:00",
   "daily_top_keywords": [
     {
-      "word": "만에",
-      "count": 3
-    },
-    {
       "word": "삼전",
-      "count": 3
-    },
-    {
-      "word": "합의",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "모든",
-      "count": 3
-    },
-    {
-      "word": "정원오",
-      "count": 3
+      "count": 6
     },
     {
       "word": "부산",
-      "count": 3
-    },
-    {
-      "word": "하정우",
-      "count": 3
+      "count": 6
     },
     {
       "word": "한동훈",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "징역",
-      "count": 3
+      "word": "우승",
+      "count": 6
     },
     {
-      "word": "이다해",
-      "count": 2
+      "word": "만에",
+      "count": 5
     },
     {
-      "word": "세븐",
-      "count": 2
+      "word": "합의",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "정원오",
+      "count": 5
+    },
+    {
+      "word": "하정우",
+      "count": 5
     },
     {
       "word": "비결",
-      "count": 2
-    },
-    {
-      "word": "캐나다",
-      "count": 2
+      "count": 4
     },
     {
       "word": "최초",
-      "count": 2
+      "count": 4
     },
     {
       "word": "서울",
-      "count": 2
+      "count": 4
     },
     {
       "word": "들고",
-      "count": 2
-    },
-    {
-      "word": "조합원",
-      "count": 2
+      "count": 4
     },
     {
       "word": "성과급",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "삼성전자",
-      "count": 2
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "아냐",
+      "count": 4
+    },
+    {
+      "word": "이스라엘",
+      "count": 4
+    },
+    {
+      "word": "모든",
+      "count": 4
+    },
+    {
+      "word": "박민식",
+      "count": 4
+    },
+    {
+      "word": "중앙일보",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "모든",
-        "count": 3
-      },
-      {
-        "word": "정원오",
-        "count": 3
-      },
-      {
         "word": "부산",
-        "count": 3
-      },
-      {
-        "word": "하정우",
-        "count": 3
+        "count": 6
       },
       {
         "word": "한동훈",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "정원오",
+        "count": 5
+      },
+      {
+        "word": "하정우",
+        "count": 5
+      },
+      {
+        "word": "모든",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "시즌",
-        "count": 2
-      },
-      {
-        "word": "인공기",
-        "count": 2
-      },
-      {
-        "word": "웃었다",
-        "count": 2
-      },
-      {
         "word": "우승",
-        "count": 2
+        "count": 6
       },
       {
         "word": "유로파리그",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "번째",
+        "count": 4
+      },
+      {
+        "word": "시즌",
+        "count": 3
+      },
+      {
+        "word": "축구",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "삼전",
+        "count": 5
+      },
+      {
+        "word": "코스피",
         "count": 3
       },
       {
         "word": "조합원",
-        "count": 2
+        "count": 3
       },
       {
         "word": "성과급",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "삼성전자",
-        "count": 2
-      },
-      {
-        "word": "반도체가",
-        "count": 1
+        "word": "스페이스",
+        "count": 3
       }
     ],
     "society": [
@@ -156,64 +156,64 @@
         "count": 3
       },
       {
-        "word": "통일교",
-        "count": 2
-      },
-      {
         "word": "경찰",
-        "count": 2
+        "count": 3
       },
       {
         "word": "김수현",
-        "count": 2
+        "count": 3
       },
       {
         "word": "교제",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "허위",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "아냐",
+        "count": 4
+      },
+      {
+        "word": "찰스",
         "count": 3
       },
       {
-        "word": "한컷",
-        "count": 1
+        "word": "서거",
+        "count": 3
       },
       {
-        "word": "나와도",
-        "count": 1
-      },
-      {
-        "word": "끝까지",
-        "count": 1
-      },
-      {
-        "word": "쫓는다",
-        "count": 1
+        "word": "오보",
+        "count": 3
       }
     ],
     "culture": [
       {
+        "word": "만에",
+        "count": 4
+      },
+      {
         "word": "이다해",
-        "count": 2
+        "count": 3
       },
       {
         "word": "세븐",
+        "count": 3
+      },
+      {
+        "word": "백지연",
         "count": 2
       },
       {
-        "word": "만에",
+        "word": "동안",
         "count": 2
-      },
-      {
-        "word": "아메리칸",
-        "count": 1
-      },
-      {
-        "word": "뮤직",
-        "count": 1
       }
     ]
   }
