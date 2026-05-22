@@ -1,13 +1,220 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T10:03:48.617119+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-22T16:14:14.926120+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "배우",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "배치",
+      "count": 3
+    },
+    {
+      "word": "월드컵",
+      "count": 3
+    },
+    {
+      "word": "리그",
+      "count": 3
+    },
+    {
+      "word": "선정",
+      "count": 2
+    },
+    {
+      "word": "성공",
+      "count": 2
+    },
+    {
+      "word": "이유",
+      "count": 2
+    },
+    {
+      "word": "폐지",
+      "count": 2
+    },
+    {
+      "word": "스타벅스",
+      "count": 2
+    },
+    {
+      "word": "타격",
+      "count": 2
+    },
+    {
+      "word": "직원들",
+      "count": 2
+    },
+    {
+      "word": "분데스리가",
+      "count": 2
+    },
+    {
+      "word": "미군",
+      "count": 2
+    },
+    {
+      "word": "논의",
+      "count": 2
+    },
+    {
+      "word": "촬영",
+      "count": 2
+    },
+    {
+      "word": "된다",
+      "count": 2
+    },
+    {
+      "word": "바퀴벌레",
+      "count": 2
+    },
+    {
+      "word": "활동가",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "부산",
+        "count": 2
+      },
+      {
+        "word": "북갑",
+        "count": 2
+      },
+      {
+        "word": "단일화",
+        "count": 2
+      },
+      {
+        "word": "혐중",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "리그",
+        "count": 3
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "상대",
+        "count": 2
+      },
+      {
+        "word": "체코",
+        "count": 2
+      },
+      {
+        "word": "명단",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "기술수출",
+        "count": 1
+      },
+      {
+        "word": "정책",
+        "count": 1
+      },
+      {
+        "word": "훈풍",
+        "count": 1
+      },
+      {
+        "word": "바닥찍은",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "허위",
+        "count": 2
+      },
+      {
+        "word": "홍장원",
+        "count": 1
+      },
+      {
+        "word": "종합특검",
+        "count": 1
+      },
+      {
+        "word": "출석",
+        "count": 1
+      },
+      {
+        "word": "걱정",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "미군",
+        "count": 2
+      },
+      {
+        "word": "배치",
+        "count": 2
+      },
+      {
+        "word": "촬영",
+        "count": 2
+      },
+      {
+        "word": "바퀴벌레",
+        "count": 2
+      },
+      {
+        "word": "일본",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "배우",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "모로코",
+        "count": 1
+      },
+      {
+        "word": "대형",
+        "count": 1
+      },
+      {
+        "word": "음악",
+        "count": 1
+      }
+    ]
   }
 }
