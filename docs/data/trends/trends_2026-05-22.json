@@ -1,219 +1,219 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T16:14:14.926120+09:00",
+  "generated_at": "2026-05-22T20:08:30.680883+09:00",
   "daily_top_keywords": [
     {
       "word": "만에",
-      "count": 4
-    },
-    {
-      "word": "배우",
-      "count": 3
-    },
-    {
-      "word": "만원",
-      "count": 3
-    },
-    {
-      "word": "배치",
-      "count": 3
+      "count": 8
     },
     {
       "word": "월드컵",
-      "count": 3
-    },
-    {
-      "word": "리그",
-      "count": 3
-    },
-    {
-      "word": "선정",
-      "count": 2
-    },
-    {
-      "word": "성공",
-      "count": 2
-    },
-    {
-      "word": "이유",
-      "count": 2
-    },
-    {
-      "word": "폐지",
-      "count": 2
-    },
-    {
-      "word": "스타벅스",
-      "count": 2
-    },
-    {
-      "word": "타격",
-      "count": 2
-    },
-    {
-      "word": "직원들",
-      "count": 2
-    },
-    {
-      "word": "분데스리가",
-      "count": 2
-    },
-    {
-      "word": "미군",
-      "count": 2
-    },
-    {
-      "word": "논의",
-      "count": 2
-    },
-    {
-      "word": "촬영",
-      "count": 2
-    },
-    {
-      "word": "된다",
-      "count": 2
-    },
-    {
-      "word": "바퀴벌레",
-      "count": 2
+      "count": 6
     },
     {
       "word": "활동가",
-      "count": 2
+      "count": 6
+    },
+    {
+      "word": "리그",
+      "count": 6
+    },
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "배우",
+      "count": 4
+    },
+    {
+      "word": "이유",
+      "count": 4
+    },
+    {
+      "word": "폐지",
+      "count": 4
+    },
+    {
+      "word": "노조",
+      "count": 4
+    },
+    {
+      "word": "배치",
+      "count": 4
+    },
+    {
+      "word": "촬영",
+      "count": 4
+    },
+    {
+      "word": "우승",
+      "count": 4
+    },
+    {
+      "word": "선정",
+      "count": 3
+    },
+    {
+      "word": "만명",
+      "count": 3
+    },
+    {
+      "word": "성공",
+      "count": 3
+    },
+    {
+      "word": "결혼",
+      "count": 3
+    },
+    {
+      "word": "충격",
+      "count": 3
+    },
+    {
+      "word": "분노의",
+      "count": 3
+    },
+    {
+      "word": "삼전",
+      "count": 3
+    },
+    {
+      "word": "하루새",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "국힘",
-        "count": 2
+        "word": "대통령",
+        "count": 3
       },
       {
-        "word": "부산",
-        "count": 2
+        "word": "가자",
+        "count": 3
       },
       {
-        "word": "북갑",
-        "count": 2
+        "word": "활동가",
+        "count": 3
       },
       {
-        "word": "단일화",
-        "count": 2
+        "word": "구타",
+        "count": 3
       },
       {
-        "word": "혐중",
-        "count": 1
+        "word": "외교부",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "리그",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "우승",
+        "count": 4
       },
       {
         "word": "월드컵",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "상대",
-        "count": 2
+        "word": "결승",
+        "count": 3
       },
       {
-        "word": "체코",
-        "count": 2
-      },
-      {
-        "word": "명단",
-        "count": 2
+        "word": "앞둔",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "만에",
-        "count": 2
+        "word": "노조",
+        "count": 4
       },
       {
-        "word": "기술수출",
-        "count": 1
+        "word": "분노의",
+        "count": 3
       },
       {
-        "word": "정책",
-        "count": 1
+        "word": "삼전",
+        "count": 3
       },
       {
-        "word": "훈풍",
-        "count": 1
+        "word": "하루새",
+        "count": 3
       },
       {
-        "word": "바닥찍은",
-        "count": 1
+        "word": "가입",
+        "count": 3
       }
     ],
     "society": [
       {
+        "word": "경찰",
+        "count": 3
+      },
+      {
         "word": "허위",
+        "count": 3
+      },
+      {
+        "word": "귀국",
+        "count": 3
+      },
+      {
+        "word": "활동가",
+        "count": 3
+      },
+      {
+        "word": "이어",
         "count": 2
-      },
-      {
-        "word": "홍장원",
-        "count": 1
-      },
-      {
-        "word": "종합특검",
-        "count": 1
-      },
-      {
-        "word": "출석",
-        "count": 1
-      },
-      {
-        "word": "걱정",
-        "count": 1
       }
     ],
     "international": [
       {
-        "word": "미군",
-        "count": 2
-      },
-      {
-        "word": "배치",
-        "count": 2
-      },
-      {
         "word": "촬영",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "바퀴벌레",
-        "count": 2
+        "word": "미군",
+        "count": 3
       },
       {
-        "word": "일본",
-        "count": 1
+        "word": "다카이치",
+        "count": 3
+      },
+      {
+        "word": "모임",
+        "count": 3
+      },
+      {
+        "word": "자민당",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "배우",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "만원",
-        "count": 2
+        "word": "결혼",
+        "count": 3
+      },
+      {
+        "word": "충격",
+        "count": 3
       },
       {
         "word": "모로코",
-        "count": 1
+        "count": 2
       },
       {
         "word": "대형",
-        "count": 1
-      },
-      {
-        "word": "음악",
-        "count": 1
+        "count": 2
       }
     ]
   }
