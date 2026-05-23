@@ -1,13 +1,220 @@
 {
   "date": "2026-05-23",
-  "generated_at": "2026-05-23T09:59:25.031332+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-23T15:58:24.545970+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "월드컵",
+      "count": 4
+    },
+    {
+      "word": "만명",
+      "count": 3
+    },
+    {
+      "word": "임신",
+      "count": 2
+    },
+    {
+      "word": "류승범",
+      "count": 2
+    },
+    {
+      "word": "버스전용차로",
+      "count": 2
+    },
+    {
+      "word": "주행",
+      "count": 2
+    },
+    {
+      "word": "과태료",
+      "count": 2
+    },
+    {
+      "word": "충격",
+      "count": 2
+    },
+    {
+      "word": "외국인",
+      "count": 2
+    },
+    {
+      "word": "코스피",
+      "count": 2
+    },
+    {
+      "word": "사상",
+      "count": 2
+    },
+    {
+      "word": "삼전",
+      "count": 2
+    },
+    {
+      "word": "노사",
+      "count": 2
+    },
+    {
+      "word": "잠정합의안",
+      "count": 2
+    },
+    {
+      "word": "노조",
+      "count": 2
+    },
+    {
+      "word": "삼성전자",
+      "count": 2
+    },
+    {
+      "word": "수사",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "주기",
+        "count": 1
+      },
+      {
+        "word": "추도식",
+        "count": 1
+      },
+      {
+        "word": "참석",
+        "count": 1
+      },
+      {
+        "word": "기득권",
+        "count": 1
+      },
+      {
+        "word": "두려워",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "월드컵",
+        "count": 4
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "김시우",
+        "count": 2
+      },
+      {
+        "word": "임성재",
+        "count": 2
+      },
+      {
+        "word": "우승",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만명",
+        "count": 3
+      },
+      {
+        "word": "코스피",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "삼전",
+        "count": 2
+      },
+      {
+        "word": "노사",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "얼굴",
+        "count": 2
+      },
+      {
+        "word": "전국",
+        "count": 1
+      },
+      {
+        "word": "흐리고",
+        "count": 1
+      },
+      {
+        "word": "가끔",
+        "count": 1
+      },
+      {
+        "word": "부처님",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "표적",
+        "count": 2
+      },
+      {
+        "word": "자택",
+        "count": 2
+      },
+      {
+        "word": "탄광",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "임신",
+        "count": 2
+      },
+      {
+        "word": "차트",
+        "count": 1
+      },
+      {
+        "word": "만원씩",
+        "count": 1
+      },
+      {
+        "word": "비비",
+        "count": 1
+      },
+      {
+        "word": "직원들에",
+        "count": 1
+      }
+    ]
   }
 }
