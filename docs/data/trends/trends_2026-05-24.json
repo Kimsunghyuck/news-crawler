@@ -1,219 +1,219 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T16:08:13.724070+09:00",
+  "generated_at": "2026-05-24T19:39:40.321663+09:00",
   "daily_top_keywords": [
     {
-      "word": "이란",
-      "count": 5
+      "word": "스벅",
+      "count": 7
     },
     {
-      "word": "충격",
-      "count": 3
+      "word": "이란",
+      "count": 7
     },
     {
       "word": "김시우",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "충격",
+      "count": 5
     },
     {
       "word": "임성재",
-      "count": 3
+      "count": 5
     },
     {
       "word": "검토",
-      "count": 3
+      "count": 5
     },
     {
       "word": "백악관",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "일베",
-      "count": 3
-    },
-    {
-      "word": "스벅",
-      "count": 3
+      "word": "트럼프",
+      "count": 5
     },
     {
       "word": "이회창",
-      "count": 3
+      "count": 5
     },
     {
       "word": "총재",
-      "count": 3
-    },
-    {
-      "word": "부인",
-      "count": 3
+      "count": 5
     },
     {
       "word": "여사",
-      "count": 3
+      "count": 5
     },
     {
       "word": "별세",
-      "count": 3
+      "count": 5
     },
     {
       "word": "연속",
-      "count": 3
+      "count": 5
     },
     {
       "word": "정체",
-      "count": 2
-    },
-    {
-      "word": "나홍진",
-      "count": 2
-    },
-    {
-      "word": "불발",
-      "count": 2
+      "count": 4
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 4
     },
     {
       "word": "누적",
-      "count": 2
+      "count": 4
     },
     {
       "word": "시장",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "진출",
+      "count": 4
+    },
+    {
+      "word": "합의",
+      "count": 4
+    },
+    {
+      "word": "우승",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "일베",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "국힘",
+        "count": 4
       },
       {
         "word": "스벅",
-        "count": 3
+        "count": 4
       },
       {
         "word": "징벌적",
-        "count": 2
+        "count": 3
       },
       {
         "word": "배상",
-        "count": 2
-      },
-      {
-        "word": "검토",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "연속",
-        "count": 3
-      },
-      {
-        "word": "진출",
-        "count": 2
-      },
-      {
-        "word": "경기",
-        "count": 2
-      },
-      {
-        "word": "무패",
-        "count": 2
+        "count": 5
       },
       {
         "word": "김시우",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "광주",
+        "count": 4
+      },
+      {
+        "word": "김가영",
+        "count": 3
+      },
+      {
+        "word": "상금",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "시장",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "경쟁력",
+        "count": 3
       },
       {
         "word": "중국",
-        "count": 2
+        "count": 3
       },
       {
         "word": "원칙",
-        "count": 1
+        "count": 2
       },
       {
         "word": "보상",
-        "count": 1
-      },
-      {
-        "word": "투자",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "조선호텔",
-        "count": 2
-      },
-      {
-        "word": "생화",
-        "count": 2
-      },
-      {
-        "word": "부가세",
-        "count": 2
+        "word": "최대",
+        "count": 3
       },
       {
         "word": "충격",
+        "count": 3
+      },
+      {
+        "word": "수사",
+        "count": 3
+      },
+      {
+        "word": "시작도",
         "count": 2
       },
       {
-        "word": "오해",
-        "count": 1
+        "word": "내일부터",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 5
+        "count": 7
       },
       {
         "word": "백악관",
-        "count": 3
-      },
-      {
-        "word": "휴전",
-        "count": 2
-      },
-      {
-        "word": "개방",
-        "count": 2
+        "count": 5
       },
       {
         "word": "합의",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "휴전",
+        "count": 3
+      },
+      {
+        "word": "개방",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "나홍진",
-        "count": 2
+        "count": 3
       },
       {
         "word": "불발",
-        "count": 2
+        "count": 3
       },
       {
         "word": "뮤비",
-        "count": 1
+        "count": 2
       },
       {
         "word": "나온",
-        "count": 1
+        "count": 2
       },
       {
         "word": "졸리",
-        "count": 1
+        "count": 2
       }
     ]
   }
