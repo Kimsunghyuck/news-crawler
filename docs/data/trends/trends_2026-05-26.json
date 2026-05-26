@@ -1,13 +1,220 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T09:59:37.546206+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-26T16:12:37.677508+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "붕괴",
+      "count": 4
+    },
+    {
+      "word": "대상",
+      "count": 3
+    },
+    {
+      "word": "공습",
+      "count": 3
+    },
+    {
+      "word": "일부",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "서소문",
+      "count": 3
+    },
+    {
+      "word": "고가차도",
+      "count": 3
+    },
+    {
+      "word": "우승",
+      "count": 3
+    },
+    {
+      "word": "월드컵",
+      "count": 3
+    },
+    {
+      "word": "올해의",
+      "count": 2
+    },
+    {
+      "word": "송원섭의",
+      "count": 2
+    },
+    {
+      "word": "와칭",
+      "count": 2
+    },
+    {
+      "word": "따블",
+      "count": 2
+    },
+    {
+      "word": "떼고",
+      "count": 2
+    },
+    {
+      "word": "김용범",
+      "count": 2
+    },
+    {
+      "word": "정용진",
+      "count": 2
+    },
+    {
+      "word": "승인",
+      "count": 2
+    },
+    {
+      "word": "소동",
+      "count": 2
+    },
+    {
+      "word": "호르무즈",
+      "count": 2
+    },
+    {
+      "word": "걸려",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "핵잠",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "오세훈",
+        "count": 2
+      },
+      {
+        "word": "국회",
+        "count": 1
+      },
+      {
+        "word": "입법",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "우승",
+        "count": 3
+      },
+      {
+        "word": "월드컵",
+        "count": 3
+      },
+      {
+        "word": "달리는",
+        "count": 2
+      },
+      {
+        "word": "골프",
+        "count": 2
+      },
+      {
+        "word": "연승",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "따블",
+        "count": 2
+      },
+      {
+        "word": "떼고",
+        "count": 2
+      },
+      {
+        "word": "승인",
+        "count": 2
+      },
+      {
+        "word": "딥시크",
+        "count": 1
+      },
+      {
+        "word": "할인",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "붕괴",
+        "count": 3
+      },
+      {
+        "word": "구조",
+        "count": 2
+      },
+      {
+        "word": "서소문",
+        "count": 2
+      },
+      {
+        "word": "고가차도",
+        "count": 2
+      },
+      {
+        "word": "단체",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "호르무즈",
+        "count": 2
+      },
+      {
+        "word": "공습",
+        "count": 2
+      },
+      {
+        "word": "미사일",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "전격",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "대상",
+        "count": 2
+      },
+      {
+        "word": "올해의",
+        "count": 2
+      },
+      {
+        "word": "송원섭의",
+        "count": 2
+      },
+      {
+        "word": "와칭",
+        "count": 2
+      },
+      {
+        "word": "노래",
+        "count": 1
+      }
+    ]
   }
 }
