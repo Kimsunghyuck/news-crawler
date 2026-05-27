@@ -1,219 +1,219 @@
 {
   "date": "2026-05-27",
-  "generated_at": "2026-05-27T16:27:27.380291+09:00",
+  "generated_at": "2026-05-27T20:20:09.325381+09:00",
   "daily_top_keywords": [
     {
-      "word": "후보",
-      "count": 4
-    },
-    {
-      "word": "늘어",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
       "word": "부산",
-      "count": 3
+      "count": 7
+    },
+    {
+      "word": "후보",
+      "count": 6
+    },
+    {
+      "word": "월드컵",
+      "count": 6
     },
     {
       "word": "감독",
-      "count": 3
-    },
-    {
-      "word": "전자",
-      "count": 3
-    },
-    {
-      "word": "고백",
-      "count": 2
-    },
-    {
-      "word": "유럽",
-      "count": 2
-    },
-    {
-      "word": "받았다",
-      "count": 2
-    },
-    {
-      "word": "충격",
-      "count": 2
+      "count": 6
     },
     {
       "word": "만원",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "늘어",
+      "count": 5
     },
     {
       "word": "삼성",
-      "count": 2
+      "count": 5
     },
     {
       "word": "선수",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "성과급",
-      "count": 2
+      "word": "정부",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "서소문",
+      "count": 5
+    },
+    {
+      "word": "전자",
+      "count": 5
+    },
+    {
+      "word": "충격",
+      "count": 4
     },
     {
       "word": "갈등",
-      "count": 2
+      "count": 4
     },
     {
       "word": "삼전닉스",
-      "count": 2
-    },
-    {
-      "word": "계약",
-      "count": 2
+      "count": 4
     },
     {
       "word": "임직원",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "시장",
-      "count": 2
+      "word": "미스",
+      "count": 4
     },
     {
-      "word": "개발사",
-      "count": 2
+      "word": "박근혜",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "연속",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "부산",
-        "count": 3
+        "count": 7
       },
       {
         "word": "후보",
-        "count": 3
-      },
-      {
-        "word": "대통령",
-        "count": 2
+        "count": 5
       },
       {
         "word": "박근혜",
-        "count": 2
+        "count": 4
       },
       {
         "word": "국힘",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "나무호",
+        "count": 3
       }
     ],
     "sports": [
       {
+        "word": "월드컵",
+        "count": 6
+      },
+      {
         "word": "감독",
-        "count": 3
+        "count": 6
       },
       {
         "word": "교체",
-        "count": 2
-      },
-      {
-        "word": "월드컵",
-        "count": 2
+        "count": 4
       },
       {
         "word": "손흥민",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "김주형",
-        "count": 2
+        "word": "선수",
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "삼성",
+        "count": 5
+      },
+      {
         "word": "만원",
-        "count": 2
+        "count": 4
       },
       {
         "word": "늘어",
-        "count": 2
-      },
-      {
-        "word": "삼성",
-        "count": 2
+        "count": 4
       },
       {
         "word": "성과급",
-        "count": 2
+        "count": 3
       },
       {
         "word": "갈등",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "전자",
-        "count": 3
-      },
-      {
-        "word": "직원",
-        "count": 2
-      },
-      {
-        "word": "찔렀다",
-        "count": 2
-      },
-      {
-        "word": "칼부림",
-        "count": 2
+        "count": 5
       },
       {
         "word": "서소문",
-        "count": 1
+        "count": 4
+      },
+      {
+        "word": "고가",
+        "count": 4
+      },
+      {
+        "word": "칼부림",
+        "count": 4
+      },
+      {
+        "word": "직원",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "미스",
+        "count": 4
       },
       {
         "word": "아브라함",
-        "count": 2
+        "count": 3
       },
       {
         "word": "협정",
-        "count": 2
+        "count": 3
       },
       {
         "word": "살만",
-        "count": 2
-      },
-      {
-        "word": "압박",
-        "count": 1
+        "count": 3
       }
     ],
     "culture": [
       {
+        "word": "최소라",
+        "count": 3
+      },
+      {
+        "word": "임신",
+        "count": 3
+      },
+      {
         "word": "갑상선암으로",
-        "count": 1
+        "count": 2
       },
       {
         "word": "지예은",
-        "count": 1
+        "count": 2
       },
       {
         "word": "투병",
-        "count": 1
-      },
-      {
-        "word": "고백",
-        "count": 1
-      },
-      {
-        "word": "신인상",
-        "count": 1
+        "count": 2
       }
     ]
   }
