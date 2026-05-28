@@ -1,13 +1,220 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T09:58:27.081484+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-28T16:22:47.166740+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "선거",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "서소문",
+      "count": 3
+    },
+    {
+      "word": "감독",
+      "count": 3
+    },
+    {
+      "word": "월드컵",
+      "count": 3
+    },
+    {
+      "word": "만명",
+      "count": 2
+    },
+    {
+      "word": "삼전닉스",
+      "count": 2
+    },
+    {
+      "word": "최초",
+      "count": 2
+    },
+    {
+      "word": "하이닉스",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    },
+    {
+      "word": "출신",
+      "count": 2
+    },
+    {
+      "word": "논란",
+      "count": 2
+    },
+    {
+      "word": "정동영",
+      "count": 2
+    },
+    {
+      "word": "붕괴",
+      "count": 2
+    },
+    {
+      "word": "사고",
+      "count": 2
+    },
+    {
+      "word": "음주",
+      "count": 2
+    },
+    {
+      "word": "지연",
+      "count": 2
+    },
+    {
+      "word": "홍명보호",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "선거",
+        "count": 3
+      },
+      {
+        "word": "정청래",
+        "count": 2
+      },
+      {
+        "word": "장동혁",
+        "count": 2
+      },
+      {
+        "word": "하정우",
+        "count": 2
+      },
+      {
+        "word": "찾은",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "월드컵",
+        "count": 3
+      },
+      {
+        "word": "선수",
+        "count": 2
+      },
+      {
+        "word": "대회",
+        "count": 2
+      },
+      {
+        "word": "대표팀",
+        "count": 2
+      },
+      {
+        "word": "신인",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "삼전닉스",
+        "count": 2
+      },
+      {
+        "word": "하이닉스",
+        "count": 2
+      },
+      {
+        "word": "삼성",
+        "count": 1
+      },
+      {
+        "word": "최대노조",
+        "count": 1
+      },
+      {
+        "word": "만명",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "논란",
+        "count": 2
+      },
+      {
+        "word": "정동영",
+        "count": 2
+      },
+      {
+        "word": "탈출만",
+        "count": 1
+      },
+      {
+        "word": "네번째",
+        "count": 1
+      },
+      {
+        "word": "도움",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "음주",
+        "count": 2
+      },
+      {
+        "word": "지연",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "보복",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "김수현",
+        "count": 1
+      },
+      {
+        "word": "년전",
+        "count": 1
+      },
+      {
+        "word": "눈물의",
+        "count": 1
+      },
+      {
+        "word": "약속",
+        "count": 1
+      },
+      {
+        "word": "김세의",
+        "count": 1
+      }
+    ]
   }
 }
