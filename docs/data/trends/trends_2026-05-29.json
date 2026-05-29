@@ -1,219 +1,219 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T16:21:40.676967+09:00",
+  "generated_at": "2026-05-29T20:13:28.482982+09:00",
   "daily_top_keywords": [
     {
-      "word": "삼전",
-      "count": 4
+      "word": "월드컵",
+      "count": 8
     },
     {
-      "word": "돌파",
-      "count": 3
+      "word": "삼전",
+      "count": 6
+    },
+    {
+      "word": "직원",
+      "count": 5
     },
     {
       "word": "정몽규",
-      "count": 3
-    },
-    {
-      "word": "월드컵",
-      "count": 3
-    },
-    {
-      "word": "물러난다",
-      "count": 3
+      "count": 5
     },
     {
       "word": "홍명보호",
-      "count": 3
+      "count": 5
     },
     {
       "word": "이란",
-      "count": 3
-    },
-    {
-      "word": "전재수",
-      "count": 3
-    },
-    {
-      "word": "사전투표",
-      "count": 3
+      "count": 5
     },
     {
       "word": "깜짝",
-      "count": 2
+      "count": 4
     },
     {
       "word": "혐의",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "달러",
-      "count": 2
-    },
-    {
-      "word": "삼성전자",
-      "count": 2
-    },
-    {
-      "word": "우선주",
-      "count": 2
-    },
-    {
-      "word": "포함",
-      "count": 2
-    },
-    {
-      "word": "시총",
-      "count": 2
-    },
-    {
-      "word": "조원",
-      "count": 2
+      "word": "우려",
+      "count": 4
     },
     {
       "word": "사장",
-      "count": 2
-    },
-    {
-      "word": "늘어",
-      "count": 2
+      "count": 4
     },
     {
       "word": "옥상",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "축구협회장",
+      "count": 4
+    },
+    {
+      "word": "물러난다",
+      "count": 4
+    },
+    {
+      "word": "수사",
+      "count": 4
+    },
+    {
+      "word": "싱가포르",
+      "count": 4
+    },
+    {
+      "word": "종전",
+      "count": 4
+    },
+    {
+      "word": "합의",
+      "count": 4
+    },
+    {
+      "word": "안돼",
+      "count": 4
+    },
+    {
+      "word": "전재수",
+      "count": 4
+    },
+    {
+      "word": "중앙일보",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "전재수",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "중앙일보",
+        "count": 4
+      },
+      {
+        "word": "여론조사",
+        "count": 4
+      },
+      {
+        "word": "투표지",
+        "count": 4
       },
       {
         "word": "사전투표",
         "count": 3
-      },
-      {
-        "word": "중앙일보",
-        "count": 2
-      },
-      {
-        "word": "여론조사",
-        "count": 2
-      },
-      {
-        "word": "잡은",
-        "count": 1
       }
     ],
     "sports": [
       {
-        "word": "홍명보호",
-        "count": 2
+        "word": "월드컵",
+        "count": 5
       },
       {
-        "word": "신네르",
-        "count": 2
+        "word": "홍명보호",
+        "count": 3
       },
       {
         "word": "숨이",
-        "count": 1
+        "count": 2
       },
       {
         "word": "판단력",
-        "count": 1
+        "count": 2
       },
       {
         "word": "저주",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
+      {
+        "word": "사장",
+        "count": 4
+      },
       {
         "word": "돌파",
         "count": 3
       },
       {
-        "word": "삼성전자",
+        "word": "이게",
         "count": 2
       },
       {
-        "word": "우선주",
+        "word": "진짜라고요",
         "count": 2
       },
       {
-        "word": "포함",
-        "count": 2
-      },
-      {
-        "word": "시총",
+        "word": "손흥민",
         "count": 2
       }
     ],
     "society": [
       {
-        "word": "삼전",
-        "count": 2
+        "word": "옥상",
+        "count": 4
       },
       {
-        "word": "옥상",
-        "count": 2
+        "word": "삼전",
+        "count": 3
+      },
+      {
+        "word": "동료",
+        "count": 3
       },
       {
         "word": "정몽규",
-        "count": 2
+        "count": 3
       },
       {
         "word": "월드컵",
-        "count": 2
-      },
-      {
-        "word": "물러난다",
-        "count": 2
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "종전",
+        "count": 4
+      },
+      {
+        "word": "합의",
+        "count": 4
       },
       {
         "word": "블루오리진",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "로켓",
-        "count": 2
-      },
-      {
-        "word": "대형",
-        "count": 2
-      },
-      {
-        "word": "폭발",
+        "word": "평양에",
         "count": 2
       }
     ],
     "culture": [
       {
         "word": "나홍진",
-        "count": 2
+        "count": 3
       },
       {
         "word": "호프",
-        "count": 2
+        "count": 3
       },
       {
         "word": "선판매",
-        "count": 2
-      },
-      {
-        "word": "개최",
-        "count": 2
+        "count": 3
       },
       {
         "word": "통일교",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "전도사",
+        "count": 2
       }
     ]
   }
