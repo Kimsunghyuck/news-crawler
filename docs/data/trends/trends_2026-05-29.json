@@ -1,13 +1,220 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T10:06:34.600032+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-29T16:21:40.676967+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "삼전",
+      "count": 4
+    },
+    {
+      "word": "돌파",
+      "count": 3
+    },
+    {
+      "word": "정몽규",
+      "count": 3
+    },
+    {
+      "word": "월드컵",
+      "count": 3
+    },
+    {
+      "word": "물러난다",
+      "count": 3
+    },
+    {
+      "word": "홍명보호",
+      "count": 3
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "전재수",
+      "count": 3
+    },
+    {
+      "word": "사전투표",
+      "count": 3
+    },
+    {
+      "word": "깜짝",
+      "count": 2
+    },
+    {
+      "word": "혐의",
+      "count": 2
+    },
+    {
+      "word": "달러",
+      "count": 2
+    },
+    {
+      "word": "삼성전자",
+      "count": 2
+    },
+    {
+      "word": "우선주",
+      "count": 2
+    },
+    {
+      "word": "포함",
+      "count": 2
+    },
+    {
+      "word": "시총",
+      "count": 2
+    },
+    {
+      "word": "조원",
+      "count": 2
+    },
+    {
+      "word": "사장",
+      "count": 2
+    },
+    {
+      "word": "늘어",
+      "count": 2
+    },
+    {
+      "word": "옥상",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "전재수",
+        "count": 3
+      },
+      {
+        "word": "사전투표",
+        "count": 3
+      },
+      {
+        "word": "중앙일보",
+        "count": 2
+      },
+      {
+        "word": "여론조사",
+        "count": 2
+      },
+      {
+        "word": "잡은",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "홍명보호",
+        "count": 2
+      },
+      {
+        "word": "신네르",
+        "count": 2
+      },
+      {
+        "word": "숨이",
+        "count": 1
+      },
+      {
+        "word": "판단력",
+        "count": 1
+      },
+      {
+        "word": "저주",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "돌파",
+        "count": 3
+      },
+      {
+        "word": "삼성전자",
+        "count": 2
+      },
+      {
+        "word": "우선주",
+        "count": 2
+      },
+      {
+        "word": "포함",
+        "count": 2
+      },
+      {
+        "word": "시총",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "삼전",
+        "count": 2
+      },
+      {
+        "word": "옥상",
+        "count": 2
+      },
+      {
+        "word": "정몽규",
+        "count": 2
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "물러난다",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "블루오리진",
+        "count": 2
+      },
+      {
+        "word": "로켓",
+        "count": 2
+      },
+      {
+        "word": "대형",
+        "count": 2
+      },
+      {
+        "word": "폭발",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "나홍진",
+        "count": 2
+      },
+      {
+        "word": "호프",
+        "count": 2
+      },
+      {
+        "word": "선판매",
+        "count": 2
+      },
+      {
+        "word": "개최",
+        "count": 2
+      },
+      {
+        "word": "통일교",
+        "count": 1
+      }
+    ]
   }
 }
