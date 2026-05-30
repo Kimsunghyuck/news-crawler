@@ -1,13 +1,220 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T10:01:57.191884+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-30T16:03:33.175342+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 6
+    },
+    {
+      "word": "본인",
+      "count": 4
+    },
+    {
+      "word": "주도",
+      "count": 3
+    },
+    {
+      "word": "아들",
+      "count": 3
+    },
+    {
+      "word": "홍명보호",
+      "count": 3
+    },
+    {
+      "word": "홍명보",
+      "count": 3
+    },
+    {
+      "word": "뛰고",
+      "count": 2
+    },
+    {
+      "word": "부동산",
+      "count": 2
+    },
+    {
+      "word": "이유",
+      "count": 2
+    },
+    {
+      "word": "현대건설",
+      "count": 2
+    },
+    {
+      "word": "반박",
+      "count": 2
+    },
+    {
+      "word": "삼성전자",
+      "count": 2
+    },
+    {
+      "word": "세계",
+      "count": 2
+    },
+    {
+      "word": "세대",
+      "count": 2
+    },
+    {
+      "word": "샘플",
+      "count": 2
+    },
+    {
+      "word": "국내",
+      "count": 2
+    },
+    {
+      "word": "수도",
+      "count": 2
+    },
+    {
+      "word": "인상",
+      "count": 2
+    },
+    {
+      "word": "손가락",
+      "count": 2
+    },
+    {
+      "word": "돌며",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "중앙",
+        "count": 2
+      },
+      {
+        "word": "여론조사",
+        "count": 2
+      },
+      {
+        "word": "없는데",
+        "count": 2
+      },
+      {
+        "word": "어떻게",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "홍명보",
+        "count": 3
+      },
+      {
+        "word": "정몽규",
+        "count": 2
+      },
+      {
+        "word": "사의에",
+        "count": 2
+      },
+      {
+        "word": "역할",
+        "count": 2
+      },
+      {
+        "word": "홍명보호",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "부동산",
+        "count": 2
+      },
+      {
+        "word": "삼성전자",
+        "count": 2
+      },
+      {
+        "word": "세계",
+        "count": 2
+      },
+      {
+        "word": "샘플",
+        "count": 2
+      },
+      {
+        "word": "레이",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "돌며",
+        "count": 2
+      },
+      {
+        "word": "아들",
+        "count": 2
+      },
+      {
+        "word": "아홉",
+        "count": 1
+      },
+      {
+        "word": "손가락",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "본인",
+        "count": 3
+      },
+      {
+        "word": "국방",
+        "count": 2
+      },
+      {
+        "word": "작전통제권",
+        "count": 2
+      },
+      {
+        "word": "주도",
+        "count": 2
+      },
+      {
+        "word": "고무적",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "강남",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "썼다",
+        "count": 2
+      },
+      {
+        "word": "최악의",
+        "count": 2
+      },
+      {
+        "word": "남편",
+        "count": 2
+      }
+    ]
   }
 }
