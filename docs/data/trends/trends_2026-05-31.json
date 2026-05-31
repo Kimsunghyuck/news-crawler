@@ -1,13 +1,220 @@
 {
   "date": "2026-05-31",
-  "generated_at": "2026-05-31T10:14:06.687611+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-05-31T16:20:09.665383+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "월드컵",
+      "count": 4
+    },
+    {
+      "word": "연패",
+      "count": 4
+    },
+    {
+      "word": "세계",
+      "count": 3
+    },
+    {
+      "word": "외국인",
+      "count": 3
+    },
+    {
+      "word": "손흥민",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "승부차기",
+      "count": 3
+    },
+    {
+      "word": "김태연",
+      "count": 3
+    },
+    {
+      "word": "준우승",
+      "count": 3
+    },
+    {
+      "word": "삼성전자",
+      "count": 2
+    },
+    {
+      "word": "돌파",
+      "count": 2
+    },
+    {
+      "word": "수주",
+      "count": 2
+    },
+    {
+      "word": "빠르다",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "조기",
+      "count": 2
+    },
+    {
+      "word": "보다",
+      "count": 2
+    },
+    {
+      "word": "미사일",
+      "count": 2
+    },
+    {
+      "word": "번째",
+      "count": 2
+    },
+    {
+      "word": "유엔",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "범죄",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "기회",
+        "count": 2
+      },
+      {
+        "word": "김관영",
+        "count": 1
+      },
+      {
+        "word": "비호는",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "연패",
+        "count": 4
+      },
+      {
+        "word": "승부차기",
+        "count": 3
+      },
+      {
+        "word": "월드컵",
+        "count": 3
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "멀티골",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "세계",
+        "count": 3
+      },
+      {
+        "word": "삼성전자",
+        "count": 2
+      },
+      {
+        "word": "수주",
+        "count": 2
+      },
+      {
+        "word": "스페이스",
+        "count": 1
+      },
+      {
+        "word": "상장",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "외국인",
+        "count": 2
+      },
+      {
+        "word": "원에",
+        "count": 1
+      },
+      {
+        "word": "팔겠다",
+        "count": 1
+      },
+      {
+        "word": "아픈",
+        "count": 1
+      },
+      {
+        "word": "아빠에",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "유엔",
+        "count": 2
+      },
+      {
+        "word": "폭탄",
+        "count": 1
+      },
+      {
+        "word": "동시",
+        "count": 1
+      },
+      {
+        "word": "폭발",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "김태연",
+        "count": 3
+      },
+      {
+        "word": "준우승",
+        "count": 3
+      },
+      {
+        "word": "첼리스트",
+        "count": 2
+      },
+      {
+        "word": "콩쿠르",
+        "count": 2
+      },
+      {
+        "word": "군체",
+        "count": 2
+      }
+    ]
   }
 }
