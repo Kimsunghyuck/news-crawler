@@ -1,219 +1,219 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-01T16:45:22.309458+09:00",
+  "generated_at": "2026-06-01T21:06:51.884622+09:00",
   "daily_top_keywords": [
     {
-      "word": "만원",
-      "count": 5
-    },
-    {
       "word": "폭발",
-      "count": 5
-    },
-    {
-      "word": "사망",
-      "count": 4
-    },
-    {
-      "word": "한화에어로",
-      "count": 4
+      "count": 9
     },
     {
       "word": "한국",
-      "count": 4
+      "count": 8
     },
     {
-      "word": "반도체",
-      "count": 3
+      "word": "사망",
+      "count": 7
     },
     {
-      "word": "사고",
-      "count": 3
-    },
-    {
-      "word": "부상",
-      "count": 3
-    },
-    {
-      "word": "이란",
-      "count": 3
+      "word": "한화에어로",
+      "count": 7
     },
     {
       "word": "축구",
-      "count": 3
+      "count": 7
+    },
+    {
+      "word": "반도체",
+      "count": 6
+    },
+    {
+      "word": "만원",
+      "count": 6
+    },
+    {
+      "word": "부상",
+      "count": 6
+    },
+    {
+      "word": "이란",
+      "count": 6
+    },
+    {
+      "word": "빼면",
+      "count": 6
+    },
+    {
+      "word": "없어",
+      "count": 5
     },
     {
       "word": "코스피",
-      "count": 2
+      "count": 4
     },
     {
       "word": "이유",
-      "count": 2
-    },
-    {
-      "word": "하닉",
-      "count": 2
-    },
-    {
-      "word": "성과급",
-      "count": 2
-    },
-    {
-      "word": "기업",
-      "count": 2
+      "count": 4
     },
     {
       "word": "젠슨",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "강조",
-      "count": 2
+      "word": "사고",
+      "count": 4
     },
     {
-      "word": "노조가",
-      "count": 2
+      "word": "전쟁",
+      "count": 4
     },
     {
-      "word": "생존",
-      "count": 2
+      "word": "만에",
+      "count": 4
     },
     {
-      "word": "시간",
-      "count": 2
+      "word": "이정후",
+      "count": 4
+    },
+    {
+      "word": "손흥민",
+      "count": 4
+    },
+    {
+      "word": "월드컵",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "빼면",
-        "count": 2
+        "count": 6
       },
       {
         "word": "드론",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이원택",
-        "count": 2
+        "word": "반도체",
+        "count": 3
       },
       {
-        "word": "한화에어로",
-        "count": 2
+        "word": "코스피",
+        "count": 3
       },
       {
-        "word": "사고에",
-        "count": 2
+        "word": "축구",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "한국",
-        "count": 3
+        "count": 5
       },
       {
         "word": "이정후",
-        "count": 2
-      },
-      {
-        "word": "축구",
-        "count": 2
+        "count": 4
       },
       {
         "word": "월드컵",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "한국인",
-        "count": 1
+        "word": "축구",
+        "count": 4
+      },
+      {
+        "word": "안타",
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "뜬다",
+        "count": 3
+      },
+      {
         "word": "하닉",
-        "count": 2
+        "count": 3
       },
       {
         "word": "성과급",
-        "count": 2
+        "count": 3
       },
       {
         "word": "기업",
-        "count": 2
-      },
-      {
-        "word": "노조가",
-        "count": 2
+        "count": 3
       },
       {
         "word": "스페이스",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "만원",
-        "count": 4
-      },
-      {
         "word": "폭발",
-        "count": 3
-      },
-      {
-        "word": "사고",
-        "count": 3
+        "count": 5
       },
       {
         "word": "사망",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "사고",
+        "count": 4
       },
       {
         "word": "부상",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "한화에어로",
+        "count": 4
       }
     ],
     "international": [
       {
-        "word": "폭발",
-        "count": 2
+        "word": "이란",
+        "count": 5
       },
       {
-        "word": "이란",
-        "count": 2
+        "word": "폭발",
+        "count": 4
       },
       {
         "word": "트럼프",
-        "count": 2
+        "count": 3
       },
       {
         "word": "만명",
-        "count": 1
+        "count": 2
       },
       {
         "word": "사망",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "그린",
-        "count": 2
+        "count": 3
       },
       {
         "word": "금강산",
-        "count": 2
+        "count": 3
       },
       {
         "word": "초본",
-        "count": 2
+        "count": 3
       },
       {
         "word": "겪은",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "김홍도가",
-        "count": 1
+        "word": "함께",
+        "count": 3
       }
     ]
   }
