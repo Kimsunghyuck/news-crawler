@@ -1,9 +1,77 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T16:46:12.626708+09:00",
+  "generated_at": "2026-06-02T20:43:30.034655+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
+      "count": 6
+    },
+    {
+      "word": "유지",
+      "count": 4
+    },
+    {
+      "word": "대화",
+      "count": 4
+    },
+    {
+      "word": "동일",
+      "count": 4
+    },
+    {
+      "word": "보상",
+      "count": 3
+    },
+    {
+      "word": "시장",
+      "count": 3
+    },
+    {
+      "word": "역대",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "공연",
+      "count": 3
+    },
+    {
+      "word": "앞두고",
+      "count": 3
+    },
+    {
+      "word": "번째",
+      "count": 3
+    },
+    {
+      "word": "대선",
+      "count": 3
+    },
+    {
+      "word": "전쟁",
+      "count": 3
+    },
+    {
+      "word": "이란과",
+      "count": 3
+    },
+    {
+      "word": "올스타",
+      "count": 3
+    },
+    {
+      "word": "포지션",
+      "count": 3
+    },
+    {
+      "word": "삼성",
+      "count": 3
+    },
+    {
+      "word": "국힘",
       "count": 3
     },
     {
@@ -11,209 +79,141 @@
       "count": 2
     },
     {
-      "word": "보상",
-      "count": 2
-    },
-    {
-      "word": "시장",
-      "count": 2
-    },
-    {
-      "word": "한국",
-      "count": 2
-    },
-    {
-      "word": "경찰",
-      "count": 2
-    },
-    {
-      "word": "공연",
-      "count": 2
-    },
-    {
-      "word": "앞두고",
-      "count": 2
-    },
-    {
-      "word": "검토",
-      "count": 2
-    },
-    {
-      "word": "대선",
-      "count": 2
-    },
-    {
-      "word": "대화",
-      "count": 2
-    },
-    {
-      "word": "올스타",
-      "count": 2
-    },
-    {
-      "word": "포지션",
-      "count": 2
-    },
-    {
-      "word": "연패",
-      "count": 2
-    },
-    {
-      "word": "동일",
-      "count": 2
-    },
-    {
-      "word": "젠슨",
-      "count": 1
-    },
-    {
-      "word": "성과급",
-      "count": 1
-    },
-    {
       "word": "논란",
-      "count": 1
-    },
-    {
-      "word": "묻자",
-      "count": 1
-    },
-    {
-      "word": "나는",
-      "count": 1
+      "count": 2
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "동일",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "국힘",
+        "count": 3
       },
       {
         "word": "세상",
-        "count": 1
+        "count": 2
       },
       {
         "word": "어느",
-        "count": 1
+        "count": 2
       },
       {
         "word": "나라서",
-        "count": 1
-      },
-      {
-        "word": "때문에",
-        "count": 1
+        "count": 2
       }
     ],
     "sports": [
       {
         "word": "올스타",
-        "count": 2
+        "count": 3
       },
       {
         "word": "포지션",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "연패",
-        "count": 2
+        "word": "삼성",
+        "count": 3
       },
       {
         "word": "오스틴",
-        "count": 1
+        "count": 2
       },
       {
         "word": "리그",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
+      {
+        "word": "보상",
+        "count": 3
+      },
+      {
+        "word": "시장",
+        "count": 3
+      },
       {
         "word": "삼성전자",
         "count": 2
       },
       {
-        "word": "보상",
+        "word": "한국",
         "count": 2
       },
       {
-        "word": "시장",
+        "word": "질주",
         "count": 2
-      },
-      {
-        "word": "젠슨",
-        "count": 1
-      },
-      {
-        "word": "성과급",
-        "count": 1
       }
     ],
     "society": [
+      {
+        "word": "여고생",
+        "count": 2
+      },
+      {
+        "word": "살해",
+        "count": 2
+      },
       {
         "word": "경찰",
         "count": 2
       },
       {
-        "word": "아이",
-        "count": 1
+        "word": "공연",
+        "count": 2
       },
       {
-        "word": "하원에",
-        "count": 1
-      },
-      {
-        "word": "저녁",
-        "count": 1
-      },
-      {
-        "word": "차리는",
-        "count": 1
+        "word": "앞두고",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 6
       },
       {
         "word": "대선",
+        "count": 3
+      },
+      {
+        "word": "이란과",
+        "count": 3
+      },
+      {
+        "word": "이란",
         "count": 2
       },
       {
-        "word": "패배",
-        "count": 1
-      },
-      {
-        "word": "상처만",
-        "count": 1
-      },
-      {
-        "word": "들춰",
-        "count": 1
+        "word": "전쟁",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "사공",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박명득",
-        "count": 1
+        "count": 2
       },
       {
         "word": "울릉도",
-        "count": 1
+        "count": 2
       },
       {
         "word": "암벽서",
-        "count": 1
+        "count": 2
       },
       {
         "word": "조선",
-        "count": 1
+        "count": 2
       }
     ]
   }
