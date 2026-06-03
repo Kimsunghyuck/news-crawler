@@ -1,13 +1,220 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T10:22:45.028350+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-03T16:49:25.362788+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "논란",
+      "count": 5
+    },
+    {
+      "word": "아파트",
+      "count": 3
+    },
+    {
+      "word": "투표",
+      "count": 3
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "오후",
+      "count": 3
+    },
+    {
+      "word": "투표율",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "최대",
+      "count": 2
+    },
+    {
+      "word": "빌라",
+      "count": 2
+    },
+    {
+      "word": "수요",
+      "count": 2
+    },
+    {
+      "word": "삼성전자",
+      "count": 2
+    },
+    {
+      "word": "포함",
+      "count": 2
+    },
+    {
+      "word": "남편",
+      "count": 2
+    },
+    {
+      "word": "부산",
+      "count": 2
+    },
+    {
+      "word": "화단서",
+      "count": 2
+    },
+    {
+      "word": "엄마",
+      "count": 2
+    },
+    {
+      "word": "아들",
+      "count": 2
+    },
+    {
+      "word": "선수",
+      "count": 2
+    },
+    {
+      "word": "지선",
+      "count": 2
+    },
+    {
+      "word": "공연",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "오후",
+        "count": 3
+      },
+      {
+        "word": "투표율",
+        "count": 3
+      },
+      {
+        "word": "지선",
+        "count": 2
+      },
+      {
+        "word": "직전",
+        "count": 1
+      },
+      {
+        "word": "대비",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "선수",
+        "count": 2
+      },
+      {
+        "word": "수도권",
+        "count": 1
+      },
+      {
+        "word": "신규",
+        "count": 1
+      },
+      {
+        "word": "러너",
+        "count": 1
+      },
+      {
+        "word": "유입",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "수요",
+        "count": 2
+      },
+      {
+        "word": "삼성전자",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 1
+      },
+      {
+        "word": "경제성장률",
+        "count": 1
+      },
+      {
+        "word": "상향",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "남편",
+        "count": 2
+      },
+      {
+        "word": "부산",
+        "count": 2
+      },
+      {
+        "word": "아파트",
+        "count": 2
+      },
+      {
+        "word": "화단서",
+        "count": 2
+      },
+      {
+        "word": "엄마",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "안보",
+        "count": 1
+      },
+      {
+        "word": "업무",
+        "count": 1
+      },
+      {
+        "word": "경험",
+        "count": 1
+      },
+      {
+        "word": "풀트",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "공연",
+        "count": 2
+      },
+      {
+        "word": "군체",
+        "count": 1
+      },
+      {
+        "word": "좀비들을",
+        "count": 1
+      },
+      {
+        "word": "피해",
+        "count": 1
+      },
+      {
+        "word": "탈출하라",
+        "count": 1
+      }
+    ]
   }
 }
