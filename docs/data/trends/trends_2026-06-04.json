@@ -1,13 +1,220 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T10:22:47.434876+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-04T16:46:05.202262+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "이어",
+      "count": 3
+    },
+    {
+      "word": "젠슨",
+      "count": 2
+    },
+    {
+      "word": "조원",
+      "count": 2
+    },
+    {
+      "word": "반도체",
+      "count": 2
+    },
+    {
+      "word": "거래",
+      "count": 2
+    },
+    {
+      "word": "넘게",
+      "count": 2
+    },
+    {
+      "word": "당선",
+      "count": 2
+    },
+    {
+      "word": "시장",
+      "count": 2
+    },
+    {
+      "word": "탄생",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "무소속",
+      "count": 2
+    },
+    {
+      "word": "부족",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "월드컵",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "무실점",
+      "count": 2
+    },
+    {
+      "word": "출전",
+      "count": 2
+    },
+    {
+      "word": "이닝",
+      "count": 2
+    },
+    {
+      "word": "욕심",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "안동서",
+        "count": 1
+      },
+      {
+        "word": "기초의원",
+        "count": 1
+      },
+      {
+        "word": "탄생",
+        "count": 1
+      },
+      {
+        "word": "무소속",
+        "count": 1
+      },
+      {
+        "word": "이재갑",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "무실점",
+        "count": 2
+      },
+      {
+        "word": "출전",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "이닝",
+        "count": 2
+      },
+      {
+        "word": "욕심",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "젠슨",
+        "count": 2
+      },
+      {
+        "word": "이어",
+        "count": 2
+      },
+      {
+        "word": "조원",
+        "count": 2
+      },
+      {
+        "word": "반도체",
+        "count": 2
+      },
+      {
+        "word": "거래",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "당선",
+        "count": 2
+      },
+      {
+        "word": "시장",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "나이",
+        "count": 1
+      },
+      {
+        "word": "당락",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "일본군",
+        "count": 1
+      },
+      {
+        "word": "화학탄",
+        "count": 1
+      },
+      {
+        "word": "처리",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "데뷔",
+        "count": 2
+      },
+      {
+        "word": "나카지마",
+        "count": 1
+      },
+      {
+        "word": "겐토",
+        "count": 1
+      },
+      {
+        "word": "만에",
+        "count": 1
+      },
+      {
+        "word": "내한공연",
+        "count": 1
+      }
+    ]
   }
 }
