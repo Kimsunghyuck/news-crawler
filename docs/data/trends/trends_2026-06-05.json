@@ -1,13 +1,220 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T10:13:43.037544+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-05T16:37:34.139282+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "젠슨",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "노태악",
+      "count": 3
+    },
+    {
+      "word": "선관위원장",
+      "count": 3
+    },
+    {
+      "word": "사퇴",
+      "count": 3
+    },
+    {
+      "word": "책임",
+      "count": 3
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "시작",
+      "count": 2
+    },
+    {
+      "word": "징역",
+      "count": 2
+    },
+    {
+      "word": "억대",
+      "count": 2
+    },
+    {
+      "word": "검찰",
+      "count": 2
+    },
+    {
+      "word": "먹은",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "프랑스",
+      "count": 2
+    },
+    {
+      "word": "멕시코",
+      "count": 2
+    },
+    {
+      "word": "월드컵",
+      "count": 2
+    },
+    {
+      "word": "세계",
+      "count": 2
+    },
+    {
+      "word": "투표용지부족",
+      "count": 2
+    },
+    {
+      "word": "사태",
+      "count": 2
+    },
+    {
+      "word": "통감",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "노태악",
+        "count": 3
+      },
+      {
+        "word": "선관위원장",
+        "count": 3
+      },
+      {
+        "word": "사퇴",
+        "count": 3
+      },
+      {
+        "word": "책임",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 3
+      }
+    ],
+    "sports": [
+      {
+        "word": "프랑스",
+        "count": 2
+      },
+      {
+        "word": "멕시코",
+        "count": 2
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "세계",
+        "count": 2
+      },
+      {
+        "word": "우승",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "젠슨",
+        "count": 2
+      },
+      {
+        "word": "검은",
+        "count": 1
+      },
+      {
+        "word": "금요일",
+        "count": 1
+      },
+      {
+        "word": "코스피",
+        "count": 1
+      },
+      {
+        "word": "급락한",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "징역",
+        "count": 2
+      },
+      {
+        "word": "검찰",
+        "count": 2
+      },
+      {
+        "word": "대전",
+        "count": 1
+      },
+      {
+        "word": "한화",
+        "count": 1
+      },
+      {
+        "word": "참사",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "오만",
+        "count": 1
+      },
+      {
+        "word": "원유",
+        "count": 1
+      },
+      {
+        "word": "수출항서",
+        "count": 1
+      },
+      {
+        "word": "원인불명",
+        "count": 1
+      },
+      {
+        "word": "폭발",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "효민",
+        "count": 1
+      },
+      {
+        "word": "티아라",
+        "count": 1
+      },
+      {
+        "word": "쓰고",
+        "count": 1
+      },
+      {
+        "word": "베트남",
+        "count": 1
+      },
+      {
+        "word": "생일파티",
+        "count": 1
+      }
+    ]
   }
 }
