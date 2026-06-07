@@ -1,200 +1,208 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T16:32:33.121772+09:00",
+  "generated_at": "2026-06-07T19:52:41.625312+09:00",
   "daily_top_keywords": [
     {
       "word": "젠슨",
-      "count": 3
-    },
-    {
-      "word": "경기",
-      "count": 3
-    },
-    {
-      "word": "우승",
-      "count": 3
+      "count": 8
     },
     {
       "word": "사태",
-      "count": 3
+      "count": 8
     },
     {
-      "word": "회동",
-      "count": 2
-    },
-    {
-      "word": "넘었다",
-      "count": 2
-    },
-    {
-      "word": "판매",
-      "count": 2
-    },
-    {
-      "word": "개발",
-      "count": 2
-    },
-    {
-      "word": "판결",
-      "count": 2
-    },
-    {
-      "word": "접수",
-      "count": 2
-    },
-    {
-      "word": "참사",
-      "count": 2
-    },
-    {
-      "word": "추진",
-      "count": 2
-    },
-    {
-      "word": "이란",
-      "count": 2
-    },
-    {
-      "word": "뉴욕",
-      "count": 2
-    },
-    {
-      "word": "이정후",
-      "count": 2
-    },
-    {
-      "word": "연속",
-      "count": 2
-    },
-    {
-      "word": "안타",
-      "count": 2
-    },
-    {
-      "word": "총리",
-      "count": 2
-    },
-    {
-      "word": "민주당",
-      "count": 2
+      "word": "선관위",
+      "count": 6
     },
     {
       "word": "투표용지",
-      "count": 2
+      "count": 6
+    },
+    {
+      "word": "우승",
+      "count": 6
+    },
+    {
+      "word": "총리",
+      "count": 6
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "한성숙",
+      "count": 5
+    },
+    {
+      "word": "부족",
+      "count": 4
+    },
+    {
+      "word": "경기",
+      "count": 4
+    },
+    {
+      "word": "총리에",
+      "count": 4
+    },
+    {
+      "word": "여성",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "회동",
+      "count": 3
+    },
+    {
+      "word": "넘었다",
+      "count": 3
+    },
+    {
+      "word": "전망",
+      "count": 3
+    },
+    {
+      "word": "판매",
+      "count": 3
+    },
+    {
+      "word": "진화",
+      "count": 3
+    },
+    {
+      "word": "개발",
+      "count": 3
+    },
+    {
+      "word": "참정권",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "총리",
-        "count": 2
+        "count": 6
       },
       {
-        "word": "민주당",
-        "count": 2
+        "word": "대통령",
+        "count": 5
       },
       {
-        "word": "투표용지",
-        "count": 2
+        "word": "한성숙",
+        "count": 5
       },
       {
-        "word": "부족",
-        "count": 2
+        "word": "총리에",
+        "count": 4
       },
       {
-        "word": "사태",
-        "count": 2
+        "word": "여성",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "우승",
+        "count": 5
+      },
+      {
+        "word": "오픈",
+        "count": 3
+      },
+      {
+        "word": "연속",
+        "count": 3
+      },
+      {
+        "word": "안드레예바",
         "count": 2
       },
       {
-        "word": "이정후",
+        "word": "프랑스오픈",
         "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "젠슨",
+        "count": 6
+      },
+      {
+        "word": "회동",
+        "count": 3
+      },
+      {
+        "word": "전망",
+        "count": 3
+      },
+      {
+        "word": "이유",
+        "count": 2
+      },
+      {
+        "word": "널뛰기",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "참정권",
+        "count": 3
+      },
+      {
+        "word": "판결",
+        "count": 3
+      },
+      {
+        "word": "세계",
+        "count": 2
+      },
+      {
+        "word": "선관위",
+        "count": 2
+      },
+      {
+        "word": "시위",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "가입",
+        "count": 3
+      },
+      {
+        "word": "이란",
+        "count": 3
       },
       {
         "word": "경기",
         "count": 2
       },
       {
-        "word": "연속",
+        "word": "트럼프",
         "count": 2
       },
       {
-        "word": "안타",
+        "word": "인사",
         "count": 2
-      }
-    ],
-    "economy": [
-      {
-        "word": "회동",
-        "count": 2
-      },
-      {
-        "word": "어떻게",
-        "count": 1
-      },
-      {
-        "word": "갚나",
-        "count": 1
-      },
-      {
-        "word": "빚투족",
-        "count": 1
-      },
-      {
-        "word": "주담대",
-        "count": 1
-      }
-    ],
-    "society": [
-      {
-        "word": "판결",
-        "count": 2
-      },
-      {
-        "word": "서소문",
-        "count": 1
-      },
-      {
-        "word": "고가",
-        "count": 1
-      },
-      {
-        "word": "철거",
-        "count": 1
-      },
-      {
-        "word": "시공사",
-        "count": 1
-      }
-    ],
-    "international": [
-      {
-        "word": "이란",
-        "count": 2
-      },
-      {
-        "word": "자연",
-        "count": 1
-      },
-      {
-        "word": "지켜라",
-        "count": 1
-      },
-      {
-        "word": "알바니아서",
-        "count": 1
-      },
-      {
-        "word": "쿠슈너",
-        "count": 1
       }
     ],
     "culture": [
+      {
+        "word": "여정",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
       {
         "word": "시대",
         "count": 2
@@ -204,16 +212,8 @@
         "count": 2
       },
       {
-        "word": "베이비몬스터",
-        "count": 1
-      },
-      {
-        "word": "신곡",
-        "count": 1
-      },
-      {
-        "word": "슈가",
-        "count": 1
+        "word": "박보영",
+        "count": 2
       }
     ]
   }
