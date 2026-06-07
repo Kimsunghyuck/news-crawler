@@ -1,13 +1,220 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T10:16:13.764198+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-07T16:32:33.121772+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "젠슨",
+      "count": 3
+    },
+    {
+      "word": "경기",
+      "count": 3
+    },
+    {
+      "word": "우승",
+      "count": 3
+    },
+    {
+      "word": "사태",
+      "count": 3
+    },
+    {
+      "word": "회동",
+      "count": 2
+    },
+    {
+      "word": "넘었다",
+      "count": 2
+    },
+    {
+      "word": "판매",
+      "count": 2
+    },
+    {
+      "word": "개발",
+      "count": 2
+    },
+    {
+      "word": "판결",
+      "count": 2
+    },
+    {
+      "word": "접수",
+      "count": 2
+    },
+    {
+      "word": "참사",
+      "count": 2
+    },
+    {
+      "word": "추진",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "뉴욕",
+      "count": 2
+    },
+    {
+      "word": "이정후",
+      "count": 2
+    },
+    {
+      "word": "연속",
+      "count": 2
+    },
+    {
+      "word": "안타",
+      "count": 2
+    },
+    {
+      "word": "총리",
+      "count": 2
+    },
+    {
+      "word": "민주당",
+      "count": 2
+    },
+    {
+      "word": "투표용지",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "총리",
+        "count": 2
+      },
+      {
+        "word": "민주당",
+        "count": 2
+      },
+      {
+        "word": "투표용지",
+        "count": 2
+      },
+      {
+        "word": "부족",
+        "count": 2
+      },
+      {
+        "word": "사태",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "우승",
+        "count": 2
+      },
+      {
+        "word": "이정후",
+        "count": 2
+      },
+      {
+        "word": "경기",
+        "count": 2
+      },
+      {
+        "word": "연속",
+        "count": 2
+      },
+      {
+        "word": "안타",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "회동",
+        "count": 2
+      },
+      {
+        "word": "어떻게",
+        "count": 1
+      },
+      {
+        "word": "갚나",
+        "count": 1
+      },
+      {
+        "word": "빚투족",
+        "count": 1
+      },
+      {
+        "word": "주담대",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "판결",
+        "count": 2
+      },
+      {
+        "word": "서소문",
+        "count": 1
+      },
+      {
+        "word": "고가",
+        "count": 1
+      },
+      {
+        "word": "철거",
+        "count": 1
+      },
+      {
+        "word": "시공사",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "자연",
+        "count": 1
+      },
+      {
+        "word": "지켜라",
+        "count": 1
+      },
+      {
+        "word": "알바니아서",
+        "count": 1
+      },
+      {
+        "word": "쿠슈너",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "시대",
+        "count": 2
+      },
+      {
+        "word": "죽은",
+        "count": 2
+      },
+      {
+        "word": "베이비몬스터",
+        "count": 1
+      },
+      {
+        "word": "신곡",
+        "count": 1
+      },
+      {
+        "word": "슈가",
+        "count": 1
+      }
+    ]
   }
 }
