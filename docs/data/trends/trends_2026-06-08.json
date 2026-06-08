@@ -1,13 +1,220 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T10:16:47.601214+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-08T16:49:09.459983+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "과정",
+      "count": 2
+    },
+    {
+      "word": "혐의",
+      "count": 2
+    },
+    {
+      "word": "송치",
+      "count": 2
+    },
+    {
+      "word": "시진핑",
+      "count": 2
+    },
+    {
+      "word": "평양",
+      "count": 2
+    },
+    {
+      "word": "도착",
+      "count": 2
+    },
+    {
+      "word": "김정은",
+      "count": 2
+    },
+    {
+      "word": "공항서",
+      "count": 2
+    },
+    {
+      "word": "영접",
+      "count": 2
+    },
+    {
+      "word": "보복",
+      "count": 2
+    },
+    {
+      "word": "월드컵",
+      "count": 2
+    },
+    {
+      "word": "청년",
+      "count": 2
+    },
+    {
+      "word": "초과이윤",
+      "count": 1
+    },
+    {
+      "word": "논쟁",
+      "count": 1
+    },
+    {
+      "word": "신중해야",
+      "count": 1
+    },
+    {
+      "word": "기업들",
+      "count": 1
+    },
+    {
+      "word": "탈출할수도",
+      "count": 1
+    },
+    {
+      "word": "롯데그룹",
+      "count": 1
+    },
+    {
+      "word": "롯데",
+      "count": 1
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "장동혁",
+        "count": 3
+      },
+      {
+        "word": "성장전략",
+        "count": 1
+      },
+      {
+        "word": "대전환",
+        "count": 1
+      },
+      {
+        "word": "이룰",
+        "count": 1
+      },
+      {
+        "word": "대규모",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "월드컵",
+        "count": 1
+      },
+      {
+        "word": "앞두고",
+        "count": 1
+      },
+      {
+        "word": "아빠된",
+        "count": 1
+      },
+      {
+        "word": "김승규",
+        "count": 1
+      },
+      {
+        "word": "딸에게",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "초과이윤",
+        "count": 1
+      },
+      {
+        "word": "논쟁",
+        "count": 1
+      },
+      {
+        "word": "신중해야",
+        "count": 1
+      },
+      {
+        "word": "기업들",
+        "count": 1
+      },
+      {
+        "word": "탈출할수도",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "혐의",
+        "count": 2
+      },
+      {
+        "word": "송치",
+        "count": 2
+      },
+      {
+        "word": "서울성모",
+        "count": 1
+      },
+      {
+        "word": "쌍둥이",
+        "count": 1
+      },
+      {
+        "word": "첫째",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "시진핑",
+        "count": 2
+      },
+      {
+        "word": "평양",
+        "count": 2
+      },
+      {
+        "word": "도착",
+        "count": 2
+      },
+      {
+        "word": "김정은",
+        "count": 2
+      },
+      {
+        "word": "공항서",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "신석기",
+        "count": 1
+      },
+      {
+        "word": "고래사냥",
+        "count": 1
+      },
+      {
+        "word": "흔적",
+        "count": 1
+      },
+      {
+        "word": "작살촉",
+        "count": 1
+      },
+      {
+        "word": "국가민속문화유산",
+        "count": 1
+      }
+    ]
   }
 }
