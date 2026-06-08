@@ -1,219 +1,219 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T16:49:09.459983+09:00",
+  "generated_at": "2026-06-08T20:50:29.082958+09:00",
   "daily_top_keywords": [
     {
+      "word": "시진핑",
+      "count": 5
+    },
+    {
       "word": "장동혁",
+      "count": 5
+    },
+    {
+      "word": "김정은",
+      "count": 4
+    },
+    {
+      "word": "공항서",
+      "count": 4
+    },
+    {
+      "word": "보복",
+      "count": 4
+    },
+    {
+      "word": "월드컵",
+      "count": 4
+    },
+    {
+      "word": "혐의",
       "count": 3
+    },
+    {
+      "word": "최고",
+      "count": 3
+    },
+    {
+      "word": "부족",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "평양",
+      "count": 3
+    },
+    {
+      "word": "영접",
+      "count": 3
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "재선거",
+      "count": 3
+    },
+    {
+      "word": "영향",
+      "count": 2
     },
     {
       "word": "과정",
       "count": 2
     },
     {
-      "word": "혐의",
+      "word": "삼성",
       "count": 2
     },
     {
-      "word": "송치",
+      "word": "젠슨",
       "count": 2
     },
     {
-      "word": "시진핑",
+      "word": "강남",
       "count": 2
     },
     {
-      "word": "평양",
+      "word": "신고가",
       "count": 2
-    },
-    {
-      "word": "도착",
-      "count": 2
-    },
-    {
-      "word": "김정은",
-      "count": 2
-    },
-    {
-      "word": "공항서",
-      "count": 2
-    },
-    {
-      "word": "영접",
-      "count": 2
-    },
-    {
-      "word": "보복",
-      "count": 2
-    },
-    {
-      "word": "월드컵",
-      "count": 2
-    },
-    {
-      "word": "청년",
-      "count": 2
-    },
-    {
-      "word": "초과이윤",
-      "count": 1
-    },
-    {
-      "word": "논쟁",
-      "count": 1
-    },
-    {
-      "word": "신중해야",
-      "count": 1
-    },
-    {
-      "word": "기업들",
-      "count": 1
-    },
-    {
-      "word": "탈출할수도",
-      "count": 1
-    },
-    {
-      "word": "롯데그룹",
-      "count": 1
-    },
-    {
-      "word": "롯데",
-      "count": 1
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "장동혁",
+        "count": 5
+      },
+      {
+        "word": "재선거",
         "count": 3
       },
       {
-        "word": "성장전략",
-        "count": 1
+        "word": "객관적",
+        "count": 2
       },
       {
-        "word": "대전환",
-        "count": 1
+        "word": "사실상",
+        "count": 2
       },
       {
-        "word": "이룰",
-        "count": 1
-      },
-      {
-        "word": "대규모",
-        "count": 1
+        "word": "선관위",
+        "count": 2
       }
     ],
     "sports": [
       {
         "word": "월드컵",
-        "count": 1
+        "count": 3
       },
       {
         "word": "앞두고",
-        "count": 1
+        "count": 2
       },
       {
         "word": "아빠된",
-        "count": 1
+        "count": 2
       },
       {
         "word": "김승규",
-        "count": 1
+        "count": 2
       },
       {
         "word": "딸에게",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "초과이윤",
-        "count": 1
+        "word": "삼성",
+        "count": 2
       },
       {
-        "word": "논쟁",
-        "count": 1
+        "word": "강남",
+        "count": 2
       },
       {
-        "word": "신중해야",
-        "count": 1
+        "word": "신고가",
+        "count": 2
       },
       {
-        "word": "기업들",
-        "count": 1
+        "word": "잠잠한데",
+        "count": 2
       },
       {
-        "word": "탈출할수도",
-        "count": 1
+        "word": "영등포",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "혐의",
+        "count": 3
+      },
+      {
+        "word": "특검",
+        "count": 2
+      },
+      {
+        "word": "징역",
+        "count": 2
+      },
+      {
+        "word": "구형",
         "count": 2
       },
       {
         "word": "송치",
         "count": 2
-      },
-      {
-        "word": "서울성모",
-        "count": 1
-      },
-      {
-        "word": "쌍둥이",
-        "count": 1
-      },
-      {
-        "word": "첫째",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "시진핑",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "보복",
+        "count": 4
+      },
+      {
+        "word": "트럼프",
+        "count": 3
       },
       {
         "word": "평양",
-        "count": 2
-      },
-      {
-        "word": "도착",
-        "count": 2
+        "count": 3
       },
       {
         "word": "김정은",
-        "count": 2
-      },
-      {
-        "word": "공항서",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "신석기",
-        "count": 1
+        "count": 2
       },
       {
         "word": "고래사냥",
-        "count": 1
+        "count": 2
       },
       {
         "word": "흔적",
-        "count": 1
+        "count": 2
       },
       {
         "word": "작살촉",
-        "count": 1
+        "count": 2
       },
       {
         "word": "국가민속문화유산",
-        "count": 1
+        "count": 2
       }
     ]
   }
