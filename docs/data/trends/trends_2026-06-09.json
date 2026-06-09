@@ -1,13 +1,77 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T16:22:30.058958+09:00",
+  "generated_at": "2026-06-09T20:17:33.683395+09:00",
   "daily_top_keywords": [
     {
       "word": "젠슨",
-      "count": 3
+      "count": 5
     },
     {
       "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "선관위",
+      "count": 4
+    },
+    {
+      "word": "없어",
+      "count": 4
+    },
+    {
+      "word": "시진핑",
+      "count": 4
+    },
+    {
+      "word": "북중",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "깐부",
+      "count": 3
+    },
+    {
+      "word": "으로",
+      "count": 3
+    },
+    {
+      "word": "이견",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "경찰",
+      "count": 3
+    },
+    {
+      "word": "의혹",
+      "count": 3
+    },
+    {
+      "word": "기소",
+      "count": 3
+    },
+    {
+      "word": "출범",
+      "count": 3
+    },
+    {
+      "word": "김정은",
+      "count": 3
+    },
+    {
+      "word": "강화",
+      "count": 3
+    },
+    {
+      "word": "함께",
       "count": 3
     },
     {
@@ -15,79 +79,15 @@
       "count": 3
     },
     {
-      "word": "국힘",
-      "count": 3
-    },
-    {
-      "word": "차세대",
-      "count": 2
-    },
-    {
-      "word": "깐부",
-      "count": 2
-    },
-    {
-      "word": "으로",
-      "count": 2
-    },
-    {
-      "word": "이견",
-      "count": 2
-    },
-    {
-      "word": "만에",
-      "count": 2
-    },
-    {
-      "word": "경찰",
-      "count": 2
-    },
-    {
-      "word": "의혹",
-      "count": 2
-    },
-    {
-      "word": "구속",
-      "count": 2
-    },
-    {
-      "word": "기소",
-      "count": 2
-    },
-    {
-      "word": "선관위",
-      "count": 2
-    },
-    {
-      "word": "군사",
-      "count": 2
-    },
-    {
-      "word": "함께",
-      "count": 2
-    },
-    {
       "word": "이정후",
-      "count": 2
-    },
-    {
-      "word": "경기",
-      "count": 2
-    },
-    {
-      "word": "연속",
-      "count": 2
-    },
-    {
-      "word": "월드컵",
-      "count": 2
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
-        "count": 3
+        "count": 4
       },
       {
         "word": "외교부",
@@ -98,11 +98,11 @@
         "count": 2
       },
       {
-        "word": "민주당",
+        "word": "정청래",
         "count": 2
       },
       {
-        "word": "건가",
+        "word": "배웅",
         "count": 2
       }
     ],
@@ -113,107 +113,107 @@
       },
       {
         "word": "이정후",
-        "count": 2
+        "count": 3
       },
       {
         "word": "경기",
-        "count": 2
+        "count": 3
       },
       {
         "word": "연속",
-        "count": 2
+        "count": 3
       },
       {
         "word": "여자오픈",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "젠슨",
-        "count": 2
+        "count": 4
       },
       {
         "word": "깐부",
+        "count": 3
+      },
+      {
+        "word": "네이버",
         "count": 2
       },
       {
-        "word": "인프라",
-        "count": 1
+        "word": "중동",
+        "count": 2
       },
       {
-        "word": "재원",
-        "count": 1
-      },
-      {
-        "word": "나선",
-        "count": 1
+        "word": "전쟁",
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "의혹",
+        "count": 3
+      },
+      {
+        "word": "기소",
+        "count": 3
+      },
       {
         "word": "경찰",
         "count": 2
       },
       {
-        "word": "의혹",
+        "word": "송치",
         "count": 2
       },
       {
         "word": "구속",
         "count": 2
-      },
-      {
-        "word": "기소",
-        "count": 2
-      },
-      {
-        "word": "만세운동",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "시진핑",
+        "count": 4
+      },
+      {
+        "word": "김정은",
         "count": 3
       },
       {
-        "word": "분양",
-        "count": 1
+        "word": "강화",
+        "count": 3
       },
       {
-        "word": "받았는데",
-        "count": 1
-      },
-      {
-        "word": "완공된",
-        "count": 1
-      },
-      {
-        "word": "아파트는",
-        "count": 1
+        "word": "북중",
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "젠슨",
-        "count": 1
+        "word": "최정윤",
+        "count": 2
       },
       {
-        "word": "유재석은",
-        "count": 1
+        "word": "사칭",
+        "count": 2
       },
       {
-        "word": "챔피언",
-        "count": 1
+        "word": "주의",
+        "count": 2
       },
       {
-        "word": "위대함",
-        "count": 1
+        "word": "없어",
+        "count": 2
       },
       {
-        "word": "도달하려면",
-        "count": 1
+        "word": "아들",
+        "count": 2
       }
     ]
   }
