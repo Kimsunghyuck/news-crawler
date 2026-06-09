@@ -1,13 +1,220 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T10:09:04.475729+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-09T16:22:30.058958+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "젠슨",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "안타",
+      "count": 3
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "차세대",
+      "count": 2
+    },
+    {
+      "word": "깐부",
+      "count": 2
+    },
+    {
+      "word": "으로",
+      "count": 2
+    },
+    {
+      "word": "이견",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "경찰",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "구속",
+      "count": 2
+    },
+    {
+      "word": "기소",
+      "count": 2
+    },
+    {
+      "word": "선관위",
+      "count": 2
+    },
+    {
+      "word": "군사",
+      "count": 2
+    },
+    {
+      "word": "함께",
+      "count": 2
+    },
+    {
+      "word": "이정후",
+      "count": 2
+    },
+    {
+      "word": "경기",
+      "count": 2
+    },
+    {
+      "word": "연속",
+      "count": 2
+    },
+    {
+      "word": "월드컵",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 3
+      },
+      {
+        "word": "외교부",
+        "count": 2
+      },
+      {
+        "word": "북중",
+        "count": 2
+      },
+      {
+        "word": "민주당",
+        "count": 2
+      },
+      {
+        "word": "건가",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "안타",
+        "count": 3
+      },
+      {
+        "word": "이정후",
+        "count": 2
+      },
+      {
+        "word": "경기",
+        "count": 2
+      },
+      {
+        "word": "연속",
+        "count": 2
+      },
+      {
+        "word": "여자오픈",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "젠슨",
+        "count": 2
+      },
+      {
+        "word": "깐부",
+        "count": 2
+      },
+      {
+        "word": "인프라",
+        "count": 1
+      },
+      {
+        "word": "재원",
+        "count": 1
+      },
+      {
+        "word": "나선",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "경찰",
+        "count": 2
+      },
+      {
+        "word": "의혹",
+        "count": 2
+      },
+      {
+        "word": "구속",
+        "count": 2
+      },
+      {
+        "word": "기소",
+        "count": 2
+      },
+      {
+        "word": "만세운동",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "분양",
+        "count": 1
+      },
+      {
+        "word": "받았는데",
+        "count": 1
+      },
+      {
+        "word": "완공된",
+        "count": 1
+      },
+      {
+        "word": "아파트는",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "젠슨",
+        "count": 1
+      },
+      {
+        "word": "유재석은",
+        "count": 1
+      },
+      {
+        "word": "챔피언",
+        "count": 1
+      },
+      {
+        "word": "위대함",
+        "count": 1
+      },
+      {
+        "word": "도달하려면",
+        "count": 1
+      }
+    ]
   }
 }
