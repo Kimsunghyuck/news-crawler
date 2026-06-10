@@ -1,86 +1,86 @@
 {
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T16:37:07.625612+09:00",
+  "generated_at": "2026-06-10T20:29:57.905953+09:00",
   "daily_top_keywords": [
     {
-      "word": "이정후",
-      "count": 3
-    },
-    {
-      "word": "연속",
-      "count": 3
-    },
-    {
-      "word": "안타",
-      "count": 3
-    },
-    {
       "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "월드컵",
-      "count": 3
-    },
-    {
-      "word": "해체",
-      "count": 3
-    },
-    {
-      "word": "경기",
-      "count": 2
-    },
-    {
-      "word": "빅리거",
-      "count": 2
-    },
-    {
-      "word": "복귀",
-      "count": 2
-    },
-    {
-      "word": "신기록",
-      "count": 2
-    },
-    {
-      "word": "헬기",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "만원",
-      "count": 2
-    },
-    {
-      "word": "추가",
-      "count": 2
+      "count": 6
     },
     {
       "word": "급락",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "잠실",
+      "count": 4
+    },
+    {
+      "word": "월드컵",
+      "count": 4
+    },
+    {
+      "word": "헬기",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "복귀",
+      "count": 4
+    },
+    {
+      "word": "이정후",
+      "count": 4
+    },
+    {
+      "word": "연속",
+      "count": 4
+    },
+    {
+      "word": "아이비",
+      "count": 4
+    },
+    {
+      "word": "시카고",
+      "count": 4
+    },
+    {
+      "word": "이어",
+      "count": 3
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "돌파",
-      "count": 2
+      "word": "만원",
+      "count": 3
     },
     {
-      "word": "말본",
-      "count": 2
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "이런",
+      "count": 3
+    },
+    {
+      "word": "법무부",
+      "count": 3
     },
     {
       "word": "영상",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "만뷰",
-      "count": 2
+      "word": "조롱",
+      "count": 3
+    },
+    {
+      "word": "경찰관",
+      "count": 3
     }
   ],
   "category_keywords": {
@@ -90,42 +90,42 @@
         "count": 3
       },
       {
+        "word": "투표용지",
+        "count": 2
+      },
+      {
         "word": "방첩사",
         "count": 2
       },
       {
-        "word": "국힘",
-        "count": 1
+        "word": "선관위",
+        "count": 2
       },
       {
-        "word": "원내대표",
-        "count": 1
-      },
-      {
-        "word": "정점식",
-        "count": 1
+        "word": "잠실",
+        "count": 2
       }
     ],
     "sports": [
       {
+        "word": "복귀",
+        "count": 4
+      },
+      {
         "word": "이정후",
-        "count": 3
+        "count": 4
       },
       {
         "word": "연속",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "안타",
+        "word": "월드컵",
         "count": 3
       },
       {
         "word": "경기",
-        "count": 2
-      },
-      {
-        "word": "빅리거",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
@@ -134,86 +134,86 @@
         "count": 2
       },
       {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "광주",
+        "count": 2
+      },
+      {
+        "word": "반도체",
+        "count": 2
+      },
+      {
         "word": "점유율",
-        "count": 1
-      },
-      {
-        "word": "급락",
-        "count": 1
-      },
-      {
-        "word": "생성형",
-        "count": 1
-      },
-      {
-        "word": "구도로",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "법무부",
+        "count": 3
+      },
       {
         "word": "잠실",
         "count": 2
       },
       {
-        "word": "집회서",
-        "count": 1
+        "word": "특혜설",
+        "count": 2
       },
       {
-        "word": "공안",
-        "count": 1
+        "word": "반박",
+        "count": 2
       },
       {
-        "word": "조롱",
-        "count": 1
-      },
-      {
-        "word": "경찰관",
+        "word": "김용",
         "count": 1
       }
     ],
     "international": [
       {
         "word": "헬기",
-        "count": 2
+        "count": 4
       },
       {
         "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "성공",
+        "count": 3
+      },
+      {
+        "word": "반려견",
         "count": 2
       },
       {
         "word": "격추된",
-        "count": 1
-      },
-      {
-        "word": "승무원",
-        "count": 1
-      },
-      {
-        "word": "무인",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "영상",
-        "count": 2
-      },
-      {
-        "word": "만뷰",
-        "count": 2
-      },
-      {
-        "word": "하지원",
-        "count": 2
-      },
-      {
-        "word": "상상도",
-        "count": 2
-      },
-      {
         "word": "아이비",
-        "count": 1
+        "count": 4
+      },
+      {
+        "word": "시카고",
+        "count": 4
+      },
+      {
+        "word": "록시",
+        "count": 3
+      },
+      {
+        "word": "하트",
+        "count": 3
+      },
+      {
+        "word": "스필버그는",
+        "count": 2
       }
     ]
   }
