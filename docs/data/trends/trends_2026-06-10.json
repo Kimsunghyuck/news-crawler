@@ -1,13 +1,220 @@
 {
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T10:15:44.978456+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-10T16:37:07.625612+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이정후",
+      "count": 3
+    },
+    {
+      "word": "연속",
+      "count": 3
+    },
+    {
+      "word": "안타",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "월드컵",
+      "count": 3
+    },
+    {
+      "word": "해체",
+      "count": 3
+    },
+    {
+      "word": "경기",
+      "count": 2
+    },
+    {
+      "word": "빅리거",
+      "count": 2
+    },
+    {
+      "word": "복귀",
+      "count": 2
+    },
+    {
+      "word": "신기록",
+      "count": 2
+    },
+    {
+      "word": "헬기",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "만원",
+      "count": 2
+    },
+    {
+      "word": "추가",
+      "count": 2
+    },
+    {
+      "word": "급락",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "돌파",
+      "count": 2
+    },
+    {
+      "word": "말본",
+      "count": 2
+    },
+    {
+      "word": "영상",
+      "count": 2
+    },
+    {
+      "word": "만뷰",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "해체",
+        "count": 3
+      },
+      {
+        "word": "방첩사",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 1
+      },
+      {
+        "word": "원내대표",
+        "count": 1
+      },
+      {
+        "word": "정점식",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "이정후",
+        "count": 3
+      },
+      {
+        "word": "연속",
+        "count": 3
+      },
+      {
+        "word": "안타",
+        "count": 3
+      },
+      {
+        "word": "경기",
+        "count": 2
+      },
+      {
+        "word": "빅리거",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "말본",
+        "count": 2
+      },
+      {
+        "word": "점유율",
+        "count": 1
+      },
+      {
+        "word": "급락",
+        "count": 1
+      },
+      {
+        "word": "생성형",
+        "count": 1
+      },
+      {
+        "word": "구도로",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "잠실",
+        "count": 2
+      },
+      {
+        "word": "집회서",
+        "count": 1
+      },
+      {
+        "word": "공안",
+        "count": 1
+      },
+      {
+        "word": "조롱",
+        "count": 1
+      },
+      {
+        "word": "경찰관",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "헬기",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "격추된",
+        "count": 1
+      },
+      {
+        "word": "승무원",
+        "count": 1
+      },
+      {
+        "word": "무인",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "영상",
+        "count": 2
+      },
+      {
+        "word": "만뷰",
+        "count": 2
+      },
+      {
+        "word": "하지원",
+        "count": 2
+      },
+      {
+        "word": "상상도",
+        "count": 2
+      },
+      {
+        "word": "아이비",
+        "count": 1
+      }
+    ]
   }
 }
