@@ -1,219 +1,219 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T16:47:58.049047+09:00",
+  "generated_at": "2026-06-11T20:46:40.652372+09:00",
   "daily_top_keywords": [
     {
       "word": "징역",
-      "count": 6
-    },
-    {
-      "word": "전환",
-      "count": 2
-    },
-    {
-      "word": "남았다",
-      "count": 2
-    },
-    {
-      "word": "깜짝",
-      "count": 2
-    },
-    {
-      "word": "하락",
-      "count": 2
-    },
-    {
-      "word": "내놓은",
-      "count": 2
-    },
-    {
-      "word": "이라던",
-      "count": 2
-    },
-    {
-      "word": "울산",
-      "count": 2
-    },
-    {
-      "word": "스토킹",
-      "count": 2
-    },
-    {
-      "word": "살인미수",
-      "count": 2
-    },
-    {
-      "word": "심도",
-      "count": 2
-    },
-    {
-      "word": "개월",
-      "count": 2
+      "count": 9
     },
     {
       "word": "집회",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "고노",
-      "count": 2
+      "word": "번째",
+      "count": 4
     },
     {
-      "word": "역사",
-      "count": 2
+      "word": "정청래",
+      "count": 4
     },
     {
-      "word": "게이츠",
-      "count": 2
+      "word": "김도영",
+      "count": 3
     },
     {
-      "word": "불륜",
-      "count": 2
+      "word": "문보경",
+      "count": 3
     },
     {
-      "word": "하면",
-      "count": 2
+      "word": "아시안게임",
+      "count": 3
+    },
+    {
+      "word": "야구",
+      "count": 3
+    },
+    {
+      "word": "이라던",
+      "count": 3
+    },
+    {
+      "word": "남았다",
+      "count": 3
+    },
+    {
+      "word": "발탁",
+      "count": 3
     },
     {
       "word": "홍명보호",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "통산",
-      "count": 2
+      "word": "월드컵",
+      "count": 3
+    },
+    {
+      "word": "하면",
+      "count": 3
+    },
+    {
+      "word": "게이츠",
+      "count": 3
+    },
+    {
+      "word": "불륜",
+      "count": 3
+    },
+    {
+      "word": "받아",
+      "count": 3
+    },
+    {
+      "word": "총리",
+      "count": 3
+    },
+    {
+      "word": "하락",
+      "count": 3
+    },
+    {
+      "word": "카카오",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "정점식",
-        "count": 2
-      },
-      {
         "word": "정청래",
+        "count": 4
+      },
+      {
+        "word": "선거",
+        "count": 3
+      },
+      {
+        "word": "집회",
         "count": 2
       },
       {
-        "word": "합참",
+        "word": "강제해산",
         "count": 2
       },
       {
-        "word": "국정지지율",
-        "count": 1
-      },
-      {
-        "word": "지방선거",
-        "count": 1
+        "word": "패소",
+        "count": 2
       }
     ],
     "sports": [
       {
-        "word": "홍명보호",
-        "count": 2
+        "word": "김도영",
+        "count": 3
       },
       {
-        "word": "통산",
-        "count": 2
+        "word": "문보경",
+        "count": 3
       },
       {
         "word": "아시안게임",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "무임승차",
-        "count": 1
+        "word": "야구",
+        "count": 3
       },
       {
-        "word": "곽빈",
-        "count": 1
+        "word": "발탁",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "전환",
+        "word": "카카오",
+        "count": 3
+      },
+      {
+        "word": "줄여서",
         "count": 2
       },
       {
-        "word": "집값",
-        "count": 1
+        "word": "여윳돈",
+        "count": 2
       },
       {
-        "word": "급등",
-        "count": 1
+        "word": "마련할까",
+        "count": 2
       },
       {
-        "word": "소득",
-        "count": 1
-      },
-      {
-        "word": "격차에",
-        "count": 1
+        "word": "주택연금",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "징역",
-        "count": 5
+        "count": 7
       },
       {
-        "word": "울산",
-        "count": 2
+        "word": "경찰",
+        "count": 3
       },
       {
-        "word": "스토킹",
-        "count": 2
+        "word": "검거",
+        "count": 3
       },
       {
-        "word": "살인미수",
-        "count": 2
+        "word": "집회",
+        "count": 3
       },
       {
-        "word": "심도",
-        "count": 2
+        "word": "개월",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "게이츠",
-        "count": 2
+        "count": 3
       },
       {
         "word": "불륜",
+        "count": 3
+      },
+      {
+        "word": "총리",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
         "count": 2
       },
       {
-        "word": "그물에",
-        "count": 1
-      },
-      {
-        "word": "멸종위기종",
-        "count": 1
-      },
-      {
-        "word": "폐사하는",
-        "count": 1
+        "word": "민주",
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "슬램덩크",
-        "count": 1
+        "word": "신정환",
+        "count": 3
       },
       {
-        "word": "원피스",
-        "count": 1
+        "word": "번째",
+        "count": 2
       },
       {
-        "word": "불법복제",
-        "count": 1
+        "word": "음주운전",
+        "count": 2
       },
       {
-        "word": "만화",
-        "count": 1
+        "word": "배우",
+        "count": 2
       },
       {
-        "word": "공유사이트",
-        "count": 1
+        "word": "손승원",
+        "count": 2
       }
     ]
   }
