@@ -1,13 +1,220 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T10:16:06.579764+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-11T16:47:58.049047+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "징역",
+      "count": 6
+    },
+    {
+      "word": "전환",
+      "count": 2
+    },
+    {
+      "word": "남았다",
+      "count": 2
+    },
+    {
+      "word": "깜짝",
+      "count": 2
+    },
+    {
+      "word": "하락",
+      "count": 2
+    },
+    {
+      "word": "내놓은",
+      "count": 2
+    },
+    {
+      "word": "이라던",
+      "count": 2
+    },
+    {
+      "word": "울산",
+      "count": 2
+    },
+    {
+      "word": "스토킹",
+      "count": 2
+    },
+    {
+      "word": "살인미수",
+      "count": 2
+    },
+    {
+      "word": "심도",
+      "count": 2
+    },
+    {
+      "word": "개월",
+      "count": 2
+    },
+    {
+      "word": "집회",
+      "count": 2
+    },
+    {
+      "word": "고노",
+      "count": 2
+    },
+    {
+      "word": "역사",
+      "count": 2
+    },
+    {
+      "word": "게이츠",
+      "count": 2
+    },
+    {
+      "word": "불륜",
+      "count": 2
+    },
+    {
+      "word": "하면",
+      "count": 2
+    },
+    {
+      "word": "홍명보호",
+      "count": 2
+    },
+    {
+      "word": "통산",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "정점식",
+        "count": 2
+      },
+      {
+        "word": "정청래",
+        "count": 2
+      },
+      {
+        "word": "합참",
+        "count": 2
+      },
+      {
+        "word": "국정지지율",
+        "count": 1
+      },
+      {
+        "word": "지방선거",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "홍명보호",
+        "count": 2
+      },
+      {
+        "word": "통산",
+        "count": 2
+      },
+      {
+        "word": "아시안게임",
+        "count": 2
+      },
+      {
+        "word": "무임승차",
+        "count": 1
+      },
+      {
+        "word": "곽빈",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "전환",
+        "count": 2
+      },
+      {
+        "word": "집값",
+        "count": 1
+      },
+      {
+        "word": "급등",
+        "count": 1
+      },
+      {
+        "word": "소득",
+        "count": 1
+      },
+      {
+        "word": "격차에",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "징역",
+        "count": 5
+      },
+      {
+        "word": "울산",
+        "count": 2
+      },
+      {
+        "word": "스토킹",
+        "count": 2
+      },
+      {
+        "word": "살인미수",
+        "count": 2
+      },
+      {
+        "word": "심도",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "게이츠",
+        "count": 2
+      },
+      {
+        "word": "불륜",
+        "count": 2
+      },
+      {
+        "word": "그물에",
+        "count": 1
+      },
+      {
+        "word": "멸종위기종",
+        "count": 1
+      },
+      {
+        "word": "폐사하는",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "슬램덩크",
+        "count": 1
+      },
+      {
+        "word": "원피스",
+        "count": 1
+      },
+      {
+        "word": "불법복제",
+        "count": 1
+      },
+      {
+        "word": "만화",
+        "count": 1
+      },
+      {
+        "word": "공유사이트",
+        "count": 1
+      }
+    ]
   }
 }
