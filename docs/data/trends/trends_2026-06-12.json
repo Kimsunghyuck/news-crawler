@@ -1,17 +1,65 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T16:45:39.690177+09:00",
+  "generated_at": "2026-06-12T20:30:57.665463+09:00",
   "daily_top_keywords": [
     {
-      "word": "트럼프",
-      "count": 4
+      "word": "이란",
+      "count": 7
     },
     {
-      "word": "이란",
-      "count": 3
+      "word": "트럼프",
+      "count": 6
     },
     {
       "word": "종전",
+      "count": 4
+    },
+    {
+      "word": "부족",
+      "count": 4
+    },
+    {
+      "word": "역전승",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "주말",
+      "count": 3
+    },
+    {
+      "word": "유럽서",
+      "count": 3
+    },
+    {
+      "word": "서명",
+      "count": 3
+    },
+    {
+      "word": "별세",
+      "count": 3
+    },
+    {
+      "word": "왔다",
+      "count": 3
+    },
+    {
+      "word": "스페이스",
+      "count": 3
+    },
+    {
+      "word": "네이버",
+      "count": 3
+    },
+    {
+      "word": "있어",
+      "count": 3
+    },
+    {
+      "word": "체코전",
       "count": 3
     },
     {
@@ -19,96 +67,56 @@
       "count": 3
     },
     {
-      "word": "공동",
-      "count": 2
+      "word": "합수본",
+      "count": 3
     },
     {
-      "word": "아내",
-      "count": 2
+      "word": "노태악",
+      "count": 3
     },
     {
-      "word": "역전승",
-      "count": 2
+      "word": "출국금지",
+      "count": 3
     },
     {
-      "word": "주말",
-      "count": 2
-    },
-    {
-      "word": "유럽서",
-      "count": 2
-    },
-    {
-      "word": "서명",
-      "count": 2
-    },
-    {
-      "word": "오픈",
-      "count": 2
-    },
-    {
-      "word": "스페이스",
-      "count": 2
-    },
-    {
-      "word": "있어",
-      "count": 2
-    },
-    {
-      "word": "학대",
-      "count": 2
-    },
-    {
-      "word": "부인",
-      "count": 2
-    },
-    {
-      "word": "투표용지",
-      "count": 2
-    },
-    {
-      "word": "한동훈",
-      "count": 2
-    },
-    {
-      "word": "장동혁",
-      "count": 2
-    },
-    {
-      "word": "자유",
-      "count": 2
-    },
-    {
-      "word": "한일전",
-      "count": 1
+      "word": "투표지",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "투표용지",
+        "word": "국힘",
         "count": 2
       },
       {
-        "word": "한동훈",
+        "word": "앞섰는데",
         "count": 2
       },
       {
-        "word": "장동혁",
+        "word": "사퇴하냐",
         "count": 2
       },
       {
-        "word": "자유",
+        "word": "정치권은",
         "count": 2
       },
       {
-        "word": "최고위원",
-        "count": 1
+        "word": "결과",
+        "count": 2
       }
     ],
     "sports": [
       {
+        "word": "라운드",
+        "count": 2
+      },
+      {
         "word": "공동",
+        "count": 2
+      },
+      {
+        "word": "선두",
         "count": 2
       },
       {
@@ -118,41 +126,37 @@
       {
         "word": "패배에",
         "count": 1
-      },
-      {
-        "word": "울었던",
-        "count": 1
-      },
-      {
-        "word": "막내에디",
-        "count": 1
       }
     ],
     "economy": [
       {
         "word": "스페이스",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "네이버",
+        "count": 3
       },
       {
         "word": "청약에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "몰렸다",
-        "count": 1
+        "count": 2
       },
       {
         "word": "삼성전자",
-        "count": 1
-      },
-      {
-        "word": "수요",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "살해",
+        "count": 3
+      },
+      {
+        "word": "부족",
         "count": 3
       },
       {
@@ -164,56 +168,52 @@
         "count": 2
       },
       {
-        "word": "노인",
-        "count": 1
-      },
-      {
-        "word": "급증",
-        "count": 1
+        "word": "합수본",
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "트럼프",
-        "count": 3
+        "word": "이란",
+        "count": 7
       },
       {
-        "word": "이란",
-        "count": 3
+        "word": "트럼프",
+        "count": 5
       },
       {
         "word": "주말",
-        "count": 2
+        "count": 3
       },
       {
         "word": "유럽서",
-        "count": 2
+        "count": 3
       },
       {
         "word": "종전",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
+        "word": "체코전",
+        "count": 3
+      },
+      {
         "word": "김은희",
-        "count": 1
+        "count": 2
       },
       {
         "word": "장항준",
-        "count": 1
+        "count": 2
       },
       {
         "word": "거들먹",
-        "count": 1
+        "count": 2
       },
       {
         "word": "여전히",
-        "count": 1
-      },
-      {
-        "word": "쓰고",
-        "count": 1
+        "count": 2
       }
     ]
   }
