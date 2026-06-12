@@ -1,13 +1,220 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T10:11:29.250327+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-12T16:45:39.690177+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "종전",
+      "count": 3
+    },
+    {
+      "word": "살해",
+      "count": 3
+    },
+    {
+      "word": "공동",
+      "count": 2
+    },
+    {
+      "word": "아내",
+      "count": 2
+    },
+    {
+      "word": "역전승",
+      "count": 2
+    },
+    {
+      "word": "주말",
+      "count": 2
+    },
+    {
+      "word": "유럽서",
+      "count": 2
+    },
+    {
+      "word": "서명",
+      "count": 2
+    },
+    {
+      "word": "오픈",
+      "count": 2
+    },
+    {
+      "word": "스페이스",
+      "count": 2
+    },
+    {
+      "word": "있어",
+      "count": 2
+    },
+    {
+      "word": "학대",
+      "count": 2
+    },
+    {
+      "word": "부인",
+      "count": 2
+    },
+    {
+      "word": "투표용지",
+      "count": 2
+    },
+    {
+      "word": "한동훈",
+      "count": 2
+    },
+    {
+      "word": "장동혁",
+      "count": 2
+    },
+    {
+      "word": "자유",
+      "count": 2
+    },
+    {
+      "word": "한일전",
+      "count": 1
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "투표용지",
+        "count": 2
+      },
+      {
+        "word": "한동훈",
+        "count": 2
+      },
+      {
+        "word": "장동혁",
+        "count": 2
+      },
+      {
+        "word": "자유",
+        "count": 2
+      },
+      {
+        "word": "최고위원",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "공동",
+        "count": 2
+      },
+      {
+        "word": "한일전",
+        "count": 1
+      },
+      {
+        "word": "패배에",
+        "count": 1
+      },
+      {
+        "word": "울었던",
+        "count": 1
+      },
+      {
+        "word": "막내에디",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "스페이스",
+        "count": 2
+      },
+      {
+        "word": "청약에",
+        "count": 1
+      },
+      {
+        "word": "몰렸다",
+        "count": 1
+      },
+      {
+        "word": "삼성전자",
+        "count": 1
+      },
+      {
+        "word": "수요",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "살해",
+        "count": 3
+      },
+      {
+        "word": "학대",
+        "count": 2
+      },
+      {
+        "word": "부인",
+        "count": 2
+      },
+      {
+        "word": "노인",
+        "count": 1
+      },
+      {
+        "word": "급증",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "주말",
+        "count": 2
+      },
+      {
+        "word": "유럽서",
+        "count": 2
+      },
+      {
+        "word": "종전",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "김은희",
+        "count": 1
+      },
+      {
+        "word": "장항준",
+        "count": 1
+      },
+      {
+        "word": "거들먹",
+        "count": 1
+      },
+      {
+        "word": "여전히",
+        "count": 1
+      },
+      {
+        "word": "쓰고",
+        "count": 1
+      }
+    ]
   }
 }
