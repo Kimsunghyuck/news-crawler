@@ -1,13 +1,220 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T10:17:36.844851+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-13T16:27:48.839577+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "머스크",
+      "count": 3
+    },
+    {
+      "word": "이재용",
+      "count": 3
+    },
+    {
+      "word": "종전",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "인류",
+      "count": 2
+    },
+    {
+      "word": "조만장자",
+      "count": 2
+    },
+    {
+      "word": "재조명",
+      "count": 2
+    },
+    {
+      "word": "네이버",
+      "count": 2
+    },
+    {
+      "word": "서울",
+      "count": 2
+    },
+    {
+      "word": "결혼",
+      "count": 2
+    },
+    {
+      "word": "참석",
+      "count": 2
+    },
+    {
+      "word": "참정권",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    },
+    {
+      "word": "청계천",
+      "count": 2
+    },
+    {
+      "word": "사진관",
+      "count": 2
+    },
+    {
+      "word": "한복",
+      "count": 2
+    },
+    {
+      "word": "협력",
+      "count": 2
+    },
+    {
+      "word": "미저라우스키",
+      "count": 1
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "이재용",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "정부",
+        "count": 2
+      },
+      {
+        "word": "청계천",
+        "count": 2
+      },
+      {
+        "word": "사진관",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "미저라우스키",
+        "count": 1
+      },
+      {
+        "word": "선발",
+        "count": 1
+      },
+      {
+        "word": "구속",
+        "count": 1
+      },
+      {
+        "word": "신기록",
+        "count": 1
+      },
+      {
+        "word": "오타니",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "네이버",
+        "count": 2
+      },
+      {
+        "word": "마통",
+        "count": 1
+      },
+      {
+        "word": "만원까지만",
+        "count": 1
+      },
+      {
+        "word": "은행권",
+        "count": 1
+      },
+      {
+        "word": "빚투",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "잠실",
+        "count": 1
+      },
+      {
+        "word": "참정권",
+        "count": 1
+      },
+      {
+        "word": "집회",
+        "count": 1
+      },
+      {
+        "word": "일차",
+        "count": 1
+      },
+      {
+        "word": "젊은",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "머스크",
+        "count": 3
+      },
+      {
+        "word": "종전",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "인류",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "결혼",
+        "count": 2
+      },
+      {
+        "word": "최불암",
+        "count": 1
+      },
+      {
+        "word": "입원",
+        "count": 1
+      },
+      {
+        "word": "치료",
+        "count": 1
+      },
+      {
+        "word": "파하",
+        "count": 1
+      }
+    ]
   }
 }
