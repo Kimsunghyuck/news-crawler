@@ -1,13 +1,220 @@
 {
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T10:18:37.412383+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-14T16:44:19.175849+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "경기",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "없어",
+      "count": 3
+    },
+    {
+      "word": "방문한",
+      "count": 2
+    },
+    {
+      "word": "도전",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "아파치",
+      "count": 2
+    },
+    {
+      "word": "막은",
+      "count": 2
+    },
+    {
+      "word": "베네수엘라",
+      "count": 2
+    },
+    {
+      "word": "범죄조직",
+      "count": 2
+    },
+    {
+      "word": "지원",
+      "count": 2
+    },
+    {
+      "word": "신혼부부",
+      "count": 2
+    },
+    {
+      "word": "아니어도",
+      "count": 2
+    },
+    {
+      "word": "신생아",
+      "count": 2
+    },
+    {
+      "word": "특공",
+      "count": 2
+    },
+    {
+      "word": "가능해진다",
+      "count": 2
+    },
+    {
+      "word": "사고",
+      "count": 2
+    },
+    {
+      "word": "국내",
+      "count": 2
+    },
+    {
+      "word": "아냐",
+      "count": 2
+    },
+    {
+      "word": "시간",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "조승래",
+        "count": 2
+      },
+      {
+        "word": "책임",
+        "count": 2
+      },
+      {
+        "word": "지도부",
+        "count": 2
+      },
+      {
+        "word": "안규백",
+        "count": 2
+      },
+      {
+        "word": "전작권",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "경기",
+        "count": 3
+      },
+      {
+        "word": "반세기의",
+        "count": 1
+      },
+      {
+        "word": "기다림",
+        "count": 1
+      },
+      {
+        "word": "끝에",
+        "count": 1
+      },
+      {
+        "word": "뉴욕",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "신혼부부",
+        "count": 2
+      },
+      {
+        "word": "아니어도",
+        "count": 2
+      },
+      {
+        "word": "신생아",
+        "count": 2
+      },
+      {
+        "word": "특공",
+        "count": 2
+      },
+      {
+        "word": "가능해진다",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "시간",
+        "count": 2
+      },
+      {
+        "word": "인천",
+        "count": 1
+      },
+      {
+        "word": "훼손",
+        "count": 1
+      },
+      {
+        "word": "시신",
+        "count": 1
+      },
+      {
+        "word": "발견",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "아파치",
+        "count": 2
+      },
+      {
+        "word": "베네수엘라",
+        "count": 2
+      },
+      {
+        "word": "범죄조직",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "혜리",
+        "count": 1
+      },
+      {
+        "word": "춤추다",
+        "count": 1
+      },
+      {
+        "word": "어깨끈이",
+        "count": 1
+      },
+      {
+        "word": "대형",
+        "count": 1
+      },
+      {
+        "word": "사고",
+        "count": 1
+      }
+    ]
   }
 }
