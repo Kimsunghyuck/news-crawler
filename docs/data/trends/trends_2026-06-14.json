@@ -1,219 +1,219 @@
 {
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T16:44:19.175849+09:00",
+  "generated_at": "2026-06-14T20:12:17.839080+09:00",
   "daily_top_keywords": [
     {
       "word": "경기",
-      "count": 3
+      "count": 7
     },
     {
       "word": "트럼프",
-      "count": 3
+      "count": 6
     },
     {
       "word": "없어",
+      "count": 6
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "막은",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "사고",
+      "count": 4
+    },
+    {
+      "word": "수사",
+      "count": 4
+    },
+    {
+      "word": "안규백",
+      "count": 4
+    },
+    {
+      "word": "전작권",
+      "count": 4
+    },
+    {
+      "word": "전환",
+      "count": 4
+    },
+    {
+      "word": "연말",
+      "count": 4
+    },
+    {
+      "word": "건의",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "멕시코",
       "count": 3
     },
     {
       "word": "방문한",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "도전",
-      "count": 2
+      "word": "손흥민",
+      "count": 3
     },
     {
-      "word": "이란",
-      "count": 2
+      "word": "월드컵",
+      "count": 3
     },
     {
       "word": "아파치",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "막은",
-      "count": 2
-    },
-    {
-      "word": "베네수엘라",
-      "count": 2
-    },
-    {
-      "word": "범죄조직",
-      "count": 2
-    },
-    {
-      "word": "지원",
-      "count": 2
-    },
-    {
-      "word": "신혼부부",
-      "count": 2
-    },
-    {
-      "word": "아니어도",
-      "count": 2
-    },
-    {
-      "word": "신생아",
-      "count": 2
-    },
-    {
-      "word": "특공",
-      "count": 2
-    },
-    {
-      "word": "가능해진다",
-      "count": 2
-    },
-    {
-      "word": "사고",
-      "count": 2
-    },
-    {
-      "word": "국내",
-      "count": 2
-    },
-    {
-      "word": "아냐",
-      "count": 2
-    },
-    {
-      "word": "시간",
-      "count": 2
+      "word": "재개",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "조승래",
-        "count": 2
-      },
-      {
-        "word": "책임",
-        "count": 2
-      },
-      {
-        "word": "지도부",
-        "count": 2
-      },
-      {
         "word": "안규백",
-        "count": 2
+        "count": 4
       },
       {
         "word": "전작권",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "전환",
+        "count": 4
+      },
+      {
+        "word": "연말",
+        "count": 4
+      },
+      {
+        "word": "건의",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "경기",
-        "count": 3
+        "count": 6
       },
       {
         "word": "반세기의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "기다림",
-        "count": 1
+        "count": 2
       },
       {
         "word": "끝에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "뉴욕",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "신혼부부",
-        "count": 2
+        "count": 3
       },
       {
         "word": "아니어도",
-        "count": 2
+        "count": 3
       },
       {
         "word": "신생아",
-        "count": 2
+        "count": 3
       },
       {
         "word": "특공",
-        "count": 2
+        "count": 3
       },
       {
         "word": "가능해진다",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "시간",
-        "count": 2
+        "word": "수사",
+        "count": 4
       },
       {
         "word": "인천",
-        "count": 1
+        "count": 2
       },
       {
         "word": "훼손",
-        "count": 1
+        "count": 2
       },
       {
         "word": "시신",
-        "count": 1
+        "count": 2
       },
       {
         "word": "발견",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 6
       },
       {
         "word": "이란",
-        "count": 2
+        "count": 4
       },
       {
         "word": "아파치",
-        "count": 2
+        "count": 3
       },
       {
         "word": "베네수엘라",
-        "count": 2
+        "count": 3
       },
       {
         "word": "범죄조직",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "혜리",
-        "count": 1
+        "count": 2
       },
       {
         "word": "춤추다",
-        "count": 1
+        "count": 2
       },
       {
         "word": "어깨끈이",
-        "count": 1
+        "count": 2
       },
       {
         "word": "대형",
-        "count": 1
+        "count": 2
       },
       {
         "word": "사고",
-        "count": 1
+        "count": 2
       }
     ]
   }
