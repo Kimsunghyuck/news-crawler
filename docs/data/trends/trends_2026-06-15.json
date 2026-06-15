@@ -1,219 +1,219 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T17:04:38.822476+09:00",
+  "generated_at": "2026-06-15T21:15:56.589762+09:00",
   "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "월드컵",
+      "count": 5
+    },
+    {
+      "word": "서울",
+      "count": 5
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "일본",
+      "count": 4
+    },
+    {
+      "word": "대신",
+      "count": 4
+    },
+    {
+      "word": "선수",
+      "count": 4
+    },
+    {
+      "word": "미셸",
+      "count": 4
+    },
+    {
+      "word": "오바마는",
+      "count": 4
+    },
+    {
+      "word": "소감",
+      "count": 4
+    },
+    {
+      "word": "노숙인",
+      "count": 4
+    },
+    {
+      "word": "경기",
+      "count": 3
+    },
+    {
+      "word": "추락",
+      "count": 3
+    },
     {
       "word": "감독",
       "count": 3
     },
     {
-      "word": "월드컵",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "서울",
-      "count": 3
-    },
-    {
-      "word": "경기",
-      "count": 2
-    },
-    {
       "word": "독일",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "멕시코",
-      "count": 2
-    },
-    {
-      "word": "이란",
-      "count": 2
+      "word": "종전",
+      "count": 3
     },
     {
       "word": "백악관",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "선수",
-      "count": 2
+      "word": "수상",
+      "count": 3
     },
     {
-      "word": "미셸",
-      "count": 2
+      "word": "호르무즈",
+      "count": 3
     },
     {
-      "word": "오바마는",
-      "count": 2
-    },
-    {
-      "word": "소감",
-      "count": 2
-    },
-    {
-      "word": "일본",
-      "count": 2
-    },
-    {
-      "word": "팬들",
-      "count": 2
-    },
-    {
-      "word": "대신",
-      "count": 2
-    },
-    {
-      "word": "최태원",
-      "count": 2
-    },
-    {
-      "word": "노소영",
-      "count": 2
-    },
-    {
-      "word": "재산분할",
-      "count": 2
-    },
-    {
-      "word": "조정",
-      "count": 2
+      "word": "휴머노이드",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "서울",
+        "count": 4
+      },
+      {
         "word": "유시민",
-        "count": 2
+        "count": 3
       },
       {
         "word": "개혁신당",
-        "count": 2
-      },
-      {
-        "word": "서울",
-        "count": 2
+        "count": 3
       },
       {
         "word": "재선거",
-        "count": 2
+        "count": 3
       },
       {
         "word": "장동혁",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
+      {
+        "word": "월드컵",
+        "count": 4
+      },
       {
         "word": "감독",
         "count": 3
       },
       {
         "word": "독일",
-        "count": 2
-      },
-      {
-        "word": "월드컵",
-        "count": 2
+        "count": 3
       },
       {
         "word": "침묵",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "이정후",
-        "count": 1
+        "word": "경기",
+        "count": 2
       }
     ],
     "economy": [
       {
+        "word": "재무",
+        "count": 3
+      },
+      {
+        "word": "인상",
+        "count": 3
+      },
+      {
         "word": "회사서",
-        "count": 1
+        "count": 2
       },
       {
         "word": "식권",
-        "count": 1
+        "count": 2
       },
       {
         "word": "식당",
-        "count": 1
-      },
-      {
-        "word": "대신",
-        "count": 1
-      },
-      {
-        "word": "편의점서",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "경찰",
-        "count": 2
+        "count": 3
       },
       {
         "word": "재산분할",
-        "count": 1
+        "count": 2
       },
       {
         "word": "조정",
-        "count": 1
+        "count": 2
       },
       {
         "word": "불성립",
-        "count": 1
+        "count": 2
       },
       {
         "word": "최태원",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
-      },
-      {
-        "word": "백악관",
-        "count": 2
+        "count": 7
       },
       {
         "word": "선수",
-        "count": 2
+        "count": 4
       },
       {
         "word": "미셸",
-        "count": 2
+        "count": 4
       },
       {
         "word": "오바마는",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "소감",
+        "count": 4
       }
     ],
     "culture": [
       {
-        "word": "년째",
-        "count": 1
-      },
-      {
         "word": "노숙인",
-        "count": 1
-      },
-      {
-        "word": "쉼터",
-        "count": 1
+        "count": 4
       },
       {
         "word": "봉사",
-        "count": 1
+        "count": 3
       },
       {
-        "word": "남규리의",
-        "count": 1
+        "word": "년째",
+        "count": 2
+      },
+      {
+        "word": "쉼터",
+        "count": 2
+      },
+      {
+        "word": "선한",
+        "count": 2
       }
     ]
   }
