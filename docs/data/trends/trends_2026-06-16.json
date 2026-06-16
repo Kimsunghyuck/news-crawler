@@ -1,85 +1,85 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T17:04:48.024103+09:00",
+  "generated_at": "2026-06-16T21:00:18.525544+09:00",
   "daily_top_keywords": [
     {
-      "word": "월드컵",
-      "count": 3
-    },
-    {
-      "word": "경기",
-      "count": 3
-    },
-    {
       "word": "선관위",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "국힘",
-      "count": 3
-    },
-    {
-      "word": "연패",
-      "count": 2
-    },
-    {
-      "word": "만에",
-      "count": 2
-    },
-    {
-      "word": "감독",
-      "count": 2
-    },
-    {
-      "word": "만원",
-      "count": 2
-    },
-    {
-      "word": "신임",
-      "count": 2
+      "word": "월드컵",
+      "count": 6
     },
     {
       "word": "이란",
-      "count": 2
+      "count": 6
     },
     {
-      "word": "통행료",
-      "count": 2
+      "word": "경기",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "감독",
+      "count": 4
     },
     {
       "word": "트럼프",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "한국",
-      "count": 2
+      "word": "국힘",
+      "count": 4
     },
     {
-      "word": "개최",
-      "count": 2
+      "word": "연패",
+      "count": 3
     },
     {
-      "word": "일본",
-      "count": 2
+      "word": "만원",
+      "count": 3
     },
     {
-      "word": "직원",
-      "count": 2
+      "word": "통행료",
+      "count": 3
     },
     {
-      "word": "정치",
-      "count": 2
+      "word": "유럽",
+      "count": 3
     },
     {
-      "word": "점검",
-      "count": 2
+      "word": "연계",
+      "count": 3
+    },
+    {
+      "word": "백악관",
+      "count": 3
     },
     {
       "word": "여교사",
-      "count": 2
+      "count": 3
     },
     {
       "word": "여야",
+      "count": 3
+    },
+    {
+      "word": "시카고",
+      "count": 2
+    },
+    {
+      "word": "컵스",
+      "count": 2
+    },
+    {
+      "word": "크로우암스트롱",
+      "count": 2
+    },
+    {
+      "word": "시즌",
       "count": 2
     }
   ],
@@ -87,48 +87,60 @@
     "politics": [
       {
         "word": "선관위",
-        "count": 3
+        "count": 6
       },
       {
         "word": "국힘",
-        "count": 3
+        "count": 4
       },
       {
         "word": "여야",
+        "count": 3
+      },
+      {
+        "word": "국정조사",
         "count": 2
       },
       {
-        "word": "무슨",
-        "count": 2
-      },
-      {
-        "word": "장동혁",
+        "word": "합의",
         "count": 2
       }
     ],
     "sports": [
       {
         "word": "월드컵",
-        "count": 3
-      },
-      {
-        "word": "연패",
-        "count": 2
-      },
-      {
-        "word": "경기",
-        "count": 2
+        "count": 6
       },
       {
         "word": "감독",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "초반부터",
-        "count": 1
+        "word": "연패",
+        "count": 3
+      },
+      {
+        "word": "경기",
+        "count": 3
+      },
+      {
+        "word": "시카고",
+        "count": 2
       }
     ],
     "economy": [
+      {
+        "word": "국제선",
+        "count": 2
+      },
+      {
+        "word": "유류할증료",
+        "count": 2
+      },
+      {
+        "word": "내린다",
+        "count": 2
+      },
       {
         "word": "다음",
         "count": 1
@@ -136,65 +148,57 @@
       {
         "word": "품은",
         "count": 1
-      },
-      {
-        "word": "업스테이지",
-        "count": 1
-      },
-      {
-        "word": "서비스",
-        "count": 1
-      },
-      {
-        "word": "기업",
-        "count": 1
       }
     ],
     "society": [
       {
         "word": "여교사",
+        "count": 3
+      },
+      {
+        "word": "체액",
         "count": 2
       },
       {
-        "word": "참교육",
-        "count": 1
+        "word": "의자엔",
+        "count": 2
       },
       {
-        "word": "뭉친",
-        "count": 1
+        "word": "침입한",
+        "count": 2
       },
       {
-        "word": "교사",
-        "count": 1
-      },
-      {
-        "word": "학부모",
-        "count": 1
+        "word": "남고생",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 2
+        "count": 4
       },
       {
         "word": "통행료",
-        "count": 2
+        "count": 3
       },
       {
         "word": "트럼프",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "호르무즈에",
-        "count": 1
+        "word": "유럽",
+        "count": 3
       },
       {
-        "word": "없지만",
-        "count": 1
+        "word": "연계",
+        "count": 3
       }
     ],
     "culture": [
+      {
+        "word": "결혼",
+        "count": 2
+      },
       {
         "word": "이수근",
         "count": 1
@@ -209,10 +213,6 @@
       },
       {
         "word": "띠동갑",
-        "count": 1
-      },
-      {
-        "word": "아내와",
         "count": 1
       }
     ]
