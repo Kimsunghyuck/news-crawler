@@ -1,13 +1,220 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T10:19:04.068619+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-17T16:57:23.305165+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "월드컵",
+      "count": 3
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "결국",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "정청래",
+      "count": 3
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "수사",
+      "count": 2
+    },
+    {
+      "word": "속도",
+      "count": 2
+    },
+    {
+      "word": "패스",
+      "count": 2
+    },
+    {
+      "word": "벌써",
+      "count": 2
+    },
+    {
+      "word": "넘게",
+      "count": 2
+    },
+    {
+      "word": "최다골",
+      "count": 2
+    },
+    {
+      "word": "타이",
+      "count": 2
+    },
+    {
+      "word": "태평양사령부",
+      "count": 2
+    },
+    {
+      "word": "복원",
+      "count": 2
+    },
+    {
+      "word": "수출",
+      "count": 2
+    },
+    {
+      "word": "몰렸다",
+      "count": 2
+    },
+    {
+      "word": "조원",
+      "count": 2
+    },
+    {
+      "word": "해외",
+      "count": 2
+    },
+    {
+      "word": "징역",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "정청래",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 3
+      },
+      {
+        "word": "김민석",
+        "count": 2
+      },
+      {
+        "word": "참석",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "월드컵",
+        "count": 3
+      },
+      {
+        "word": "최다골",
+        "count": 2
+      },
+      {
+        "word": "타이",
+        "count": 2
+      },
+      {
+        "word": "경기",
+        "count": 1
+      },
+      {
+        "word": "만에",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "조원",
+        "count": 2
+      },
+      {
+        "word": "연금",
+        "count": 1
+      },
+      {
+        "word": "계좌에",
+        "count": 1
+      },
+      {
+        "word": "로봇",
+        "count": 1
+      },
+      {
+        "word": "담을까",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "덕수궁",
+        "count": 2
+      },
+      {
+        "word": "징역",
+        "count": 1
+      },
+      {
+        "word": "개월",
+        "count": 1
+      },
+      {
+        "word": "구형",
+        "count": 1
+      },
+      {
+        "word": "여론조사",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "태평양사령부",
+        "count": 2
+      },
+      {
+        "word": "복원",
+        "count": 2
+      },
+      {
+        "word": "원유수출",
+        "count": 1
+      },
+      {
+        "word": "동결자산",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "허영만",
+        "count": 1
+      },
+      {
+        "word": "대외활동",
+        "count": 1
+      },
+      {
+        "word": "중단",
+        "count": 1
+      },
+      {
+        "word": "건강문제로",
+        "count": 1
+      },
+      {
+        "word": "백반기행",
+        "count": 1
+      }
+    ]
   }
 }
