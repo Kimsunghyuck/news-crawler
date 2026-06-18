@@ -1,13 +1,220 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T10:17:13.024540+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-18T16:48:25.707773+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "선관위",
+      "count": 3
+    },
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "시즌",
+      "count": 2
+    },
+    {
+      "word": "케인",
+      "count": 2
+    },
+    {
+      "word": "서명",
+      "count": 2
+    },
+    {
+      "word": "상원",
+      "count": 2
+    },
+    {
+      "word": "황금",
+      "count": 2
+    },
+    {
+      "word": "사태",
+      "count": 2
+    },
+    {
+      "word": "반도체가",
+      "count": 2
+    },
+    {
+      "word": "메뉴",
+      "count": 2
+    },
+    {
+      "word": "일간",
+      "count": 2
+    },
+    {
+      "word": "폭염주의보",
+      "count": 2
+    },
+    {
+      "word": "처벌",
+      "count": 2
+    },
+    {
+      "word": "사퇴",
+      "count": 2
+    },
+    {
+      "word": "입원",
+      "count": 2
+    },
+    {
+      "word": "단식",
+      "count": 2
+    },
+    {
+      "word": "대응",
+      "count": 2
+    },
+    {
+      "word": "이정현",
+      "count": 1
+    },
+    {
+      "word": "허훈",
+      "count": 1
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "선관위",
+        "count": 3
+      },
+      {
+        "word": "장동혁",
+        "count": 3
+      },
+      {
+        "word": "사퇴",
+        "count": 2
+      },
+      {
+        "word": "입원",
+        "count": 2
+      },
+      {
+        "word": "단식",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "시즌",
+        "count": 2
+      },
+      {
+        "word": "케인",
+        "count": 2
+      },
+      {
+        "word": "이정현",
+        "count": 1
+      },
+      {
+        "word": "허훈",
+        "count": 1
+      },
+      {
+        "word": "넘어섰다",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "체코",
+        "count": 1
+      },
+      {
+        "word": "원전",
+        "count": 1
+      },
+      {
+        "word": "계약",
+        "count": 1
+      },
+      {
+        "word": "주년",
+        "count": 1
+      },
+      {
+        "word": "코리아",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "처벌",
+        "count": 2
+      },
+      {
+        "word": "서울에",
+        "count": 1
+      },
+      {
+        "word": "올여름",
+        "count": 1
+      },
+      {
+        "word": "폭염주의보",
+        "count": 1
+      },
+      {
+        "word": "내일도",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "상원",
+        "count": 2
+      },
+      {
+        "word": "종전",
+        "count": 1
+      },
+      {
+        "word": "서명",
+        "count": 1
+      },
+      {
+        "word": "스위스",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "남궁민",
+        "count": 1
+      },
+      {
+        "word": "진아름",
+        "count": 1
+      },
+      {
+        "word": "부모된다",
+        "count": 1
+      },
+      {
+        "word": "결혼",
+        "count": 1
+      },
+      {
+        "word": "만에",
+        "count": 1
+      }
+    ]
   }
 }
