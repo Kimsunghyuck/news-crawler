@@ -1,13 +1,220 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T10:23:37.169774+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-19T17:00:02.236173+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "유럽",
+      "count": 3
+    },
+    {
+      "word": "투수",
+      "count": 2
+    },
+    {
+      "word": "멕시코전",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "주년",
+      "count": 2
+    },
+    {
+      "word": "공격",
+      "count": 2
+    },
+    {
+      "word": "계약",
+      "count": 2
+    },
+    {
+      "word": "양정아",
+      "count": 2
+    },
+    {
+      "word": "모친상",
+      "count": 2
+    },
+    {
+      "word": "비보",
+      "count": 2
+    },
+    {
+      "word": "투병",
+      "count": 2
+    },
+    {
+      "word": "소식",
+      "count": 2
+    },
+    {
+      "word": "전한",
+      "count": 2
+    },
+    {
+      "word": "일만",
+      "count": 2
+    },
+    {
+      "word": "수사",
+      "count": 2
+    },
+    {
+      "word": "정청래",
+      "count": 2
+    },
+    {
+      "word": "선발",
+      "count": 1
+    },
+    {
+      "word": "기회",
+      "count": 1
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "정청래",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 1
+      },
+      {
+        "word": "군함",
+        "count": 1
+      },
+      {
+        "word": "빨리",
+        "count": 1
+      },
+      {
+        "word": "건조해",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "투수",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "선발",
+        "count": 1
+      },
+      {
+        "word": "기회",
+        "count": 1
+      },
+      {
+        "word": "장현식",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "유럽",
+        "count": 3
+      },
+      {
+        "word": "체코",
+        "count": 1
+      },
+      {
+        "word": "원전",
+        "count": 1
+      },
+      {
+        "word": "계약",
+        "count": 1
+      },
+      {
+        "word": "주년",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "수사",
+        "count": 2
+      },
+      {
+        "word": "괴사",
+        "count": 1
+      },
+      {
+        "word": "심해",
+        "count": 1
+      },
+      {
+        "word": "절단",
+        "count": 1
+      },
+      {
+        "word": "경찰",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "공격",
+        "count": 2
+      },
+      {
+        "word": "네팔",
+        "count": 1
+      },
+      {
+        "word": "에베레스트로",
+        "count": 1
+      },
+      {
+        "word": "돈방석",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "양정아",
+        "count": 2
+      },
+      {
+        "word": "모친상",
+        "count": 2
+      },
+      {
+        "word": "비보",
+        "count": 2
+      },
+      {
+        "word": "투병",
+        "count": 2
+      },
+      {
+        "word": "소식",
+        "count": 2
+      }
+    ]
   }
 }
