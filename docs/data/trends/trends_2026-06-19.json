@@ -1,13 +1,37 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T17:00:02.236173+09:00",
+  "generated_at": "2026-06-19T20:46:19.852903+09:00",
   "daily_top_keywords": [
     {
       "word": "한국",
-      "count": 4
+      "count": 6
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "주년",
+      "count": 5
     },
     {
       "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "노태악",
+      "count": 5
+    },
+    {
+      "word": "투수",
+      "count": 3
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "계약",
       "count": 3
     },
     {
@@ -15,117 +39,93 @@
       "count": 3
     },
     {
-      "word": "투수",
-      "count": 2
-    },
-    {
-      "word": "멕시코전",
-      "count": 2
-    },
-    {
-      "word": "대통령",
-      "count": 2
-    },
-    {
-      "word": "주년",
-      "count": 2
-    },
-    {
-      "word": "공격",
-      "count": 2
-    },
-    {
-      "word": "계약",
-      "count": 2
-    },
-    {
       "word": "양정아",
-      "count": 2
+      "count": 3
     },
     {
       "word": "모친상",
-      "count": 2
-    },
-    {
-      "word": "비보",
-      "count": 2
-    },
-    {
-      "word": "투병",
-      "count": 2
+      "count": 3
     },
     {
       "word": "소식",
-      "count": 2
+      "count": 3
     },
     {
       "word": "전한",
-      "count": 2
+      "count": 3
     },
     {
       "word": "일만",
-      "count": 2
+      "count": 3
     },
     {
       "word": "수사",
-      "count": 2
+      "count": 3
     },
     {
       "word": "정청래",
-      "count": 2
+      "count": 3
+    },
+    {
+      "word": "보완수사권",
+      "count": 3
+    },
+    {
+      "word": "정치",
+      "count": 3
     },
     {
       "word": "선발",
-      "count": 1
+      "count": 2
     },
     {
       "word": "기회",
-      "count": 1
+      "count": 2
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "노태악",
+        "count": 4
+      },
+      {
         "word": "정청래",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "트럼프",
-        "count": 1
+        "word": "보완수사권",
+        "count": 3
       },
       {
-        "word": "군함",
-        "count": 1
+        "word": "대통령",
+        "count": 3
       },
       {
-        "word": "빨리",
-        "count": 1
-      },
-      {
-        "word": "건조해",
-        "count": 1
+        "word": "정치",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "투수",
-        "count": 2
+        "count": 3
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 3
       },
       {
         "word": "선발",
-        "count": 1
+        "count": 2
       },
       {
         "word": "기회",
-        "count": 1
+        "count": 2
       },
       {
         "word": "장현식",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
@@ -135,19 +135,19 @@
       },
       {
         "word": "체코",
-        "count": 1
+        "count": 2
       },
       {
         "word": "원전",
-        "count": 1
+        "count": 2
       },
       {
         "word": "계약",
-        "count": 1
+        "count": 2
       },
       {
         "word": "주년",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
@@ -156,64 +156,64 @@
         "count": 2
       },
       {
-        "word": "괴사",
-        "count": 1
+        "word": "연어",
+        "count": 2
       },
       {
-        "word": "심해",
-        "count": 1
+        "word": "술자리",
+        "count": 2
       },
       {
-        "word": "절단",
-        "count": 1
+        "word": "위증",
+        "count": 2
       },
       {
-        "word": "경찰",
-        "count": 1
+        "word": "이화영검찰",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 2
-      },
-      {
-        "word": "공격",
-        "count": 2
+        "count": 4
       },
       {
         "word": "네팔",
-        "count": 1
+        "count": 2
       },
       {
         "word": "에베레스트로",
-        "count": 1
+        "count": 2
       },
       {
         "word": "돈방석",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "등반료",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "양정아",
-        "count": 2
+        "count": 3
       },
       {
         "word": "모친상",
-        "count": 2
-      },
-      {
-        "word": "비보",
-        "count": 2
-      },
-      {
-        "word": "투병",
-        "count": 2
+        "count": 3
       },
       {
         "word": "소식",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "전한",
+        "count": 3
+      },
+      {
+        "word": "일만",
+        "count": 3
       }
     ]
   }
