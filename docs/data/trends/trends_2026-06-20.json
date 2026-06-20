@@ -1,181 +1,189 @@
 {
   "date": "2026-06-20",
-  "generated_at": "2026-06-20T16:21:34.294506+09:00",
+  "generated_at": "2026-06-20T20:02:20.733531+09:00",
   "daily_top_keywords": [
     {
+      "word": "김용범",
+      "count": 6
+    },
+    {
       "word": "부동산",
-      "count": 5
+      "count": 6
     },
     {
       "word": "한국",
-      "count": 4
+      "count": 5
     },
     {
       "word": "월드컵",
-      "count": 4
-    },
-    {
-      "word": "김용범",
-      "count": 4
-    },
-    {
-      "word": "퇴장",
-      "count": 3
-    },
-    {
-      "word": "파라과이",
-      "count": 3
-    },
-    {
-      "word": "다시",
-      "count": 3
-    },
-    {
-      "word": "반도체",
-      "count": 3
-    },
-    {
-      "word": "한동훈",
-      "count": 3
-    },
-    {
-      "word": "양도세",
-      "count": 3
-    },
-    {
-      "word": "간다",
-      "count": 2
-    },
-    {
-      "word": "최악",
-      "count": 2
-    },
-    {
-      "word": "여전히",
-      "count": 2
-    },
-    {
-      "word": "가장",
-      "count": 2
-    },
-    {
-      "word": "이정후",
-      "count": 2
-    },
-    {
-      "word": "결장",
-      "count": 2
-    },
-    {
-      "word": "가리고",
-      "count": 2
-    },
-    {
-      "word": "메시",
-      "count": 2
+      "count": 5
     },
     {
       "word": "사망",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "반도체",
+      "count": 5
+    },
+    {
+      "word": "양도세",
+      "count": 5
+    },
+    {
+      "word": "퇴장",
+      "count": 4
+    },
+    {
+      "word": "파라과이",
+      "count": 4
+    },
+    {
+      "word": "다시",
+      "count": 4
+    },
+    {
+      "word": "결장",
+      "count": 4
     },
     {
       "word": "방송",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "없어",
+      "count": 4
+    },
+    {
+      "word": "수도",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "배우",
+      "count": 4
+    },
+    {
+      "word": "홍보대사",
+      "count": 4
+    },
+    {
+      "word": "문화유산",
+      "count": 4
+    },
+    {
+      "word": "강원",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "부동산",
-        "count": 5
-      },
-      {
         "word": "김용범",
-        "count": 4
+        "count": 6
       },
       {
-        "word": "한동훈",
-        "count": 3
+        "word": "부동산",
+        "count": 6
       },
       {
         "word": "양도세",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "북한",
-        "count": 2
+        "word": "한동훈",
+        "count": 4
+      },
+      {
+        "word": "보유",
+        "count": 4
       }
     ],
     "sports": [
       {
+        "word": "결장",
+        "count": 4
+      },
+      {
         "word": "퇴장",
-        "count": 2
+        "count": 3
       },
       {
         "word": "파라과이",
-        "count": 2
+        "count": 3
       },
       {
         "word": "이정후",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "결장",
+        "word": "안타",
         "count": 2
-      },
-      {
-        "word": "남아공에",
-        "count": 1
       }
     ],
     "economy": [
+      {
+        "word": "최대",
+        "count": 4
+      },
+      {
+        "word": "배민",
+        "count": 3
+      },
       {
         "word": "사라",
         "count": 2
       },
       {
-        "word": "배민",
+        "word": "코스피",
         "count": 2
       },
       {
-        "word": "최대",
+        "word": "만든",
         "count": 2
-      },
-      {
-        "word": "염블리",
-        "count": 1
-      },
-      {
-        "word": "직장인",
-        "count": 1
       }
     ],
     "society": [
+      {
+        "word": "강원",
+        "count": 4
+      },
+      {
+        "word": "이화영",
+        "count": 3
+      },
+      {
+        "word": "통제",
+        "count": 3
+      },
       {
         "word": "충격",
         "count": 2
       },
       {
-        "word": "뒤집은",
+        "word": "나무",
         "count": 2
-      },
-      {
-        "word": "이화영",
-        "count": 2
-      },
-      {
-        "word": "강원",
-        "count": 2
-      },
-      {
-        "word": "히잡",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "쿠바",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "사망",
+        "count": 3
+      },
+      {
+        "word": "이란",
+        "count": 3
       },
       {
         "word": "봉쇄",
@@ -184,36 +192,28 @@
       {
         "word": "월드컵",
         "count": 2
-      },
-      {
-        "word": "폴란드",
-        "count": 2
-      },
-      {
-        "word": "최고",
-        "count": 1
       }
     ],
     "culture": [
       {
-        "word": "한국",
-        "count": 2
-      },
-      {
-        "word": "국중박",
-        "count": 2
-      },
-      {
-        "word": "됐다",
-        "count": 2
-      },
-      {
         "word": "홍보대사",
-        "count": 2
+        "count": 4
       },
       {
         "word": "문화유산",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "국중박",
+        "count": 3
+      },
+      {
+        "word": "됐다",
+        "count": 3
       }
     ]
   }
