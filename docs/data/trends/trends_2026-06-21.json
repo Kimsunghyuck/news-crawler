@@ -1,219 +1,219 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T16:46:44.419665+09:00",
+  "generated_at": "2026-06-21T20:17:54.721481+09:00",
   "daily_top_keywords": [
     {
       "word": "이란",
+      "count": 8
+    },
+    {
+      "word": "정청래",
+      "count": 5
+    },
+    {
+      "word": "홈런",
+      "count": 4
+    },
+    {
+      "word": "만에",
       "count": 4
     },
     {
       "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "복귀",
       "count": 3
     },
     {
-      "word": "월드컵",
-      "count": 2
-    },
-    {
       "word": "번째",
-      "count": 2
+      "count": 3
     },
     {
       "word": "탈출",
-      "count": 2
+      "count": 3
+    },
+    {
+      "word": "우승",
+      "count": 3
+    },
+    {
+      "word": "시즌",
+      "count": 3
+    },
+    {
+      "word": "데뷔",
+      "count": 3
     },
     {
       "word": "스위스",
-      "count": 2
+      "count": 3
     },
     {
       "word": "호르무즈",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "출시",
-      "count": 2
+      "word": "년차",
+      "count": 3
+    },
+    {
+      "word": "박혜경",
+      "count": 3
+    },
+    {
+      "word": "조심하세요",
+      "count": 3
+    },
+    {
+      "word": "몰던",
+      "count": 3
+    },
+    {
+      "word": "인도",
+      "count": 3
     },
     {
       "word": "한찬식",
-      "count": 2
-    },
-    {
-      "word": "블랙리스트",
-      "count": 2
+      "count": 3
     },
     {
       "word": "수사",
-      "count": 2
-    },
-    {
-      "word": "출신",
-      "count": 2
-    },
-    {
-      "word": "정청래",
-      "count": 2
-    },
-    {
-      "word": "민주당",
-      "count": 2
-    },
-    {
-      "word": "정권",
-      "count": 2
-    },
-    {
-      "word": "이정후",
-      "count": 1
-    },
-    {
-      "word": "타수",
-      "count": 1
-    },
-    {
-      "word": "안타",
-      "count": 1
-    },
-    {
-      "word": "타격",
-      "count": 1
-    },
-    {
-      "word": "선두와",
-      "count": 1
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "정청래",
-        "count": 2
+        "count": 5
       },
       {
         "word": "민주당",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "장동혁",
+        "count": 3
+      },
+      {
+        "word": "김민석",
+        "count": 3
       },
       {
         "word": "정권",
-        "count": 2
-      },
-      {
-        "word": "송영길",
-        "count": 1
-      },
-      {
-        "word": "직격",
-        "count": 1
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "월드컵",
-        "count": 2
+        "word": "홈런",
+        "count": 4
       },
       {
-        "word": "번째",
-        "count": 2
+        "word": "우승",
+        "count": 3
+      },
+      {
+        "word": "시즌",
+        "count": 3
       },
       {
         "word": "이정후",
-        "count": 1
+        "count": 2
       },
       {
         "word": "타수",
-        "count": 1
-      },
-      {
-        "word": "안타",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "출시",
+        "word": "에티오피아",
         "count": 2
       },
       {
-        "word": "에티오피아",
-        "count": 1
-      },
-      {
         "word": "참전용사",
-        "count": 1
+        "count": 2
       },
       {
         "word": "후손",
-        "count": 1
+        "count": 2
       },
       {
         "word": "방한",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "지원",
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "몰던",
+        "count": 3
+      },
+      {
+        "word": "인도",
+        "count": 3
+      },
+      {
         "word": "남짓",
-        "count": 1
+        "count": 2
       },
       {
         "word": "방에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "명씩",
-        "count": 1
-      },
-      {
-        "word": "전쟁터",
-        "count": 1
-      },
-      {
-        "word": "청주여자교도소",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 4
+        "count": 8
       },
       {
         "word": "스위스",
+        "count": 3
+      },
+      {
+        "word": "호르무즈",
         "count": 2
       },
       {
-        "word": "젓갈",
-        "count": 1
+        "word": "갇혔던",
+        "count": 2
       },
       {
-        "word": "즐기는",
-        "count": 1
-      },
-      {
-        "word": "실향민",
-        "count": 1
+        "word": "선원들모두",
+        "count": 2
       }
     ],
     "culture": [
       {
+        "word": "박혜경",
+        "count": 3
+      },
+      {
         "word": "오정세",
-        "count": 1
+        "count": 2
       },
       {
         "word": "챌린지",
-        "count": 1
+        "count": 2
       },
       {
         "word": "열풍",
-        "count": 1
+        "count": 2
       },
       {
         "word": "탔다",
-        "count": 1
-      },
-      {
-        "word": "와일드",
-        "count": 1
+        "count": 2
       }
     ]
   }
