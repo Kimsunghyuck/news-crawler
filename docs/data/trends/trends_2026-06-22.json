@@ -1,13 +1,45 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T16:58:50.934545+09:00",
+  "generated_at": "2026-06-22T21:15:06.370448+09:00",
   "daily_top_keywords": [
+    {
+      "word": "논란",
+      "count": 6
+    },
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "때문에",
+      "count": 5
+    },
+    {
+      "word": "총리",
+      "count": 5
+    },
+    {
+      "word": "징역",
+      "count": 5
+    },
     {
       "word": "경기",
       "count": 4
     },
     {
-      "word": "만에",
+      "word": "출산",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "회담",
+      "count": 4
+    },
+    {
+      "word": "스타머",
       "count": 4
     },
     {
@@ -15,105 +47,77 @@
       "count": 4
     },
     {
-      "word": "논란",
-      "count": 3
+      "word": "콘서트",
+      "count": 4
     },
     {
-      "word": "때문에",
-      "count": 3
+      "word": "박성재",
+      "count": 4
     },
     {
-      "word": "징역",
-      "count": 3
+      "word": "계엄",
+      "count": 4
     },
     {
-      "word": "정청래",
-      "count": 3
+      "word": "지지율",
+      "count": 4
     },
     {
       "word": "심판",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "남아공전",
-      "count": 2
+      "word": "취임",
+      "count": 3
     },
     {
-      "word": "인구",
-      "count": 2
+      "word": "년만에",
+      "count": 3
     },
     {
-      "word": "기적",
-      "count": 2
+      "word": "사임",
+      "count": 3
     },
     {
-      "word": "우루과이와",
-      "count": 2
-    },
-    {
-      "word": "무승부",
-      "count": 2
-    },
-    {
-      "word": "최대",
-      "count": 2
-    },
-    {
-      "word": "변수",
-      "count": 2
-    },
-    {
-      "word": "이란",
-      "count": 2
-    },
-    {
-      "word": "동료",
-      "count": 2
-    },
-    {
-      "word": "회담",
-      "count": 2
-    },
-    {
-      "word": "기업",
-      "count": 2
-    },
-    {
-      "word": "겨냥",
-      "count": 2
+      "word": "반도체",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "지지율",
+        "count": 4
+      },
+      {
+        "word": "철책",
+        "count": 3
+      },
+      {
         "word": "정청래",
         "count": 3
       },
       {
-        "word": "철책",
-        "count": 2
+        "word": "부정평가",
+        "count": 3
       },
       {
-        "word": "코앞까지",
-        "count": 2
-      },
-      {
-        "word": "김민석",
-        "count": 2
-      },
-      {
-        "word": "지지율",
-        "count": 2
+        "word": "정부",
+        "count": 3
       }
     ],
     "sports": [
+      {
+        "word": "논란",
+        "count": 4
+      },
       {
         "word": "경기",
         "count": 3
       },
       {
         "word": "심판",
-        "count": 2
+        "count": 3
       },
       {
         "word": "남아공전",
@@ -122,98 +126,94 @@
       {
         "word": "만에",
         "count": 2
-      },
-      {
-        "word": "논란",
-        "count": 2
       }
     ],
     "economy": [
+      {
+        "word": "삼전닉스",
+        "count": 3
+      },
       {
         "word": "간다",
         "count": 2
       },
       {
-        "word": "짧게",
-        "count": 1
+        "word": "쏠림",
+        "count": 2
       },
       {
-        "word": "일하고",
-        "count": 1
+        "word": "심화",
+        "count": 2
       },
       {
-        "word": "돈도",
-        "count": 1
-      },
-      {
-        "word": "짭짤",
-        "count": 1
+        "word": "거래량",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "징역",
+        "count": 5
+      },
+      {
+        "word": "박성재",
+        "count": 4
+      },
+      {
+        "word": "법정구속",
+        "count": 3
+      },
+      {
+        "word": "가담",
         "count": 3
       },
       {
         "word": "남성",
         "count": 2
-      },
-      {
-        "word": "박성재",
-        "count": 2
-      },
-      {
-        "word": "법정구속",
-        "count": 2
-      },
-      {
-        "word": "가담",
-        "count": 2
       }
     ],
     "international": [
+      {
+        "word": "이란",
+        "count": 4
+      },
+      {
+        "word": "스타머",
+        "count": 4
+      },
+      {
+        "word": "총리",
+        "count": 4
+      },
       {
         "word": "트럼프",
         "count": 4
       },
       {
-        "word": "이란",
-        "count": 2
-      },
-      {
-        "word": "기업",
-        "count": 2
-      },
-      {
-        "word": "겨냥",
-        "count": 2
-      },
-      {
-        "word": "비협조",
-        "count": 2
+        "word": "년만에",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "서울시스터즈",
-        "count": 1
+        "word": "세계에",
+        "count": 3
       },
       {
-        "word": "가수",
-        "count": 1
+        "word": "알린다",
+        "count": 3
       },
       {
-        "word": "옥희",
-        "count": 1
+        "word": "콘서트",
+        "count": 3
       },
       {
-        "word": "신장암",
-        "count": 1
+        "word": "국중박과",
+        "count": 2
       },
       {
-        "word": "투병",
-        "count": 1
+        "word": "함께",
+        "count": 2
       }
     ]
   }
