@@ -1,13 +1,220 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T10:20:11.057946+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-22T16:58:50.934545+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "경기",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "논란",
+      "count": 3
+    },
+    {
+      "word": "때문에",
+      "count": 3
+    },
+    {
+      "word": "징역",
+      "count": 3
+    },
+    {
+      "word": "정청래",
+      "count": 3
+    },
+    {
+      "word": "심판",
+      "count": 2
+    },
+    {
+      "word": "남아공전",
+      "count": 2
+    },
+    {
+      "word": "인구",
+      "count": 2
+    },
+    {
+      "word": "기적",
+      "count": 2
+    },
+    {
+      "word": "우루과이와",
+      "count": 2
+    },
+    {
+      "word": "무승부",
+      "count": 2
+    },
+    {
+      "word": "최대",
+      "count": 2
+    },
+    {
+      "word": "변수",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "동료",
+      "count": 2
+    },
+    {
+      "word": "회담",
+      "count": 2
+    },
+    {
+      "word": "기업",
+      "count": 2
+    },
+    {
+      "word": "겨냥",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "정청래",
+        "count": 3
+      },
+      {
+        "word": "철책",
+        "count": 2
+      },
+      {
+        "word": "코앞까지",
+        "count": 2
+      },
+      {
+        "word": "김민석",
+        "count": 2
+      },
+      {
+        "word": "지지율",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "경기",
+        "count": 3
+      },
+      {
+        "word": "심판",
+        "count": 2
+      },
+      {
+        "word": "남아공전",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "논란",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "간다",
+        "count": 2
+      },
+      {
+        "word": "짧게",
+        "count": 1
+      },
+      {
+        "word": "일하고",
+        "count": 1
+      },
+      {
+        "word": "돈도",
+        "count": 1
+      },
+      {
+        "word": "짭짤",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "징역",
+        "count": 3
+      },
+      {
+        "word": "남성",
+        "count": 2
+      },
+      {
+        "word": "박성재",
+        "count": 2
+      },
+      {
+        "word": "법정구속",
+        "count": 2
+      },
+      {
+        "word": "가담",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "기업",
+        "count": 2
+      },
+      {
+        "word": "겨냥",
+        "count": 2
+      },
+      {
+        "word": "비협조",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "서울시스터즈",
+        "count": 1
+      },
+      {
+        "word": "가수",
+        "count": 1
+      },
+      {
+        "word": "옥희",
+        "count": 1
+      },
+      {
+        "word": "신장암",
+        "count": 1
+      },
+      {
+        "word": "투병",
+        "count": 1
+      }
+    ]
   }
 }
