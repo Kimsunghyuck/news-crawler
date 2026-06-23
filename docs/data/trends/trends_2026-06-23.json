@@ -1,13 +1,220 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T10:09:18.110115+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-23T16:22:44.862233+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "선관위",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "오타니",
+      "count": 2
+    },
+    {
+      "word": "억원",
+      "count": 2
+    },
+    {
+      "word": "시끌",
+      "count": 2
+    },
+    {
+      "word": "백악관",
+      "count": 2
+    },
+    {
+      "word": "공화당",
+      "count": 2
+    },
+    {
+      "word": "균열",
+      "count": 2
+    },
+    {
+      "word": "구글",
+      "count": 2
+    },
+    {
+      "word": "시동",
+      "count": 2
+    },
+    {
+      "word": "아이비",
+      "count": 2
+    },
+    {
+      "word": "브로드웨이",
+      "count": 2
+    },
+    {
+      "word": "경찰",
+      "count": 2
+    },
+    {
+      "word": "검찰",
+      "count": 2
+    },
+    {
+      "word": "국민",
+      "count": 2
+    },
+    {
+      "word": "한동훈",
+      "count": 2
+    },
+    {
+      "word": "무능은",
+      "count": 2
+    },
+    {
+      "word": "뇌물",
+      "count": 2
+    },
+    {
+      "word": "낫다",
+      "count": 2
+    },
+    {
+      "word": "아빠의",
+      "count": 1
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "선관위",
+        "count": 4
+      },
+      {
+        "word": "한동훈",
+        "count": 2
+      },
+      {
+        "word": "무능은",
+        "count": 2
+      },
+      {
+        "word": "뇌물",
+        "count": 2
+      },
+      {
+        "word": "낫다",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "오타니",
+        "count": 2
+      },
+      {
+        "word": "아빠의",
+        "count": 1
+      },
+      {
+        "word": "힘인가",
+        "count": 1
+      },
+      {
+        "word": "비거리",
+        "count": 1
+      },
+      {
+        "word": "초대형",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "구글",
+        "count": 2
+      },
+      {
+        "word": "시동",
+        "count": 2
+      },
+      {
+        "word": "집은",
+        "count": 1
+      },
+      {
+        "word": "필수재",
+        "count": 1
+      },
+      {
+        "word": "보유세는",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "경찰",
+        "count": 2
+      },
+      {
+        "word": "한국전",
+        "count": 1
+      },
+      {
+        "word": "참전용사들과",
+        "count": 1
+      },
+      {
+        "word": "인연",
+        "count": 1
+      },
+      {
+        "word": "일렉트릭",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "백악관",
+        "count": 2
+      },
+      {
+        "word": "공화당",
+        "count": 2
+      },
+      {
+        "word": "균열",
+        "count": 2
+      },
+      {
+        "word": "성폭행범",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "아이비",
+        "count": 2
+      },
+      {
+        "word": "브로드웨이",
+        "count": 2
+      },
+      {
+        "word": "시카고",
+        "count": 1
+      },
+      {
+        "word": "록시로",
+        "count": 1
+      },
+      {
+        "word": "선다",
+        "count": 1
+      }
+    ]
   }
 }
