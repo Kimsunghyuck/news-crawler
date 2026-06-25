@@ -1,13 +1,220 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T10:03:38.729704+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-25T16:19:50.328759+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "총리",
+      "count": 3
+    },
+    {
+      "word": "오찬",
+      "count": 3
+    },
+    {
+      "word": "보완수사권",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "손흥민",
+      "count": 2
+    },
+    {
+      "word": "역대",
+      "count": 2
+    },
+    {
+      "word": "최악",
+      "count": 2
+    },
+    {
+      "word": "최대",
+      "count": 2
+    },
+    {
+      "word": "탈출",
+      "count": 2
+    },
+    {
+      "word": "넘어",
+      "count": 2
+    },
+    {
+      "word": "치료",
+      "count": 2
+    },
+    {
+      "word": "나는",
+      "count": 2
+    },
+    {
+      "word": "이근",
+      "count": 2
+    },
+    {
+      "word": "대위",
+      "count": 2
+    },
+    {
+      "word": "구제역",
+      "count": 2
+    },
+    {
+      "word": "감형",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "의원",
+      "count": 2
+    },
+    {
+      "word": "무죄",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "오찬",
+        "count": 3
+      },
+      {
+        "word": "보완수사권",
+        "count": 3
+      },
+      {
+        "word": "총리",
+        "count": 2
+      },
+      {
+        "word": "폐지",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "역대",
+        "count": 2
+      },
+      {
+        "word": "오타니",
+        "count": 1
+      },
+      {
+        "word": "포수와",
+        "count": 1
+      },
+      {
+        "word": "불협화음에도",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "삼성과",
+        "count": 1
+      },
+      {
+        "word": "최대",
+        "count": 1
+      },
+      {
+        "word": "광주",
+        "count": 1
+      },
+      {
+        "word": "전남에",
+        "count": 1
+      },
+      {
+        "word": "투자해",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "이근",
+        "count": 2
+      },
+      {
+        "word": "대위",
+        "count": 2
+      },
+      {
+        "word": "구제역",
+        "count": 2
+      },
+      {
+        "word": "감형",
+        "count": 2
+      },
+      {
+        "word": "의혹",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "열사병",
+        "count": 1
+      },
+      {
+        "word": "아닌",
+        "count": 1
+      },
+      {
+        "word": "익사자",
+        "count": 1
+      },
+      {
+        "word": "수십명",
+        "count": 1
+      },
+      {
+        "word": "프랑스인",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "나는",
+        "count": 2
+      },
+      {
+        "word": "통일되면",
+        "count": 1
+      },
+      {
+        "word": "다시",
+        "count": 1
+      },
+      {
+        "word": "만나자",
+        "count": 1
+      },
+      {
+        "word": "차례",
+        "count": 1
+      }
+    ]
   }
 }
