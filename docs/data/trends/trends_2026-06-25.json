@@ -1,13 +1,57 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T16:19:50.328759+09:00",
+  "generated_at": "2026-06-25T20:11:16.552109+09:00",
   "daily_top_keywords": [
     {
       "word": "대통령",
-      "count": 4
+      "count": 6
     },
     {
       "word": "총리",
+      "count": 6
+    },
+    {
+      "word": "지원",
+      "count": 4
+    },
+    {
+      "word": "한성숙",
+      "count": 4
+    },
+    {
+      "word": "보완수사권",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "손흥민",
+      "count": 3
+    },
+    {
+      "word": "최악",
+      "count": 3
+    },
+    {
+      "word": "전쟁",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "의원",
+      "count": 3
+    },
+    {
+      "word": "나는",
+      "count": 3
+    },
+    {
+      "word": "기념사",
       "count": 3
     },
     {
@@ -15,71 +59,27 @@
       "count": 3
     },
     {
-      "word": "보완수사권",
-      "count": 3
-    },
-    {
-      "word": "한국",
+      "word": "오타니",
       "count": 2
     },
     {
-      "word": "손흥민",
+      "word": "포수와",
       "count": 2
     },
     {
-      "word": "역대",
+      "word": "이닝",
       "count": 2
     },
     {
-      "word": "최악",
+      "word": "자책",
       "count": 2
     },
     {
-      "word": "최대",
+      "word": "호투",
       "count": 2
     },
     {
-      "word": "탈출",
-      "count": 2
-    },
-    {
-      "word": "넘어",
-      "count": 2
-    },
-    {
-      "word": "치료",
-      "count": 2
-    },
-    {
-      "word": "나는",
-      "count": 2
-    },
-    {
-      "word": "이근",
-      "count": 2
-    },
-    {
-      "word": "대위",
-      "count": 2
-    },
-    {
-      "word": "구제역",
-      "count": 2
-    },
-    {
-      "word": "감형",
-      "count": 2
-    },
-    {
-      "word": "의혹",
-      "count": 2
-    },
-    {
-      "word": "의원",
-      "count": 2
-    },
-    {
-      "word": "무죄",
+      "word": "김하성",
       "count": 2
     }
   ],
@@ -87,70 +87,78 @@
     "politics": [
       {
         "word": "대통령",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "오찬",
-        "count": 3
-      },
-      {
-        "word": "보완수사권",
-        "count": 3
+        "word": "한성숙",
+        "count": 4
       },
       {
         "word": "총리",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "폐지",
-        "count": 2
+        "word": "보완수사권",
+        "count": 4
+      },
+      {
+        "word": "기념사",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "손흥민",
-        "count": 2
-      },
-      {
-        "word": "역대",
-        "count": 2
-      },
-      {
         "word": "오타니",
-        "count": 1
+        "count": 2
       },
       {
         "word": "포수와",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "불협화음에도",
-        "count": 1
+        "word": "이닝",
+        "count": 2
+      },
+      {
+        "word": "자책",
+        "count": 2
+      },
+      {
+        "word": "호투",
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "삼성과",
-        "count": 1
+        "word": "삼전닉스",
+        "count": 2
       },
       {
-        "word": "최대",
-        "count": 1
+        "word": "오를",
+        "count": 2
       },
       {
-        "word": "광주",
-        "count": 1
+        "word": "코스피",
+        "count": 2
       },
       {
-        "word": "전남에",
-        "count": 1
+        "word": "종목",
+        "count": 2
       },
       {
-        "word": "투자해",
-        "count": 1
+        "word": "떨어져",
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "지원",
+        "count": 3
+      },
+      {
+        "word": "선거공보물",
+        "count": 2
+      },
       {
         "word": "이근",
         "count": 2
@@ -162,58 +170,50 @@
       {
         "word": "구제역",
         "count": 2
-      },
-      {
-        "word": "감형",
-        "count": 2
-      },
-      {
-        "word": "의혹",
-        "count": 2
       }
     ],
     "international": [
       {
-        "word": "열사병",
-        "count": 1
+        "word": "나토",
+        "count": 2
       },
       {
-        "word": "아닌",
-        "count": 1
+        "word": "정상회의",
+        "count": 2
       },
       {
-        "word": "익사자",
-        "count": 1
+        "word": "누가",
+        "count": 2
       },
       {
-        "word": "수십명",
-        "count": 1
+        "word": "가나체코",
+        "count": 2
       },
       {
-        "word": "프랑스인",
-        "count": 1
+        "word": "대통령",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "나는",
-        "count": 2
+        "count": 3
       },
       {
         "word": "통일되면",
-        "count": 1
+        "count": 2
       },
       {
         "word": "다시",
-        "count": 1
+        "count": 2
       },
       {
         "word": "만나자",
-        "count": 1
+        "count": 2
       },
       {
         "word": "차례",
-        "count": 1
+        "count": 2
       }
     ]
   }
