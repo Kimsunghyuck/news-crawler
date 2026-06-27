@@ -1,13 +1,220 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T10:09:44.206391+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-27T16:13:46.995929+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "전쟁",
+      "count": 3
+    },
+    {
+      "word": "벼랑",
+      "count": 2
+    },
+    {
+      "word": "이란에",
+      "count": 2
+    },
+    {
+      "word": "추락",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "감독",
+      "count": 2
+    },
+    {
+      "word": "억원",
+      "count": 2
+    },
+    {
+      "word": "이유",
+      "count": 2
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "선박",
+      "count": 2
+    },
+    {
+      "word": "합의",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "실종",
+      "count": 2
+    },
+    {
+      "word": "영상",
+      "count": 2
+    },
+    {
+      "word": "주식",
+      "count": 2
+    },
+    {
+      "word": "김정관",
+      "count": 2
+    },
+    {
+      "word": "휘발유",
+      "count": 2
+    },
+    {
+      "word": "진입",
+      "count": 2
+    },
+    {
+      "word": "없어",
+      "count": 2
+    },
+    {
+      "word": "배우",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "홍익표",
+        "count": 1
+      },
+      {
+        "word": "오찬",
+        "count": 1
+      },
+      {
+        "word": "회동",
+        "count": 1
+      },
+      {
+        "word": "취임",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "벼랑",
+        "count": 2
+      },
+      {
+        "word": "추락",
+        "count": 2
+      },
+      {
+        "word": "감독",
+        "count": 2
+      },
+      {
+        "word": "야탑고",
+        "count": 1
+      },
+      {
+        "word": "개성고",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "주식",
+        "count": 2
+      },
+      {
+        "word": "김정관",
+        "count": 2
+      },
+      {
+        "word": "전쟁",
+        "count": 2
+      },
+      {
+        "word": "휘발유",
+        "count": 2
+      },
+      {
+        "word": "반복",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "내란",
+        "count": 2
+      },
+      {
+        "word": "아기",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "서강대교",
+        "count": 1
+      },
+      {
+        "word": "넘지말라",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "합의",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "전통의",
+        "count": 1
+      },
+      {
+        "word": "영어",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "배우",
+        "count": 2
+      },
+      {
+        "word": "울려퍼지는",
+        "count": 1
+      },
+      {
+        "word": "아리랑",
+        "count": 1
+      },
+      {
+        "word": "차트",
+        "count": 1
+      },
+      {
+        "word": "연속",
+        "count": 1
+      }
+    ]
   }
 }
