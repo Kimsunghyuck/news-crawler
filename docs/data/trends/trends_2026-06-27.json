@@ -1,219 +1,219 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T16:13:46.995929+09:00",
+  "generated_at": "2026-06-27T19:45:43.710577+09:00",
   "daily_top_keywords": [
     {
-      "word": "전쟁",
-      "count": 3
-    },
-    {
-      "word": "벼랑",
-      "count": 2
-    },
-    {
-      "word": "이란에",
-      "count": 2
-    },
-    {
-      "word": "추락",
-      "count": 2
+      "word": "대통령",
+      "count": 6
     },
     {
       "word": "한국",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "감독",
-      "count": 2
-    },
-    {
-      "word": "억원",
-      "count": 2
-    },
-    {
-      "word": "이유",
-      "count": 2
-    },
-    {
-      "word": "이란",
-      "count": 2
-    },
-    {
-      "word": "선박",
-      "count": 2
-    },
-    {
-      "word": "합의",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "실종",
-      "count": 2
-    },
-    {
-      "word": "영상",
-      "count": 2
+      "word": "전쟁",
+      "count": 5
     },
     {
       "word": "주식",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "돼지",
+      "count": 5
+    },
+    {
+      "word": "선두",
+      "count": 4
+    },
+    {
+      "word": "홍명보",
+      "count": 4
+    },
+    {
+      "word": "월드컵",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "선박",
+      "count": 4
+    },
+    {
+      "word": "합의",
+      "count": 4
+    },
+    {
+      "word": "실종",
+      "count": 4
+    },
+    {
+      "word": "영상",
+      "count": 4
     },
     {
       "word": "김정관",
-      "count": 2
+      "count": 4
     },
     {
       "word": "휘발유",
-      "count": 2
-    },
-    {
-      "word": "진입",
-      "count": 2
+      "count": 4
     },
     {
       "word": "없어",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "배우",
-      "count": 2
+      "word": "내란",
+      "count": 4
+    },
+    {
+      "word": "호남",
+      "count": 4
+    },
+    {
+      "word": "이게",
+      "count": 3
+    },
+    {
+      "word": "많이",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 2
+        "count": 6
       },
       {
-        "word": "홍익표",
-        "count": 1
+        "word": "돼지",
+        "count": 5
       },
       {
-        "word": "오찬",
-        "count": 1
+        "word": "눈엔",
+        "count": 3
       },
       {
-        "word": "회동",
-        "count": 1
+        "word": "투자",
+        "count": 3
       },
       {
-        "word": "취임",
-        "count": 1
+        "word": "호남",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "벼랑",
+        "word": "선두",
+        "count": 4
+      },
+      {
+        "word": "홍명보",
+        "count": 3
+      },
+      {
+        "word": "월드컵",
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "윤이나",
         "count": 2
-      },
-      {
-        "word": "추락",
-        "count": 2
-      },
-      {
-        "word": "감독",
-        "count": 2
-      },
-      {
-        "word": "야탑고",
-        "count": 1
-      },
-      {
-        "word": "개성고",
-        "count": 1
       }
     ],
     "economy": [
       {
         "word": "주식",
-        "count": 2
+        "count": 5
       },
       {
         "word": "김정관",
-        "count": 2
+        "count": 4
       },
       {
         "word": "전쟁",
-        "count": 2
+        "count": 4
       },
       {
         "word": "휘발유",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "반복",
-        "count": 1
+        "word": "외국인",
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "내란",
-        "count": 2
+        "count": 4
       },
       {
         "word": "아기",
+        "count": 3
+      },
+      {
+        "word": "재산",
         "count": 2
       },
       {
-        "word": "만원",
+        "word": "사망",
         "count": 2
       },
       {
         "word": "서강대교",
-        "count": 1
-      },
-      {
-        "word": "넘지말라",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 2
+        "count": 4
       },
       {
         "word": "합의",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "트럼프",
-        "count": 2
-      },
-      {
-        "word": "전통의",
-        "count": 1
+        "word": "만명",
+        "count": 3
       },
       {
         "word": "영어",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "대신",
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "배우",
+        "word": "장기하",
+        "count": 2
+      },
+      {
+        "word": "열애",
+        "count": 2
+      },
+      {
+        "word": "개관",
+        "count": 2
+      },
+      {
+        "word": "가수",
         "count": 2
       },
       {
         "word": "울려퍼지는",
-        "count": 1
-      },
-      {
-        "word": "아리랑",
-        "count": 1
-      },
-      {
-        "word": "차트",
-        "count": 1
-      },
-      {
-        "word": "연속",
-        "count": 1
+        "count": 2
       }
     ]
   }
