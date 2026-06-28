@@ -1,219 +1,219 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T16:22:52.595536+09:00",
+  "generated_at": "2026-06-28T19:52:09.596671+09:00",
   "daily_top_keywords": [
     {
-      "word": "한국",
-      "count": 5
+      "word": "월드컵",
+      "count": 12
     },
     {
       "word": "축구",
-      "count": 5
+      "count": 10
     },
     {
-      "word": "월드컵",
-      "count": 5
-    },
-    {
-      "word": "경기",
-      "count": 3
+      "word": "한국",
+      "count": 9
     },
     {
       "word": "홍명보",
-      "count": 3
+      "count": 8
     },
     {
-      "word": "감독",
-      "count": 3
+      "word": "탈락",
+      "count": 7
+    },
+    {
+      "word": "경기",
+      "count": 5
     },
     {
       "word": "홍명보호",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "최고",
+      "count": 5
     },
     {
       "word": "실패",
-      "count": 3
+      "count": 5
     },
     {
       "word": "반도체",
-      "count": 3
+      "count": 5
     },
     {
       "word": "주식",
-      "count": 3
+      "count": 5
     },
     {
       "word": "만원",
-      "count": 3
+      "count": 5
     },
     {
       "word": "최대",
-      "count": 3
+      "count": 5
     },
     {
       "word": "유해란",
-      "count": 2
+      "count": 4
     },
     {
       "word": "선두",
-      "count": 2
+      "count": 4
     },
     {
       "word": "윤이나",
-      "count": 2
-    },
-    {
-      "word": "없었다",
-      "count": 2
+      "count": 4
     },
     {
       "word": "아시아",
-      "count": 2
-    },
-    {
-      "word": "메시",
-      "count": 2
-    },
-    {
-      "word": "신기록",
-      "count": 2
+      "count": 4
     },
     {
       "word": "활약",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "최악",
+      "count": 4
+    },
+    {
+      "word": "감독",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "축구",
-        "count": 3
+        "count": 5
       },
       {
         "word": "장동혁",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "정청래",
+        "count": 3
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 3
       },
       {
         "word": "최대",
-        "count": 2
-      },
-      {
-        "word": "적은",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "경기",
-        "count": 3
+        "word": "월드컵",
+        "count": 7
       },
       {
-        "word": "월드컵",
-        "count": 3
+        "word": "경기",
+        "count": 5
       },
       {
         "word": "유해란",
-        "count": 2
+        "count": 4
       },
       {
         "word": "선두",
-        "count": 2
+        "count": 4
       },
       {
         "word": "윤이나",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "주식",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "삼성",
+        "count": 3
       },
       {
         "word": "아람코",
-        "count": 1
+        "count": 2
       },
       {
         "word": "울산",
-        "count": 1
+        "count": 2
       },
       {
         "word": "택했다",
-        "count": 1
-      },
-      {
-        "word": "판도",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "와인",
-        "count": 2
+        "word": "신천지",
+        "count": 4
       },
       {
-        "word": "만원",
-        "count": 2
+        "word": "이만희",
+        "count": 4
+      },
+      {
+        "word": "법원",
+        "count": 3
+      },
+      {
+        "word": "기각",
+        "count": 3
       },
       {
         "word": "대홍수",
-        "count": 1
-      },
-      {
-        "word": "극적",
-        "count": 1
-      },
-      {
-        "word": "생존",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "월드컵",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "홍명보",
+        "count": 3
       },
       {
         "word": "키옥시아",
-        "count": 2
+        "count": 3
       },
       {
         "word": "됐다",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "지칠",
-        "count": 1
-      },
-      {
-        "word": "때까지",
-        "count": 1
+        "word": "뉴욕",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "장기하",
-        "count": 1
+        "count": 2
       },
       {
         "word": "연하",
-        "count": 1
+        "count": 2
       },
       {
         "word": "윤가이와",
-        "count": 1
+        "count": 2
       },
       {
         "word": "열애",
-        "count": 1
+        "count": 2
       },
       {
         "word": "인정",
-        "count": 1
+        "count": 2
       }
     ]
   }
