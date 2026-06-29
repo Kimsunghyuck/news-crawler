@@ -1,180 +1,188 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T16:49:21.321217+09:00",
+  "generated_at": "2026-06-29T20:46:49.760594+09:00",
   "daily_top_keywords": [
     {
+      "word": "홍명보",
+      "count": 8
+    },
+    {
+      "word": "어떤",
+      "count": 5
+    },
+    {
+      "word": "사람",
+      "count": 5
+    },
+    {
+      "word": "추진",
+      "count": 5
+    },
+    {
+      "word": "반도체",
+      "count": 5
+    },
+    {
+      "word": "이재용",
+      "count": 5
+    },
+    {
       "word": "만에",
-      "count": 3
+      "count": 4
+    },
+    {
+      "word": "감독",
+      "count": 4
+    },
+    {
+      "word": "사퇴",
+      "count": 4
     },
     {
       "word": "베네수엘라",
+      "count": 4
+    },
+    {
+      "word": "투자",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "우승",
       "count": 3
     },
     {
-      "word": "강진",
+      "word": "캐나다",
+      "count": 3
+    },
+    {
+      "word": "경기",
       "count": 3
     },
     {
       "word": "기록",
-      "count": 2
-    },
-    {
-      "word": "감독",
-      "count": 2
-    },
-    {
-      "word": "홍명보",
-      "count": 2
-    },
-    {
-      "word": "어떤",
-      "count": 2
+      "count": 3
     },
     {
       "word": "없어",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "남편이",
-      "count": 2
-    },
-    {
-      "word": "사람",
-      "count": 2
+      "word": "만원",
+      "count": 3
     },
     {
       "word": "개최",
-      "count": 2
+      "count": 3
     },
     {
       "word": "맘다니",
-      "count": 2
-    },
-    {
-      "word": "만명",
-      "count": 2
-    },
-    {
-      "word": "가능",
-      "count": 2
-    },
-    {
-      "word": "국가",
-      "count": 2
-    },
-    {
-      "word": "추진",
-      "count": 2
-    },
-    {
-      "word": "역대",
-      "count": 2
-    },
-    {
-      "word": "다시",
-      "count": 2
-    },
-    {
-      "word": "종합특검",
-      "count": 2
-    },
-    {
-      "word": "김기현",
-      "count": 2
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "이재용",
+        "count": 4
+      },
+      {
+        "word": "최태원에",
+        "count": 3
+      },
+      {
         "word": "의총서",
-        "count": 1
+        "count": 3
       },
       {
         "word": "어떤",
-        "count": 1
+        "count": 3
       },
       {
-        "word": "결정하든",
-        "count": 1
-      },
-      {
-        "word": "나는",
-        "count": 1
-      },
-      {
-        "word": "사퇴하지",
-        "count": 1
+        "word": "사퇴",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "홍명보",
+        "count": 5
+      },
+      {
+        "word": "우승",
+        "count": 3
+      },
+      {
+        "word": "경기",
+        "count": 3
+      },
+      {
+        "word": "마시",
         "count": 2
       },
       {
-        "word": "개인",
-        "count": 1
-      },
-      {
-        "word": "최고",
-        "count": 1
-      },
-      {
-        "word": "성적에도",
-        "count": 1
-      },
-      {
-        "word": "준우승",
-        "count": 1
+        "word": "캐나다",
+        "count": 2
       }
     ],
     "economy": [
       {
+        "word": "투자",
+        "count": 3
+      },
+      {
+        "word": "반도체",
+        "count": 3
+      },
+      {
+        "word": "추진",
+        "count": 3
+      },
+      {
+        "word": "서남권에",
+        "count": 2
+      },
+      {
         "word": "메모리값",
-        "count": 1
-      },
-      {
-        "word": "급등에",
-        "count": 1
-      },
-      {
-        "word": "애플",
-        "count": 1
-      },
-      {
-        "word": "중국산",
-        "count": 1
-      },
-      {
-        "word": "도입",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "종합특검",
-        "count": 2
+        "count": 3
       },
       {
         "word": "김기현",
-        "count": 2
+        "count": 3
       },
       {
         "word": "권영진",
-        "count": 2
+        "count": 3
       },
       {
         "word": "입건",
-        "count": 2
+        "count": 3
       },
       {
         "word": "건진법사",
-        "count": 2
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "베네수엘라",
+        "count": 4
+      },
+      {
+        "word": "사람",
+        "count": 3
+      },
+      {
+        "word": "맘다니",
         "count": 3
       },
       {
@@ -182,38 +190,30 @@
         "count": 3
       },
       {
-        "word": "맘다니",
-        "count": 2
-      },
-      {
         "word": "살인",
-        "count": 1
-      },
-      {
-        "word": "폭염에도",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "만에",
+        "word": "소지섭",
+        "count": 3
+      },
+      {
+        "word": "그리운",
         "count": 2
       },
       {
-        "word": "보려고",
-        "count": 1
+        "word": "금강산",
+        "count": 2
       },
       {
-        "word": "갔는데",
-        "count": 1
+        "word": "작곡가",
+        "count": 2
       },
       {
-        "word": "파비앙",
-        "count": 1
-      },
-      {
-        "word": "쓰고",
-        "count": 1
+        "word": "최영섭",
+        "count": 2
       }
     ]
   }
