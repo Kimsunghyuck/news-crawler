@@ -1,13 +1,220 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T10:06:46.963781+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-29T16:49:21.321217+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "베네수엘라",
+      "count": 3
+    },
+    {
+      "word": "강진",
+      "count": 3
+    },
+    {
+      "word": "기록",
+      "count": 2
+    },
+    {
+      "word": "감독",
+      "count": 2
+    },
+    {
+      "word": "홍명보",
+      "count": 2
+    },
+    {
+      "word": "어떤",
+      "count": 2
+    },
+    {
+      "word": "없어",
+      "count": 2
+    },
+    {
+      "word": "남편이",
+      "count": 2
+    },
+    {
+      "word": "사람",
+      "count": 2
+    },
+    {
+      "word": "개최",
+      "count": 2
+    },
+    {
+      "word": "맘다니",
+      "count": 2
+    },
+    {
+      "word": "만명",
+      "count": 2
+    },
+    {
+      "word": "가능",
+      "count": 2
+    },
+    {
+      "word": "국가",
+      "count": 2
+    },
+    {
+      "word": "추진",
+      "count": 2
+    },
+    {
+      "word": "역대",
+      "count": 2
+    },
+    {
+      "word": "다시",
+      "count": 2
+    },
+    {
+      "word": "종합특검",
+      "count": 2
+    },
+    {
+      "word": "김기현",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "의총서",
+        "count": 1
+      },
+      {
+        "word": "어떤",
+        "count": 1
+      },
+      {
+        "word": "결정하든",
+        "count": 1
+      },
+      {
+        "word": "나는",
+        "count": 1
+      },
+      {
+        "word": "사퇴하지",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "홍명보",
+        "count": 2
+      },
+      {
+        "word": "개인",
+        "count": 1
+      },
+      {
+        "word": "최고",
+        "count": 1
+      },
+      {
+        "word": "성적에도",
+        "count": 1
+      },
+      {
+        "word": "준우승",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "메모리값",
+        "count": 1
+      },
+      {
+        "word": "급등에",
+        "count": 1
+      },
+      {
+        "word": "애플",
+        "count": 1
+      },
+      {
+        "word": "중국산",
+        "count": 1
+      },
+      {
+        "word": "도입",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "종합특검",
+        "count": 2
+      },
+      {
+        "word": "김기현",
+        "count": 2
+      },
+      {
+        "word": "권영진",
+        "count": 2
+      },
+      {
+        "word": "입건",
+        "count": 2
+      },
+      {
+        "word": "건진법사",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "베네수엘라",
+        "count": 3
+      },
+      {
+        "word": "강진",
+        "count": 3
+      },
+      {
+        "word": "맘다니",
+        "count": 2
+      },
+      {
+        "word": "살인",
+        "count": 1
+      },
+      {
+        "word": "폭염에도",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "보려고",
+        "count": 1
+      },
+      {
+        "word": "갔는데",
+        "count": 1
+      },
+      {
+        "word": "파비앙",
+        "count": 1
+      },
+      {
+        "word": "쓰고",
+        "count": 1
+      }
+    ]
   }
 }
