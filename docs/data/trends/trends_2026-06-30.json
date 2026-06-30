@@ -1,13 +1,220 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T10:03:03.884774+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-06-30T16:20:03.070600+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "삼전닉스",
+      "count": 4
+    },
+    {
+      "word": "일본",
+      "count": 3
+    },
+    {
+      "word": "월드컵",
+      "count": 3
+    },
+    {
+      "word": "광주",
+      "count": 3
+    },
+    {
+      "word": "호남",
+      "count": 3
+    },
+    {
+      "word": "반도체",
+      "count": 3
+    },
+    {
+      "word": "확대",
+      "count": 3
+    },
+    {
+      "word": "부제",
+      "count": 3
+    },
+    {
+      "word": "홍명보",
+      "count": 2
+    },
+    {
+      "word": "탈락",
+      "count": 2
+    },
+    {
+      "word": "우승",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "위는",
+      "count": 2
+    },
+    {
+      "word": "승부수",
+      "count": 2
+    },
+    {
+      "word": "사상",
+      "count": 2
+    },
+    {
+      "word": "하재훈",
+      "count": 2
+    },
+    {
+      "word": "방출",
+      "count": 2
+    },
+    {
+      "word": "레전드",
+      "count": 2
+    },
+    {
+      "word": "마감",
+      "count": 2
+    },
+    {
+      "word": "부품",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "부제",
+        "count": 3
+      },
+      {
+        "word": "호남",
+        "count": 2
+      },
+      {
+        "word": "장동혁",
+        "count": 2
+      },
+      {
+        "word": "우주발사체",
+        "count": 2
+      },
+      {
+        "word": "연기",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "하재훈",
+        "count": 2
+      },
+      {
+        "word": "방출",
+        "count": 2
+      },
+      {
+        "word": "정몽규",
+        "count": 1
+      },
+      {
+        "word": "홍명보",
+        "count": 1
+      },
+      {
+        "word": "이임생",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "삼전닉스",
+        "count": 3
+      },
+      {
+        "word": "광주",
+        "count": 2
+      },
+      {
+        "word": "반도체",
+        "count": 2
+      },
+      {
+        "word": "하루",
+        "count": 2
+      },
+      {
+        "word": "확대",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "장마",
+        "count": 2
+      },
+      {
+        "word": "이전",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 1
+      },
+      {
+        "word": "운세",
+        "count": 1
+      },
+      {
+        "word": "홍명보에",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "레전드",
+        "count": 2
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "페루",
+        "count": 2
+      },
+      {
+        "word": "후지모리",
+        "count": 2
+      },
+      {
+        "word": "말만",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "인정",
+        "count": 2
+      },
+      {
+        "word": "일부터",
+        "count": 2
+      },
+      {
+        "word": "어우동",
+        "count": 1
+      },
+      {
+        "word": "상영",
+        "count": 1
+      },
+      {
+        "word": "필름",
+        "count": 1
+      }
+    ]
   }
 }
