@@ -1,13 +1,220 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T10:07:46.747196+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-01T16:32:16.352781+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "일본",
+      "count": 4
+    },
+    {
+      "word": "진출",
+      "count": 4
+    },
+    {
+      "word": "된다",
+      "count": 3
+    },
+    {
+      "word": "성과급",
+      "count": 3
+    },
+    {
+      "word": "단합",
+      "count": 3
+    },
+    {
+      "word": "확장",
+      "count": 3
+    },
+    {
+      "word": "징계",
+      "count": 3
+    },
+    {
+      "word": "의원",
+      "count": 3
+    },
+    {
+      "word": "박수",
+      "count": 2
+    },
+    {
+      "word": "노르웨이",
+      "count": 2
+    },
+    {
+      "word": "호골",
+      "count": 2
+    },
+    {
+      "word": "홀란",
+      "count": 2
+    },
+    {
+      "word": "계약",
+      "count": 2
+    },
+    {
+      "word": "함께",
+      "count": 2
+    },
+    {
+      "word": "달러",
+      "count": 2
+    },
+    {
+      "word": "멕시코",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "우려",
+      "count": 2
+    },
+    {
+      "word": "추진",
+      "count": 2
+    },
+    {
+      "word": "무슨",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "단합",
+        "count": 3
+      },
+      {
+        "word": "확장",
+        "count": 3
+      },
+      {
+        "word": "징계",
+        "count": 3
+      },
+      {
+        "word": "의원",
+        "count": 3
+      },
+      {
+        "word": "외연",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "박수",
+        "count": 2
+      },
+      {
+        "word": "일본",
+        "count": 2
+      },
+      {
+        "word": "노르웨이",
+        "count": 2
+      },
+      {
+        "word": "진출",
+        "count": 2
+      },
+      {
+        "word": "호골",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "성과급",
+        "count": 3
+      },
+      {
+        "word": "삼전닉스",
+        "count": 2
+      },
+      {
+        "word": "직장인",
+        "count": 2
+      },
+      {
+        "word": "영업이익",
+        "count": 2
+      },
+      {
+        "word": "동탄",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "성폭행",
+        "count": 2
+      },
+      {
+        "word": "장윤정",
+        "count": 1
+      },
+      {
+        "word": "절연",
+        "count": 1
+      },
+      {
+        "word": "내세워",
+        "count": 1
+      },
+      {
+        "word": "사기",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "경기",
+        "count": 2
+      },
+      {
+        "word": "로봇",
+        "count": 2
+      },
+      {
+        "word": "소수민족에",
+        "count": 1
+      },
+      {
+        "word": "대한",
+        "count": 1
+      },
+      {
+        "word": "학대",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "고종",
+        "count": 1
+      },
+      {
+        "word": "알아",
+        "count": 1
+      },
+      {
+        "word": "김은호",
+        "count": 1
+      },
+      {
+        "word": "불러",
+        "count": 1
+      },
+      {
+        "word": "초짜",
+        "count": 1
+      }
+    ]
   }
 }
