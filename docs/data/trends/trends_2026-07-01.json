@@ -1,10 +1,14 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T16:32:16.352781+09:00",
+  "generated_at": "2026-07-01T20:19:55.152503+09:00",
   "daily_top_keywords": [
     {
       "word": "일본",
-      "count": 4
+      "count": 5
+    },
+    {
+      "word": "월드컵",
+      "count": 5
     },
     {
       "word": "진출",
@@ -12,85 +16,85 @@
     },
     {
       "word": "된다",
-      "count": 3
+      "count": 4
     },
     {
       "word": "성과급",
-      "count": 3
+      "count": 4
+    },
+    {
+      "word": "반도체",
+      "count": 4
     },
     {
       "word": "단합",
-      "count": 3
+      "count": 4
     },
     {
       "word": "확장",
-      "count": 3
-    },
-    {
-      "word": "징계",
-      "count": 3
-    },
-    {
-      "word": "의원",
-      "count": 3
-    },
-    {
-      "word": "박수",
-      "count": 2
-    },
-    {
-      "word": "노르웨이",
-      "count": 2
-    },
-    {
-      "word": "호골",
-      "count": 2
+      "count": 4
     },
     {
       "word": "홀란",
-      "count": 2
-    },
-    {
-      "word": "계약",
-      "count": 2
+      "count": 3
     },
     {
       "word": "함께",
-      "count": 2
-    },
-    {
-      "word": "달러",
-      "count": 2
+      "count": 3
     },
     {
       "word": "멕시코",
-      "count": 2
+      "count": 3
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "우려",
-      "count": 2
+      "word": "연속",
+      "count": 3
     },
     {
-      "word": "추진",
-      "count": 2
+      "word": "스텔스",
+      "count": 3
     },
     {
-      "word": "무슨",
-      "count": 2
+      "word": "직장인",
+      "count": 3
+    },
+    {
+      "word": "영업이익",
+      "count": 3
+    },
+    {
+      "word": "동탄",
+      "count": 3
+    },
+    {
+      "word": "강화",
+      "count": 3
+    },
+    {
+      "word": "배우",
+      "count": 3
+    },
+    {
+      "word": "박미선",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "단합",
-        "count": 3
+        "count": 4
       },
       {
         "word": "확장",
+        "count": 4
+      },
+      {
+        "word": "외연",
         "count": 3
       },
       {
@@ -100,13 +104,13 @@
       {
         "word": "의원",
         "count": 3
-      },
-      {
-        "word": "외연",
-        "count": 2
       }
     ],
     "sports": [
+      {
+        "word": "홀란",
+        "count": 3
+      },
       {
         "word": "박수",
         "count": 2
@@ -122,98 +126,94 @@
       {
         "word": "진출",
         "count": 2
-      },
-      {
-        "word": "호골",
-        "count": 2
       }
     ],
     "economy": [
       {
         "word": "성과급",
+        "count": 4
+      },
+      {
+        "word": "직장인",
+        "count": 3
+      },
+      {
+        "word": "영업이익",
+        "count": 3
+      },
+      {
+        "word": "동탄",
         "count": 3
       },
       {
         "word": "삼전닉스",
         "count": 2
-      },
-      {
-        "word": "직장인",
-        "count": 2
-      },
-      {
-        "word": "영업이익",
-        "count": 2
-      },
-      {
-        "word": "동탄",
-        "count": 2
       }
     ],
     "society": [
       {
-        "word": "성폭행",
+        "word": "호남",
         "count": 2
       },
       {
-        "word": "장윤정",
-        "count": 1
+        "word": "반도체",
+        "count": 2
       },
       {
-        "word": "절연",
-        "count": 1
+        "word": "프로젝트",
+        "count": 2
       },
       {
-        "word": "내세워",
-        "count": 1
+        "word": "뜨자삼성",
+        "count": 2
       },
       {
-        "word": "사기",
-        "count": 1
+        "word": "노조",
+        "count": 2
       }
     ],
     "international": [
       {
+        "word": "스텔스",
+        "count": 3
+      },
+      {
+        "word": "시진핑",
+        "count": 2
+      },
+      {
+        "word": "타격",
+        "count": 2
+      },
+      {
+        "word": "반대",
+        "count": 2
+      },
+      {
         "word": "경기",
         "count": 2
-      },
-      {
-        "word": "로봇",
-        "count": 2
-      },
-      {
-        "word": "소수민족에",
-        "count": 1
-      },
-      {
-        "word": "대한",
-        "count": 1
-      },
-      {
-        "word": "학대",
-        "count": 1
       }
     ],
     "culture": [
       {
-        "word": "고종",
-        "count": 1
+        "word": "배우",
+        "count": 3
       },
       {
-        "word": "알아",
-        "count": 1
+        "word": "박미선",
+        "count": 3
       },
       {
-        "word": "김은호",
-        "count": 1
+        "word": "은퇴한",
+        "count": 2
       },
       {
-        "word": "불러",
-        "count": 1
+        "word": "조진웅",
+        "count": 2
       },
       {
-        "word": "초짜",
-        "count": 1
+        "word": "주연",
+        "count": 2
       }
     ]
   }
