@@ -1,13 +1,220 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T10:02:42.170543+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-02T16:10:40.717370+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "스텔스",
+      "count": 3
+    },
+    {
+      "word": "확정",
+      "count": 2
+    },
+    {
+      "word": "개월",
+      "count": 2
+    },
+    {
+      "word": "경기",
+      "count": 2
+    },
+    {
+      "word": "논의",
+      "count": 2
+    },
+    {
+      "word": "법적",
+      "count": 2
+    },
+    {
+      "word": "예고",
+      "count": 2
+    },
+    {
+      "word": "잉글랜드",
+      "count": 2
+    },
+    {
+      "word": "남아공전",
+      "count": 2
+    },
+    {
+      "word": "이재성",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "문제",
+      "count": 2
+    },
+    {
+      "word": "증시",
+      "count": 2
+    },
+    {
+      "word": "자리",
+      "count": 2
+    },
+    {
+      "word": "남성",
+      "count": 2
+    },
+    {
+      "word": "이재용",
+      "count": 2
+    },
+    {
+      "word": "삼전닉스",
+      "count": 2
+    },
+    {
+      "word": "충청",
+      "count": 2
+    },
+    {
+      "word": "투자",
+      "count": 2
+    },
+    {
+      "word": "종목",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "정청래",
+        "count": 2
+      },
+      {
+        "word": "김민석",
+        "count": 2
+      },
+      {
+        "word": "지지율",
+        "count": 1
+      },
+      {
+        "word": "민주",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "경기",
+        "count": 2
+      },
+      {
+        "word": "레이디스",
+        "count": 1
+      },
+      {
+        "word": "챔피언십",
+        "count": 1
+      },
+      {
+        "word": "출전권",
+        "count": 1
+      },
+      {
+        "word": "합의",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "삼전닉스",
+        "count": 2
+      },
+      {
+        "word": "이재용",
+        "count": 1
+      },
+      {
+        "word": "결단이",
+        "count": 1
+      },
+      {
+        "word": "도약",
+        "count": 1
+      },
+      {
+        "word": "선도",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "시위",
+        "count": 2
+      },
+      {
+        "word": "살해",
+        "count": 2
+      },
+      {
+        "word": "리얼돌",
+        "count": 2
+      },
+      {
+        "word": "폐기",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "스텔스",
+        "count": 2
+      },
+      {
+        "word": "역사상",
+        "count": 1
+      },
+      {
+        "word": "가장",
+        "count": 1
+      },
+      {
+        "word": "이변",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "배우",
+        "count": 2
+      },
+      {
+        "word": "년전",
+        "count": 2
+      },
+      {
+        "word": "인정",
+        "count": 2
+      },
+      {
+        "word": "바꿔",
+        "count": 1
+      },
+      {
+        "word": "활동",
+        "count": 1
+      }
+    ]
   }
 }
