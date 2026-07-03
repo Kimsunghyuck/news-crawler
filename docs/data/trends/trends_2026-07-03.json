@@ -1,112 +1,116 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T16:14:27.865227+09:00",
+  "generated_at": "2026-07-03T20:00:17.165116+09:00",
   "daily_top_keywords": [
     {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "꺼낸",
+      "count": 5
+    },
+    {
       "word": "정부",
+      "count": 5
+    },
+    {
+      "word": "박지성",
+      "count": 4
+    },
+    {
+      "word": "오스트리아",
+      "count": 4
+    },
+    {
+      "word": "월드컵",
+      "count": 4
+    },
+    {
+      "word": "최대",
       "count": 4
     },
     {
       "word": "쿠팡",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "이강인",
-      "count": 2
-    },
-    {
-      "word": "아틀레티코",
-      "count": 2
-    },
-    {
-      "word": "유니폼",
-      "count": 2
-    },
-    {
-      "word": "입나",
-      "count": 2
-    },
-    {
-      "word": "이적료",
-      "count": 2
-    },
-    {
-      "word": "억원",
-      "count": 2
-    },
-    {
-      "word": "추가",
-      "count": 2
-    },
-    {
-      "word": "오스트리아",
-      "count": 2
-    },
-    {
-      "word": "꺼낸",
-      "count": 2
-    },
-    {
-      "word": "월드컵",
-      "count": 2
-    },
-    {
-      "word": "한국",
-      "count": 2
-    },
-    {
-      "word": "의회",
-      "count": 2
-    },
-    {
-      "word": "가득",
-      "count": 2
-    },
-    {
-      "word": "기업",
-      "count": 2
+      "word": "홈플러스",
+      "count": 4
     },
     {
       "word": "반도체",
-      "count": 2
-    },
-    {
-      "word": "손해",
-      "count": 2
+      "count": 4
     },
     {
       "word": "하나",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "방문",
-      "count": 2
+      "word": "억원",
+      "count": 3
+    },
+    {
+      "word": "추가",
+      "count": 3
+    },
+    {
+      "word": "폭염",
+      "count": 3
+    },
+    {
+      "word": "신작",
+      "count": 3
+    },
+    {
+      "word": "의회",
+      "count": 3
+    },
+    {
+      "word": "파산",
+      "count": 3
+    },
+    {
+      "word": "수순",
+      "count": 3
+    },
+    {
+      "word": "기업",
+      "count": 3
+    },
+    {
+      "word": "손해",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "꺼낸",
+        "count": 3
+      },
+      {
         "word": "쿠팡",
-        "count": 2
+        "count": 3
       },
       {
         "word": "옹호에",
-        "count": 2
+        "count": 3
       },
       {
         "word": "심각한",
-        "count": 2
+        "count": 3
       },
       {
         "word": "나토",
-        "count": 2
-      },
-      {
-        "word": "정상회의",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
+      {
+        "word": "오스트리아",
+        "count": 4
+      },
       {
         "word": "이강인",
         "count": 2
@@ -122,98 +126,94 @@
       {
         "word": "입나",
         "count": 2
-      },
-      {
-        "word": "이적료",
-        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "기업",
-        "count": 2
-      },
-      {
         "word": "반도체",
+        "count": 4
+      },
+      {
+        "word": "최대",
+        "count": 3
+      },
+      {
+        "word": "기업",
+        "count": 3
+      },
+      {
+        "word": "회장",
+        "count": 3
+      },
+      {
+        "word": "홈플러스",
         "count": 2
-      },
-      {
-        "word": "실제",
-        "count": 1
-      },
-      {
-        "word": "도로",
-        "count": 1
-      },
-      {
-        "word": "달리고도",
-        "count": 1
       }
     ],
     "society": [
       {
+        "word": "배재고",
+        "count": 2
+      },
+      {
         "word": "홈플러스",
-        "count": 1
+        "count": 2
       },
       {
         "word": "파산",
-        "count": 1
+        "count": 2
       },
       {
         "word": "수순",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "직원",
-        "count": 1
-      },
-      {
-        "word": "명은",
-        "count": 1
+        "word": "경찰",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "정부",
+        "count": 3
+      },
+      {
+        "word": "월드컵",
+        "count": 3
+      },
+      {
+        "word": "신작",
+        "count": 2
+      },
+      {
+        "word": "하루키",
         "count": 2
       },
       {
         "word": "한국",
-        "count": 1
-      },
-      {
-        "word": "로비에",
-        "count": 1
-      },
-      {
-        "word": "쓰고도",
-        "count": 1
-      },
-      {
-        "word": "비판",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "하나",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "김민하",
-        "count": 1
+        "word": "박지성",
+        "count": 3
       },
       {
-        "word": "북한",
-        "count": 1
+        "word": "이영표",
+        "count": 3
       },
       {
-        "word": "사투리",
-        "count": 1
+        "word": "축구",
+        "count": 3
       },
       {
-        "word": "공부",
-        "count": 1
+        "word": "결혼식",
+        "count": 3
       }
     ]
   }
