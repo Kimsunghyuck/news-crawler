@@ -1,219 +1,219 @@
 {
   "date": "2026-07-04",
-  "generated_at": "2026-07-04T16:10:05.810318+09:00",
+  "generated_at": "2026-07-04T19:44:54.904461+09:00",
   "daily_top_keywords": [
     {
-      "word": "넘어",
-      "count": 3
+      "word": "만에",
+      "count": 6
     },
     {
       "word": "관세",
-      "count": 3
-    },
-    {
-      "word": "송성문",
-      "count": 2
-    },
-    {
-      "word": "도루",
-      "count": 2
-    },
-    {
-      "word": "성공",
-      "count": 2
-    },
-    {
-      "word": "임종훈",
-      "count": 2
-    },
-    {
-      "word": "신유빈",
-      "count": 2
-    },
-    {
-      "word": "스매시",
-      "count": 2
+      "count": 6
     },
     {
       "word": "우승",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "사상",
-      "count": 2
-    },
-    {
-      "word": "가나",
-      "count": 2
-    },
-    {
-      "word": "만에",
-      "count": 2
-    },
-    {
-      "word": "파키스탄서",
-      "count": 2
-    },
-    {
-      "word": "추락",
-      "count": 2
+      "word": "넘어",
+      "count": 5
     },
     {
       "word": "이란",
-      "count": 2
+      "count": 5
     },
     {
       "word": "하메네이",
-      "count": 2
+      "count": 5
     },
     {
       "word": "장례식",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "김민석",
+      "count": 5
+    },
+    {
+      "word": "경기",
+      "count": 4
+    },
+    {
+      "word": "임종훈",
+      "count": 4
+    },
+    {
+      "word": "사상",
+      "count": 4
     },
     {
       "word": "트럼프",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "감면",
-      "count": 2
+      "word": "다이아",
+      "count": 4
     },
     {
-      "word": "보답",
-      "count": 2
+      "word": "불참",
+      "count": 4
+    },
+    {
+      "word": "인건비",
+      "count": 4
+    },
+    {
+      "word": "서울",
+      "count": 4
+    },
+    {
+      "word": "장동혁",
+      "count": 4
+    },
+    {
+      "word": "당권",
+      "count": 4
+    },
+    {
+      "word": "송성문",
+      "count": 3
+    },
+    {
+      "word": "도루",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "김민석",
+        "count": 5
+      },
+      {
         "word": "장동혁",
-        "count": 2
+        "count": 4
       },
       {
         "word": "당권",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "김민석",
-        "count": 2
+        "word": "이준석",
+        "count": 3
       },
       {
-        "word": "메가",
-        "count": 1
-      },
-      {
-        "word": "프로젝트",
-        "count": 1
+        "word": "이병태",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "송성문",
-        "count": 2
-      },
-      {
-        "word": "도루",
-        "count": 2
-      },
-      {
-        "word": "성공",
-        "count": 2
+        "word": "우승",
+        "count": 5
       },
       {
         "word": "임종훈",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "신유빈",
-        "count": 2
+        "word": "송성문",
+        "count": 3
+      },
+      {
+        "word": "도루",
+        "count": 3
+      },
+      {
+        "word": "성공",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "인건비",
+        "count": 4
+      },
+      {
+        "word": "홈플러스",
+        "count": 3
+      },
+      {
+        "word": "만에",
         "count": 2
       },
       {
         "word": "임차료",
-        "count": 1
+        "count": 2
       },
       {
         "word": "노조에",
-        "count": 1
-      },
-      {
-        "word": "발목",
-        "count": 1
-      },
-      {
-        "word": "홈플러스",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "만에",
+        "count": 3
+      },
+      {
+        "word": "환자",
+        "count": 3
+      },
+      {
         "word": "경찰",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "영동고속",
-        "count": 1
+        "word": "국회의원이",
+        "count": 3
       },
       {
-        "word": "강릉분기점서",
-        "count": 1
-      },
-      {
-        "word": "차량",
-        "count": 1
-      },
-      {
-        "word": "추돌",
-        "count": 1
+        "word": "살인",
+        "count": 3
       }
     ],
     "international": [
       {
-        "word": "파키스탄서",
-        "count": 2
-      },
-      {
-        "word": "추락",
-        "count": 2
-      },
-      {
         "word": "이란",
-        "count": 2
+        "count": 5
       },
       {
         "word": "하메네이",
-        "count": 2
+        "count": 5
       },
       {
         "word": "장례식",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "관세",
+        "count": 4
       }
     ],
     "culture": [
       {
-        "word": "국경",
-        "count": 1
+        "word": "아빠",
+        "count": 2
       },
       {
-        "word": "넘어",
-        "count": 1
+        "word": "백마와",
+        "count": 2
       },
       {
-        "word": "한국어",
-        "count": 1
+        "word": "기병대",
+        "count": 2
       },
       {
-        "word": "노래",
-        "count": 1
+        "word": "왕의",
+        "count": 2
       },
       {
-        "word": "보며",
-        "count": 1
+        "word": "그림을",
+        "count": 2
       }
     ]
   }
