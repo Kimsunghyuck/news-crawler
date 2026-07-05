@@ -1,219 +1,219 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T16:08:27.099762+09:00",
+  "generated_at": "2026-07-05T19:49:20.830631+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 4
-    },
-    {
-      "word": "프랑스",
-      "count": 3
-    },
-    {
-      "word": "진출",
-      "count": 3
+      "count": 7
     },
     {
       "word": "캐나다",
-      "count": 3
-    },
-    {
-      "word": "축구",
-      "count": 3
+      "count": 6
     },
     {
       "word": "연속",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "사망",
-      "count": 3
+      "word": "반도체",
+      "count": 6
     },
     {
-      "word": "이유",
-      "count": 3
+      "word": "프랑스",
+      "count": 5
     },
     {
-      "word": "파라과이",
-      "count": 2
-    },
-    {
-      "word": "꺾고",
-      "count": 2
-    },
-    {
-      "word": "모로코",
-      "count": 2
+      "word": "진출",
+      "count": 5
     },
     {
       "word": "결국",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "강행",
-      "count": 2
+      "word": "축구",
+      "count": 5
     },
     {
-      "word": "아프리카",
-      "count": 2
-    },
-    {
-      "word": "이정후",
-      "count": 2
-    },
-    {
-      "word": "벤치",
-      "count": 2
-    },
-    {
-      "word": "김하성",
-      "count": 2
-    },
-    {
-      "word": "만에",
-      "count": 2
+      "word": "미국",
+      "count": 5
     },
     {
       "word": "경기",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "사망",
+      "count": 5
+    },
+    {
+      "word": "홍명보",
+      "count": 5
+    },
+    {
+      "word": "파라과이",
+      "count": 4
+    },
+    {
+      "word": "꺾고",
+      "count": 4
+    },
+    {
+      "word": "모로코",
+      "count": 4
+    },
+    {
+      "word": "아프리카",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
     },
     {
       "word": "안타",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "세계",
+      "count": 4
+    },
+    {
+      "word": "임종훈",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "강훈식",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이준석",
-        "count": 2
+        "word": "이병태",
+        "count": 3
       },
       {
         "word": "정부",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "출마",
-        "count": 2
+        "word": "반도체",
+        "count": 3
       },
       {
-        "word": "선언",
+        "word": "경고",
         "count": 2
       }
     ],
     "sports": [
       {
         "word": "프랑스",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "경기",
+        "count": 5
       },
       {
         "word": "파라과이",
-        "count": 2
+        "count": 4
       },
       {
         "word": "꺾고",
-        "count": 2
+        "count": 4
       },
       {
         "word": "진출",
-        "count": 2
-      },
-      {
-        "word": "캐나다",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "투자",
-        "count": 2
+        "count": 3
       },
       {
         "word": "되나",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "반도체",
+        "count": 3
       },
       {
         "word": "검색하려고",
-        "count": 1
+        "count": 2
       },
       {
         "word": "잘려",
-        "count": 1
-      },
-      {
-        "word": "곳서",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "샤론",
-        "count": 1
+        "count": 2
       },
       {
         "word": "스톤",
-        "count": 1
+        "count": 2
       },
       {
         "word": "짱구",
-        "count": 1
+        "count": 2
       },
       {
         "word": "엄마",
-        "count": 1
+        "count": 2
       },
       {
         "word": "목소리",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
+        "count": 7
       },
       {
         "word": "사망",
-        "count": 2
-      },
-      {
-        "word": "이유",
-        "count": 2
-      },
-      {
-        "word": "쿠팡",
-        "count": 2
+        "count": 4
       },
       {
         "word": "건국",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "이유",
+        "count": 3
+      },
+      {
+        "word": "쿠팡",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "축구",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "얼굴",
+        "count": 3
+      },
+      {
+        "word": "미스터리",
+        "count": 3
+      },
+      {
+        "word": "결혼",
+        "count": 3
       },
       {
         "word": "덕후",
-        "count": 1
-      },
-      {
-        "word": "강부자",
-        "count": 1
-      },
-      {
-        "word": "홍명보",
-        "count": 1
-      },
-      {
-        "word": "눈물이라도",
-        "count": 1
+        "count": 2
       }
     ]
   }
