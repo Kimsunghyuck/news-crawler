@@ -1,13 +1,220 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T09:54:52.202757+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-05T16:08:27.099762+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "프랑스",
+      "count": 3
+    },
+    {
+      "word": "진출",
+      "count": 3
+    },
+    {
+      "word": "캐나다",
+      "count": 3
+    },
+    {
+      "word": "축구",
+      "count": 3
+    },
+    {
+      "word": "연속",
+      "count": 3
+    },
+    {
+      "word": "사망",
+      "count": 3
+    },
+    {
+      "word": "이유",
+      "count": 3
+    },
+    {
+      "word": "파라과이",
+      "count": 2
+    },
+    {
+      "word": "꺾고",
+      "count": 2
+    },
+    {
+      "word": "모로코",
+      "count": 2
+    },
+    {
+      "word": "결국",
+      "count": 2
+    },
+    {
+      "word": "강행",
+      "count": 2
+    },
+    {
+      "word": "아프리카",
+      "count": 2
+    },
+    {
+      "word": "이정후",
+      "count": 2
+    },
+    {
+      "word": "벤치",
+      "count": 2
+    },
+    {
+      "word": "김하성",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "경기",
+      "count": 2
+    },
+    {
+      "word": "안타",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "강훈식",
+        "count": 2
+      },
+      {
+        "word": "이준석",
+        "count": 2
+      },
+      {
+        "word": "정부",
+        "count": 2
+      },
+      {
+        "word": "출마",
+        "count": 2
+      },
+      {
+        "word": "선언",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "프랑스",
+        "count": 3
+      },
+      {
+        "word": "파라과이",
+        "count": 2
+      },
+      {
+        "word": "꺾고",
+        "count": 2
+      },
+      {
+        "word": "진출",
+        "count": 2
+      },
+      {
+        "word": "캐나다",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "투자",
+        "count": 2
+      },
+      {
+        "word": "되나",
+        "count": 2
+      },
+      {
+        "word": "검색하려고",
+        "count": 1
+      },
+      {
+        "word": "잘려",
+        "count": 1
+      },
+      {
+        "word": "곳서",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "샤론",
+        "count": 1
+      },
+      {
+        "word": "스톤",
+        "count": 1
+      },
+      {
+        "word": "짱구",
+        "count": 1
+      },
+      {
+        "word": "엄마",
+        "count": 1
+      },
+      {
+        "word": "목소리",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "이유",
+        "count": 2
+      },
+      {
+        "word": "쿠팡",
+        "count": 2
+      },
+      {
+        "word": "건국",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "축구",
+        "count": 2
+      },
+      {
+        "word": "덕후",
+        "count": 1
+      },
+      {
+        "word": "강부자",
+        "count": 1
+      },
+      {
+        "word": "홍명보",
+        "count": 1
+      },
+      {
+        "word": "눈물이라도",
+        "count": 1
+      }
+    ]
   }
 }
