@@ -1,219 +1,219 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T16:33:09.455937+09:00",
+  "generated_at": "2026-07-06T20:37:26.886677+09:00",
   "daily_top_keywords": [
     {
-      "word": "트럼프",
-      "count": 4
-    },
-    {
-      "word": "정몽규",
-      "count": 3
-    },
-    {
-      "word": "월드컵",
-      "count": 3
-    },
-    {
-      "word": "돌연",
-      "count": 3
-    },
-    {
-      "word": "징계",
-      "count": 3
-    },
-    {
-      "word": "논란",
-      "count": 3
+      "word": "성역",
+      "count": 9
     },
     {
       "word": "사퇴",
-      "count": 3
+      "count": 8
     },
     {
-      "word": "박지성",
-      "count": 2
-    },
-    {
-      "word": "축구혁신위",
-      "count": 2
-    },
-    {
-      "word": "멕시코",
-      "count": 2
-    },
-    {
-      "word": "한국",
-      "count": 2
-    },
-    {
-      "word": "멤버",
-      "count": 2
-    },
-    {
-      "word": "고우석",
-      "count": 2
-    },
-    {
-      "word": "무릎",
-      "count": 2
-    },
-    {
-      "word": "꿇고",
-      "count": 2
+      "word": "정몽규",
+      "count": 7
     },
     {
       "word": "배재고",
-      "count": 2
+      "count": 7
     },
     {
-      "word": "모든",
-      "count": 2
+      "word": "트럼프",
+      "count": 7
+    },
+    {
+      "word": "박지성",
+      "count": 6
+    },
+    {
+      "word": "월드컵",
+      "count": 6
+    },
+    {
+      "word": "축구혁신위",
+      "count": 5
+    },
+    {
+      "word": "종목",
+      "count": 5
+    },
+    {
+      "word": "논란",
+      "count": 5
+    },
+    {
+      "word": "이번엔",
+      "count": 5
+    },
+    {
+      "word": "호남",
+      "count": 5
+    },
+    {
+      "word": "멕시코",
+      "count": 4
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "전화에",
-      "count": 2
+      "word": "년만에",
+      "count": 4
     },
     {
-      "word": "출전정지",
-      "count": 2
+      "word": "돌연",
+      "count": 4
+    },
+    {
+      "word": "나라",
+      "count": 4
+    },
+    {
+      "word": "무슨",
+      "count": 4
+    },
+    {
+      "word": "징계",
+      "count": 4
+    },
+    {
+      "word": "삼전닉스",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "성역",
+        "count": 9
+      },
+      {
+        "word": "사퇴",
+        "count": 7
+      },
+      {
         "word": "호남",
-        "count": 2
+        "count": 5
       },
       {
         "word": "반도체",
-        "count": 2
+        "count": 4
       },
       {
         "word": "부지에",
-        "count": 2
-      },
-      {
-        "word": "조성",
-        "count": 2
-      },
-      {
-        "word": "일베",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "월드컵",
-        "count": 3
-      },
-      {
         "word": "정몽규",
-        "count": 2
+        "count": 6
       },
       {
         "word": "박지성",
-        "count": 2
+        "count": 6
+      },
+      {
+        "word": "월드컵",
+        "count": 6
       },
       {
         "word": "축구혁신위",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "고우석",
-        "count": 2
+        "word": "농구",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "삼전닉스",
-        "count": 2
+        "word": "종목",
+        "count": 5
       },
       {
-        "word": "종목",
-        "count": 2
+        "word": "삼전닉스",
+        "count": 4
       },
       {
         "word": "장투",
-        "count": 1
+        "count": 2
       },
       {
         "word": "마라",
-        "count": 1
+        "count": 2
       },
       {
         "word": "대부가",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "찾아",
+        "count": 3
+      },
+      {
+        "word": "배재고",
+        "count": 3
+      },
+      {
         "word": "문자",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "장윤기",
+        "count": 3
       },
       {
         "word": "오늘의",
-        "count": 1
-      },
-      {
-        "word": "운세",
-        "count": 1
-      },
-      {
-        "word": "야구",
-        "count": 1
-      },
-      {
-        "word": "떠나",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 6
       },
       {
         "word": "나라",
-        "count": 2
+        "count": 4
       },
       {
         "word": "퇴장",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "돌연",
-        "count": 1
+        "word": "탄도미사일",
+        "count": 3
       },
       {
-        "word": "길거리서",
-        "count": 1
+        "word": "발사",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "논란",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "감독",
-        "count": 2
+        "word": "이야기",
+        "count": 3
       },
       {
         "word": "임성근",
-        "count": 1
+        "count": 2
       },
       {
         "word": "전과",
-        "count": 1
+        "count": 2
       },
       {
         "word": "근황",
-        "count": 1
+        "count": 2
       }
     ]
   }
