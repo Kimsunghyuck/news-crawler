@@ -1,13 +1,220 @@
 {
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T09:53:30.658919+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-07T16:12:55.450029+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "사망",
+      "count": 4
+    },
+    {
+      "word": "간다",
+      "count": 3
+    },
+    {
+      "word": "아닌",
+      "count": 3
+    },
+    {
+      "word": "축구",
+      "count": 3
+    },
+    {
+      "word": "감독",
+      "count": 3
+    },
+    {
+      "word": "대형",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "연봉",
+      "count": 3
+    },
+    {
+      "word": "개월",
+      "count": 3
+    },
+    {
+      "word": "당대표",
+      "count": 3
+    },
+    {
+      "word": "결정",
+      "count": 3
+    },
+    {
+      "word": "이강인",
+      "count": 2
+    },
+    {
+      "word": "잉글랜드",
+      "count": 2
+    },
+    {
+      "word": "멕시코",
+      "count": 2
+    },
+    {
+      "word": "강행",
+      "count": 2
+    },
+    {
+      "word": "징계",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "호날두",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "당대표",
+        "count": 3
+      },
+      {
+        "word": "결정",
+        "count": 3
+      },
+      {
+        "word": "정청래",
+        "count": 2
+      },
+      {
+        "word": "결선투표",
+        "count": 2
+      },
+      {
+        "word": "대신",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "간다",
+        "count": 3
+      },
+      {
+        "word": "이강인",
+        "count": 2
+      },
+      {
+        "word": "잉글랜드",
+        "count": 2
+      },
+      {
+        "word": "멕시코",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "종목",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "스포츠",
+        "count": 2
+      },
+      {
+        "word": "삼전닉스",
+        "count": 1
+      },
+      {
+        "word": "없이",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "개월",
+        "count": 3
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "연봉",
+        "count": 2
+      },
+      {
+        "word": "억에도",
+        "count": 2
+      },
+      {
+        "word": "바비",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "발칵",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "필요",
+        "count": 2
+      },
+      {
+        "word": "우크라",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "논란",
+        "count": 2
+      },
+      {
+        "word": "가수",
+        "count": 1
+      },
+      {
+        "word": "하림",
+        "count": 1
+      },
+      {
+        "word": "배재고",
+        "count": 1
+      },
+      {
+        "word": "근조화환에",
+        "count": 1
+      }
+    ]
   }
 }
