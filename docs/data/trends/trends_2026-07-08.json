@@ -1,219 +1,219 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-08T15:52:14.875046+09:00",
+  "generated_at": "2026-07-08T19:47:03.448543+09:00",
   "daily_top_keywords": [
     {
       "word": "만원",
-      "count": 7
+      "count": 11
     },
     {
       "word": "시간",
-      "count": 5
-    },
-    {
-      "word": "대표",
-      "count": 4
-    },
-    {
-      "word": "윔블던",
-      "count": 3
-    },
-    {
-      "word": "이정후",
-      "count": 3
-    },
-    {
-      "word": "만에",
-      "count": 2
-    },
-    {
-      "word": "진출",
-      "count": 2
+      "count": 9
     },
     {
       "word": "강행",
-      "count": 2
+      "count": 6
     },
     {
-      "word": "아르헨",
-      "count": 2
+      "word": "트럼프",
+      "count": 6
     },
     {
-      "word": "혈투",
-      "count": 2
+      "word": "만에",
+      "count": 5
     },
     {
-      "word": "나도",
-      "count": 2
-    },
-    {
-      "word": "경기",
-      "count": 2
-    },
-    {
-      "word": "연속",
-      "count": 2
-    },
-    {
-      "word": "출전",
-      "count": 2
-    },
-    {
-      "word": "타수",
-      "count": 2
-    },
-    {
-      "word": "무안타",
-      "count": 2
-    },
-    {
-      "word": "뒤집힌",
-      "count": 2
+      "word": "윔블던",
+      "count": 5
     },
     {
       "word": "년간",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "정보",
-      "count": 2
+      "word": "진출",
+      "count": 4
     },
     {
-      "word": "징계",
-      "count": 2
+      "word": "아르헨",
+      "count": 4
+    },
+    {
+      "word": "뒤집힌",
+      "count": 4
+    },
+    {
+      "word": "간부",
+      "count": 4
+    },
+    {
+      "word": "두고",
+      "count": 4
+    },
+    {
+      "word": "삼전",
+      "count": 4
+    },
+    {
+      "word": "하닉",
+      "count": 4
+    },
+    {
+      "word": "메모리의",
+      "count": 4
+    },
+    {
+      "word": "이때",
+      "count": 4
+    },
+    {
+      "word": "온다",
+      "count": 4
+    },
+    {
+      "word": "반도체",
+      "count": 4
+    },
+    {
+      "word": "긴급점검",
+      "count": 4
+    },
+    {
+      "word": "김부장",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "김민석",
-        "count": 2
-      },
-      {
-        "word": "대통령",
-        "count": 2
-      },
-      {
-        "word": "국힘",
-        "count": 2
+        "count": 4
       },
       {
         "word": "반대",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "대표",
-        "count": 2
+        "word": "장동혁",
+        "count": 4
+      },
+      {
+        "word": "김어준",
+        "count": 3
+      },
+      {
+        "word": "대통령",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "윔블던",
-        "count": 3
-      },
-      {
-        "word": "진출",
-        "count": 2
+        "count": 5
       },
       {
         "word": "강행",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "이정후",
-        "count": 2
+        "word": "진출",
+        "count": 4
       },
       {
-        "word": "시간",
-        "count": 2
+        "word": "끝에",
+        "count": 3
+      },
+      {
+        "word": "메시",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "만원",
-        "count": 4
+        "count": 8
       },
       {
         "word": "삼전",
-        "count": 2
+        "count": 4
       },
       {
         "word": "하닉",
-        "count": 2
+        "count": 4
       },
       {
         "word": "메모리의",
-        "count": 2
+        "count": 4
       },
       {
         "word": "시간",
-        "count": 2
+        "count": 4
       }
     ],
     "society": [
       {
-        "word": "징역",
-        "count": 2
+        "word": "정이한",
+        "count": 4
       },
       {
-        "word": "만원",
-        "count": 2
+        "word": "피습",
+        "count": 4
       },
       {
-        "word": "으로",
-        "count": 2
+        "word": "자작극",
+        "count": 4
+      },
+      {
+        "word": "의혹",
+        "count": 4
       },
       {
         "word": "두고",
-        "count": 1
-      },
-      {
-        "word": "가출한",
-        "count": 1
+        "count": 3
       }
     ],
     "international": [
       {
-        "word": "비행",
-        "count": 1
+        "word": "트럼프",
+        "count": 5
       },
       {
-        "word": "훈련중",
-        "count": 1
+        "word": "건강검진",
+        "count": 3
       },
       {
-        "word": "열고",
-        "count": 1
+        "word": "벗어야",
+        "count": 3
       },
       {
-        "word": "뛰어내렸다",
-        "count": 1
+        "word": "종전",
+        "count": 3
       },
       {
-        "word": "베테랑",
-        "count": 1
+        "word": "이란",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "화가",
-        "count": 2
+        "count": 4
       },
       {
         "word": "질주",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "만에",
+        "count": 3
       },
       {
         "word": "미남",
-        "count": 1
+        "count": 2
       },
       {
         "word": "하룻밤",
-        "count": 1
-      },
-      {
-        "word": "지내고파",
-        "count": 1
+        "count": 2
       }
     ]
   }
