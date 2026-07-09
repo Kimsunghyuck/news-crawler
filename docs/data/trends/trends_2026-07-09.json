@@ -1,13 +1,220 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T09:51:30.408288+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-09T16:13:48.810497+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "전용기",
+      "count": 3
+    },
+    {
+      "word": "순위",
+      "count": 3
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "하닉",
+      "count": 3
+    },
+    {
+      "word": "윤여정",
+      "count": 3
+    },
+    {
+      "word": "윔블던",
+      "count": 2
+    },
+    {
+      "word": "시간",
+      "count": 2
+    },
+    {
+      "word": "월드컵",
+      "count": 2
+    },
+    {
+      "word": "홍명보",
+      "count": 2
+    },
+    {
+      "word": "가족",
+      "count": 2
+    },
+    {
+      "word": "우려에",
+      "count": 2
+    },
+    {
+      "word": "메시와",
+      "count": 2
+    },
+    {
+      "word": "불륜설",
+      "count": 2
+    },
+    {
+      "word": "여기자",
+      "count": 2
+    },
+    {
+      "word": "메시",
+      "count": 2
+    },
+    {
+      "word": "아내도",
+      "count": 2
+    },
+    {
+      "word": "연락",
+      "count": 2
+    },
+    {
+      "word": "진실",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "논란",
+        "count": 2
+      },
+      {
+        "word": "노무현",
+        "count": 2
+      },
+      {
+        "word": "청계천",
+        "count": 2
+      },
+      {
+        "word": "담판",
+        "count": 2
+      },
+      {
+        "word": "그날",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "윔블던",
+        "count": 2
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "세계",
+        "count": 1
+      },
+      {
+        "word": "페리",
+        "count": 1
+      },
+      {
+        "word": "와일드카드로",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "하닉",
+        "count": 3
+      },
+      {
+        "word": "반도체",
+        "count": 2
+      },
+      {
+        "word": "최태원",
+        "count": 2
+      },
+      {
+        "word": "대상",
+        "count": 2
+      },
+      {
+        "word": "삼성",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "유산",
+        "count": 2
+      },
+      {
+        "word": "징역",
+        "count": 2
+      },
+      {
+        "word": "검사",
+        "count": 2
+      },
+      {
+        "word": "과장님은",
+        "count": 1
+      },
+      {
+        "word": "사모님",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "전용기",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "순위",
+        "count": 3
+      },
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "암살대상",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "윤여정",
+        "count": 3
+      },
+      {
+        "word": "배우",
+        "count": 2
+      },
+      {
+        "word": "에미상",
+        "count": 2
+      },
+      {
+        "word": "후보",
+        "count": 2
+      },
+      {
+        "word": "오스카",
+        "count": 2
+      }
+    ]
   }
 }
