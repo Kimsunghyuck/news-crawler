@@ -1,13 +1,220 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T09:51:15.075012+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-10T16:11:58.194450+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 6
+    },
+    {
+      "word": "개월",
+      "count": 4
+    },
+    {
+      "word": "반도체",
+      "count": 4
+    },
+    {
+      "word": "고우석",
+      "count": 3
+    },
+    {
+      "word": "철회",
+      "count": 3
+    },
+    {
+      "word": "스페인",
+      "count": 3
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "의미",
+      "count": 3
+    },
+    {
+      "word": "음바페",
+      "count": 2
+    },
+    {
+      "word": "프랑스",
+      "count": 2
+    },
+    {
+      "word": "한국인",
+      "count": 2
+    },
+    {
+      "word": "데뷔",
+      "count": 2
+    },
+    {
+      "word": "이닝",
+      "count": 2
+    },
+    {
+      "word": "실점",
+      "count": 2
+    },
+    {
+      "word": "않는",
+      "count": 2
+    },
+    {
+      "word": "올림픽",
+      "count": 2
+    },
+    {
+      "word": "여자",
+      "count": 2
+    },
+    {
+      "word": "결승",
+      "count": 2
+    },
+    {
+      "word": "맞대결",
+      "count": 2
+    },
+    {
+      "word": "손흥민",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "반도체",
+        "count": 2
+      },
+      {
+        "word": "부지",
+        "count": 2
+      },
+      {
+        "word": "광주",
+        "count": 2
+      },
+      {
+        "word": "군공항",
+        "count": 2
+      },
+      {
+        "word": "협의",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "만에",
+        "count": 4
+      },
+      {
+        "word": "고우석",
+        "count": 3
+      },
+      {
+        "word": "음바페",
+        "count": 2
+      },
+      {
+        "word": "데뷔",
+        "count": 2
+      },
+      {
+        "word": "이닝",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "반도체",
+        "count": 2
+      },
+      {
+        "word": "정부",
+        "count": 2
+      },
+      {
+        "word": "지난해",
+        "count": 1
+      },
+      {
+        "word": "외국인",
+        "count": 1
+      },
+      {
+        "word": "입국자",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "배재고",
+        "count": 2
+      },
+      {
+        "word": "개월",
+        "count": 2
+      },
+      {
+        "word": "출전정지",
+        "count": 2
+      },
+      {
+        "word": "증거",
+        "count": 2
+      },
+      {
+        "word": "물폭탄에도",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "개월",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "다카이치",
+        "count": 2
+      },
+      {
+        "word": "스페인",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "슈퍼걸",
+        "count": 2
+      },
+      {
+        "word": "신작",
+        "count": 2
+      },
+      {
+        "word": "이대호",
+        "count": 2
+      },
+      {
+        "word": "아이유",
+        "count": 1
+      },
+      {
+        "word": "이종석",
+        "count": 1
+      }
+    ]
   }
 }
