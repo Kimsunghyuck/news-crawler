@@ -1,13 +1,220 @@
 {
   "date": "2026-07-11",
-  "generated_at": "2026-07-11T09:43:51.422644+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-11T15:47:16.255271+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "청년",
+      "count": 4
+    },
+    {
+      "word": "장윤기",
+      "count": 4
+    },
+    {
+      "word": "사건",
+      "count": 4
+    },
+    {
+      "word": "누구",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "부동산",
+      "count": 3
+    },
+    {
+      "word": "논란",
+      "count": 3
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "스페인",
+      "count": 2
+    },
+    {
+      "word": "벨기에",
+      "count": 2
+    },
+    {
+      "word": "프랑스와",
+      "count": 2
+    },
+    {
+      "word": "음바페",
+      "count": 2
+    },
+    {
+      "word": "선두",
+      "count": 2
+    },
+    {
+      "word": "한화",
+      "count": 2
+    },
+    {
+      "word": "강백호",
+      "count": 2
+    },
+    {
+      "word": "홈런더비",
+      "count": 2
+    },
+    {
+      "word": "우승",
+      "count": 2
+    },
+    {
+      "word": "영입",
+      "count": 2
+    },
+    {
+      "word": "결장",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 3
+      },
+      {
+        "word": "청년",
+        "count": 2
+      },
+      {
+        "word": "정점식",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "몽골",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "스페인",
+        "count": 2
+      },
+      {
+        "word": "벨기에",
+        "count": 2
+      },
+      {
+        "word": "프랑스와",
+        "count": 2
+      },
+      {
+        "word": "음바페",
+        "count": 2
+      },
+      {
+        "word": "선두",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "부동산",
+        "count": 2
+      },
+      {
+        "word": "반도체",
+        "count": 2
+      },
+      {
+        "word": "이젠",
+        "count": 1
+      },
+      {
+        "word": "맛보다",
+        "count": 1
+      },
+      {
+        "word": "건강",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "장윤기",
+        "count": 2
+      },
+      {
+        "word": "사건",
+        "count": 2
+      },
+      {
+        "word": "경찰",
+        "count": 2
+      },
+      {
+        "word": "엄마",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "미사일",
+        "count": 2
+      },
+      {
+        "word": "암살",
+        "count": 2
+      },
+      {
+        "word": "이란에",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "오염된",
+        "count": 1
+      },
+      {
+        "word": "혈통",
+        "count": 1
+      },
+      {
+        "word": "되돌린다",
+        "count": 1
+      },
+      {
+        "word": "통일교",
+        "count": 1
+      },
+      {
+        "word": "신자",
+        "count": 1
+      }
+    ]
   }
 }
