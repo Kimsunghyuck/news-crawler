@@ -1,13 +1,220 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T09:48:30.128381+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-12T15:57:02.685741+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "우승",
+      "count": 6
+    },
+    {
+      "word": "꺾고",
+      "count": 5
+    },
+    {
+      "word": "한동훈",
+      "count": 4
+    },
+    {
+      "word": "연장",
+      "count": 3
+    },
+    {
+      "word": "진출",
+      "count": 3
+    },
+    {
+      "word": "노스코바",
+      "count": 3
+    },
+    {
+      "word": "생애",
+      "count": 3
+    },
+    {
+      "word": "윔블던",
+      "count": 3
+    },
+    {
+      "word": "연속",
+      "count": 2
+    },
+    {
+      "word": "혈투",
+      "count": 2
+    },
+    {
+      "word": "스위스",
+      "count": 2
+    },
+    {
+      "word": "케인",
+      "count": 2
+    },
+    {
+      "word": "퍼포먼스",
+      "count": 2
+    },
+    {
+      "word": "세광고",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "한국전이",
+      "count": 2
+    },
+    {
+      "word": "마지막",
+      "count": 2
+    },
+    {
+      "word": "남아공",
+      "count": 2
+    },
+    {
+      "word": "발견",
+      "count": 2
+    },
+    {
+      "word": "잉글랜드",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "한동훈",
+        "count": 3
+      },
+      {
+        "word": "안철수",
+        "count": 2
+      },
+      {
+        "word": "복당",
+        "count": 2
+      },
+      {
+        "word": "반대",
+        "count": 2
+      },
+      {
+        "word": "얼씬도",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "우승",
+        "count": 6
+      },
+      {
+        "word": "꺾고",
+        "count": 4
+      },
+      {
+        "word": "노스코바",
+        "count": 3
+      },
+      {
+        "word": "윔블던",
+        "count": 3
+      },
+      {
+        "word": "연장",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "부동산",
+        "count": 2
+      },
+      {
+        "word": "현대차그룹",
+        "count": 2
+      },
+      {
+        "word": "조수미",
+        "count": 2
+      },
+      {
+        "word": "국제",
+        "count": 2
+      },
+      {
+        "word": "성악",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "잤을",
+        "count": 1
+      },
+      {
+        "word": "뿐인데",
+        "count": 1
+      },
+      {
+        "word": "피떡",
+        "count": 1
+      },
+      {
+        "word": "생겼다",
+        "count": 1
+      },
+      {
+        "word": "아침",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "태풍",
+        "count": 2
+      },
+      {
+        "word": "바비",
+        "count": 2
+      },
+      {
+        "word": "만명",
+        "count": 2
+      },
+      {
+        "word": "대피",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "오염된",
+        "count": 1
+      },
+      {
+        "word": "혈통",
+        "count": 1
+      },
+      {
+        "word": "되돌린다",
+        "count": 1
+      },
+      {
+        "word": "통일교",
+        "count": 1
+      },
+      {
+        "word": "신자",
+        "count": 1
+      }
+    ]
   }
 }
