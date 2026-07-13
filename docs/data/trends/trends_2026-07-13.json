@@ -1,9 +1,53 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T16:06:26.946821+09:00",
+  "generated_at": "2026-07-13T20:07:41.155628+09:00",
   "daily_top_keywords": [
     {
       "word": "발견",
+      "count": 7
+    },
+    {
+      "word": "우승",
+      "count": 6
+    },
+    {
+      "word": "메이저",
+      "count": 6
+    },
+    {
+      "word": "회장",
+      "count": 6
+    },
+    {
+      "word": "프랑스",
+      "count": 6
+    },
+    {
+      "word": "신네르",
+      "count": 5
+    },
+    {
+      "word": "윔블던",
+      "count": 5
+    },
+    {
+      "word": "확대",
+      "count": 5
+    },
+    {
+      "word": "선수",
+      "count": 5
+    },
+    {
+      "word": "월드컵",
+      "count": 5
+    },
+    {
+      "word": "폭염",
+      "count": 5
+    },
+    {
+      "word": "이유",
       "count": 5
     },
     {
@@ -11,121 +55,77 @@
       "count": 5
     },
     {
-      "word": "우승",
-      "count": 3
-    },
-    {
-      "word": "메이저",
-      "count": 3
-    },
-    {
-      "word": "신네르",
-      "count": 3
-    },
-    {
-      "word": "윔블던",
-      "count": 3
-    },
-    {
-      "word": "확대",
-      "count": 3
-    },
-    {
-      "word": "선수",
-      "count": 3
-    },
-    {
-      "word": "번째",
-      "count": 3
-    },
-    {
-      "word": "오픈",
-      "count": 3
-    },
-    {
-      "word": "이유",
-      "count": 3
-    },
-    {
-      "word": "정청래",
-      "count": 3
-    },
-    {
-      "word": "이용해",
-      "count": 3
-    },
-    {
-      "word": "대선",
-      "count": 3
+      "word": "삼성",
+      "count": 5
     },
     {
       "word": "우승으로",
-      "count": 2
+      "count": 4
     },
     {
       "word": "유해란",
-      "count": 2
-    },
-    {
-      "word": "연패",
-      "count": 2
-    },
-    {
-      "word": "통산",
-      "count": 2
-    },
-    {
-      "word": "회장",
-      "count": 2
+      "count": 4
     },
     {
       "word": "개국",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "검토",
+      "count": 4
+    },
+    {
+      "word": "오픈",
+      "count": 4
+    },
+    {
+      "word": "사망",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "정청래",
-        "count": 3
-      },
-      {
-        "word": "이용해",
-        "count": 3
-      },
-      {
-        "word": "대선",
-        "count": 3
-      },
-      {
         "word": "서울시장만",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한복",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "입었나",
+        "count": 4
+      },
+      {
+        "word": "청계천",
+        "count": 4
+      },
+      {
+        "word": "준공식서",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "우승",
-        "count": 3
+        "word": "메이저",
+        "count": 6
       },
       {
-        "word": "메이저",
-        "count": 3
+        "word": "회장",
+        "count": 6
+      },
+      {
+        "word": "우승",
+        "count": 5
       },
       {
         "word": "신네르",
-        "count": 3
+        "count": 5
       },
       {
         "word": "윔블던",
-        "count": 3
-      },
-      {
-        "word": "우승으로",
-        "count": 2
+        "count": 5
       }
     ],
     "economy": [
@@ -134,20 +134,20 @@
         "count": 5
       },
       {
-        "word": "급락",
-        "count": 2
+        "word": "하닉",
+        "count": 3
       },
       {
-        "word": "발동",
-        "count": 2
+        "word": "급락",
+        "count": 3
+      },
+      {
+        "word": "삼성",
+        "count": 3
       },
       {
         "word": "오픈",
-        "count": 2
-      },
-      {
-        "word": "정부",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
@@ -156,64 +156,64 @@
         "count": 3
       },
       {
-        "word": "명태균",
+        "word": "경찰",
+        "count": 3
+      },
+      {
+        "word": "사이다처럼",
         "count": 2
       },
       {
-        "word": "여론조사",
+        "word": "부글부글",
         "count": 2
       },
       {
-        "word": "김건희",
-        "count": 2
-      },
-      {
-        "word": "김하수",
+        "word": "북극",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "프랑스",
-        "count": 2
+        "count": 5
       },
       {
         "word": "선수",
-        "count": 2
-      },
-      {
-        "word": "발언",
-        "count": 2
+        "count": 4
       },
       {
         "word": "사망",
-        "count": 2
+        "count": 4
       },
       {
         "word": "발견",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "트럼프",
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "삼성",
-        "count": 1
+        "count": 2
       },
       {
         "word": "구자욱에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "얼굴로",
-        "count": 1
+        "count": 2
       },
       {
         "word": "밀어붙여",
-        "count": 1
+        "count": 2
       },
       {
         "word": "고개",
-        "count": 1
+        "count": 2
       }
     ]
   }
