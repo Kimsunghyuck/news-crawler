@@ -1,219 +1,219 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T15:46:21.814593+09:00",
+  "generated_at": "2026-07-14T19:38:31.660674+09:00",
   "daily_top_keywords": [
     {
       "word": "오세훈",
-      "count": 4
+      "count": 7
     },
     {
       "word": "유해란",
-      "count": 3
-    },
-    {
-      "word": "삼성",
-      "count": 3
+      "count": 6
     },
     {
       "word": "부동산",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 2
+      "count": 6
     },
     {
       "word": "우승",
-      "count": 2
-    },
-    {
-      "word": "메이저",
-      "count": 2
-    },
-    {
-      "word": "반격",
-      "count": 2
-    },
-    {
-      "word": "검토",
-      "count": 2
+      "count": 5
     },
     {
       "word": "만에",
-      "count": 2
-    },
-    {
-      "word": "이적",
-      "count": 2
-    },
-    {
-      "word": "이란",
-      "count": 2
+      "count": 5
     },
     {
       "word": "뭐길래",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "우크라",
-      "count": 2
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "메이저",
+      "count": 4
+    },
+    {
+      "word": "검토",
+      "count": 4
     },
     {
       "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "지정",
-      "count": 2
+      "count": 4
     },
     {
       "word": "법원",
-      "count": 2
+      "count": 4
     },
     {
       "word": "대통령",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "만든",
-      "count": 2
+      "word": "삼성",
+      "count": 4
     },
     {
-      "word": "반대",
-      "count": 2
+      "word": "한국서",
+      "count": 4
+    },
+    {
+      "word": "충격",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "말씀만",
+      "count": 4
+    },
+    {
+      "word": "억원",
+      "count": 3
+    },
+    {
+      "word": "반격",
+      "count": 3
+    },
+    {
+      "word": "김진욱",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "오세훈",
-        "count": 3
+        "count": 6
       },
       {
         "word": "부동산",
-        "count": 3
+        "count": 6
       },
       {
         "word": "말씀만",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "대통령",
+        "count": 3
       },
       {
         "word": "한성숙",
-        "count": 1
-      },
-      {
-        "word": "서면으로",
-        "count": 1
+        "count": 2
       }
     ],
     "sports": [
       {
         "word": "유해란",
-        "count": 3
+        "count": 6
       },
       {
         "word": "우승",
-        "count": 2
+        "count": 5
       },
       {
         "word": "메이저",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이적",
-        "count": 2
+        "word": "김진욱",
+        "count": 3
       },
       {
-        "word": "여자골프",
-        "count": 1
+        "word": "프로야구",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "급락장에",
-        "count": 1
+        "word": "호남반도체",
+        "count": 2
       },
       {
-        "word": "코스닥",
-        "count": 1
+        "word": "직원",
+        "count": 2
       },
       {
-        "word": "매도",
-        "count": 1
+        "word": "반대",
+        "count": 2
       },
       {
-        "word": "사이드카",
-        "count": 1
+        "word": "삼성",
+        "count": 2
       },
       {
-        "word": "발동",
-        "count": 1
+        "word": "초기업노조",
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "징역",
+        "count": 3
+      },
+      {
+        "word": "충격",
+        "count": 3
+      },
+      {
         "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "대치",
         "count": 2
       },
       {
-        "word": "오늘의",
-        "count": 1
-      },
-      {
-        "word": "운세",
-        "count": 1
-      },
-      {
-        "word": "심정지",
-        "count": 1
-      },
-      {
-        "word": "쓰러진",
-        "count": 1
+        "word": "뺑뺑이보다",
+        "count": 2
       }
     ],
     "international": [
       {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
         "word": "이란",
-        "count": 2
+        "count": 3
       },
       {
         "word": "우크라",
-        "count": 2
-      },
-      {
-        "word": "트럼프",
-        "count": 2
+        "count": 3
       },
       {
         "word": "술집",
-        "count": 1
+        "count": 2
       },
       {
         "word": "화재에",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "이야기",
-        "count": 2
-      },
-      {
-        "word": "화가",
-        "count": 2
+        "count": 3
       },
       {
         "word": "장동민",
-        "count": 1
+        "count": 2
       },
       {
         "word": "특허",
-        "count": 1
+        "count": 2
       },
       {
         "word": "냈다",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "대기업도",
+        "count": 2
       }
     ]
   }
