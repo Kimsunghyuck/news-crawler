@@ -1,219 +1,219 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T15:48:39.115395+09:00",
+  "generated_at": "2026-07-15T19:39:16.547104+09:00",
   "daily_top_keywords": [
     {
       "word": "스페인",
-      "count": 4
+      "count": 7
     },
     {
       "word": "대통령",
-      "count": 4
-    },
-    {
-      "word": "만원",
-      "count": 4
+      "count": 7
     },
     {
       "word": "된다",
-      "count": 4
-    },
-    {
-      "word": "이란",
-      "count": 3
-    },
-    {
-      "word": "여성",
-      "count": 3
+      "count": 6
     },
     {
       "word": "삼전닉스",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "만원",
+      "count": 6
     },
     {
       "word": "정부",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "후반기",
-      "count": 2
+      "word": "논란",
+      "count": 5
     },
     {
-      "word": "야말",
-      "count": 2
+      "word": "장윤기",
+      "count": 4
     },
     {
-      "word": "프랑스",
-      "count": 2
+      "word": "여고생",
+      "count": 4
     },
     {
-      "word": "월드컵",
-      "count": 2
+      "word": "여성",
+      "count": 4
     },
     {
-      "word": "그냥",
-      "count": 2
+      "word": "김건희",
+      "count": 4
     },
     {
-      "word": "역대",
-      "count": 2
+      "word": "여사",
+      "count": 4
     },
     {
-      "word": "최초",
-      "count": 2
+      "word": "자주",
+      "count": 4
     },
     {
-      "word": "달러",
-      "count": 2
+      "word": "숨겼다",
+      "count": 4
+    },
+    {
+      "word": "반창고",
+      "count": 4
+    },
+    {
+      "word": "붙인",
+      "count": 4
+    },
+    {
+      "word": "흉터의",
+      "count": 4
+    },
+    {
+      "word": "비밀",
+      "count": 4
     },
     {
       "word": "사망",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "발칵",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "명이",
-      "count": 2
+      "word": "깜짝",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "대전",
-        "count": 2
+        "word": "한동훈",
+        "count": 3
       },
       {
-        "word": "자운대",
-        "count": 2
-      },
-      {
-        "word": "년제",
-        "count": 2
-      },
-      {
-        "word": "유력",
-        "count": 2
+        "word": "유시민",
+        "count": 3
       },
       {
         "word": "대통령",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "통합",
+        "count": 3
+      },
+      {
+        "word": "대전",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "후반기",
-        "count": 2
+        "word": "스페인",
+        "count": 4
       },
       {
-        "word": "스페인",
-        "count": 2
+        "word": "후반기",
+        "count": 4
+      },
+      {
+        "word": "메이저",
+        "count": 3
+      },
+      {
+        "word": "껑충",
+        "count": 3
       },
       {
         "word": "월드컵",
-        "count": 2
-      },
-      {
-        "word": "축구",
-        "count": 1
-      },
-      {
-        "word": "종가",
-        "count": 1
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "만원",
+        "count": 6
+      },
+      {
+        "word": "정부",
         "count": 4
       },
       {
         "word": "넣어라",
-        "count": 2
+        "count": 4
       },
       {
         "word": "된다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "삼전닉스",
-        "count": 2
-      },
-      {
-        "word": "이을",
-        "count": 2
+        "count": 4
       }
     ],
     "society": [
       {
         "word": "장윤기",
-        "count": 2
+        "count": 4
       },
       {
         "word": "여고생",
+        "count": 4
+      },
+      {
+        "word": "덜미",
+        "count": 3
+      },
+      {
+        "word": "경찰이",
         "count": 2
       },
       {
-        "word": "김건희",
-        "count": 1
-      },
-      {
-        "word": "여사",
-        "count": 1
-      },
-      {
-        "word": "자주",
-        "count": 1
+        "word": "불송치한",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "스페인",
-        "count": 2
-      },
-      {
-        "word": "발칵",
-        "count": 2
+        "count": 3
       },
       {
         "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "발칵",
+        "count": 3
+      },
+      {
+        "word": "서유럽",
         "count": 2
       },
       {
-        "word": "이란",
+        "word": "마지막",
         "count": 2
-      },
-      {
-        "word": "태풍에",
-        "count": 1
       }
     ],
     "culture": [
       {
         "word": "논란",
-        "count": 2
+        "count": 4
       },
       {
         "word": "흥행",
+        "count": 3
+      },
+      {
+        "word": "불교",
         "count": 2
       },
       {
-        "word": "김수현",
-        "count": 1
+        "word": "일타강사",
+        "count": 2
       },
       {
-        "word": "공식",
-        "count": 1
-      },
-      {
-        "word": "할동",
-        "count": 1
+        "word": "원영",
+        "count": 2
       }
     ]
   }
