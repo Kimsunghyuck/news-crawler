@@ -1,13 +1,220 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T09:39:54.009572+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-15T15:48:39.115395+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "스페인",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "된다",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "여성",
+      "count": 3
+    },
+    {
+      "word": "삼전닉스",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "후반기",
+      "count": 2
+    },
+    {
+      "word": "야말",
+      "count": 2
+    },
+    {
+      "word": "프랑스",
+      "count": 2
+    },
+    {
+      "word": "월드컵",
+      "count": 2
+    },
+    {
+      "word": "그냥",
+      "count": 2
+    },
+    {
+      "word": "역대",
+      "count": 2
+    },
+    {
+      "word": "최초",
+      "count": 2
+    },
+    {
+      "word": "달러",
+      "count": 2
+    },
+    {
+      "word": "사망",
+      "count": 2
+    },
+    {
+      "word": "발칵",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "명이",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대전",
+        "count": 2
+      },
+      {
+        "word": "자운대",
+        "count": 2
+      },
+      {
+        "word": "년제",
+        "count": 2
+      },
+      {
+        "word": "유력",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "후반기",
+        "count": 2
+      },
+      {
+        "word": "스페인",
+        "count": 2
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "축구",
+        "count": 1
+      },
+      {
+        "word": "종가",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "만원",
+        "count": 4
+      },
+      {
+        "word": "넣어라",
+        "count": 2
+      },
+      {
+        "word": "된다",
+        "count": 2
+      },
+      {
+        "word": "삼전닉스",
+        "count": 2
+      },
+      {
+        "word": "이을",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "장윤기",
+        "count": 2
+      },
+      {
+        "word": "여고생",
+        "count": 2
+      },
+      {
+        "word": "김건희",
+        "count": 1
+      },
+      {
+        "word": "여사",
+        "count": 1
+      },
+      {
+        "word": "자주",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "스페인",
+        "count": 2
+      },
+      {
+        "word": "발칵",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "태풍에",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "논란",
+        "count": 2
+      },
+      {
+        "word": "흥행",
+        "count": 2
+      },
+      {
+        "word": "김수현",
+        "count": 1
+      },
+      {
+        "word": "공식",
+        "count": 1
+      },
+      {
+        "word": "할동",
+        "count": 1
+      }
+    ]
   }
 }
