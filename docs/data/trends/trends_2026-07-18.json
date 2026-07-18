@@ -1,219 +1,219 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T15:41:26.473445+09:00",
+  "generated_at": "2026-07-18T19:35:53.754076+09:00",
   "daily_top_keywords": [
     {
       "word": "만에",
-      "count": 5
+      "count": 10
     },
     {
       "word": "손흥민",
-      "count": 4
+      "count": 9
     },
     {
       "word": "리그",
-      "count": 4
+      "count": 9
     },
     {
       "word": "경기서",
-      "count": 4
+      "count": 8
     },
     {
       "word": "후반기",
-      "count": 3
+      "count": 6
     },
     {
       "word": "호골",
-      "count": 3
+      "count": 6
     },
     {
       "word": "폭발",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "시즌",
+      "count": 5
+    },
+    {
+      "word": "월드컵",
+      "count": 5
     },
     {
       "word": "정청래",
-      "count": 3
+      "count": 5
     },
     {
       "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "캐나다",
-      "count": 3
-    },
-    {
-      "word": "마지막",
-      "count": 2
-    },
-    {
-      "word": "하천에",
-      "count": 2
-    },
-    {
-      "word": "여주",
-      "count": 2
-    },
-    {
-      "word": "크기",
-      "count": 2
-    },
-    {
-      "word": "포획",
-      "count": 2
-    },
-    {
-      "word": "서해",
-      "count": 2
-    },
-    {
-      "word": "인천",
-      "count": 2
+      "count": 5
     },
     {
       "word": "자살",
-      "count": 2
+      "count": 4
     },
     {
       "word": "깜짝",
-      "count": 2
+      "count": 4
     },
     {
       "word": "세계",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "이정후",
+      "count": 4
+    },
+    {
+      "word": "안타",
+      "count": 4
+    },
+    {
+      "word": "복귀",
+      "count": 4
+    },
+    {
+      "word": "이건태",
+      "count": 4
+    },
+    {
+      "word": "토론",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "정청래",
-        "count": 3
-      },
-      {
-        "word": "감사원",
-        "count": 2
+        "count": 5
       },
       {
         "word": "이건태",
-        "count": 1
-      },
-      {
-        "word": "한동훈과",
-        "count": 1
+        "count": 4
       },
       {
         "word": "토론",
-        "count": 1
+        "count": 4
+      },
+      {
+        "word": "감사원",
+        "count": 4
+      },
+      {
+        "word": "보완수사권",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "리그",
-        "count": 4
+        "count": 8
       },
       {
         "word": "경기서",
-        "count": 4
+        "count": 8
       },
       {
         "word": "후반기",
-        "count": 3
+        "count": 6
       },
       {
         "word": "손흥민",
-        "count": 3
+        "count": 6
       },
       {
         "word": "이정후",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "돈줄",
-        "count": 2
+        "count": 4
       },
       {
         "word": "주담대",
-        "count": 2
+        "count": 4
       },
       {
         "word": "급락",
-        "count": 2
+        "count": 4
       },
       {
         "word": "반도체",
-        "count": 2
+        "count": 4
       },
       {
         "word": "피크아웃",
-        "count": 2
+        "count": 4
       }
     ],
     "society": [
       {
-        "word": "하천에",
-        "count": 2
+        "word": "자살",
+        "count": 4
       },
       {
         "word": "여주",
-        "count": 2
+        "count": 3
       },
       {
         "word": "크기",
-        "count": 2
-      },
-      {
-        "word": "포획",
-        "count": 2
+        "count": 3
       },
       {
         "word": "인천",
+        "count": 3
+      },
+      {
+        "word": "소아",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 5
       },
       {
         "word": "캐나다",
-        "count": 3
+        "count": 4
       },
       {
         "word": "산불",
-        "count": 2
+        "count": 3
       },
       {
         "word": "관세",
-        "count": 2
+        "count": 3
       },
       {
         "word": "이란",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "연속",
-        "count": 2
+        "count": 4
       },
       {
         "word": "커진",
-        "count": 2
+        "count": 4
       },
       {
         "word": "방탄소년단",
-        "count": 2
+        "count": 4
       },
       {
         "word": "아리랑",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "세계유산위원회",
-        "count": 1
+        "word": "만에",
+        "count": 3
       }
     ]
   }
