@@ -1,13 +1,220 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T09:48:24.764579+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-19T15:53:08.297492+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 6
+    },
+    {
+      "word": "월드컵",
+      "count": 6
+    },
+    {
+      "word": "시간",
+      "count": 3
+    },
+    {
+      "word": "허용",
+      "count": 3
+    },
+    {
+      "word": "논란",
+      "count": 3
+    },
+    {
+      "word": "김용범",
+      "count": 3
+    },
+    {
+      "word": "죄송",
+      "count": 3
+    },
+    {
+      "word": "유시민",
+      "count": 3
+    },
+    {
+      "word": "윤건영",
+      "count": 3
+    },
+    {
+      "word": "해외",
+      "count": 3
+    },
+    {
+      "word": "호프",
+      "count": 3
+    },
+    {
+      "word": "돌파",
+      "count": 3
+    },
+    {
+      "word": "반도체",
+      "count": 3
+    },
+    {
+      "word": "강남",
+      "count": 2
+    },
+    {
+      "word": "불법",
+      "count": 2
+    },
+    {
+      "word": "개국",
+      "count": 2
+    },
+    {
+      "word": "비판",
+      "count": 2
+    },
+    {
+      "word": "음바페",
+      "count": 2
+    },
+    {
+      "word": "통산",
+      "count": 2
+    },
+    {
+      "word": "이끈",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "김용범",
+        "count": 3
+      },
+      {
+        "word": "죄송",
+        "count": 3
+      },
+      {
+        "word": "유시민",
+        "count": 3
+      },
+      {
+        "word": "윤건영",
+        "count": 3
+      },
+      {
+        "word": "논란",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "경기서",
+        "count": 2
+      },
+      {
+        "word": "디섐보",
+        "count": 2
+      },
+      {
+        "word": "악플",
+        "count": 1
+      },
+      {
+        "word": "받던",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "반도체",
+        "count": 3
+      },
+      {
+        "word": "해외",
+        "count": 2
+      },
+      {
+        "word": "수도",
+        "count": 2
+      },
+      {
+        "word": "원화",
+        "count": 2
+      },
+      {
+        "word": "최태원",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "불법",
+        "count": 2
+      },
+      {
+        "word": "허용",
+        "count": 2
+      },
+      {
+        "word": "개국",
+        "count": 2
+      },
+      {
+        "word": "서울",
+        "count": 1
+      },
+      {
+        "word": "초등생",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "월드컵",
+        "count": 4
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "파기",
+        "count": 2
+      },
+      {
+        "word": "미군",
+        "count": 2
+      },
+      {
+        "word": "실종",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "호프",
+        "count": 3
+      },
+      {
+        "word": "돌파",
+        "count": 3
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "나홍진",
+        "count": 2
+      },
+      {
+        "word": "영화",
+        "count": 1
+      }
+    ]
   }
 }
