@@ -1,219 +1,219 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T15:53:08.297492+09:00",
+  "generated_at": "2026-07-19T19:36:48.431605+09:00",
   "daily_top_keywords": [
     {
       "word": "만에",
-      "count": 6
+      "count": 13
     },
     {
       "word": "월드컵",
+      "count": 9
+    },
+    {
+      "word": "김용범",
+      "count": 7
+    },
+    {
+      "word": "돌파",
+      "count": 6
+    },
+    {
+      "word": "죄송",
+      "count": 6
+    },
+    {
+      "word": "반도체",
       "count": 6
     },
     {
       "word": "시간",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "허용",
-      "count": 3
+      "word": "한국",
+      "count": 5
     },
     {
       "word": "논란",
-      "count": 3
-    },
-    {
-      "word": "김용범",
-      "count": 3
-    },
-    {
-      "word": "죄송",
-      "count": 3
-    },
-    {
-      "word": "유시민",
-      "count": 3
-    },
-    {
-      "word": "윤건영",
-      "count": 3
+      "count": 5
     },
     {
       "word": "해외",
-      "count": 3
+      "count": 5
     },
     {
       "word": "호프",
-      "count": 3
-    },
-    {
-      "word": "돌파",
-      "count": 3
-    },
-    {
-      "word": "반도체",
-      "count": 3
+      "count": 5
     },
     {
       "word": "강남",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "불법",
-      "count": 2
+      "word": "허용",
+      "count": 4
     },
     {
-      "word": "개국",
-      "count": 2
-    },
-    {
-      "word": "비판",
-      "count": 2
-    },
-    {
-      "word": "음바페",
-      "count": 2
-    },
-    {
-      "word": "통산",
-      "count": 2
+      "word": "이유",
+      "count": 4
     },
     {
       "word": "이끈",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "디섐보",
+      "count": 4
+    },
+    {
+      "word": "신기록",
+      "count": 4
+    },
+    {
+      "word": "손흥민",
+      "count": 4
+    },
+    {
+      "word": "레버리지",
+      "count": 4
+    },
+    {
+      "word": "유시민",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "김용범",
-        "count": 3
+        "count": 7
       },
       {
         "word": "죄송",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "레버리지",
+        "count": 4
       },
       {
         "word": "유시민",
-        "count": 3
+        "count": 4
       },
       {
         "word": "윤건영",
-        "count": 3
-      },
-      {
-        "word": "논란",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "월드컵",
-        "count": 2
-      },
-      {
-        "word": "경기서",
-        "count": 2
+        "count": 4
       },
       {
         "word": "디섐보",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "만에",
+        "count": 3
+      },
+      {
+        "word": "경기서",
+        "count": 3
       },
       {
         "word": "악플",
-        "count": 1
-      },
-      {
-        "word": "받던",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "반도체",
+        "count": 6
+      },
+      {
+        "word": "투자",
+        "count": 3
+      },
+      {
+        "word": "정부",
         "count": 3
       },
       {
         "word": "해외",
-        "count": 2
+        "count": 3
       },
       {
         "word": "수도",
-        "count": 2
-      },
-      {
-        "word": "원화",
-        "count": 2
-      },
-      {
-        "word": "최태원",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "불법",
-        "count": 2
+        "word": "여고생",
+        "count": 3
       },
       {
-        "word": "허용",
-        "count": 2
+        "word": "은마아파트",
+        "count": 3
       },
       {
-        "word": "개국",
-        "count": 2
+        "word": "화재",
+        "count": 3
+      },
+      {
+        "word": "법원",
+        "count": 3
       },
       {
         "word": "서울",
-        "count": 1
-      },
-      {
-        "word": "초등생",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "월드컵",
-        "count": 4
+        "count": 5
       },
       {
         "word": "이란",
-        "count": 2
-      },
-      {
-        "word": "파기",
-        "count": 2
+        "count": 4
       },
       {
         "word": "미군",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "실종",
-        "count": 2
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "파기",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "호프",
-        "count": 3
+        "count": 5
       },
       {
         "word": "돌파",
-        "count": 3
+        "count": 5
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 4
       },
       {
         "word": "나홍진",
-        "count": 2
+        "count": 3
       },
       {
         "word": "영화",
-        "count": 1
+        "count": 2
       }
     ]
   }
