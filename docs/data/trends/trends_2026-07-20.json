@@ -1,13 +1,220 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T09:48:15.182591+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-20T16:05:32.565343+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "메시",
+      "count": 5
+    },
+    {
+      "word": "월드컵",
+      "count": 5
+    },
+    {
+      "word": "오픈",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "종합특검",
+      "count": 3
+    },
+    {
+      "word": "김시우",
+      "count": 3
+    },
+    {
+      "word": "아르헨",
+      "count": 3
+    },
+    {
+      "word": "호프",
+      "count": 3
+    },
+    {
+      "word": "나홍진",
+      "count": 3
+    },
+    {
+      "word": "돌파",
+      "count": 3
+    },
+    {
+      "word": "쿠팡",
+      "count": 2
+    },
+    {
+      "word": "챙긴",
+      "count": 2
+    },
+    {
+      "word": "없이",
+      "count": 2
+    },
+    {
+      "word": "최대",
+      "count": 2
+    },
+    {
+      "word": "공동",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "가장",
+      "count": 2
+    },
+    {
+      "word": "폭스",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "전달",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "종합특검",
+        "count": 2
+      },
+      {
+        "word": "본회의",
+        "count": 2
+      },
+      {
+        "word": "상정",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "통일부",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "오픈",
+        "count": 4
+      },
+      {
+        "word": "김시우",
+        "count": 3
+      },
+      {
+        "word": "폭스",
+        "count": 2
+      },
+      {
+        "word": "메시",
+        "count": 2
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "게임",
+        "count": 2
+      },
+      {
+        "word": "삼전닉스",
+        "count": 2
+      },
+      {
+        "word": "종목",
+        "count": 2
+      },
+      {
+        "word": "요가",
+        "count": 1
+      },
+      {
+        "word": "필라테스",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "쿠팡",
+        "count": 2
+      },
+      {
+        "word": "챙긴",
+        "count": 2
+      },
+      {
+        "word": "장윤기",
+        "count": 1
+      },
+      {
+        "word": "큰아빠",
+        "count": 1
+      },
+      {
+        "word": "증거인멸",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "호르무즈",
+        "count": 2
+      },
+      {
+        "word": "체포",
+        "count": 2
+      },
+      {
+        "word": "메시",
+        "count": 2
+      },
+      {
+        "word": "아르헨",
+        "count": 2
+      },
+      {
+        "word": "이어",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "호프",
+        "count": 3
+      },
+      {
+        "word": "나홍진",
+        "count": 3
+      },
+      {
+        "word": "돌파",
+        "count": 3
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      }
+    ]
   }
 }
