@@ -1,219 +1,219 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T16:05:32.565343+09:00",
+  "generated_at": "2026-07-20T20:08:04.166575+09:00",
   "daily_top_keywords": [
     {
-      "word": "메시",
-      "count": 5
-    },
-    {
       "word": "월드컵",
-      "count": 5
+      "count": 9
     },
     {
       "word": "오픈",
-      "count": 4
+      "count": 8
     },
     {
-      "word": "만원",
-      "count": 3
+      "word": "메시",
+      "count": 8
     },
     {
-      "word": "종합특검",
-      "count": 3
+      "word": "대통령",
+      "count": 7
     },
     {
       "word": "김시우",
-      "count": 3
+      "count": 6
     },
     {
       "word": "아르헨",
-      "count": 3
+      "count": 6
     },
     {
       "word": "호프",
-      "count": 3
+      "count": 6
     },
     {
       "word": "나홍진",
-      "count": 3
-    },
-    {
-      "word": "돌파",
-      "count": 3
-    },
-    {
-      "word": "쿠팡",
-      "count": 2
-    },
-    {
-      "word": "챙긴",
-      "count": 2
-    },
-    {
-      "word": "없이",
-      "count": 2
-    },
-    {
-      "word": "최대",
-      "count": 2
-    },
-    {
-      "word": "공동",
-      "count": 2
-    },
-    {
-      "word": "한국",
-      "count": 2
-    },
-    {
-      "word": "가장",
-      "count": 2
-    },
-    {
-      "word": "폭스",
-      "count": 2
+      "count": 6
     },
     {
       "word": "트럼프",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "전달",
-      "count": 2
+      "word": "돌파",
+      "count": 5
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "출산",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "폭스",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "내가",
+      "count": 4
+    },
+    {
+      "word": "거지",
+      "count": 4
+    },
+    {
+      "word": "게임",
+      "count": 4
+    },
+    {
+      "word": "삼전닉스",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "종합특검",
-        "count": 2
+        "word": "대통령",
+        "count": 4
       },
       {
-        "word": "본회의",
-        "count": 2
-      },
-      {
-        "word": "상정",
-        "count": 2
+        "word": "한동훈",
+        "count": 3
       },
       {
         "word": "국힘",
-        "count": 2
+        "count": 3
       },
       {
         "word": "통일부",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "오픈",
-        "count": 4
+        "count": 8
       },
       {
         "word": "김시우",
-        "count": 3
+        "count": 6
       },
       {
         "word": "폭스",
-        "count": 2
-      },
-      {
-        "word": "메시",
-        "count": 2
+        "count": 4
       },
       {
         "word": "월드컵",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "메시",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "게임",
-        "count": 2
+        "count": 4
       },
       {
         "word": "삼전닉스",
-        "count": 2
+        "count": 4
       },
       {
         "word": "종목",
-        "count": 2
+        "count": 4
       },
       {
         "word": "요가",
-        "count": 1
+        "count": 2
       },
       {
         "word": "필라테스",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "쿠팡",
+        "count": 3
+      },
+      {
+        "word": "리튬배터리",
         "count": 2
       },
       {
-        "word": "챙긴",
+        "word": "로봇",
         "count": 2
       },
       {
-        "word": "장윤기",
-        "count": 1
+        "word": "수백대",
+        "count": 2
       },
       {
-        "word": "큰아빠",
-        "count": 1
-      },
-      {
-        "word": "증거인멸",
-        "count": 1
+        "word": "물류센터",
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "호르무즈",
-        "count": 2
-      },
-      {
-        "word": "체포",
-        "count": 2
-      },
-      {
         "word": "메시",
-        "count": 2
+        "count": 4
       },
       {
         "word": "아르헨",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이어",
-        "count": 1
+        "word": "호르무즈",
+        "count": 3
+      },
+      {
+        "word": "체포",
+        "count": 3
+      },
+      {
+        "word": "밴스",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "호프",
-        "count": 3
+        "count": 6
       },
       {
         "word": "나홍진",
-        "count": 3
+        "count": 6
       },
       {
         "word": "돌파",
-        "count": 3
-      },
-      {
-        "word": "월드컵",
-        "count": 2
+        "count": 5
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "내가",
+        "count": 4
       }
     ]
   }
