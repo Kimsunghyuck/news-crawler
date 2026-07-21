@@ -1,219 +1,219 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T15:52:56.927118+09:00",
+  "generated_at": "2026-07-21T19:47:40.821618+09:00",
   "daily_top_keywords": [
+    {
+      "word": "메시",
+      "count": 7
+    },
+    {
+      "word": "만에",
+      "count": 7
+    },
+    {
+      "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "사진",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "회사",
+      "count": 4
+    },
+    {
+      "word": "매출",
+      "count": 4
+    },
+    {
+      "word": "구속",
+      "count": 4
+    },
+    {
+      "word": "외국인",
+      "count": 4
+    },
     {
       "word": "만원",
       "count": 4
     },
     {
-      "word": "메시",
+      "word": "무슨",
       "count": 4
     },
     {
-      "word": "회사",
-      "count": 3
-    },
-    {
-      "word": "매출",
-      "count": 3
-    },
-    {
-      "word": "외국인",
-      "count": 3
-    },
-    {
-      "word": "신진서",
-      "count": 3
-    },
-    {
       "word": "월드컵",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "만에",
-      "count": 3
+      "word": "앞둔",
+      "count": 4
     },
     {
-      "word": "한국",
-      "count": 3
+      "word": "논란",
+      "count": 4
     },
     {
-      "word": "사진",
-      "count": 3
+      "word": "아르헨",
+      "count": 4
     },
     {
-      "word": "트럼프",
-      "count": 3
+      "word": "우크라",
+      "count": 4
     },
     {
-      "word": "선관위",
-      "count": 2
+      "word": "김건희",
+      "count": 4
     },
     {
-      "word": "박나래",
-      "count": 2
+      "word": "여사",
+      "count": 4
     },
     {
-      "word": "매니저",
-      "count": 2
+      "word": "블핑",
+      "count": 4
     },
     {
-      "word": "구속",
-      "count": 2
-    },
-    {
-      "word": "층서",
-      "count": 2
-    },
-    {
-      "word": "이불",
-      "count": 2
-    },
-    {
-      "word": "추락",
-      "count": 2
-    },
-    {
-      "word": "학생",
-      "count": 2
-    },
-    {
-      "word": "연속",
-      "count": 2
+      "word": "제니",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "종합특검",
-        "count": 2
+        "word": "김건희",
+        "count": 4
       },
       {
-        "word": "연장법",
-        "count": 2
+        "word": "여사",
+        "count": 4
       },
       {
-        "word": "본회의",
-        "count": 2
+        "word": "블핑",
+        "count": 4
       },
       {
-        "word": "통과",
-        "count": 2
+        "word": "제니",
+        "count": 4
       },
       {
-        "word": "정점식",
-        "count": 2
+        "word": "닮았죠",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "월드컵",
-        "count": 3
-      },
-      {
-        "word": "스페인",
-        "count": 2
-      },
-      {
-        "word": "결승전",
-        "count": 2
-      },
-      {
-        "word": "최악의",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "스페인",
+        "count": 3
+      },
+      {
+        "word": "결승전",
+        "count": 3
+      },
+      {
+        "word": "최악의",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "참여",
-        "count": 2
+        "word": "막는다",
+        "count": 3
       },
       {
-        "word": "출시",
-        "count": 2
+        "word": "공급",
+        "count": 3
+      },
+      {
+        "word": "투자",
+        "count": 3
+      },
+      {
+        "word": "경고",
+        "count": 3
       },
       {
         "word": "신현송이",
-        "count": 1
-      },
-      {
-        "word": "지목한",
-        "count": 1
-      },
-      {
-        "word": "고환율",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "구속",
+        "count": 4
+      },
+      {
         "word": "외국인",
-        "count": 3
+        "count": 4
       },
       {
         "word": "회사",
-        "count": 2
+        "count": 3
       },
       {
         "word": "매출",
-        "count": 2
+        "count": 3
       },
       {
         "word": "박나래",
-        "count": 2
-      },
-      {
-        "word": "매니저",
-        "count": 2
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "메시",
-        "count": 3
-      },
-      {
-        "word": "미군",
-        "count": 2
-      },
-      {
-        "word": "트럼프",
-        "count": 2
+        "count": 6
       },
       {
         "word": "우크라",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 3
       },
       {
         "word": "드론",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "대로",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "신작",
+        "count": 3
+      },
+      {
+        "word": "정보",
         "count": 2
       },
       {
-        "word": "아이돌",
-        "count": 1
+        "word": "없어",
+        "count": 2
       },
       {
-        "word": "사투리",
-        "count": 1
-      },
-      {
-        "word": "입담",
-        "count": 1
+        "word": "오히려",
+        "count": 2
       }
     ]
   }
