@@ -1,219 +1,219 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T15:55:47.748881+09:00",
+  "generated_at": "2026-07-22T19:49:08.352792+09:00",
   "daily_top_keywords": [
     {
+      "word": "만에",
+      "count": 8
+    },
+    {
+      "word": "투어",
+      "count": 8
+    },
+    {
       "word": "만원",
-      "count": 5
+      "count": 7
     },
     {
       "word": "오세훈",
-      "count": 4
+      "count": 6
     },
     {
       "word": "벌금",
+      "count": 6
+    },
+    {
+      "word": "뉴진스",
+      "count": 6
+    },
+    {
+      "word": "영상",
+      "count": 6
+    },
+    {
+      "word": "경찰",
+      "count": 5
+    },
+    {
+      "word": "월드컵",
+      "count": 5
+    },
+    {
+      "word": "국내",
+      "count": 5
+    },
+    {
+      "word": "사건",
+      "count": 5
+    },
+    {
+      "word": "김민석",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "젤렌스키",
+      "count": 5
+    },
+    {
+      "word": "하닉",
+      "count": 5
+    },
+    {
+      "word": "상실",
       "count": 4
     },
     {
-      "word": "만에",
+      "word": "공장",
       "count": 4
     },
     {
       "word": "여론조사",
-      "count": 3
+      "count": 4
     },
     {
       "word": "대납",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "월드컵",
-      "count": 3
-    },
-    {
-      "word": "최대",
-      "count": 3
-    },
-    {
-      "word": "사건",
-      "count": 3
-    },
-    {
-      "word": "뉴진스",
-      "count": 3
-    },
-    {
-      "word": "영상",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "하닉",
-      "count": 3
-    },
-    {
-      "word": "상실",
-      "count": 2
-    },
-    {
-      "word": "정청래",
-      "count": 2
-    },
-    {
-      "word": "아냐",
-      "count": 2
-    },
-    {
-      "word": "명태균",
-      "count": 2
-    },
-    {
-      "word": "유죄",
-      "count": 2
-    },
-    {
-      "word": "최악의",
-      "count": 2
-    },
-    {
-      "word": "승부수",
-      "count": 2
+      "word": "대회",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "사건",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "투표",
-        "count": 2
+        "word": "김민석",
+        "count": 5
       },
       {
-        "word": "못한",
-        "count": 2
+        "word": "김건희",
+        "count": 4
       },
       {
-        "word": "확인하니",
-        "count": 2
+        "word": "여사",
+        "count": 4
       },
       {
-        "word": "최대",
-        "count": 2
+        "word": "제니",
+        "count": 4
       }
     ],
     "sports": [
       {
+        "word": "투어",
+        "count": 8
+      },
+      {
         "word": "월드컵",
-        "count": 3
+        "count": 4
       },
       {
         "word": "최악의",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "감독",
+        "count": 3
       },
       {
         "word": "골프",
-        "count": 2
-      },
-      {
-        "word": "회장",
-        "count": 2
-      },
-      {
-        "word": "투어",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "하닉",
-        "count": 3
+        "count": 5
       },
       {
         "word": "대출",
-        "count": 2
-      },
-      {
-        "word": "개월",
-        "count": 2
+        "count": 3
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 3
       },
       {
         "word": "삼전",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "오하이오",
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "오세훈",
-        "count": 4
+        "count": 6
       },
       {
         "word": "벌금",
-        "count": 4
+        "count": 6
       },
       {
         "word": "만원",
+        "count": 5
+      },
+      {
+        "word": "상실",
         "count": 4
       },
       {
-        "word": "여론조사",
-        "count": 3
-      },
-      {
-        "word": "대납",
-        "count": 3
+        "word": "경찰",
+        "count": 4
       }
     ],
     "international": [
       {
-        "word": "쿠팡",
-        "count": 2
+        "word": "트럼프",
+        "count": 5
       },
       {
         "word": "젤렌스키",
-        "count": 2
-      },
-      {
-        "word": "패트리엇",
-        "count": 2
+        "count": 5
       },
       {
         "word": "드론",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "엔화",
-        "count": 1
+        "word": "영웅",
+        "count": 3
+      },
+      {
+        "word": "사망",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "뉴진스",
-        "count": 3
+        "count": 6
       },
       {
         "word": "영상",
-        "count": 3
-      },
-      {
-        "word": "질환",
-        "count": 2
+        "count": 6
       },
       {
         "word": "글쓰기",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "질환",
+        "count": 3
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 3
       }
     ]
   }
