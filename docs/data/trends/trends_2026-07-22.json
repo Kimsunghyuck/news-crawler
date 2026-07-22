@@ -1,13 +1,220 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T09:44:32.974062+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-22T15:55:47.748881+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "오세훈",
+      "count": 4
+    },
+    {
+      "word": "벌금",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "여론조사",
+      "count": 3
+    },
+    {
+      "word": "대납",
+      "count": 3
+    },
+    {
+      "word": "월드컵",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "사건",
+      "count": 3
+    },
+    {
+      "word": "뉴진스",
+      "count": 3
+    },
+    {
+      "word": "영상",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "하닉",
+      "count": 3
+    },
+    {
+      "word": "상실",
+      "count": 2
+    },
+    {
+      "word": "정청래",
+      "count": 2
+    },
+    {
+      "word": "아냐",
+      "count": 2
+    },
+    {
+      "word": "명태균",
+      "count": 2
+    },
+    {
+      "word": "유죄",
+      "count": 2
+    },
+    {
+      "word": "최악의",
+      "count": 2
+    },
+    {
+      "word": "승부수",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "사건",
+        "count": 3
+      },
+      {
+        "word": "투표",
+        "count": 2
+      },
+      {
+        "word": "못한",
+        "count": 2
+      },
+      {
+        "word": "확인하니",
+        "count": 2
+      },
+      {
+        "word": "최대",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "월드컵",
+        "count": 3
+      },
+      {
+        "word": "최악의",
+        "count": 2
+      },
+      {
+        "word": "골프",
+        "count": 2
+      },
+      {
+        "word": "회장",
+        "count": 2
+      },
+      {
+        "word": "투어",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "하닉",
+        "count": 3
+      },
+      {
+        "word": "대출",
+        "count": 2
+      },
+      {
+        "word": "개월",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "삼전",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "오세훈",
+        "count": 4
+      },
+      {
+        "word": "벌금",
+        "count": 4
+      },
+      {
+        "word": "만원",
+        "count": 4
+      },
+      {
+        "word": "여론조사",
+        "count": 3
+      },
+      {
+        "word": "대납",
+        "count": 3
+      }
+    ],
+    "international": [
+      {
+        "word": "쿠팡",
+        "count": 2
+      },
+      {
+        "word": "젤렌스키",
+        "count": 2
+      },
+      {
+        "word": "패트리엇",
+        "count": 2
+      },
+      {
+        "word": "드론",
+        "count": 2
+      },
+      {
+        "word": "엔화",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "뉴진스",
+        "count": 3
+      },
+      {
+        "word": "영상",
+        "count": 3
+      },
+      {
+        "word": "질환",
+        "count": 2
+      },
+      {
+        "word": "글쓰기",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      }
+    ]
   }
 }
