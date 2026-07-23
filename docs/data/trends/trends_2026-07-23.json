@@ -1,13 +1,220 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T09:46:50.281558+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-23T15:54:38.835956+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "손흥민",
+      "count": 4
+    },
+    {
+      "word": "월드컵",
+      "count": 3
+    },
+    {
+      "word": "경기",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "번째",
+      "count": 2
+    },
+    {
+      "word": "대법원",
+      "count": 2
+    },
+    {
+      "word": "김건희",
+      "count": 2
+    },
+    {
+      "word": "상고심",
+      "count": 2
+    },
+    {
+      "word": "선고",
+      "count": 2
+    },
+    {
+      "word": "연기",
+      "count": 2
+    },
+    {
+      "word": "전원합의체",
+      "count": 2
+    },
+    {
+      "word": "회부",
+      "count": 2
+    },
+    {
+      "word": "회사",
+      "count": 2
+    },
+    {
+      "word": "선관위",
+      "count": 2
+    },
+    {
+      "word": "조작",
+      "count": 2
+    },
+    {
+      "word": "연승",
+      "count": 2
+    },
+    {
+      "word": "외국인",
+      "count": 2
+    },
+    {
+      "word": "잔디",
+      "count": 2
+    },
+    {
+      "word": "전쟁",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "정청래",
+        "count": 2
+      },
+      {
+        "word": "불침번",
+        "count": 2
+      },
+      {
+        "word": "주택",
+        "count": 2
+      },
+      {
+        "word": "보유세",
+        "count": 2
+      },
+      {
+        "word": "차등",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "손흥민",
+        "count": 3
+      },
+      {
+        "word": "월드컵",
+        "count": 3
+      },
+      {
+        "word": "경기",
+        "count": 3
+      },
+      {
+        "word": "연승",
+        "count": 2
+      },
+      {
+        "word": "잔디",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "파격",
+        "count": 2
+      },
+      {
+        "word": "차단",
+        "count": 2
+      },
+      {
+        "word": "투자",
+        "count": 2
+      },
+      {
+        "word": "하닉",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "대법원",
+        "count": 2
+      },
+      {
+        "word": "김건희",
+        "count": 2
+      },
+      {
+        "word": "상고심",
+        "count": 2
+      },
+      {
+        "word": "선고",
+        "count": 2
+      },
+      {
+        "word": "연기",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "우크라",
+        "count": 1
+      },
+      {
+        "word": "총사령관",
+        "count": 1
+      },
+      {
+        "word": "바리케이드",
+        "count": 1
+      },
+      {
+        "word": "있어",
+        "count": 1
+      },
+      {
+        "word": "장갑차로",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "싫어",
+        "count": 2
+      },
+      {
+        "word": "나홍진",
+        "count": 1
+      },
+      {
+        "word": "뉴욕아시아영화제",
+        "count": 1
+      },
+      {
+        "word": "우수",
+        "count": 1
+      },
+      {
+        "word": "액션시네마상",
+        "count": 1
+      }
+    ]
   }
 }
