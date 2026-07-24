@@ -1,219 +1,219 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T15:53:45.525321+09:00",
+  "generated_at": "2026-07-24T19:46:21.278109+09:00",
   "daily_top_keywords": [
     {
-      "word": "최태원",
-      "count": 4
-    },
-    {
       "word": "만에",
-      "count": 4
+      "count": 8
     },
     {
-      "word": "국힘",
-      "count": 4
+      "word": "최태원",
+      "count": 8
     },
     {
       "word": "트럼프",
-      "count": 4
+      "count": 8
     },
     {
-      "word": "경기",
-      "count": 3
-    },
-    {
-      "word": "신천지",
-      "count": 3
-    },
-    {
-      "word": "선관위",
-      "count": 3
-    },
-    {
-      "word": "포착",
-      "count": 3
-    },
-    {
-      "word": "연패",
-      "count": 3
+      "word": "국힘",
+      "count": 8
     },
     {
       "word": "관세",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "매출",
-      "count": 3
+      "word": "경기",
+      "count": 6
     },
     {
-      "word": "이어",
-      "count": 2
+      "word": "감독",
+      "count": 5
     },
     {
-      "word": "정황",
-      "count": 2
-    },
-    {
-      "word": "노소영에게",
-      "count": 2
+      "word": "그의",
+      "count": 5
     },
     {
       "word": "억원",
-      "count": 2
-    },
-    {
-      "word": "재산",
-      "count": 2
+      "count": 5
     },
     {
       "word": "민주당",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "합수본",
-      "count": 2
+      "word": "선관위",
+      "count": 5
     },
     {
-      "word": "이언주",
-      "count": 2
+      "word": "보완수사권",
+      "count": 5
     },
     {
-      "word": "검찰",
-      "count": 2
+      "word": "연패",
+      "count": 4
+    },
+    {
+      "word": "리그",
+      "count": 4
+    },
+    {
+      "word": "간송미술관",
+      "count": 4
+    },
+    {
+      "word": "장한나",
+      "count": 4
+    },
+    {
+      "word": "신고",
+      "count": 4
+    },
+    {
+      "word": "분기",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "매출",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
+        "count": 8
+      },
+      {
+        "word": "보완수사권",
+        "count": 5
+      },
+      {
+        "word": "선관위",
         "count": 4
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "부동산",
-        "count": 2
-      },
-      {
-        "word": "아무말",
-        "count": 2
-      },
-      {
-        "word": "대잔치",
-        "count": 2
+        "word": "폐지",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "도전",
-        "count": 2
-      },
-      {
-        "word": "질주",
-        "count": 2
-      },
-      {
-        "word": "리그",
-        "count": 2
+        "word": "감독",
+        "count": 5
       },
       {
         "word": "경기",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "리그",
+        "count": 4
+      },
+      {
+        "word": "질주",
+        "count": 3
       },
       {
         "word": "라운드",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "분기",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "매출",
-        "count": 2
+        "word": "만원",
+        "count": 3
       },
-      {
-        "word": "감소",
-        "count": 2
-      },
-      {
-        "word": "삼성바이오로직스",
-        "count": 1
-      },
-      {
-        "word": "건기식",
-        "count": 1
-      }
-    ],
-    "society": [
       {
         "word": "최태원",
         "count": 3
       },
       {
-        "word": "정황",
+        "word": "매출",
+        "count": 3
+      },
+      {
+        "word": "억집",
         "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "최태원",
+        "count": 5
+      },
+      {
+        "word": "세기의",
+        "count": 4
+      },
+      {
+        "word": "정황",
+        "count": 4
+      },
+      {
+        "word": "아내",
+        "count": 3
       },
       {
         "word": "노소영에게",
-        "count": 2
-      },
-      {
-        "word": "억원",
-        "count": 2
-      },
-      {
-        "word": "징역",
-        "count": 2
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
+        "count": 8
+      },
+      {
+        "word": "관세",
+        "count": 6
+      },
+      {
+        "word": "강제노동",
         "count": 4
       },
       {
         "word": "입은",
-        "count": 2
-      },
-      {
-        "word": "강제노동",
-        "count": 2
-      },
-      {
-        "word": "관세",
-        "count": 2
+        "count": 3
       },
       {
         "word": "부과",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "간송미술관",
-        "count": 2
+        "count": 4
       },
       {
         "word": "장한나",
+        "count": 4
+      },
+      {
+        "word": "세계",
+        "count": 3
+      },
+      {
+        "word": "아빠",
         "count": 2
       },
       {
-        "word": "석사자상",
-        "count": 1
-      },
-      {
-        "word": "기증식",
-        "count": 1
-      },
-      {
-        "word": "마쳐",
-        "count": 1
+        "word": "죽이고",
+        "count": 2
       }
     ]
   }
