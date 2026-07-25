@@ -1,13 +1,220 @@
 {
   "date": "2026-07-25",
-  "generated_at": "2026-07-25T09:46:22.972936+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-25T15:49:23.389802+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "젠슨",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "세계유산",
+      "count": 4
+    },
+    {
+      "word": "한국의",
+      "count": 4
+    },
+    {
+      "word": "갯벌",
+      "count": 4
+    },
+    {
+      "word": "확대",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "세계",
+      "count": 3
+    },
+    {
+      "word": "등재",
+      "count": 3
+    },
+    {
+      "word": "반도체",
+      "count": 3
+    },
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "원에",
+      "count": 3
+    },
+    {
+      "word": "김상식호",
+      "count": 2
+    },
+    {
+      "word": "베트남",
+      "count": 2
+    },
+    {
+      "word": "현대컵",
+      "count": 2
+    },
+    {
+      "word": "손흥민",
+      "count": 2
+    },
+    {
+      "word": "우승",
+      "count": 2
+    },
+    {
+      "word": "만의",
+      "count": 2
+    },
+    {
+      "word": "이제",
+      "count": 2
+    },
+    {
+      "word": "재건",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "젠슨",
+        "count": 5
+      },
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "엔비디아",
+        "count": 2
+      },
+      {
+        "word": "반도체",
+        "count": 2
+      },
+      {
+        "word": "협력",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "김상식호",
+        "count": 2
+      },
+      {
+        "word": "베트남",
+        "count": 2
+      },
+      {
+        "word": "현대컵",
+        "count": 2
+      },
+      {
+        "word": "우승",
+        "count": 2
+      },
+      {
+        "word": "만의",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "비상",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 1
+      },
+      {
+        "word": "이광수",
+        "count": 1
+      },
+      {
+        "word": "집값",
+        "count": 1
+      },
+      {
+        "word": "하락",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "아내",
+        "count": 2
+      },
+      {
+        "word": "원에",
+        "count": 2
+      },
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "신체나이",
+        "count": 1
+      },
+      {
+        "word": "만원",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "사우디",
+        "count": 2
+      },
+      {
+        "word": "기자단",
+        "count": 2
+      },
+      {
+        "word": "비난",
+        "count": 2
+      },
+      {
+        "word": "대만",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "서산",
+        "count": 2
+      },
+      {
+        "word": "고흥",
+        "count": 2
+      },
+      {
+        "word": "세계유산",
+        "count": 2
+      },
+      {
+        "word": "한국의",
+        "count": 2
+      },
+      {
+        "word": "갯벌",
+        "count": 2
+      }
+    ]
   }
 }
