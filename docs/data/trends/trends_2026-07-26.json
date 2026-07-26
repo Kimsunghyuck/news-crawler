@@ -1,219 +1,219 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T15:57:19.212223+09:00",
+  "generated_at": "2026-07-26T19:49:50.841194+09:00",
   "daily_top_keywords": [
     {
-      "word": "만에",
-      "count": 5
+      "word": "대통령",
+      "count": 7
     },
     {
-      "word": "대통령",
-      "count": 5
+      "word": "만에",
+      "count": 6
     },
     {
       "word": "이정후",
-      "count": 4
+      "count": 5
     },
     {
       "word": "통산",
-      "count": 4
+      "count": 5
     },
     {
       "word": "타점",
-      "count": 4
-    },
-    {
-      "word": "홈런",
-      "count": 3
+      "count": 5
     },
     {
       "word": "손흥민",
-      "count": 3
-    },
-    {
-      "word": "경기",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "올린",
-      "count": 2
-    },
-    {
-      "word": "돌파",
-      "count": 2
-    },
-    {
-      "word": "만의",
-      "count": 2
-    },
-    {
-      "word": "오픈",
-      "count": 2
-    },
-    {
-      "word": "연속골",
-      "count": 2
-    },
-    {
-      "word": "폭발",
-      "count": 2
-    },
-    {
-      "word": "이강인",
-      "count": 2
-    },
-    {
-      "word": "인사",
-      "count": 2
-    },
-    {
-      "word": "감독",
-      "count": 2
+      "count": 5
     },
     {
       "word": "만명",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "열풍",
-      "count": 2
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "권영진",
+      "count": 5
+    },
+    {
+      "word": "멱살",
+      "count": 5
+    },
+    {
+      "word": "홈런",
+      "count": 4
+    },
+    {
+      "word": "경기",
+      "count": 4
+    },
+    {
+      "word": "한반도",
+      "count": 4
+    },
+    {
+      "word": "소동",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "올린",
+      "count": 3
+    },
+    {
+      "word": "연속골",
+      "count": 3
+    },
+    {
+      "word": "폭발",
+      "count": 3
+    },
+    {
+      "word": "이강인",
+      "count": 3
+    },
+    {
+      "word": "인사",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 5
+        "count": 7
       },
       {
         "word": "권영진",
-        "count": 2
+        "count": 5
       },
       {
         "word": "멱살",
-        "count": 2
+        "count": 5
       },
       {
         "word": "소동",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "윤리위",
-        "count": 2
+        "word": "국힘",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "홈런",
-        "count": 3
+        "count": 4
       },
       {
         "word": "이정후",
-        "count": 3
+        "count": 4
       },
       {
         "word": "통산",
-        "count": 3
+        "count": 4
       },
       {
         "word": "타점",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "만에",
-        "count": 2
+        "word": "폭발",
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "막힌",
+        "count": 3
+      },
+      {
+        "word": "한도",
+        "count": 3
+      },
+      {
         "word": "이주비에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "멈춘",
-        "count": 1
+        "count": 2
       },
       {
         "word": "재건축",
-        "count": 1
-      },
-      {
-        "word": "보증에",
-        "count": 1
-      },
-      {
-        "word": "막힌",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "장마",
-        "count": 2
-      },
-      {
-        "word": "아파트",
-        "count": 2
+        "word": "살해한",
+        "count": 3
       },
       {
         "word": "이선정",
-        "count": 1
+        "count": 2
       },
       {
         "word": "너무",
-        "count": 1
+        "count": 2
       },
       {
         "word": "힘들다",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "모은",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "만에",
-        "count": 3
-      },
-      {
-        "word": "전반",
-        "count": 2
+        "count": 4
       },
       {
         "word": "손흥민",
-        "count": 2
-      },
-      {
-        "word": "경기",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "전반",
+        "count": 3
+      },
+      {
+        "word": "경기",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "오픈런",
-        "count": 1
+        "count": 2
       },
       {
         "word": "줄섰어요",
-        "count": 1
+        "count": 2
       },
       {
         "word": "벌써",
-        "count": 1
+        "count": 2
       },
       {
         "word": "만명",
-        "count": 1
+        "count": 2
       },
       {
         "word": "다녀갔다",
-        "count": 1
+        "count": 2
       }
     ]
   }
