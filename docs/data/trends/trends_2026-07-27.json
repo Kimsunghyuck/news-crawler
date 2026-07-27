@@ -1,13 +1,220 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T09:49:02.459248+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-27T16:10:09.308680+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "국힘",
+      "count": 6
+    },
+    {
+      "word": "만명",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "축구협회장",
+      "count": 3
+    },
+    {
+      "word": "선거인단",
+      "count": 3
+    },
+    {
+      "word": "박찬호",
+      "count": 3
+    },
+    {
+      "word": "투자",
+      "count": 3
+    },
+    {
+      "word": "의대",
+      "count": 3
+    },
+    {
+      "word": "경기",
+      "count": 2
+    },
+    {
+      "word": "정지",
+      "count": 2
+    },
+    {
+      "word": "고우석",
+      "count": 2
+    },
+    {
+      "word": "글러브",
+      "count": 2
+    },
+    {
+      "word": "신지은",
+      "count": 2
+    },
+    {
+      "word": "우승",
+      "count": 2
+    },
+    {
+      "word": "통했다",
+      "count": 2
+    },
+    {
+      "word": "이물질",
+      "count": 2
+    },
+    {
+      "word": "박지성",
+      "count": 2
+    },
+    {
+      "word": "이상",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "세계선수권",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 4
+      },
+      {
+        "word": "멱살",
+        "count": 2
+      },
+      {
+        "word": "권영진",
+        "count": 2
+      },
+      {
+        "word": "탈당",
+        "count": 2
+      },
+      {
+        "word": "권유",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "만에",
+        "count": 4
+      },
+      {
+        "word": "축구협회장",
+        "count": 3
+      },
+      {
+        "word": "선거인단",
+        "count": 3
+      },
+      {
+        "word": "만명",
+        "count": 3
+      },
+      {
+        "word": "경기",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "네이버",
+        "count": 2
+      },
+      {
+        "word": "지분",
+        "count": 2
+      },
+      {
+        "word": "엔비디아",
+        "count": 2
+      },
+      {
+        "word": "도로",
+        "count": 2
+      },
+      {
+        "word": "이유",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "해경",
+        "count": 2
+      },
+      {
+        "word": "의대",
+        "count": 2
+      },
+      {
+        "word": "선거법",
+        "count": 1
+      },
+      {
+        "word": "위반",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "성소수자",
+        "count": 2
+      },
+      {
+        "word": "사살",
+        "count": 2
+      },
+      {
+        "word": "모디",
+        "count": 2
+      },
+      {
+        "word": "메모리",
+        "count": 1
+      },
+      {
+        "word": "공룡",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "김부장",
+        "count": 2
+      },
+      {
+        "word": "즐기는",
+        "count": 2
+      },
+      {
+        "word": "소지섭",
+        "count": 1
+      },
+      {
+        "word": "어려울",
+        "count": 1
+      },
+      {
+        "word": "팔아서",
+        "count": 1
+      }
+    ]
   }
 }
