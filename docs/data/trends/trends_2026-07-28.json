@@ -1,219 +1,219 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T15:55:35.395215+09:00",
+  "generated_at": "2026-07-28T19:55:22.034844+09:00",
   "daily_top_keywords": [
     {
-      "word": "경기",
-      "count": 4
+      "word": "연임",
+      "count": 7
     },
     {
       "word": "만에",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "진출",
-      "count": 3
+      "word": "경기",
+      "count": 6
     },
     {
       "word": "대통령",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "대통령배",
-      "count": 2
-    },
-    {
-      "word": "사령탑",
-      "count": 2
-    },
-    {
-      "word": "축구",
-      "count": 2
-    },
-    {
-      "word": "베네수엘라",
-      "count": 2
-    },
-    {
-      "word": "제외",
-      "count": 2
-    },
-    {
-      "word": "축구대표팀",
-      "count": 2
-    },
-    {
-      "word": "글로벌",
-      "count": 2
-    },
-    {
-      "word": "소지섭",
-      "count": 2
-    },
-    {
-      "word": "영화",
-      "count": 2
-    },
-    {
-      "word": "의미",
-      "count": 2
-    },
-    {
-      "word": "한옥체험",
-      "count": 2
-    },
-    {
-      "word": "영업정지",
-      "count": 2
+      "word": "붕괴",
+      "count": 5
     },
     {
       "word": "정부",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "국민",
+      "count": 5
+    },
+    {
+      "word": "진출",
+      "count": 4
+    },
+    {
+      "word": "사령탑",
+      "count": 4
+    },
+    {
+      "word": "축구",
+      "count": 4
+    },
+    {
+      "word": "베네수엘라",
+      "count": 4
+    },
+    {
+      "word": "사는",
+      "count": 4
     },
     {
       "word": "서울",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "년간",
-      "count": 2
+      "word": "기업",
+      "count": 4
     },
     {
-      "word": "현대",
-      "count": 2
+      "word": "금지",
+      "count": 4
+    },
+    {
+      "word": "경악한",
+      "count": 4
+    },
+    {
+      "word": "휴대폰",
+      "count": 4
+    },
+    {
+      "word": "문건",
+      "count": 4
+    },
+    {
+      "word": "김건희",
+      "count": 4
+    },
+    {
+      "word": "광주",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "연임",
+        "count": 6
+      },
+      {
+        "word": "국민",
+        "count": 5
       },
       {
         "word": "경악한",
-        "count": 2
+        "count": 4
       },
       {
         "word": "휴대폰",
-        "count": 2
-      },
-      {
-        "word": "문건",
-        "count": 2
-      },
-      {
-        "word": "김건희",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "경기",
-        "count": 2
-      },
-      {
-        "word": "대통령배",
-        "count": 2
-      },
-      {
-        "word": "진출",
-        "count": 2
+        "count": 4
       },
       {
         "word": "사령탑",
-        "count": 2
+        "count": 4
       },
       {
         "word": "축구",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "베네수엘라",
+        "count": 4
+      },
+      {
+        "word": "대통령배",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "현대",
-        "count": 2
+        "word": "비중",
+        "count": 3
       },
       {
         "word": "삼전",
-        "count": 1
+        "count": 2
       },
       {
         "word": "하닉",
-        "count": 1
+        "count": 2
       },
       {
         "word": "만원",
-        "count": 1
+        "count": 2
       },
       {
         "word": "전고점",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "경기",
+        "word": "복장",
         "count": 2
       },
       {
-        "word": "복장",
-        "count": 1
-      },
-      {
         "word": "저렇게",
-        "count": 1
+        "count": 2
       },
       {
         "word": "해야하나",
-        "count": 1
+        "count": 2
       },
       {
         "word": "논란의",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "기상캐스터",
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "인권",
-        "count": 2
+        "word": "구마모토",
+        "count": 3
       },
       {
-        "word": "만명",
-        "count": 2
+        "word": "붕괴",
+        "count": 3
       },
       {
         "word": "임신하자",
-        "count": 1
+        "count": 2
       },
       {
         "word": "맞냐",
-        "count": 1
+        "count": 2
       },
       {
         "word": "성학대",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "소지섭",
-        "count": 2
-      },
-      {
-        "word": "영화",
-        "count": 2
-      },
-      {
         "word": "김부장",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "소지섭",
+        "count": 3
       },
       {
         "word": "어려울",
-        "count": 1
+        "count": 2
       },
       {
         "word": "팔아서",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "쓰라",
+        "count": 2
       }
     ]
   }
