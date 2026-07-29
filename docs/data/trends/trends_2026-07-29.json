@@ -1,13 +1,220 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T09:43:15.248068+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-07-29T15:55:49.873728+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "하닉",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "연임",
+      "count": 3
+    },
+    {
+      "word": "제주",
+      "count": 2
+    },
+    {
+      "word": "감독",
+      "count": 2
+    },
+    {
+      "word": "홍명보",
+      "count": 2
+    },
+    {
+      "word": "썼다",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "출격",
+      "count": 2
+    },
+    {
+      "word": "미국",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "확정",
+      "count": 2
+    },
+    {
+      "word": "회장",
+      "count": 2
+    },
+    {
+      "word": "문근영",
+      "count": 2
+    },
+    {
+      "word": "연상",
+      "count": 2
+    },
+    {
+      "word": "년간",
+      "count": 2
+    },
+    {
+      "word": "출품",
+      "count": 2
+    },
+    {
+      "word": "보이콧",
+      "count": 2
+    },
+    {
+      "word": "비판",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "연임",
+        "count": 3
+      },
+      {
+        "word": "김용범",
+        "count": 2
+      },
+      {
+        "word": "김건희",
+        "count": 2
+      },
+      {
+        "word": "개헌",
+        "count": 2
+      },
+      {
+        "word": "실탄",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "제주",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "호골",
+        "count": 1
+      },
+      {
+        "word": "아버지",
+        "count": 1
+      },
+      {
+        "word": "발자취",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "하닉",
+        "count": 3
+      },
+      {
+        "word": "코스피",
+        "count": 2
+      },
+      {
+        "word": "장중",
+        "count": 2
+      },
+      {
+        "word": "삼전",
+        "count": 2
+      },
+      {
+        "word": "붕괴",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "양산",
+        "count": 2
+      },
+      {
+        "word": "전국이",
+        "count": 2
+      },
+      {
+        "word": "젝스키스",
+        "count": 1
+      },
+      {
+        "word": "출신",
+        "count": 1
+      },
+      {
+        "word": "고지용",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "그레이엄",
+        "count": 2
+      },
+      {
+        "word": "방산시설",
+        "count": 1
+      },
+      {
+        "word": "비상",
+        "count": 1
+      },
+      {
+        "word": "걸렸다",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "문근영",
+        "count": 2
+      },
+      {
+        "word": "연상",
+        "count": 2
+      },
+      {
+        "word": "출품",
+        "count": 2
+      },
+      {
+        "word": "보이콧",
+        "count": 2
+      },
+      {
+        "word": "국민여동생",
+        "count": 1
+      }
+    ]
   }
 }
