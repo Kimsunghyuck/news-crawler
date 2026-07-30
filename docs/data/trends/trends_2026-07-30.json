@@ -1,219 +1,219 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T15:55:09.077896+09:00",
+  "generated_at": "2026-07-30T19:49:36.796823+09:00",
   "daily_top_keywords": [
     {
       "word": "손흥민",
-      "count": 4
+      "count": 8
     },
     {
       "word": "만에",
+      "count": 8
+    },
+    {
+      "word": "합의",
+      "count": 6
+    },
+    {
+      "word": "간다",
+      "count": 5
+    },
+    {
+      "word": "홍명보",
+      "count": 5
+    },
+    {
+      "word": "제주",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "한국",
       "count": 4
     },
     {
       "word": "유망주",
-      "count": 3
-    },
-    {
-      "word": "반도체",
-      "count": 3
-    },
-    {
-      "word": "합의",
-      "count": 3
-    },
-    {
-      "word": "멀티골",
-      "count": 2
-    },
-    {
-      "word": "제주",
-      "count": 2
-    },
-    {
-      "word": "간다",
-      "count": 2
-    },
-    {
-      "word": "감독",
-      "count": 2
-    },
-    {
-      "word": "홍명보",
-      "count": 2
-    },
-    {
-      "word": "만원",
-      "count": 2
-    },
-    {
-      "word": "한국",
-      "count": 2
-    },
-    {
-      "word": "활동",
-      "count": 2
-    },
-    {
-      "word": "계속",
-      "count": 2
+      "count": 4
     },
     {
       "word": "됐다",
-      "count": 2
+      "count": 4
     },
     {
       "word": "캡틴",
-      "count": 2
-    },
-    {
-      "word": "한국축구",
-      "count": 2
+      "count": 4
     },
     {
       "word": "충격",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "서울",
-      "count": 2
+      "word": "집값",
+      "count": 4
     },
     {
-      "word": "금속",
-      "count": 2
+      "word": "하닉",
+      "count": 4
+    },
+    {
+      "word": "반도체",
+      "count": 4
+    },
+    {
+      "word": "주식",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "살인",
+      "count": 4
+    },
+    {
+      "word": "구속",
+      "count": 4
+    },
+    {
+      "word": "여야",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "합의",
-        "count": 3
+        "count": 6
       },
       {
-        "word": "당대표",
-        "count": 2
+        "word": "여야",
+        "count": 4
       },
       {
-        "word": "정청래",
-        "count": 2
+        "word": "내달",
+        "count": 4
       },
       {
-        "word": "김민석",
-        "count": 2
+        "word": "잠실",
+        "count": 4
       },
       {
-        "word": "군단",
-        "count": 2
+        "word": "투표지",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "손흥민",
-        "count": 2
-      },
-      {
-        "word": "제주",
-        "count": 2
-      },
-      {
         "word": "홍명보",
-        "count": 2
+        "count": 5
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "손흥민",
+        "count": 4
+      },
+      {
+        "word": "제주",
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "집값",
+        "count": 4
+      },
+      {
+        "word": "하닉",
+        "count": 4
+      },
+      {
+        "word": "근저당",
         "count": 2
       },
       {
-        "word": "금속",
-        "count": 1
+        "word": "방어",
+        "count": 2
       },
       {
-        "word": "악기라",
-        "count": 1
-      },
-      {
-        "word": "금속노조냐",
-        "count": 1
-      },
-      {
-        "word": "서울시향",
-        "count": 1
+        "word": "논리펴더니",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "폭행한",
-        "count": 2
+        "word": "살인",
+        "count": 4
       },
       {
-        "word": "서울대",
-        "count": 2
+        "word": "구속",
+        "count": 4
       },
       {
-        "word": "부정행위",
-        "count": 2
-      },
-      {
-        "word": "수강생",
-        "count": 2
+        "word": "성범죄",
+        "count": 3
       },
       {
         "word": "비키니",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "슬쩍",
+        "count": 2
       }
     ],
     "international": [
       {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
         "word": "손흥민",
-        "count": 2
+        "count": 3
       },
       {
         "word": "폭발",
+        "count": 3
+      },
+      {
+        "word": "공부",
         "count": 2
       },
       {
-        "word": "선수",
-        "count": 2
-      },
-      {
-        "word": "트럼프",
-        "count": 2
-      },
-      {
-        "word": "지진",
+        "word": "안하면",
         "count": 2
       }
     ],
     "culture": [
       {
+        "word": "의사",
+        "count": 3
+      },
+      {
         "word": "국민여동생",
-        "count": 1
+        "count": 2
       },
       {
         "word": "문근영",
-        "count": 1
+        "count": 2
       },
       {
         "word": "연상",
-        "count": 1
+        "count": 2
       },
       {
         "word": "정평과",
-        "count": 1
-      },
-      {
-        "word": "결혼",
-        "count": 1
+        "count": 2
       }
     ]
   }
