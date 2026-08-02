@@ -1,219 +1,219 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T15:55:03.680482+09:00",
+  "generated_at": "2026-08-02T19:36:52.709901+09:00",
   "daily_top_keywords": [
     {
       "word": "경기",
-      "count": 5
+      "count": 9
     },
     {
       "word": "손흥민",
-      "count": 4
-    },
-    {
-      "word": "연속",
-      "count": 4
-    },
-    {
-      "word": "유해란",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "최고",
-      "count": 3
+      "count": 7
     },
     {
       "word": "취소",
-      "count": 3
-    },
-    {
-      "word": "차은우",
-      "count": 3
-    },
-    {
-      "word": "불복",
-      "count": 3
-    },
-    {
-      "word": "청구",
-      "count": 3
-    },
-    {
-      "word": "이유",
-      "count": 3
-    },
-    {
-      "word": "달러",
-      "count": 3
+      "count": 7
     },
     {
       "word": "트럼프",
-      "count": 3
+      "count": 7
     },
     {
       "word": "공격",
-      "count": 3
+      "count": 7
+    },
+    {
+      "word": "연속",
+      "count": 6
+    },
+    {
+      "word": "이유",
+      "count": 6
+    },
+    {
+      "word": "이란",
+      "count": 6
+    },
+    {
+      "word": "사망",
+      "count": 6
+    },
+    {
+      "word": "유해란",
+      "count": 5
+    },
+    {
+      "word": "최고",
+      "count": 5
+    },
+    {
+      "word": "차은우",
+      "count": 5
+    },
+    {
+      "word": "불복",
+      "count": 5
+    },
+    {
+      "word": "청구",
+      "count": 5
+    },
+    {
+      "word": "침투",
+      "count": 5
     },
     {
       "word": "김시우는",
-      "count": 2
+      "count": 4
     },
     {
       "word": "캐나다",
-      "count": 2
-    },
-    {
-      "word": "메이저",
-      "count": 2
-    },
-    {
-      "word": "연승",
-      "count": 2
+      "count": 4
     },
     {
       "word": "연속골",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "남자",
-      "count": 2
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "오디세이",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "반격",
-        "count": 2
-      },
-      {
         "word": "주진우",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대선",
-        "count": 2
+        "count": 4
       },
       {
         "word": "조작",
-        "count": 2
+        "count": 4
       },
       {
         "word": "증가",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "정점식",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "경기",
-        "count": 4
-      },
-      {
-        "word": "유해란",
-        "count": 3
+        "count": 8
       },
       {
         "word": "손흥민",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "유해란",
+        "count": 5
       },
       {
         "word": "연속",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "메이저",
-        "count": 2
+        "word": "연속골",
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "달러",
-        "count": 2
+        "word": "레버리지",
+        "count": 4
+      },
+      {
+        "word": "도입",
+        "count": 3
       },
       {
         "word": "본격화",
-        "count": 2
+        "count": 3
       },
       {
         "word": "과자가",
-        "count": 1
+        "count": 2
       },
       {
         "word": "근손실",
-        "count": 1
-      },
-      {
-        "word": "막아준다",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "최고",
-        "count": 2
-      },
-      {
         "word": "글로벌",
-        "count": 2
-      },
-      {
-        "word": "물에",
-        "count": 2
+        "count": 4
       },
       {
         "word": "숨져",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "엄마와",
-        "count": 1
+        "word": "최고",
+        "count": 3
+      },
+      {
+        "word": "사망",
+        "count": 3
+      },
+      {
+        "word": "물에",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 7
       },
       {
         "word": "공격",
-        "count": 3
+        "count": 7
       },
       {
         "word": "이란",
-        "count": 2
+        "count": 6
       },
       {
         "word": "취소",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "사망",
-        "count": 2
+        "word": "소환장",
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "오디세이",
-        "count": 2
+        "count": 4
       },
       {
         "word": "차은우",
-        "count": 2
+        "count": 4
       },
       {
         "word": "불복",
-        "count": 2
+        "count": 4
       },
       {
         "word": "청구",
-        "count": 2
+        "count": 4
       },
       {
         "word": "원작",
-        "count": 1
+        "count": 2
       }
     ]
   }
