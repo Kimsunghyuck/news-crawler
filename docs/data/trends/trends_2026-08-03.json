@@ -1,219 +1,219 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-03T16:10:02.353928+09:00",
+  "generated_at": "2026-08-03T20:10:09.108025+09:00",
   "daily_top_keywords": [
     {
       "word": "사망",
-      "count": 4
-    },
-    {
-      "word": "무인기",
-      "count": 4
-    },
-    {
-      "word": "고우석",
-      "count": 3
-    },
-    {
-      "word": "감경",
-      "count": 3
+      "count": 7
     },
     {
       "word": "트럼프",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "부산",
-      "count": 3
+      "word": "고우석",
+      "count": 5
     },
     {
-      "word": "쓰러진",
-      "count": 3
+      "word": "감경",
+      "count": 5
     },
     {
-      "word": "소동",
-      "count": 3
-    },
-    {
-      "word": "군단장",
-      "count": 3
+      "word": "무인기",
+      "count": 5
     },
     {
       "word": "유해란",
-      "count": 2
-    },
-    {
-      "word": "이물질",
-      "count": 2
+      "count": 4
     },
     {
       "word": "출전정지",
-      "count": 2
-    },
-    {
-      "word": "징계",
-      "count": 2
+      "count": 4
     },
     {
       "word": "경기",
-      "count": 2
+      "count": 4
     },
     {
       "word": "끼지",
-      "count": 2
+      "count": 4
     },
     {
       "word": "마시고",
-      "count": 2
-    },
-    {
-      "word": "논란",
-      "count": 2
+      "count": 4
     },
     {
       "word": "심판위원장",
-      "count": 2
+      "count": 4
     },
     {
       "word": "사임",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "못할",
-      "count": 2
+      "word": "휴식",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "우승",
+      "count": 4
+    },
+    {
+      "word": "놀란",
+      "count": 4
+    },
+    {
+      "word": "감독",
+      "count": 4
+    },
+    {
+      "word": "아들",
+      "count": 4
+    },
+    {
+      "word": "활동",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "무인기",
-        "count": 4
+        "count": 5
       },
       {
         "word": "소동",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "김민석",
+        "count": 4
+      },
+      {
+        "word": "정청래",
+        "count": 4
       },
       {
         "word": "군단장",
-        "count": 3
-      },
-      {
-        "word": "가세요",
-        "count": 2
-      },
-      {
-        "word": "부산",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "고우석",
-        "count": 3
+        "count": 5
       },
       {
         "word": "감경",
-        "count": 3
+        "count": 5
       },
       {
         "word": "유해란",
-        "count": 2
-      },
-      {
-        "word": "이물질",
-        "count": 2
+        "count": 4
       },
       {
         "word": "출전정지",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "경기",
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "반도체",
-        "count": 2
-      },
-      {
-        "word": "삼성",
-        "count": 2
-      },
-      {
-        "word": "증시",
-        "count": 2
-      },
-      {
-        "word": "한화",
-        "count": 2
-      },
-      {
         "word": "삼전닉스",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "반도체",
+        "count": 3
+      },
+      {
+        "word": "최대",
+        "count": 3
+      },
+      {
+        "word": "없이",
+        "count": 2
+      },
+      {
+        "word": "만든",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "쓰러진",
-        "count": 3
+        "word": "숨져",
+        "count": 4
       },
       {
         "word": "남성",
-        "count": 2
+        "count": 3
       },
       {
         "word": "사망",
-        "count": 2
+        "count": 3
       },
       {
         "word": "무슨",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "경찰관",
-        "count": 2
+        "word": "쓰러진",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
-      },
-      {
-        "word": "결국",
-        "count": 2
-      },
-      {
-        "word": "활동",
-        "count": 2
+        "count": 6
       },
       {
         "word": "사망",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "헬리콥터",
-        "count": 2
+        "word": "협상",
+        "count": 4
+      },
+      {
+        "word": "호르무즈",
+        "count": 4
+      },
+      {
+        "word": "결국",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "오디세이",
-        "count": 2
-      },
-      {
         "word": "놀란",
-        "count": 2
+        "count": 4
       },
       {
         "word": "감독",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "환한",
-        "count": 1
+        "word": "오디세이",
+        "count": 3
       },
       {
-        "word": "미소",
-        "count": 1
+        "word": "아들",
+        "count": 3
+      },
+      {
+        "word": "한국계",
+        "count": 3
       }
     ]
   }
