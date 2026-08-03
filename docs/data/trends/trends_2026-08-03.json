@@ -1,13 +1,220 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-03T09:46:56.010096+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-08-03T16:10:02.353928+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "사망",
+      "count": 4
+    },
+    {
+      "word": "무인기",
+      "count": 4
+    },
+    {
+      "word": "고우석",
+      "count": 3
+    },
+    {
+      "word": "감경",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "부산",
+      "count": 3
+    },
+    {
+      "word": "쓰러진",
+      "count": 3
+    },
+    {
+      "word": "소동",
+      "count": 3
+    },
+    {
+      "word": "군단장",
+      "count": 3
+    },
+    {
+      "word": "유해란",
+      "count": 2
+    },
+    {
+      "word": "이물질",
+      "count": 2
+    },
+    {
+      "word": "출전정지",
+      "count": 2
+    },
+    {
+      "word": "징계",
+      "count": 2
+    },
+    {
+      "word": "경기",
+      "count": 2
+    },
+    {
+      "word": "끼지",
+      "count": 2
+    },
+    {
+      "word": "마시고",
+      "count": 2
+    },
+    {
+      "word": "논란",
+      "count": 2
+    },
+    {
+      "word": "심판위원장",
+      "count": 2
+    },
+    {
+      "word": "사임",
+      "count": 2
+    },
+    {
+      "word": "못할",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "무인기",
+        "count": 4
+      },
+      {
+        "word": "소동",
+        "count": 3
+      },
+      {
+        "word": "군단장",
+        "count": 3
+      },
+      {
+        "word": "가세요",
+        "count": 2
+      },
+      {
+        "word": "부산",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "고우석",
+        "count": 3
+      },
+      {
+        "word": "감경",
+        "count": 3
+      },
+      {
+        "word": "유해란",
+        "count": 2
+      },
+      {
+        "word": "이물질",
+        "count": 2
+      },
+      {
+        "word": "출전정지",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "반도체",
+        "count": 2
+      },
+      {
+        "word": "삼성",
+        "count": 2
+      },
+      {
+        "word": "증시",
+        "count": 2
+      },
+      {
+        "word": "한화",
+        "count": 2
+      },
+      {
+        "word": "삼전닉스",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "쓰러진",
+        "count": 3
+      },
+      {
+        "word": "남성",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "무슨",
+        "count": 2
+      },
+      {
+        "word": "경찰관",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "결국",
+        "count": 2
+      },
+      {
+        "word": "활동",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "헬리콥터",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "오디세이",
+        "count": 2
+      },
+      {
+        "word": "놀란",
+        "count": 2
+      },
+      {
+        "word": "감독",
+        "count": 2
+      },
+      {
+        "word": "환한",
+        "count": 1
+      },
+      {
+        "word": "미소",
+        "count": 1
+      }
+    ]
   }
 }
