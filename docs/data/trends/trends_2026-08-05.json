@@ -1,17 +1,69 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T16:02:39.031120+09:00",
+  "generated_at": "2026-08-05T19:57:13.455597+09:00",
   "daily_top_keywords": [
     {
-      "word": "분기",
-      "count": 4
-    },
-    {
       "word": "만원",
-      "count": 4
+      "count": 7
     },
     {
       "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "경기",
+      "count": 5
+    },
+    {
+      "word": "분기",
+      "count": 5
+    },
+    {
+      "word": "우크라",
+      "count": 5
+    },
+    {
+      "word": "형소법",
+      "count": 5
+    },
+    {
+      "word": "감독",
+      "count": 3
+    },
+    {
+      "word": "연속",
+      "count": 3
+    },
+    {
+      "word": "리그",
+      "count": 3
+    },
+    {
+      "word": "폭염에",
+      "count": 3
+    },
+    {
+      "word": "프로야구",
+      "count": 3
+    },
+    {
+      "word": "배우",
+      "count": 3
+    },
+    {
+      "word": "폭염",
+      "count": 3
+    },
+    {
+      "word": "머리",
+      "count": 3
+    },
+    {
+      "word": "된다",
+      "count": 3
+    },
+    {
+      "word": "대사",
       "count": 3
     },
     {
@@ -19,118 +71,70 @@
       "count": 3
     },
     {
-      "word": "우크라",
+      "word": "아들",
       "count": 3
     },
     {
-      "word": "경기",
-      "count": 2
-    },
-    {
-      "word": "깊은",
-      "count": 2
-    },
-    {
-      "word": "대사",
-      "count": 2
-    },
-    {
-      "word": "월엔",
-      "count": 2
-    },
-    {
-      "word": "갈등",
-      "count": 2
+      "word": "유럽",
+      "count": 3
     },
     {
       "word": "숨진",
-      "count": 2
-    },
-    {
-      "word": "드론",
-      "count": 2
-    },
-    {
-      "word": "형소법",
-      "count": 2
-    },
-    {
-      "word": "후속조치",
-      "count": 2
-    },
-    {
-      "word": "직무대행이",
-      "count": 2
-    },
-    {
-      "word": "팀장",
-      "count": 2
-    },
-    {
-      "word": "레버리지",
-      "count": 2
-    },
-    {
-      "word": "정동영",
-      "count": 2
-    },
-    {
-      "word": "없어",
-      "count": 2
-    },
-    {
-      "word": "칸쿤",
-      "count": 1
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "레버리지",
-        "count": 2
+        "word": "형소법",
+        "count": 3
       },
       {
         "word": "정동영",
+        "count": 3
+      },
+      {
+        "word": "육사",
         "count": 2
       },
       {
-        "word": "없어",
+        "word": "쿠데타",
         "count": 2
       },
       {
-        "word": "축구협회",
-        "count": 1
-      },
-      {
-        "word": "비민주적",
-        "count": 1
+        "word": "사관학교",
+        "count": 2
       }
     ],
     "sports": [
       {
-        "word": "칸쿤",
-        "count": 1
+        "word": "경기",
+        "count": 4
       },
       {
-        "word": "휴양",
-        "count": 1
-      },
-      {
-        "word": "만이",
-        "count": 1
-      },
-      {
-        "word": "아니었다",
-        "count": 1
+        "word": "감독",
+        "count": 3
       },
       {
         "word": "리그",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "앞둔",
+        "count": 2
+      },
+      {
+        "word": "연속",
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "분기",
+        "count": 5
+      },
+      {
+        "word": "만원",
         "count": 4
       },
       {
@@ -138,19 +142,23 @@
         "count": 3
       },
       {
-        "word": "만원",
-        "count": 3
-      },
-      {
         "word": "월엔",
         "count": 2
       },
       {
-        "word": "현대백화점",
-        "count": 1
+        "word": "정몽준",
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "발견",
+        "count": 3
+      },
+      {
+        "word": "시간",
+        "count": 3
+      },
       {
         "word": "형소법",
         "count": 2
@@ -162,19 +170,19 @@
       {
         "word": "직무대행이",
         "count": 2
-      },
-      {
-        "word": "팀장",
-        "count": 2
-      },
-      {
-        "word": "경찰청",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "우크라",
+        "count": 5
+      },
+      {
+        "word": "유럽",
+        "count": 3
+      },
+      {
+        "word": "드론",
         "count": 3
       },
       {
@@ -182,38 +190,30 @@
         "count": 2
       },
       {
-        "word": "드론",
+        "word": "당첨",
         "count": 2
-      },
-      {
-        "word": "트럼프",
-        "count": 1
-      },
-      {
-        "word": "룰라",
-        "count": 1
       }
     ],
     "culture": [
       {
-        "word": "바둑",
-        "count": 1
+        "word": "도입",
+        "count": 2
       },
       {
-        "word": "스미레",
-        "count": 1
+        "word": "된다",
+        "count": 2
       },
       {
-        "word": "여자",
-        "count": 1
+        "word": "스틸",
+        "count": 2
       },
       {
-        "word": "랭킹",
-        "count": 1
+        "word": "대사",
+        "count": 2
       },
       {
-        "word": "등극",
-        "count": 1
+        "word": "한국",
+        "count": 2
       }
     ]
   }
