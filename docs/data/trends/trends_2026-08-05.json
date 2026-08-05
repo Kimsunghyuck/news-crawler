@@ -1,13 +1,220 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T09:53:50.204710+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-08-05T16:02:39.031120+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "분기",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "우크라",
+      "count": 3
+    },
+    {
+      "word": "경기",
+      "count": 2
+    },
+    {
+      "word": "깊은",
+      "count": 2
+    },
+    {
+      "word": "대사",
+      "count": 2
+    },
+    {
+      "word": "월엔",
+      "count": 2
+    },
+    {
+      "word": "갈등",
+      "count": 2
+    },
+    {
+      "word": "숨진",
+      "count": 2
+    },
+    {
+      "word": "드론",
+      "count": 2
+    },
+    {
+      "word": "형소법",
+      "count": 2
+    },
+    {
+      "word": "후속조치",
+      "count": 2
+    },
+    {
+      "word": "직무대행이",
+      "count": 2
+    },
+    {
+      "word": "팀장",
+      "count": 2
+    },
+    {
+      "word": "레버리지",
+      "count": 2
+    },
+    {
+      "word": "정동영",
+      "count": 2
+    },
+    {
+      "word": "없어",
+      "count": 2
+    },
+    {
+      "word": "칸쿤",
+      "count": 1
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "레버리지",
+        "count": 2
+      },
+      {
+        "word": "정동영",
+        "count": 2
+      },
+      {
+        "word": "없어",
+        "count": 2
+      },
+      {
+        "word": "축구협회",
+        "count": 1
+      },
+      {
+        "word": "비민주적",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "칸쿤",
+        "count": 1
+      },
+      {
+        "word": "휴양",
+        "count": 1
+      },
+      {
+        "word": "만이",
+        "count": 1
+      },
+      {
+        "word": "아니었다",
+        "count": 1
+      },
+      {
+        "word": "리그",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "분기",
+        "count": 4
+      },
+      {
+        "word": "최대",
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "월엔",
+        "count": 2
+      },
+      {
+        "word": "현대백화점",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "형소법",
+        "count": 2
+      },
+      {
+        "word": "후속조치",
+        "count": 2
+      },
+      {
+        "word": "직무대행이",
+        "count": 2
+      },
+      {
+        "word": "팀장",
+        "count": 2
+      },
+      {
+        "word": "경찰청",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "우크라",
+        "count": 3
+      },
+      {
+        "word": "갈등",
+        "count": 2
+      },
+      {
+        "word": "드론",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 1
+      },
+      {
+        "word": "룰라",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "바둑",
+        "count": 1
+      },
+      {
+        "word": "스미레",
+        "count": 1
+      },
+      {
+        "word": "여자",
+        "count": 1
+      },
+      {
+        "word": "랭킹",
+        "count": 1
+      },
+      {
+        "word": "등극",
+        "count": 1
+      }
+    ]
   }
 }
