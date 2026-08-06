@@ -1,219 +1,219 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T15:57:20.046901+09:00",
+  "generated_at": "2026-08-06T20:06:42.527368+09:00",
   "daily_top_keywords": [
     {
       "word": "경기",
+      "count": 11
+    },
+    {
+      "word": "만에",
       "count": 6
     },
     {
       "word": "연속",
+      "count": 5
+    },
+    {
+      "word": "폭염",
+      "count": 5
+    },
+    {
+      "word": "폭염에",
+      "count": 5
+    },
+    {
+      "word": "됐다",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "여자",
       "count": 4
     },
     {
-      "word": "만에",
+      "word": "연속골",
       "count": 4
     },
     {
       "word": "위기",
-      "count": 3
-    },
-    {
-      "word": "폭염에",
-      "count": 3
-    },
-    {
-      "word": "됐다",
-      "count": 3
+      "count": 4
     },
     {
       "word": "냉장고",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "트럼프",
-      "count": 3
+      "word": "비판",
+      "count": 4
     },
     {
       "word": "명중",
-      "count": 3
+      "count": 4
     },
     {
       "word": "해병대",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "여자",
-      "count": 2
+      "word": "독도",
+      "count": 4
     },
     {
       "word": "리그스컵",
-      "count": 2
+      "count": 3
     },
     {
       "word": "손흥민",
-      "count": 2
-    },
-    {
-      "word": "연속골",
-      "count": 2
-    },
-    {
-      "word": "베트남",
-      "count": 2
+      "count": 3
     },
     {
       "word": "감독",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "복귀",
-      "count": 2
+      "word": "주말",
+      "count": 3
     },
     {
-      "word": "최고",
-      "count": 2
-    },
-    {
-      "word": "이상준",
-      "count": 2
-    },
-    {
-      "word": "아들과",
-      "count": 2
+      "word": "취소",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "명중",
-        "count": 3
+        "count": 4
       },
       {
         "word": "해병대",
+        "count": 4
+      },
+      {
+        "word": "독도",
+        "count": 4
+      },
+      {
+        "word": "만에",
         "count": 3
       },
       {
         "word": "드론",
-        "count": 2
-      },
-      {
-        "word": "한반도",
-        "count": 2
-      },
-      {
-        "word": "독도",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "경기",
-        "count": 6
+        "count": 10
       },
       {
         "word": "연속",
+        "count": 5
+      },
+      {
+        "word": "연속골",
         "count": 4
       },
       {
         "word": "위기",
-        "count": 3
+        "count": 4
       },
       {
         "word": "리그스컵",
-        "count": 2
-      },
-      {
-        "word": "손흥민",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "대기업",
-        "count": 1
+        "count": 2
       },
       {
         "word": "출신",
-        "count": 1
+        "count": 2
       },
       {
         "word": "한순간",
-        "count": 1
+        "count": 2
       },
       {
         "word": "물경력",
-        "count": 1
+        "count": 2
       },
       {
         "word": "됐다",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "폭염",
-        "count": 2
+        "count": 3
       },
       {
         "word": "건물주",
-        "count": 1
+        "count": 2
       },
       {
         "word": "서장훈",
-        "count": 1
+        "count": 2
       },
       {
         "word": "세입자",
-        "count": 1
+        "count": 2
       },
       {
         "word": "먼저",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
-      },
-      {
-        "word": "한국계",
-        "count": 2
-      },
-      {
-        "word": "후보에",
-        "count": 2
+        "count": 5
       },
       {
         "word": "비판",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "한국계",
+        "count": 3
+      },
+      {
+        "word": "후보에",
+        "count": 3
       },
       {
         "word": "정체",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "이상준",
-        "count": 2
+        "word": "오디세이",
+        "count": 3
       },
       {
         "word": "돌아온",
-        "count": 2
+        "count": 3
       },
       {
         "word": "복합",
-        "count": 1
+        "count": 2
       },
       {
         "word": "돔구장",
-        "count": 1
+        "count": 2
       },
       {
         "word": "설립",
-        "count": 1
+        "count": 2
       }
     ]
   }
