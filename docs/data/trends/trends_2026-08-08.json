@@ -1,219 +1,219 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T15:26:17.503036+09:00",
+  "generated_at": "2026-08-08T19:14:07.225097+09:00",
   "daily_top_keywords": [
     {
       "word": "가지",
-      "count": 3
-    },
-    {
-      "word": "패딩",
-      "count": 2
-    },
-    {
-      "word": "경기",
-      "count": 2
-    },
-    {
-      "word": "인기",
-      "count": 2
-    },
-    {
-      "word": "잡았다",
-      "count": 2
-    },
-    {
-      "word": "돌파",
-      "count": 2
-    },
-    {
-      "word": "스파이더맨",
-      "count": 2
+      "count": 6
     },
     {
       "word": "이유",
-      "count": 2
+      "count": 5
     },
     {
       "word": "데뷔",
-      "count": 2
+      "count": 5
     },
     {
       "word": "주년",
-      "count": 2
+      "count": 5
     },
     {
       "word": "부동산",
-      "count": 2
-    },
-    {
-      "word": "에어컨",
-      "count": 2
-    },
-    {
-      "word": "금리",
-      "count": 2
-    },
-    {
-      "word": "끔찍",
-      "count": 2
-    },
-    {
-      "word": "스페인",
-      "count": 2
-    },
-    {
-      "word": "손현보",
-      "count": 2
+      "count": 5
     },
     {
       "word": "트럼프",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "패딩",
+      "count": 4
+    },
+    {
+      "word": "경기",
+      "count": 4
+    },
+    {
+      "word": "인기",
+      "count": 4
+    },
+    {
+      "word": "잡았다",
+      "count": 4
+    },
+    {
+      "word": "돌파",
+      "count": 4
+    },
+    {
+      "word": "스파이더맨",
+      "count": 4
+    },
+    {
+      "word": "에어컨",
+      "count": 4
+    },
+    {
+      "word": "금리",
+      "count": 4
+    },
+    {
+      "word": "스페인",
+      "count": 4
+    },
+    {
+      "word": "사망",
+      "count": 4
+    },
+    {
+      "word": "손현보",
+      "count": 4
     },
     {
       "word": "접견",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "히말라야",
-      "count": 1
+      "word": "이정후",
+      "count": 3
     },
     {
-      "word": "일에",
-      "count": 1
+      "word": "의혹",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "손현보",
-        "count": 2
+        "count": 4
       },
       {
         "word": "트럼프",
-        "count": 2
+        "count": 4
       },
       {
         "word": "접견",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "버텨라",
-        "count": 1
+        "word": "대통령",
+        "count": 3
       },
       {
-        "word": "이렇게",
-        "count": 1
+        "word": "결혼",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "경기",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "이정후",
+        "count": 3
+      },
+      {
+        "word": "억원",
+        "count": 3
       },
       {
         "word": "히말라야",
-        "count": 1
+        "count": 2
       },
       {
         "word": "일에",
-        "count": 1
-      },
-      {
-        "word": "완등한",
-        "count": 1
-      },
-      {
-        "word": "네팔의",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "금리",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "부동산",
+        "count": 3
+      },
+      {
+        "word": "이유",
+        "count": 3
       },
       {
         "word": "우리가",
-        "count": 1
+        "count": 2
       },
       {
         "word": "투기꾼인가요",
-        "count": 1
-      },
-      {
-        "word": "종부세",
-        "count": 1
-      },
-      {
-        "word": "뒤통수",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "사망",
+        "count": 4
+      },
+      {
         "word": "변기",
-        "count": 1
+        "count": 2
       },
       {
         "word": "수리하던",
-        "count": 1
+        "count": 2
       },
       {
         "word": "집주인",
-        "count": 1
+        "count": 2
       },
       {
         "word": "날벼락",
-        "count": 1
-      },
-      {
-        "word": "여성",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "스페인",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "오래",
-        "count": 1
+        "word": "이란",
+        "count": 3
       },
       {
-        "word": "살려면",
-        "count": 1
+        "word": "탄약",
+        "count": 3
       },
       {
-        "word": "가지",
-        "count": 1
+        "word": "출구전략",
+        "count": 3
       },
       {
-        "word": "지켜라",
-        "count": 1
+        "word": "독도",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "돌파",
-        "count": 2
-      },
-      {
-        "word": "스파이더맨",
-        "count": 2
-      },
-      {
         "word": "데뷔",
-        "count": 2
+        "count": 5
       },
       {
         "word": "주년",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "장부터",
-        "count": 1
+        "word": "돌파",
+        "count": 4
+      },
+      {
+        "word": "스파이더맨",
+        "count": 4
+      },
+      {
+        "word": "오디세이",
+        "count": 3
       }
     ]
   }
