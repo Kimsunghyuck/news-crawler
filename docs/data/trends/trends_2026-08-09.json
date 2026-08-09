@@ -1,13 +1,220 @@
 {
   "date": "2026-08-09",
-  "generated_at": "2026-08-09T09:28:55.226638+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-08-09T15:17:02.671284+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "꺾고",
+      "count": 4
+    },
+    {
+      "word": "연승",
+      "count": 4
+    },
+    {
+      "word": "세계선수권",
+      "count": 3
+    },
+    {
+      "word": "투병",
+      "count": 3
+    },
+    {
+      "word": "오디세이",
+      "count": 3
+    },
+    {
+      "word": "영화",
+      "count": 3
+    },
+    {
+      "word": "주년",
+      "count": 3
+    },
+    {
+      "word": "가지",
+      "count": 3
+    },
+    {
+      "word": "폭염",
+      "count": 3
+    },
+    {
+      "word": "김민석",
+      "count": 3
+    },
+    {
+      "word": "데뷔전",
+      "count": 2
+    },
+    {
+      "word": "패딩",
+      "count": 2
+    },
+    {
+      "word": "결국",
+      "count": 2
+    },
+    {
+      "word": "손흥민",
+      "count": 2
+    },
+    {
+      "word": "도전",
+      "count": 2
+    },
+    {
+      "word": "여자배구",
+      "count": 2
+    },
+    {
+      "word": "도전하는",
+      "count": 2
+    },
+    {
+      "word": "간다",
+      "count": 2
+    },
+    {
+      "word": "놀란",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "김민석",
+        "count": 3
+      },
+      {
+        "word": "대통령의",
+        "count": 2
+      },
+      {
+        "word": "평산책방",
+        "count": 2
+      },
+      {
+        "word": "개점",
+        "count": 2
+      },
+      {
+        "word": "강원",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "꺾고",
+        "count": 4
+      },
+      {
+        "word": "세계선수권",
+        "count": 3
+      },
+      {
+        "word": "연승",
+        "count": 3
+      },
+      {
+        "word": "데뷔전",
+        "count": 2
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "공동명의",
+        "count": 2
+      },
+      {
+        "word": "금리",
+        "count": 2
+      },
+      {
+        "word": "우리가",
+        "count": 1
+      },
+      {
+        "word": "투기꾼인가요",
+        "count": 1
+      },
+      {
+        "word": "종부세",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "폭염",
+        "count": 3
+      },
+      {
+        "word": "부산",
+        "count": 2
+      },
+      {
+        "word": "극한",
+        "count": 2
+      },
+      {
+        "word": "열대야",
+        "count": 2
+      },
+      {
+        "word": "오빠",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "투병",
+        "count": 2
+      },
+      {
+        "word": "패트리엇",
+        "count": 2
+      },
+      {
+        "word": "가지",
+        "count": 2
+      },
+      {
+        "word": "확대",
+        "count": 2
+      },
+      {
+        "word": "바이든",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "오디세이",
+        "count": 3
+      },
+      {
+        "word": "영화",
+        "count": 3
+      },
+      {
+        "word": "주년",
+        "count": 3
+      },
+      {
+        "word": "놀란",
+        "count": 2
+      },
+      {
+        "word": "두개의",
+        "count": 2
+      }
+    ]
   }
 }
