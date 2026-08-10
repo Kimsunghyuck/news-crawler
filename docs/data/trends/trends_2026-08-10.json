@@ -1,219 +1,219 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T15:29:44.216148+09:00",
+  "generated_at": "2026-08-10T19:34:00.067868+09:00",
   "daily_top_keywords": [
     {
-      "word": "배구",
-      "count": 3
-    },
-    {
       "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "오디세이",
-      "count": 3
+      "count": 6
     },
     {
       "word": "만원",
-      "count": 3
+      "count": 6
     },
     {
       "word": "반도체",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "도입",
-      "count": 3
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "수사",
+      "count": 5
+    },
+    {
+      "word": "배구",
+      "count": 4
     },
     {
       "word": "손흥민",
-      "count": 2
+      "count": 4
     },
     {
       "word": "이강인",
-      "count": 2
+      "count": 4
     },
     {
       "word": "국내",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "여제",
-      "count": 2
+      "word": "만에",
+      "count": 4
     },
     {
-      "word": "부산서",
-      "count": 2
+      "word": "오디세이",
+      "count": 4
     },
     {
-      "word": "장면",
-      "count": 2
+      "word": "속도",
+      "count": 4
     },
     {
-      "word": "다른",
-      "count": 2
+      "word": "창업",
+      "count": 4
     },
     {
-      "word": "스파이더맨",
-      "count": 2
+      "word": "투병",
+      "count": 4
     },
     {
-      "word": "돌파",
-      "count": 2
+      "word": "사직서",
+      "count": 4
     },
     {
-      "word": "지금",
-      "count": 2
+      "word": "황희",
+      "count": 4
     },
     {
-      "word": "하닉",
-      "count": 2
+      "word": "머리숙여",
+      "count": 4
     },
     {
-      "word": "사람",
-      "count": 2
+      "word": "사과",
+      "count": 4
     },
     {
-      "word": "삼전",
-      "count": 2
+      "word": "전격전",
+      "count": 4
     },
     {
-      "word": "주년",
-      "count": 2
+      "word": "경기",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "조롱",
-        "count": 2
-      },
-      {
         "word": "황희",
-        "count": 2
+        "count": 4
       },
       {
         "word": "머리숙여",
-        "count": 2
+        "count": 4
       },
       {
         "word": "사과",
-        "count": 2
+        "count": 4
       },
       {
         "word": "전격전",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "핵심",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "배구",
-        "count": 3
+        "count": 4
       },
       {
         "word": "손흥민",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "이강인",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "노마드족",
-        "count": 1
+        "word": "폭염에",
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "창업",
+        "count": 4
+      },
+      {
         "word": "하닉",
-        "count": 2
+        "count": 3
       },
       {
         "word": "반도체",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "삼전",
-        "count": 2
+        "word": "강남",
+        "count": 3
       },
       {
-        "word": "최대",
-        "count": 2
-      },
-      {
-        "word": "도입",
+        "word": "지금",
         "count": 2
       }
     ],
     "society": [
       {
-        "word": "대장동",
-        "count": 2
-      },
-      {
         "word": "수사",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "강백신",
-        "count": 2
+        "word": "대장동",
+        "count": 3
       },
       {
         "word": "검사",
-        "count": 2
+        "count": 3
       },
       {
         "word": "사직서",
+        "count": 3
+      },
+      {
+        "word": "수리비",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 2
-      },
-      {
-        "word": "코끼리",
-        "count": 2
+        "count": 5
       },
       {
         "word": "투병",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "안보수장에",
+        "count": 3
       },
       {
         "word": "태극기",
-        "count": 1
-      },
-      {
-        "word": "모자",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "오디세이",
-        "count": 3
+        "count": 4
       },
       {
         "word": "스파이더맨",
-        "count": 2
+        "count": 3
       },
       {
         "word": "돌파",
-        "count": 2
+        "count": 3
       },
       {
         "word": "오징어",
-        "count": 1
+        "count": 2
       },
       {
         "word": "게임",
-        "count": 1
+        "count": 2
       }
     ]
   }
