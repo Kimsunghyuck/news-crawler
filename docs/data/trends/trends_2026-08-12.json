@@ -1,25 +1,69 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T15:31:14.648171+09:00",
+  "generated_at": "2026-08-12T19:35:43.657945+09:00",
   "daily_top_keywords": [
     {
+      "word": "논란",
+      "count": 9
+    },
+    {
+      "word": "만에",
+      "count": 7
+    },
+    {
       "word": "증조부",
+      "count": 6
+    },
+    {
+      "word": "친일",
       "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "세계선수권",
+      "count": 4
+    },
+    {
+      "word": "연승",
+      "count": 4
     },
     {
       "word": "하영",
       "count": 4
     },
     {
-      "word": "친일",
+      "word": "분기",
       "count": 4
     },
     {
-      "word": "논란",
+      "word": "경찰",
       "count": 4
     },
     {
-      "word": "세계선수권",
+      "word": "스틸",
+      "count": 4
+    },
+    {
+      "word": "대사",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "정청래",
+      "count": 4
+    },
+    {
+      "word": "김민석",
+      "count": 4
+    },
+    {
+      "word": "패배",
       "count": 3
     },
     {
@@ -27,108 +71,72 @@
       "count": 3
     },
     {
-      "word": "스틸",
-      "count": 3
-    },
-    {
-      "word": "대사",
-      "count": 3
-    },
-    {
-      "word": "대통령",
-      "count": 3
-    },
-    {
-      "word": "여자",
-      "count": 2
-    },
-    {
-      "word": "한국",
-      "count": 2
-    },
-    {
-      "word": "배구",
-      "count": 2
-    },
-    {
-      "word": "이정후",
-      "count": 2
-    },
-    {
-      "word": "홈런",
-      "count": 2
-    },
-    {
-      "word": "호포",
-      "count": 2
-    },
-    {
-      "word": "연승",
-      "count": 2
-    },
-    {
-      "word": "다음",
-      "count": 2
-    },
-    {
-      "word": "만에",
-      "count": 2
-    },
-    {
-      "word": "연속",
-      "count": 2
-    },
-    {
       "word": "이름",
-      "count": 2
+      "count": 3
+    },
+    {
+      "word": "강행",
+      "count": 3
+    },
+    {
+      "word": "의혹",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "스틸",
-        "count": 3
+        "count": 4
       },
       {
         "word": "대사",
-        "count": 3
+        "count": 4
       },
       {
         "word": "대통령",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "잼버리",
-        "count": 2
+        "word": "정청래",
+        "count": 4
       },
       {
-        "word": "망치고",
-        "count": 2
+        "word": "김민석",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "세계선수권",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "연승",
+        "count": 4
       },
       {
         "word": "시즌",
         "count": 3
       },
       {
-        "word": "여자",
-        "count": 2
+        "word": "만에",
+        "count": 3
       },
       {
-        "word": "한국",
-        "count": 2
-      },
-      {
-        "word": "배구",
-        "count": 2
+        "word": "강행",
+        "count": 3
       }
     ],
     "economy": [
+      {
+        "word": "분기",
+        "count": 4
+      },
+      {
+        "word": "영업익",
+        "count": 3
+      },
       {
         "word": "반도체",
         "count": 2
@@ -140,63 +148,59 @@
       {
         "word": "두산위브더제니스",
         "count": 2
-      },
-      {
-        "word": "분기",
-        "count": 2
-      },
-      {
-        "word": "영업익",
-        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "종합특검",
+        "count": 3
+      },
       {
         "word": "촬영",
         "count": 2
       },
       {
-        "word": "영화",
-        "count": 1
+        "word": "여성",
+        "count": 2
       },
       {
-        "word": "귀가하던",
-        "count": 1
+        "word": "남성",
+        "count": 2
       },
       {
-        "word": "대학생",
-        "count": 1
-      },
-      {
-        "word": "중앙선",
-        "count": 1
+        "word": "의혹",
+        "count": 2
       }
     ],
     "international": [
+      {
+        "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "논란",
+        "count": 3
+      },
       {
         "word": "만뷰",
         "count": 2
       },
       {
-        "word": "트럼프",
+        "word": "한국계",
         "count": 2
       },
       {
-        "word": "구찌",
-        "count": 1
-      },
-      {
-        "word": "매장",
-        "count": 1
-      },
-      {
-        "word": "직원에",
-        "count": 1
+        "word": "기만",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "증조부",
+        "count": 5
+      },
+      {
+        "word": "친일",
         "count": 4
       },
       {
@@ -204,16 +208,12 @@
         "count": 3
       },
       {
-        "word": "친일",
+        "word": "논란",
         "count": 3
       },
       {
-        "word": "논란",
-        "count": 2
-      },
-      {
-        "word": "이홍렬",
-        "count": 1
+        "word": "만에",
+        "count": 3
       }
     ]
   }
