@@ -1,109 +1,109 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T15:32:45.585121+09:00",
+  "generated_at": "2026-08-13T19:36:19.257366+09:00",
   "daily_top_keywords": [
     {
       "word": "공급",
-      "count": 5
+      "count": 6
     },
     {
       "word": "세계선수권",
       "count": 4
     },
     {
-      "word": "대통령",
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "리그스컵",
+      "count": 4
+    },
+    {
+      "word": "여성",
+      "count": 4
+    },
+    {
+      "word": "손흥민",
       "count": 3
     },
     {
-      "word": "만에",
+      "word": "글로벌",
+      "count": 3
+    },
+    {
+      "word": "천재",
+      "count": 3
+    },
+    {
+      "word": "급증",
+      "count": 3
+    },
+    {
+      "word": "시간",
       "count": 3
     },
     {
       "word": "우크라",
-      "count": 2
+      "count": 3
     },
     {
       "word": "드론",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "여론조사",
-      "count": 2
-    },
-    {
-      "word": "석패",
-      "count": 2
+      "count": 3
     },
     {
       "word": "별세",
-      "count": 2
+      "count": 3
+    },
+    {
+      "word": "여론조사",
+      "count": 3
+    },
+    {
+      "word": "석패",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "김밥",
+      "count": 3
+    },
+    {
+      "word": "마는",
+      "count": 3
+    },
+    {
+      "word": "고용하세요",
+      "count": 3
     },
     {
       "word": "엄마",
-      "count": 2
-    },
-    {
-      "word": "정부",
-      "count": 2
-    },
-    {
-      "word": "세계",
-      "count": 2
-    },
-    {
-      "word": "천재",
-      "count": 2
-    },
-    {
-      "word": "년부터",
-      "count": 2
-    },
-    {
-      "word": "절벽",
-      "count": 2
-    },
-    {
-      "word": "택지",
-      "count": 2
-    },
-    {
-      "word": "지지율",
-      "count": 2
-    },
-    {
-      "word": "취임",
-      "count": 2
-    },
-    {
-      "word": "여성",
-      "count": 2
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "공급",
-        "count": 4
+        "count": 5
+      },
+      {
+        "word": "부동산",
+        "count": 3
       },
       {
         "word": "대통령",
         "count": 3
       },
       {
-        "word": "년부터",
-        "count": 2
+        "word": "국힘",
+        "count": 3
       },
       {
-        "word": "절벽",
-        "count": 2
-      },
-      {
-        "word": "택지",
-        "count": 2
+        "word": "지지율",
+        "count": 3
       }
     ],
     "sports": [
@@ -112,49 +112,45 @@
         "count": 4
       },
       {
-        "word": "손흥민",
-        "count": 2
-      },
-      {
         "word": "리그스컵",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "트리플더블",
-        "count": 2
+        "word": "만에",
+        "count": 3
       },
       {
-        "word": "은퇴",
+        "word": "손흥민",
+        "count": 3
+      },
+      {
+        "word": "배구",
         "count": 2
       }
     ],
     "economy": [
       {
         "word": "일하는",
-        "count": 1
+        "count": 2
       },
       {
         "word": "스타트업",
-        "count": 1
+        "count": 2
       },
       {
         "word": "대세지만",
-        "count": 1
+        "count": 2
       },
       {
         "word": "고립감",
-        "count": 1
+        "count": 2
       },
       {
         "word": "호소하는",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
-      {
-        "word": "대검",
-        "count": 2
-      },
       {
         "word": "징계",
         "count": 2
@@ -164,56 +160,60 @@
         "count": 2
       },
       {
-        "word": "감찰위",
-        "count": 1
+        "word": "징역",
+        "count": 2
       },
       {
-        "word": "판단",
-        "count": 1
+        "word": "구형",
+        "count": 2
+      },
+      {
+        "word": "대검",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "우크라",
-        "count": 2
+        "count": 3
       },
       {
         "word": "드론",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "트럼프",
-        "count": 2
+        "word": "별세",
+        "count": 3
       },
       {
         "word": "여론조사",
-        "count": 2
+        "count": 3
       },
       {
         "word": "석패",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "아이맥스",
-        "count": 1
+        "word": "공연",
+        "count": 2
       },
       {
-        "word": "고선명",
-        "count": 1
+        "word": "이야기",
+        "count": 2
       },
       {
-        "word": "느낌",
-        "count": 1
+        "word": "함께",
+        "count": 2
       },
       {
-        "word": "가장자리는",
-        "count": 1
+        "word": "쉬어가도",
+        "count": 2
       },
       {
-        "word": "몰입감",
-        "count": 1
+        "word": "괜찮아",
+        "count": 2
       }
     ]
   }
