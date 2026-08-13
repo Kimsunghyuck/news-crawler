@@ -1,13 +1,220 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T09:34:31.894135+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-08-13T15:32:45.585121+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "공급",
+      "count": 5
+    },
+    {
+      "word": "세계선수권",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "우크라",
+      "count": 2
+    },
+    {
+      "word": "드론",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "여론조사",
+      "count": 2
+    },
+    {
+      "word": "석패",
+      "count": 2
+    },
+    {
+      "word": "별세",
+      "count": 2
+    },
+    {
+      "word": "엄마",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    },
+    {
+      "word": "세계",
+      "count": 2
+    },
+    {
+      "word": "천재",
+      "count": 2
+    },
+    {
+      "word": "년부터",
+      "count": 2
+    },
+    {
+      "word": "절벽",
+      "count": 2
+    },
+    {
+      "word": "택지",
+      "count": 2
+    },
+    {
+      "word": "지지율",
+      "count": 2
+    },
+    {
+      "word": "취임",
+      "count": 2
+    },
+    {
+      "word": "여성",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "공급",
+        "count": 4
+      },
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "년부터",
+        "count": 2
+      },
+      {
+        "word": "절벽",
+        "count": 2
+      },
+      {
+        "word": "택지",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "세계선수권",
+        "count": 4
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "리그스컵",
+        "count": 2
+      },
+      {
+        "word": "트리플더블",
+        "count": 2
+      },
+      {
+        "word": "은퇴",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "일하는",
+        "count": 1
+      },
+      {
+        "word": "스타트업",
+        "count": 1
+      },
+      {
+        "word": "대세지만",
+        "count": 1
+      },
+      {
+        "word": "고립감",
+        "count": 1
+      },
+      {
+        "word": "호소하는",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "대검",
+        "count": 2
+      },
+      {
+        "word": "징계",
+        "count": 2
+      },
+      {
+        "word": "아들",
+        "count": 2
+      },
+      {
+        "word": "감찰위",
+        "count": 1
+      },
+      {
+        "word": "판단",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "우크라",
+        "count": 2
+      },
+      {
+        "word": "드론",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "여론조사",
+        "count": 2
+      },
+      {
+        "word": "석패",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "아이맥스",
+        "count": 1
+      },
+      {
+        "word": "고선명",
+        "count": 1
+      },
+      {
+        "word": "느낌",
+        "count": 1
+      },
+      {
+        "word": "가장자리는",
+        "count": 1
+      },
+      {
+        "word": "몰입감",
+        "count": 1
+      }
+    ]
   }
 }
