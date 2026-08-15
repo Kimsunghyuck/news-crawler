@@ -1,219 +1,219 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T15:10:27.008407+09:00",
+  "generated_at": "2026-08-15T19:11:53.830370+09:00",
   "daily_top_keywords": [
     {
+      "word": "사망",
+      "count": 6
+    },
+    {
       "word": "광복절",
-      "count": 4
-    },
-    {
-      "word": "인도네시아",
-      "count": 3
-    },
-    {
-      "word": "강진",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "호르무즈",
-      "count": 3
-    },
-    {
-      "word": "최소",
-      "count": 3
+      "count": 6
     },
     {
       "word": "전쟁",
-      "count": 3
+      "count": 6
     },
     {
       "word": "끝낼",
-      "count": 3
+      "count": 6
     },
     {
       "word": "당사자",
-      "count": 3
+      "count": 6
     },
     {
       "word": "논의",
-      "count": 3
+      "count": 6
     },
     {
       "word": "시작하자",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "강진",
+      "count": 5
     },
     {
       "word": "국힘",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "사과",
-      "count": 3
+      "word": "서울",
+      "count": 5
     },
     {
-      "word": "사망",
-      "count": 2
+      "word": "인도네시아",
+      "count": 4
     },
     {
-      "word": "영토",
-      "count": 2
-    },
-    {
-      "word": "규모",
-      "count": 2
-    },
-    {
-      "word": "해협",
-      "count": 2
-    },
-    {
-      "word": "조만간",
-      "count": 2
-    },
-    {
-      "word": "시대",
-      "count": 2
+      "word": "최소",
+      "count": 4
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "사라진",
+      "count": 4
+    },
+    {
+      "word": "오랜",
+      "count": 4
+    },
+    {
+      "word": "남북",
+      "count": 4
+    },
+    {
+      "word": "골프",
+      "count": 4
+    },
+    {
+      "word": "사과",
+      "count": 4
+    },
+    {
+      "word": "손흥민",
+      "count": 4
+    },
+    {
+      "word": "연속",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "전쟁",
-        "count": 3
+        "count": 6
       },
       {
         "word": "끝낼",
-        "count": 3
+        "count": 6
       },
       {
         "word": "당사자",
-        "count": 3
+        "count": 6
       },
       {
         "word": "논의",
-        "count": 3
+        "count": 6
       },
       {
         "word": "시작하자",
-        "count": 3
+        "count": 6
       }
     ],
     "sports": [
       {
         "word": "손흥민",
-        "count": 2
+        "count": 4
       },
       {
         "word": "연속",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이강인",
-        "count": 1
+        "word": "타구",
+        "count": 3
       },
       {
-        "word": "김민재",
-        "count": 1
+        "word": "맞은",
+        "count": 3
       },
       {
-        "word": "다시",
-        "count": 1
+        "word": "임지민",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "서울",
-        "count": 2
+        "count": 4
       },
       {
         "word": "전망",
-        "count": 2
+        "count": 3
       },
       {
         "word": "돌파",
-        "count": 2
+        "count": 3
       },
       {
         "word": "남양주",
-        "count": 1
+        "count": 2
       },
       {
         "word": "만채론",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "서강대",
-        "count": 2
-      },
-      {
         "word": "개인정보",
-        "count": 2
+        "count": 3
       },
       {
         "word": "만건",
-        "count": 2
-      },
-      {
-        "word": "가짜",
-        "count": 2
+        "count": 3
       },
       {
         "word": "한강뷰",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "한남동",
+        "count": 2
+      },
+      {
+        "word": "분쟁",
+        "count": 2
       }
     ],
     "international": [
       {
+        "word": "사망",
+        "count": 6
+      },
+      {
         "word": "인도네시아",
-        "count": 3
+        "count": 4
       },
       {
         "word": "강진",
-        "count": 3
-      },
-      {
-        "word": "트럼프",
-        "count": 3
-      },
-      {
-        "word": "호르무즈",
-        "count": 3
+        "count": 4
       },
       {
         "word": "최소",
+        "count": 4
+      },
+      {
+        "word": "다카이치",
         "count": 3
       }
     ],
     "culture": [
       {
         "word": "고백",
-        "count": 2
+        "count": 3
       },
       {
         "word": "레게머리",
-        "count": 1
+        "count": 2
       },
       {
         "word": "고슴도치",
-        "count": 1
+        "count": 2
       },
       {
         "word": "곱슬머리",
-        "count": 1
+        "count": 2
       },
       {
         "word": "가능한",
-        "count": 1
+        "count": 2
       }
     ]
   }
