@@ -1,13 +1,220 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T09:22:20.933073+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-08-17T15:20:00.258202+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "광복절",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "축소",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "한미훈련",
+      "count": 2
+    },
+    {
+      "word": "지시",
+      "count": 2
+    },
+    {
+      "word": "호날두",
+      "count": 2
+    },
+    {
+      "word": "떠난",
+      "count": 2
+    },
+    {
+      "word": "전대",
+      "count": 2
+    },
+    {
+      "word": "경쟁",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    },
+    {
+      "word": "이색",
+      "count": 2
+    },
+    {
+      "word": "추돌",
+      "count": 2
+    },
+    {
+      "word": "개발",
+      "count": 2
+    },
+    {
+      "word": "시장",
+      "count": 2
+    },
+    {
+      "word": "연승",
+      "count": 2
+    },
+    {
+      "word": "최다",
+      "count": 2
+    },
+    {
+      "word": "기록",
+      "count": 2
+    },
+    {
+      "word": "우승",
+      "count": 2
+    },
+    {
+      "word": "완승",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "전대",
+        "count": 2
+      },
+      {
+        "word": "광복절",
+        "count": 2
+      },
+      {
+        "word": "개헌",
+        "count": 1
+      },
+      {
+        "word": "골프",
+        "count": 1
+      },
+      {
+        "word": "의원들",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "연승",
+        "count": 2
+      },
+      {
+        "word": "우승",
+        "count": 2
+      },
+      {
+        "word": "완승",
+        "count": 2
+      },
+      {
+        "word": "무더위에",
+        "count": 1
+      },
+      {
+        "word": "무릎",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "개발",
+        "count": 2
+      },
+      {
+        "word": "시장",
+        "count": 2
+      },
+      {
+        "word": "금융권",
+        "count": 1
+      },
+      {
+        "word": "연체율",
+        "count": 1
+      },
+      {
+        "word": "만에",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "광복절",
+        "count": 2
+      },
+      {
+        "word": "추돌",
+        "count": 2
+      },
+      {
+        "word": "매국노",
+        "count": 1
+      },
+      {
+        "word": "조롱",
+        "count": 1
+      },
+      {
+        "word": "카페",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "한미훈련",
+        "count": 2
+      },
+      {
+        "word": "축소",
+        "count": 2
+      },
+      {
+        "word": "호날두",
+        "count": 2
+      },
+      {
+        "word": "김정은과",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "스트레이",
+        "count": 2
+      },
+      {
+        "word": "키즈",
+        "count": 2
+      },
+      {
+        "word": "빌보드",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "연속",
+        "count": 1
+      }
+    ]
   }
 }
