@@ -1,219 +1,219 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T15:20:00.258202+09:00",
+  "generated_at": "2026-08-17T19:15:18.571635+09:00",
   "daily_top_keywords": [
     {
-      "word": "광복절",
-      "count": 4
-    },
-    {
       "word": "트럼프",
-      "count": 3
+      "count": 7
     },
     {
       "word": "축소",
-      "count": 3
+      "count": 7
     },
     {
       "word": "만에",
-      "count": 3
+      "count": 6
     },
     {
       "word": "한미훈련",
-      "count": 2
-    },
-    {
-      "word": "지시",
-      "count": 2
+      "count": 5
     },
     {
       "word": "호날두",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "민주당",
+      "count": 5
+    },
+    {
+      "word": "광복절",
+      "count": 5
+    },
+    {
+      "word": "지시",
+      "count": 4
     },
     {
       "word": "떠난",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "전대",
-      "count": 2
+      "word": "정청래",
+      "count": 4
     },
     {
-      "word": "경쟁",
-      "count": 2
+      "word": "김민석",
+      "count": 4
     },
     {
-      "word": "정부",
-      "count": 2
-    },
-    {
-      "word": "이색",
-      "count": 2
-    },
-    {
-      "word": "추돌",
-      "count": 2
-    },
-    {
-      "word": "개발",
-      "count": 2
-    },
-    {
-      "word": "시장",
-      "count": 2
-    },
-    {
-      "word": "연승",
-      "count": 2
-    },
-    {
-      "word": "최다",
-      "count": 2
-    },
-    {
-      "word": "기록",
-      "count": 2
+      "word": "개월",
+      "count": 4
     },
     {
       "word": "우승",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "완승",
-      "count": 2
+      "word": "최고",
+      "count": 4
+    },
+    {
+      "word": "연승",
+      "count": 4
+    },
+    {
+      "word": "최다",
+      "count": 4
+    },
+    {
+      "word": "기록",
+      "count": 4
+    },
+    {
+      "word": "스트레이",
+      "count": 4
+    },
+    {
+      "word": "키즈",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "전대",
-        "count": 2
+        "word": "민주당",
+        "count": 5
       },
       {
-        "word": "광복절",
-        "count": 2
+        "word": "정청래",
+        "count": 4
       },
       {
-        "word": "개헌",
-        "count": 1
+        "word": "김민석",
+        "count": 4
       },
       {
-        "word": "골프",
-        "count": 1
+        "word": "트럼프",
+        "count": 3
       },
       {
-        "word": "의원들",
-        "count": 1
+        "word": "축소",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "연승",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "경기",
+        "count": 3
       },
       {
         "word": "우승",
-        "count": 2
+        "count": 3
       },
       {
         "word": "완승",
+        "count": 3
+      },
+      {
+        "word": "백인천",
         "count": 2
-      },
-      {
-        "word": "무더위에",
-        "count": 1
-      },
-      {
-        "word": "무릎",
-        "count": 1
       }
     ],
     "economy": [
       {
-        "word": "개발",
-        "count": 2
+        "word": "만에",
+        "count": 3
       },
       {
-        "word": "시장",
-        "count": 2
+        "word": "개발",
+        "count": 3
       },
       {
         "word": "금융권",
-        "count": 1
+        "count": 2
       },
       {
         "word": "연체율",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "만에",
-        "count": 1
+        "word": "최고",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "광복절",
-        "count": 2
-      },
-      {
-        "word": "추돌",
-        "count": 2
+        "count": 3
       },
       {
         "word": "매국노",
-        "count": 1
+        "count": 2
       },
       {
         "word": "조롱",
-        "count": 1
+        "count": 2
       },
       {
         "word": "카페",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "오픈런",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 2
-      },
-      {
-        "word": "한미훈련",
-        "count": 2
+        "count": 4
       },
       {
         "word": "축소",
-        "count": 2
+        "count": 4
       },
       {
         "word": "호날두",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "김정은과",
-        "count": 1
+        "word": "한미훈련",
+        "count": 3
+      },
+      {
+        "word": "지시",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "스트레이",
-        "count": 2
+        "count": 4
       },
       {
         "word": "키즈",
-        "count": 2
+        "count": 4
       },
       {
         "word": "빌보드",
-        "count": 2
-      },
-      {
-        "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "연속",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 3
       }
     ]
   }
