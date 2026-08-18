@@ -1,219 +1,219 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T15:12:00.482965+09:00",
+  "generated_at": "2026-08-18T19:12:24.929823+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 5
+      "count": 11
     },
     {
       "word": "한국",
-      "count": 5
+      "count": 9
     },
     {
       "word": "만원",
-      "count": 4
+      "count": 6
     },
     {
       "word": "정성호",
-      "count": 4
+      "count": 6
     },
     {
       "word": "사직서",
-      "count": 4
+      "count": 6
     },
     {
       "word": "제출",
+      "count": 6
+    },
+    {
+      "word": "서울",
+      "count": 5
+    },
+    {
+      "word": "복귀",
+      "count": 5
+    },
+    {
+      "word": "대화",
+      "count": 4
+    },
+    {
+      "word": "가장",
+      "count": 4
+    },
+    {
+      "word": "전쟁",
+      "count": 4
+    },
+    {
+      "word": "결혼식",
       "count": 4
     },
     {
       "word": "김민석",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "서울",
-      "count": 3
+      "word": "축소",
+      "count": 4
+    },
+    {
+      "word": "버티시라",
+      "count": 4
+    },
+    {
+      "word": "왔다",
+      "count": 4
+    },
+    {
+      "word": "만든다",
+      "count": 4
+    },
+    {
+      "word": "개월",
+      "count": 4
     },
     {
       "word": "이강인",
-      "count": 3
+      "count": 4
     },
     {
       "word": "마드리드",
-      "count": 3
-    },
-    {
-      "word": "입단식",
-      "count": 3
-    },
-    {
-      "word": "모든",
-      "count": 3
-    },
-    {
-      "word": "대회",
-      "count": 3
-    },
-    {
-      "word": "우승하겠다",
-      "count": 3
-    },
-    {
-      "word": "복귀",
-      "count": 3
-    },
-    {
-      "word": "김정은",
-      "count": 2
-    },
-    {
-      "word": "대화",
-      "count": 2
-    },
-    {
-      "word": "가장",
-      "count": 2
-    },
-    {
-      "word": "전쟁",
-      "count": 2
-    },
-    {
-      "word": "대통령",
-      "count": 2
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "김민석",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "축소",
+        "count": 4
       },
       {
         "word": "정성호",
-        "count": 3
+        "count": 4
       },
       {
         "word": "사직서",
-        "count": 3
+        "count": 4
       },
       {
         "word": "제출",
-        "count": 3
-      },
-      {
-        "word": "전작권",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "이강인",
-        "count": 3
+        "count": 4
       },
       {
         "word": "마드리드",
-        "count": 3
+        "count": 4
       },
       {
         "word": "입단식",
-        "count": 3
+        "count": 4
       },
       {
         "word": "모든",
-        "count": 3
+        "count": 4
       },
       {
         "word": "대회",
-        "count": 3
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "서울",
-        "count": 3
-      },
-      {
-        "word": "조원",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만원",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "조원",
+        "count": 3
       },
       {
         "word": "서랍",
-        "count": 1
+        "count": 2
       },
       {
         "word": "잠자는",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "송치",
+        "word": "됐다",
+        "count": 3
+      },
+      {
+        "word": "버티시라",
         "count": 2
       },
       {
-        "word": "국무회의",
-        "count": 1
+        "word": "했지만",
+        "count": 2
       },
       {
-        "word": "오세훈",
-        "count": 1
+        "word": "정성호",
+        "count": 2
       },
       {
-        "word": "용산공원",
-        "count": 1
-      },
-      {
-        "word": "아파트",
-        "count": 1
+        "word": "사직서",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
+        "count": 7
       },
       {
         "word": "대화",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 2
+        "count": 4
       },
       {
         "word": "결혼식",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "김정은",
-        "count": 1
+        "word": "역대",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "마약",
-        "count": 2
+        "count": 3
       },
       {
         "word": "유아인",
-        "count": 2
+        "count": 3
       },
       {
         "word": "복귀",
-        "count": 2
+        "count": 3
       },
       {
         "word": "파묘",
-        "count": 2
+        "count": 3
       },
       {
         "word": "장재현",
-        "count": 2
+        "count": 3
       }
     ]
   }
