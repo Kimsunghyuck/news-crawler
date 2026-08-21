@@ -1,13 +1,220 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T09:29:32.392324+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-08-21T15:12:58.739603+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 7
+    },
+    {
+      "word": "아들",
+      "count": 4
+    },
+    {
+      "word": "공동",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "사망",
+      "count": 2
+    },
+    {
+      "word": "실종",
+      "count": 2
+    },
+    {
+      "word": "개월",
+      "count": 2
+    },
+    {
+      "word": "도발",
+      "count": 2
+    },
+    {
+      "word": "출생의",
+      "count": 2
+    },
+    {
+      "word": "비밀",
+      "count": 2
+    },
+    {
+      "word": "됐다",
+      "count": 2
+    },
+    {
+      "word": "김민석",
+      "count": 2
+    },
+    {
+      "word": "김여정",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "전면",
+      "count": 2
+    },
+    {
+      "word": "탈영했다면",
+      "count": 2
+    },
+    {
+      "word": "내가",
+      "count": 2
+    },
+    {
+      "word": "종결",
+      "count": 2
+    },
+    {
+      "word": "한명은",
+      "count": 2
+    },
+    {
+      "word": "아파트서",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "아들",
+        "count": 4
+      },
+      {
+        "word": "김민석",
+        "count": 2
+      },
+      {
+        "word": "김여정",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "탈영했다면",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "공동",
+        "count": 4
+      },
+      {
+        "word": "챔피언십",
+        "count": 2
+      },
+      {
+        "word": "세계선수권",
+        "count": 2
+      },
+      {
+        "word": "투어",
+        "count": 2
+      },
+      {
+        "word": "시즌",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "미래대응기금",
+        "count": 2
+      },
+      {
+        "word": "하닉",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "반도체",
+        "count": 1
+      },
+      {
+        "word": "추가",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "한명은",
+        "count": 2
+      },
+      {
+        "word": "아파트서",
+        "count": 2
+      },
+      {
+        "word": "무슨",
+        "count": 2
+      },
+      {
+        "word": "검찰",
+        "count": 1
+      },
+      {
+        "word": "김옥숙",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "출생의",
+        "count": 2
+      },
+      {
+        "word": "비밀",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "시절",
+        "count": 2
+      },
+      {
+        "word": "말랑이",
+        "count": 1
+      },
+      {
+        "word": "유행이",
+        "count": 1
+      },
+      {
+        "word": "뭐길래",
+        "count": 1
+      },
+      {
+        "word": "창신동",
+        "count": 1
+      }
+    ]
   }
 }
