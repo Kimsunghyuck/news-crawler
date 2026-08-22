@@ -1,219 +1,219 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22T15:10:27.006617+09:00",
+  "generated_at": "2026-08-22T19:09:44.163593+09:00",
   "daily_top_keywords": [
     {
       "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "서울",
-      "count": 3
-    },
-    {
-      "word": "최대",
-      "count": 3
+      "count": 7
     },
     {
       "word": "베트남",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "튀르키예",
-      "count": 2
+      "word": "여자배구",
+      "count": 5
     },
     {
-      "word": "체포영장",
-      "count": 2
-    },
-    {
-      "word": "발부",
-      "count": 2
-    },
-    {
-      "word": "트럼프와",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "청계천",
-      "count": 2
+      "word": "서울",
+      "count": 5
     },
     {
       "word": "갔다",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "노웅래",
+      "count": 4
     },
     {
       "word": "한동훈",
-      "count": 2
+      "count": 4
     },
     {
       "word": "상반기",
-      "count": 2
+      "count": 4
     },
     {
       "word": "대통령",
-      "count": 2
+      "count": 4
     },
     {
       "word": "장악",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "민주당",
+      "count": 4
     },
     {
       "word": "국힘",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "안보",
-      "count": 2
-    },
-    {
-      "word": "승인",
-      "count": 2
-    },
-    {
-      "word": "역대",
-      "count": 2
+      "word": "최대",
+      "count": 4
     },
     {
       "word": "쿠팡",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "부동산",
+      "count": 4
+    },
+    {
+      "word": "사과",
+      "count": 4
+    },
+    {
+      "word": "해외서",
+      "count": 4
+    },
+    {
+      "word": "잡는",
+      "count": 4
+    },
+    {
+      "word": "격파",
+      "count": 4
+    },
+    {
+      "word": "보인다",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "노웅래",
+        "count": 4
+      },
+      {
         "word": "한동훈",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대통령",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "민주당",
+        "count": 4
       },
       {
         "word": "국힘",
-        "count": 2
-      },
-      {
-        "word": "안보",
-        "count": 2
-      },
-      {
-        "word": "최대",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "베트남",
-        "count": 3
+        "count": 6
       },
       {
         "word": "격파",
-        "count": 2
+        "count": 4
       },
       {
         "word": "보인다",
-        "count": 2
-      },
-      {
-        "word": "이정후",
-        "count": 2
+        "count": 4
       },
       {
         "word": "강소휘",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "여자배구",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "잡는",
-        "count": 2
+        "count": 4
       },
       {
         "word": "출차까지",
-        "count": 1
+        "count": 2
       },
       {
         "word": "아파트",
-        "count": 1
+        "count": 2
       },
       {
         "word": "로봇",
-        "count": 1
+        "count": 2
       },
       {
         "word": "발레파킹",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "노상",
-        "count": 1
+        "word": "동북아역사재단",
+        "count": 2
       },
       {
-        "word": "방뇨",
-        "count": 1
+        "word": "이사장",
+        "count": 2
       },
       {
-        "word": "범칙금",
-        "count": 1
+        "word": "직무정지독도",
+        "count": 2
       },
       {
-        "word": "불만",
-        "count": 1
+        "word": "갈때",
+        "count": 2
       },
       {
-        "word": "투신",
-        "count": 1
+        "word": "독도",
+        "count": 2
       }
     ],
     "international": [
       {
+        "word": "만에",
+        "count": 4
+      },
+      {
         "word": "튀르키예",
-        "count": 2
+        "count": 3
       },
       {
         "word": "체포영장",
-        "count": 2
+        "count": 3
       },
       {
         "word": "발부",
-        "count": 2
+        "count": 3
       },
       {
         "word": "트럼프와",
-        "count": 2
-      },
-      {
-        "word": "트럼프",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "다르면",
-        "count": 1
+        "count": 2
       },
       {
         "word": "괴물",
-        "count": 1
+        "count": 2
       },
       {
         "word": "아시아",
-        "count": 1
+        "count": 2
       },
       {
         "word": "찍은",
-        "count": 1
+        "count": 2
       },
       {
         "word": "낙인의",
-        "count": 1
+        "count": 2
       }
     ]
   }
