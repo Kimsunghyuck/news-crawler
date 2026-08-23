@@ -1,13 +1,220 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T09:21:10.045752+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-08-23T15:12:21.414032+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "비거주",
+      "count": 4
+    },
+    {
+      "word": "제주",
+      "count": 4
+    },
+    {
+      "word": "아파트",
+      "count": 3
+    },
+    {
+      "word": "김민석",
+      "count": 3
+    },
+    {
+      "word": "종부세",
+      "count": 3
+    },
+    {
+      "word": "주택자",
+      "count": 3
+    },
+    {
+      "word": "빠진",
+      "count": 3
+    },
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "발견",
+      "count": 3
+    },
+    {
+      "word": "손흥민",
+      "count": 3
+    },
+    {
+      "word": "전쟁이다",
+      "count": 2
+    },
+    {
+      "word": "애착",
+      "count": 2
+    },
+    {
+      "word": "담요",
+      "count": 2
+    },
+    {
+      "word": "편지까지",
+      "count": 2
+    },
+    {
+      "word": "없었다",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "현지",
+      "count": 2
+    },
+    {
+      "word": "논란",
+      "count": 2
+    },
+    {
+      "word": "로봇",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "비거주",
+        "count": 4
+      },
+      {
+        "word": "김민석",
+        "count": 3
+      },
+      {
+        "word": "주택자",
+        "count": 3
+      },
+      {
+        "word": "사유",
+        "count": 2
+      },
+      {
+        "word": "폭넓게",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "손흥민",
+        "count": 3
+      },
+      {
+        "word": "이정후",
+        "count": 2
+      },
+      {
+        "word": "안타",
+        "count": 2
+      },
+      {
+        "word": "슈팅",
+        "count": 2
+      },
+      {
+        "word": "안세영",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "고가",
+        "count": 2
+      },
+      {
+        "word": "법인주택",
+        "count": 2
+      },
+      {
+        "word": "황제",
+        "count": 2
+      },
+      {
+        "word": "사택",
+        "count": 2
+      },
+      {
+        "word": "잡는",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "발견",
+        "count": 3
+      },
+      {
+        "word": "처서",
+        "count": 2
+      },
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "무사하다",
+        "count": 2
+      },
+      {
+        "word": "경찰이",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "전쟁이다",
+        "count": 2
+      },
+      {
+        "word": "애착",
+        "count": 2
+      },
+      {
+        "word": "담요",
+        "count": 2
+      },
+      {
+        "word": "편지까지",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "스님",
+        "count": 2
+      },
+      {
+        "word": "영화",
+        "count": 2
+      },
+      {
+        "word": "스파이더맨",
+        "count": 1
+      },
+      {
+        "word": "돌파",
+        "count": 1
+      },
+      {
+        "word": "왕사남",
+        "count": 1
+      }
+    ]
   }
 }
