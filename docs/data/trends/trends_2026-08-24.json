@@ -1,219 +1,219 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T15:17:09.176775+09:00",
+  "generated_at": "2026-08-24T19:19:32.036887+09:00",
   "daily_top_keywords": [
     {
+      "word": "트럼프",
+      "count": 10
+    },
+    {
       "word": "만에",
-      "count": 5
+      "count": 9
     },
     {
       "word": "조희대",
-      "count": 5
-    },
-    {
-      "word": "트럼프",
-      "count": 4
+      "count": 8
     },
     {
       "word": "미사일",
-      "count": 4
+      "count": 7
     },
     {
       "word": "지배",
-      "count": 4
-    },
-    {
-      "word": "자의적",
-      "count": 4
-    },
-    {
-      "word": "행사",
-      "count": 4
-    },
-    {
-      "word": "우크라",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 3
+      "count": 6
     },
     {
       "word": "김민석",
-      "count": 3
-    },
-    {
-      "word": "국힘",
-      "count": 3
-    },
-    {
-      "word": "연속",
-      "count": 3
-    },
-    {
-      "word": "훈련",
-      "count": 3
-    },
-    {
-      "word": "법의",
-      "count": 3
-    },
-    {
-      "word": "소중",
-      "count": 3
-    },
-    {
-      "word": "실종",
-      "count": 3
+      "count": 6
     },
     {
       "word": "종결",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "우크라",
+      "count": 5
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "국힘",
+      "count": 5
+    },
+    {
+      "word": "연속",
+      "count": 5
+    },
+    {
+      "word": "자의적",
+      "count": 5
+    },
+    {
+      "word": "행사",
+      "count": 5
+    },
+    {
+      "word": "법의",
+      "count": 5
     },
     {
       "word": "펜스",
-      "count": 2
+      "count": 4
     },
     {
       "word": "부통령",
-      "count": 2
+      "count": 4
     },
     {
       "word": "기회",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "필수적",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "김민석",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "대통령",
+        "count": 5
       },
       {
         "word": "국힘",
-        "count": 3
+        "count": 5
       },
       {
         "word": "필수적",
-        "count": 2
-      },
-      {
-        "word": "야당",
-        "count": 2
+        "count": 4
       },
       {
         "word": "리더",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "한국",
-        "count": 2
-      },
-      {
-        "word": "시즌",
-        "count": 2
+        "count": 4
       },
       {
         "word": "프로",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "손맛",
-        "count": 1
+        "word": "연속",
+        "count": 3
       },
       {
-        "word": "매서운",
-        "count": 1
+        "word": "투어",
+        "count": 3
+      },
+      {
+        "word": "시즌",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "잡아라",
+        "word": "은행",
+        "count": 4
+      },
+      {
+        "word": "개명",
         "count": 2
       },
       {
-        "word": "분기",
+        "word": "카드사",
         "count": 2
       },
       {
-        "word": "년간",
-        "count": 1
+        "word": "간다",
+        "count": 2
       },
       {
-        "word": "예비인가",
-        "count": 1
-      },
-      {
-        "word": "탈락",
-        "count": 1
+        "word": "내년부터",
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "종결",
+        "count": 6
+      },
+      {
         "word": "조희대",
-        "count": 3
-      },
-      {
-        "word": "자의적",
-        "count": 3
-      },
-      {
-        "word": "행사",
-        "count": 3
+        "count": 4
       },
       {
         "word": "실종",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "종결",
+        "word": "허위",
+        "count": 4
+      },
+      {
+        "word": "가치",
         "count": 3
       }
     ],
     "international": [
       {
-        "word": "미사일",
-        "count": 4
+        "word": "트럼프",
+        "count": 8
       },
       {
-        "word": "트럼프",
-        "count": 3
+        "word": "미사일",
+        "count": 7
       },
       {
         "word": "우크라",
-        "count": 3
+        "count": 5
       },
       {
         "word": "펜스",
-        "count": 2
+        "count": 4
       },
       {
         "word": "부통령",
-        "count": 2
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "영화",
-        "count": 2
+        "count": 3
       },
       {
         "word": "공연",
+        "count": 3
+      },
+      {
+        "word": "법에만",
         "count": 2
       },
       {
-        "word": "빅뱅",
+        "word": "걸리게",
         "count": 2
       },
       {
-        "word": "동인문학상",
-        "count": 1
-      },
-      {
-        "word": "본심",
-        "count": 1
+        "word": "웃겨라",
+        "count": 2
       }
     ]
   }
