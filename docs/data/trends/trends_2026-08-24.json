@@ -1,13 +1,220 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T09:22:31.328400+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-08-24T15:17:09.176775+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "조희대",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "미사일",
+      "count": 4
+    },
+    {
+      "word": "지배",
+      "count": 4
+    },
+    {
+      "word": "자의적",
+      "count": 4
+    },
+    {
+      "word": "행사",
+      "count": 4
+    },
+    {
+      "word": "우크라",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "김민석",
+      "count": 3
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "연속",
+      "count": 3
+    },
+    {
+      "word": "훈련",
+      "count": 3
+    },
+    {
+      "word": "법의",
+      "count": 3
+    },
+    {
+      "word": "소중",
+      "count": 3
+    },
+    {
+      "word": "실종",
+      "count": 3
+    },
+    {
+      "word": "종결",
+      "count": 3
+    },
+    {
+      "word": "펜스",
+      "count": 2
+    },
+    {
+      "word": "부통령",
+      "count": 2
+    },
+    {
+      "word": "기회",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "김민석",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 3
+      },
+      {
+        "word": "필수적",
+        "count": 2
+      },
+      {
+        "word": "야당",
+        "count": 2
+      },
+      {
+        "word": "리더",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "시즌",
+        "count": 2
+      },
+      {
+        "word": "프로",
+        "count": 2
+      },
+      {
+        "word": "손맛",
+        "count": 1
+      },
+      {
+        "word": "매서운",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "잡아라",
+        "count": 2
+      },
+      {
+        "word": "분기",
+        "count": 2
+      },
+      {
+        "word": "년간",
+        "count": 1
+      },
+      {
+        "word": "예비인가",
+        "count": 1
+      },
+      {
+        "word": "탈락",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "조희대",
+        "count": 3
+      },
+      {
+        "word": "자의적",
+        "count": 3
+      },
+      {
+        "word": "행사",
+        "count": 3
+      },
+      {
+        "word": "실종",
+        "count": 3
+      },
+      {
+        "word": "종결",
+        "count": 3
+      }
+    ],
+    "international": [
+      {
+        "word": "미사일",
+        "count": 4
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "우크라",
+        "count": 3
+      },
+      {
+        "word": "펜스",
+        "count": 2
+      },
+      {
+        "word": "부통령",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "영화",
+        "count": 2
+      },
+      {
+        "word": "공연",
+        "count": 2
+      },
+      {
+        "word": "빅뱅",
+        "count": 2
+      },
+      {
+        "word": "동인문학상",
+        "count": 1
+      },
+      {
+        "word": "본심",
+        "count": 1
+      }
+    ]
   }
 }
