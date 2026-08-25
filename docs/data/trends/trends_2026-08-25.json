@@ -1,219 +1,219 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T15:12:01.111322+09:00",
+  "generated_at": "2026-08-25T19:12:55.491415+09:00",
   "daily_top_keywords": [
     {
-      "word": "역대",
-      "count": 3
-    },
-    {
-      "word": "필요",
-      "count": 3
-    },
-    {
-      "word": "최대",
-      "count": 3
-    },
-    {
       "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "이란",
-      "count": 2
-    },
-    {
-      "word": "미래",
-      "count": 2
-    },
-    {
-      "word": "도쿄",
-      "count": 2
-    },
-    {
-      "word": "테니스",
-      "count": 2
-    },
-    {
-      "word": "아이",
-      "count": 2
+      "count": 6
     },
     {
       "word": "논란",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "앞두고",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "가장",
-      "count": 2
-    },
-    {
-      "word": "권력",
-      "count": 2
-    },
-    {
-      "word": "개혁기구",
-      "count": 2
-    },
-    {
-      "word": "정부",
-      "count": 2
+      "word": "필요",
+      "count": 5
     },
     {
       "word": "용산공원",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "대신",
-      "count": 2
+      "word": "세계",
+      "count": 5
     },
     {
-      "word": "오세훈",
-      "count": 2
+      "word": "테니스",
+      "count": 4
     },
     {
-      "word": "전기차",
-      "count": 2
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "역대",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "김민석",
+      "count": 4
+    },
+    {
+      "word": "경찰",
+      "count": 4
+    },
+    {
+      "word": "덮친",
+      "count": 4
+    },
+    {
+      "word": "낯선",
+      "count": 4
+    },
+    {
+      "word": "전쟁",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "미래",
+      "count": 3
+    },
+    {
+      "word": "드론",
+      "count": 3
+    },
+    {
+      "word": "도쿄",
+      "count": 3
+    },
+    {
+      "word": "대상",
+      "count": 3
+    },
+    {
+      "word": "여성",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "필요",
-        "count": 3
-      },
-      {
-        "word": "가장",
-        "count": 2
-      },
-      {
-        "word": "권력",
-        "count": 2
-      },
-      {
-        "word": "개혁기구",
-        "count": 2
+        "count": 5
       },
       {
         "word": "용산공원",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "김민석",
+        "count": 4
+      },
+      {
+        "word": "가장",
+        "count": 3
+      },
+      {
+        "word": "권력",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "전쟁",
-        "count": 2
+        "count": 4
       },
       {
         "word": "세계",
-        "count": 2
+        "count": 3
       },
       {
         "word": "신기록",
-        "count": 2
+        "count": 3
       },
       {
         "word": "클라크",
-        "count": 1
+        "count": 2
       },
       {
         "word": "캐디와",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "만에",
-        "count": 3
-      },
-      {
-        "word": "한은",
-        "count": 2
+        "count": 5
       },
       {
         "word": "지난달",
-        "count": 1
+        "count": 2
       },
       {
         "word": "서울",
-        "count": 1
+        "count": 2
       },
       {
         "word": "생애",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "최초",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "위험",
+        "count": 3
+      },
+      {
+        "word": "구속",
+        "count": 3
+      },
+      {
+        "word": "경찰",
         "count": 2
       },
       {
-        "word": "모평",
+        "word": "년서",
         "count": 2
       },
       {
-        "word": "만명",
-        "count": 2
-      },
-      {
-        "word": "수생",
-        "count": 2
-      },
-      {
-        "word": "비상",
+        "word": "집행유예로",
         "count": 2
       }
     ],
     "international": [
       {
+        "word": "테니스",
+        "count": 4
+      },
+      {
         "word": "이란",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "드론",
+        "count": 3
       },
       {
         "word": "도쿄",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "테니스",
+        "word": "우크라가",
         "count": 2
-      },
-      {
-        "word": "아이",
-        "count": 2
-      },
-      {
-        "word": "경제적",
-        "count": 1
       }
     ],
     "culture": [
       {
         "word": "년차",
-        "count": 1
+        "count": 2
       },
       {
         "word": "워킹맘",
-        "count": 1
+        "count": 2
       },
       {
         "word": "학예사",
-        "count": 1
+        "count": 2
       },
       {
         "word": "애들",
-        "count": 1
+        "count": 2
       },
       {
         "word": "자는",
-        "count": 1
+        "count": 2
       }
     ]
   }
