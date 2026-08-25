@@ -1,13 +1,220 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T09:22:41.474211+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-08-25T15:12:01.111322+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "역대",
+      "count": 3
+    },
+    {
+      "word": "필요",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "이란",
+      "count": 2
+    },
+    {
+      "word": "미래",
+      "count": 2
+    },
+    {
+      "word": "도쿄",
+      "count": 2
+    },
+    {
+      "word": "테니스",
+      "count": 2
+    },
+    {
+      "word": "아이",
+      "count": 2
+    },
+    {
+      "word": "논란",
+      "count": 2
+    },
+    {
+      "word": "앞두고",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "가장",
+      "count": 2
+    },
+    {
+      "word": "권력",
+      "count": 2
+    },
+    {
+      "word": "개혁기구",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    },
+    {
+      "word": "용산공원",
+      "count": 2
+    },
+    {
+      "word": "대신",
+      "count": 2
+    },
+    {
+      "word": "오세훈",
+      "count": 2
+    },
+    {
+      "word": "전기차",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "필요",
+        "count": 3
+      },
+      {
+        "word": "가장",
+        "count": 2
+      },
+      {
+        "word": "권력",
+        "count": 2
+      },
+      {
+        "word": "개혁기구",
+        "count": 2
+      },
+      {
+        "word": "용산공원",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "전쟁",
+        "count": 2
+      },
+      {
+        "word": "세계",
+        "count": 2
+      },
+      {
+        "word": "신기록",
+        "count": 2
+      },
+      {
+        "word": "클라크",
+        "count": 1
+      },
+      {
+        "word": "캐디와",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "만에",
+        "count": 3
+      },
+      {
+        "word": "한은",
+        "count": 2
+      },
+      {
+        "word": "지난달",
+        "count": 1
+      },
+      {
+        "word": "서울",
+        "count": 1
+      },
+      {
+        "word": "생애",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "위험",
+        "count": 2
+      },
+      {
+        "word": "모평",
+        "count": 2
+      },
+      {
+        "word": "만명",
+        "count": 2
+      },
+      {
+        "word": "수생",
+        "count": 2
+      },
+      {
+        "word": "비상",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "도쿄",
+        "count": 2
+      },
+      {
+        "word": "테니스",
+        "count": 2
+      },
+      {
+        "word": "아이",
+        "count": 2
+      },
+      {
+        "word": "경제적",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "년차",
+        "count": 1
+      },
+      {
+        "word": "워킹맘",
+        "count": 1
+      },
+      {
+        "word": "학예사",
+        "count": 1
+      },
+      {
+        "word": "애들",
+        "count": 1
+      },
+      {
+        "word": "자는",
+        "count": 1
+      }
+    ]
   }
 }
