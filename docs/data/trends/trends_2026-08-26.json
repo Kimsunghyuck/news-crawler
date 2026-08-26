@@ -1,13 +1,49 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T15:13:03.101689+09:00",
+  "generated_at": "2026-08-26T19:24:59.448854+09:00",
   "daily_top_keywords": [
     {
+      "word": "이란",
+      "count": 5
+    },
+    {
       "word": "이준석",
+      "count": 5
+    },
+    {
+      "word": "계획",
       "count": 4
     },
     {
-      "word": "이란",
+      "word": "사망",
+      "count": 4
+    },
+    {
+      "word": "반도체",
+      "count": 4
+    },
+    {
+      "word": "아시안게임",
+      "count": 4
+    },
+    {
+      "word": "시즌",
+      "count": 4
+    },
+    {
+      "word": "배우",
+      "count": 4
+    },
+    {
+      "word": "어디서",
+      "count": 3
+    },
+    {
+      "word": "죽일까",
+      "count": 3
+    },
+    {
+      "word": "논란",
       "count": 3
     },
     {
@@ -15,204 +51,168 @@
       "count": 3
     },
     {
-      "word": "어디서",
-      "count": 2
+      "word": "때보다",
+      "count": 3
     },
     {
-      "word": "죽일까",
-      "count": 2
-    },
-    {
-      "word": "계획",
-      "count": 2
-    },
-    {
-      "word": "논란",
-      "count": 2
-    },
-    {
-      "word": "만드는",
-      "count": 2
+      "word": "중간선거",
+      "count": 3
     },
     {
       "word": "반했다",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "안돼",
-      "count": 2
+      "word": "인요한",
+      "count": 3
     },
     {
       "word": "지도부",
-      "count": 2
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
     },
     {
       "word": "안철수",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "국힘",
-      "count": 2
-    },
-    {
-      "word": "개혁신당",
-      "count": 2
-    },
-    {
-      "word": "보수",
-      "count": 2
-    },
-    {
-      "word": "사퇴",
-      "count": 2
-    },
-    {
-      "word": "김윤덕",
-      "count": 2
-    },
-    {
-      "word": "용산공원",
-      "count": 2
-    },
-    {
-      "word": "시간",
-      "count": 2
-    },
-    {
-      "word": "이승우",
-      "count": 2
+      "word": "없이",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "이준석",
-        "count": 4
+        "count": 5
       },
       {
-        "word": "안돼",
-        "count": 2
+        "word": "인요한",
+        "count": 3
       },
       {
         "word": "지도부",
-        "count": 2
+        "count": 3
       },
       {
         "word": "안철수",
-        "count": 2
+        "count": 3
       },
       {
         "word": "국힘",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "아시안게임",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "시즌",
+        "count": 3
       },
       {
         "word": "사이클링",
-        "count": 1
+        "count": 2
       },
       {
         "word": "히트",
-        "count": 1
+        "count": 2
       },
       {
         "word": "오스틴",
-        "count": 1
-      },
-      {
-        "word": "뒤엔",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "반도체",
-        "count": 2
-      },
-      {
-        "word": "현금만",
-        "count": 1
+        "count": 4
       },
       {
         "word": "받는",
-        "count": 1
+        "count": 2
       },
       {
-        "word": "캐디피",
-        "count": 1
+        "word": "대는",
+        "count": 2
       },
       {
-        "word": "카드",
-        "count": 1
+        "word": "카톡보다",
+        "count": 2
+      },
+      {
+        "word": "선물도",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "녹차라테로",
-        "count": 1
+        "word": "사망",
+        "count": 3
       },
       {
         "word": "정이한",
-        "count": 1
+        "count": 2
       },
       {
         "word": "피습",
-        "count": 1
+        "count": 2
       },
       {
         "word": "자작극",
-        "count": 1
+        "count": 2
       },
       {
         "word": "사전",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 3
+        "count": 5
       },
       {
         "word": "어디서",
-        "count": 2
+        "count": 3
       },
       {
         "word": "죽일까",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "억원",
-        "count": 2
+        "word": "중간선거",
+        "count": 3
       },
       {
         "word": "배런",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "배우",
+        "count": 4
+      },
+      {
+        "word": "드라마",
         "count": 2
       },
       {
-        "word": "여왕",
+        "word": "종횡무진",
         "count": 2
       },
       {
-        "word": "돌리",
+        "word": "재일한국인",
         "count": 2
       },
       {
-        "word": "파튼",
-        "count": 2
-      },
-      {
-        "word": "별세",
+        "word": "현리",
         "count": 2
       }
     ]
