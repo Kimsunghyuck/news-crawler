@@ -1,219 +1,219 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T18:13:32.540798+09:00",
+  "generated_at": "2026-08-27T22:37:21.319727+09:00",
   "daily_top_keywords": [
     {
       "word": "네팔",
-      "count": 3
-    },
-    {
-      "word": "논란",
-      "count": 3
-    },
-    {
-      "word": "복싱",
-      "count": 3
+      "count": 9
     },
     {
       "word": "출전",
-      "count": 3
-    },
-    {
-      "word": "무산",
-      "count": 3
-    },
-    {
-      "word": "실종",
-      "count": 2
-    },
-    {
-      "word": "외국인",
-      "count": 2
-    },
-    {
-      "word": "다시",
-      "count": 2
-    },
-    {
-      "word": "세계",
-      "count": 2
+      "count": 6
     },
     {
       "word": "만원",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "국힘",
-      "count": 2
-    },
-    {
-      "word": "박근혜",
-      "count": 2
-    },
-    {
-      "word": "조작",
-      "count": 2
-    },
-    {
-      "word": "대통령",
-      "count": 2
-    },
-    {
-      "word": "생사",
-      "count": 2
-    },
-    {
-      "word": "김현태",
-      "count": 2
-    },
-    {
-      "word": "단장",
-      "count": 2
+      "word": "정부",
+      "count": 5
     },
     {
       "word": "징역",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "입건",
-      "count": 2
+      "word": "복싱",
+      "count": 5
     },
     {
-      "word": "시간",
-      "count": 2
+      "word": "무산",
+      "count": 5
+    },
+    {
+      "word": "외국인",
+      "count": 4
+    },
+    {
+      "word": "다시",
+      "count": 4
+    },
+    {
+      "word": "세계",
+      "count": 4
+    },
+    {
+      "word": "논란",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "박근혜",
+      "count": 4
+    },
+    {
+      "word": "조작",
+      "count": 4
+    },
+    {
+      "word": "생각",
+      "count": 4
+    },
+    {
+      "word": "임애지",
+      "count": 4
+    },
+    {
+      "word": "무릎",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "웹툰",
+      "count": 4
+    },
+    {
+      "word": "양수경",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "정부",
+        "count": 5
+      },
+      {
         "word": "국힘",
-        "count": 2
+        "count": 4
       },
       {
         "word": "박근혜",
-        "count": 2
+        "count": 4
       },
       {
         "word": "조작",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "대통령",
-        "count": 2
-      },
-      {
-        "word": "북핵",
-        "count": 1
+        "word": "내부",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "복싱",
-        "count": 3
+        "word": "출전",
+        "count": 6
       },
       {
-        "word": "출전",
-        "count": 3
+        "word": "복싱",
+        "count": 5
       },
       {
         "word": "무산",
-        "count": 3
-      },
-      {
-        "word": "스타",
-        "count": 2
+        "count": 5
       },
       {
         "word": "임애지",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "무릎",
+        "count": 4
       }
     ],
     "economy": [
       {
+        "word": "만원",
+        "count": 3
+      },
+      {
         "word": "조원",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "회장",
+        "count": 3
       },
       {
         "word": "엔비디아",
-        "count": 1
+        "count": 2
       },
       {
         "word": "어닝",
-        "count": 1
-      },
-      {
-        "word": "서프라이즈",
-        "count": 1
-      },
-      {
-        "word": "관련주",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "징역",
+        "count": 4
+      },
+      {
+        "word": "실종",
+        "count": 2
+      },
+      {
+        "word": "허위",
+        "count": 2
+      },
       {
         "word": "입건",
         "count": 2
       },
       {
-        "word": "실종",
-        "count": 1
-      },
-      {
-        "word": "허위",
-        "count": 1
-      },
-      {
-        "word": "종결",
-        "count": 1
-      },
-      {
-        "word": "경찰",
-        "count": 1
+        "word": "김현태",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "네팔",
-        "count": 2
+        "count": 6
       },
       {
         "word": "김상식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "동남아",
-        "count": 1
+        "count": 2
       },
       {
         "word": "축구",
-        "count": 1
+        "count": 2
       },
       {
         "word": "연패",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "웹툰",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "중증외상센터",
-        "count": 1
+        "word": "양수경",
+        "count": 4
       },
       {
-        "word": "후속편",
-        "count": 1
+        "word": "만에",
+        "count": 3
       },
       {
-        "word": "찍는다하영",
-        "count": 1
+        "word": "전국",
+        "count": 3
       },
       {
-        "word": "논란",
-        "count": 1
+        "word": "투어",
+        "count": 3
       }
     ]
   }
