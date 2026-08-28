@@ -1,156 +1,164 @@
 {
   "date": "2026-08-28",
-  "generated_at": "2026-08-28T18:11:24.938618+09:00",
+  "generated_at": "2026-08-28T23:07:22.182425+09:00",
   "daily_top_keywords": [
+    {
+      "word": "네팔",
+      "count": 12
+    },
+    {
+      "word": "만원",
+      "count": 9
+    },
+    {
+      "word": "홍수",
+      "count": 6
+    },
+    {
+      "word": "대신",
+      "count": 6
+    },
+    {
+      "word": "만에",
+      "count": 6
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "주민",
+      "count": 5
+    },
+    {
+      "word": "지지율",
+      "count": 5
+    },
+    {
+      "word": "반등",
+      "count": 5
+    },
+    {
+      "word": "제청",
+      "count": 5
+    },
     {
       "word": "지원",
       "count": 5
     },
     {
-      "word": "네팔",
-      "count": 4
-    },
-    {
-      "word": "만원",
-      "count": 4
-    },
-    {
-      "word": "주민",
-      "count": 3
-    },
-    {
-      "word": "대신",
-      "count": 3
-    },
-    {
-      "word": "만에",
-      "count": 3
+      "word": "공연",
+      "count": 5
     },
     {
       "word": "노르웨이",
-      "count": 2
-    },
-    {
-      "word": "국왕",
-      "count": 2
+      "count": 4
     },
     {
       "word": "별세",
-      "count": 2
+      "count": 4
     },
     {
       "word": "빙하",
-      "count": 2
+      "count": 4
     },
     {
       "word": "구조대",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "비극",
-      "count": 2
+      "word": "대법관",
+      "count": 4
     },
     {
-      "word": "트럼프",
-      "count": 2
+      "word": "최대",
+      "count": 4
     },
     {
-      "word": "마지막",
-      "count": 2
+      "word": "조희대",
+      "count": 4
     },
     {
-      "word": "기회",
-      "count": 2
-    },
-    {
-      "word": "최고",
-      "count": 2
-    },
-    {
-      "word": "티베트",
-      "count": 2
-    },
-    {
-      "word": "홍수",
-      "count": 2
-    },
-    {
-      "word": "붕괴",
-      "count": 2
-    },
-    {
-      "word": "긴급",
-      "count": 2
+      "word": "성금",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "지지율",
-        "count": 2
+        "count": 5
       },
       {
         "word": "반등",
-        "count": 2
-      },
-      {
-        "word": "틀렸다",
-        "count": 2
-      },
-      {
-        "word": "손봉기",
-        "count": 2
+        "count": 5
       },
       {
         "word": "대법관",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "제청",
+        "count": 4
+      },
+      {
+        "word": "대신",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "조규성",
-        "count": 2
+        "count": 4
       },
       {
         "word": "미트윌란",
-        "count": 2
+        "count": 4
       },
       {
         "word": "본선행",
-        "count": 2
+        "count": 4
       },
       {
         "word": "월드컵",
-        "count": 2
+        "count": 4
       },
       {
         "word": "도전",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "수해",
-        "count": 2
+        "word": "만원",
+        "count": 5
       },
       {
         "word": "성금",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "폭우",
-        "count": 2
+        "word": "직장",
+        "count": 4
       },
       {
-        "word": "지원",
-        "count": 2
+        "word": "코로나",
+        "count": 3
       },
       {
-        "word": "벌고",
-        "count": 2
+        "word": "소상공인",
+        "count": 3
       }
     ],
     "society": [
+      {
+        "word": "만원",
+        "count": 4
+      },
+      {
+        "word": "수사",
+        "count": 3
+      },
       {
         "word": "경찰",
         "count": 2
@@ -160,60 +168,52 @@
         "count": 2
       },
       {
-        "word": "수사",
-        "count": 2
-      },
-      {
-        "word": "만원",
-        "count": 2
-      },
-      {
-        "word": "헬기",
+        "word": "의혹",
         "count": 2
       }
     ],
     "international": [
       {
-        "word": "노르웨이",
-        "count": 2
+        "word": "네팔",
+        "count": 7
       },
       {
-        "word": "국왕",
-        "count": 2
+        "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "노르웨이",
+        "count": 4
       },
       {
         "word": "별세",
-        "count": 2
+        "count": 4
       },
       {
         "word": "빙하",
-        "count": 2
-      },
-      {
-        "word": "구조대",
-        "count": 2
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "공연",
-        "count": 2
+        "count": 4
       },
       {
         "word": "미쳤다",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "영화",
+        "count": 3
+      },
+      {
+        "word": "오디세이",
+        "count": 3
       },
       {
         "word": "감옥서",
-        "count": 1
-      },
-      {
-        "word": "담배",
-        "count": 1
-      },
-      {
-        "word": "쌀밥도",
-        "count": 1
+        "count": 2
       }
     ]
   }
