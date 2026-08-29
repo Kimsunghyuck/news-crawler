@@ -1,13 +1,220 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29T09:40:52.629961+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-08-29T15:12:39.627193+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "대법관",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "법원",
+      "count": 3
+    },
+    {
+      "word": "네팔",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "사건",
+      "count": 2
+    },
+    {
+      "word": "넘었다",
+      "count": 2
+    },
+    {
+      "word": "파견",
+      "count": 2
+    },
+    {
+      "word": "보고",
+      "count": 2
+    },
+    {
+      "word": "같은",
+      "count": 2
+    },
+    {
+      "word": "순간",
+      "count": 2
+    },
+    {
+      "word": "수색",
+      "count": 2
+    },
+    {
+      "word": "쇼핑",
+      "count": 2
+    },
+    {
+      "word": "징계",
+      "count": 2
+    },
+    {
+      "word": "재제청",
+      "count": 2
+    },
+    {
+      "word": "요청",
+      "count": 2
+    },
+    {
+      "word": "무상원조",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대법관",
+        "count": 4
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "쇼핑",
+        "count": 2
+      },
+      {
+        "word": "징계",
+        "count": 2
+      },
+      {
+        "word": "재제청",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "리그",
+        "count": 2
+      },
+      {
+        "word": "사격",
+        "count": 2
+      },
+      {
+        "word": "예민해",
+        "count": 1
+      },
+      {
+        "word": "생리하나봐",
+        "count": 1
+      },
+      {
+        "word": "지소연에",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "글로벌",
+        "count": 2
+      },
+      {
+        "word": "확장",
+        "count": 2
+      },
+      {
+        "word": "키운",
+        "count": 2
+      },
+      {
+        "word": "최대",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "의왕역서",
+        "count": 2
+      },
+      {
+        "word": "직원",
+        "count": 2
+      },
+      {
+        "word": "열차에",
+        "count": 2
+      },
+      {
+        "word": "깔려",
+        "count": 2
+      },
+      {
+        "word": "숨져",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "네팔",
+        "count": 2
+      },
+      {
+        "word": "아내와",
+        "count": 1
+      },
+      {
+        "word": "아이들이",
+        "count": 1
+      },
+      {
+        "word": "묻혀",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "아내",
+        "count": 2
+      },
+      {
+        "word": "해결사",
+        "count": 1
+      },
+      {
+        "word": "엄마",
+        "count": 1
+      },
+      {
+        "word": "날씨",
+        "count": 1
+      },
+      {
+        "word": "맞추는",
+        "count": 1
+      }
+    ]
   }
 }
