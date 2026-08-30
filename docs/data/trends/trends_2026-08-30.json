@@ -1,13 +1,220 @@
 {
   "date": "2026-08-30",
-  "generated_at": "2026-08-30T09:46:48.913515+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-08-30T15:12:58.077620+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "연속",
+      "count": 6
+    },
+    {
+      "word": "대홍수",
+      "count": 5
+    },
+    {
+      "word": "네팔",
+      "count": 4
+    },
+    {
+      "word": "사망",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "복귀",
+      "count": 3
+    },
+    {
+      "word": "교체",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "친구",
+      "count": 3
+    },
+    {
+      "word": "이강인",
+      "count": 3
+    },
+    {
+      "word": "경기",
+      "count": 3
+    },
+    {
+      "word": "도움",
+      "count": 3
+    },
+    {
+      "word": "원유",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "손님",
+      "count": 2
+    },
+    {
+      "word": "실종",
+      "count": 2
+    },
+    {
+      "word": "수색",
+      "count": 2
+    },
+    {
+      "word": "억원",
+      "count": 2
+    },
+    {
+      "word": "지원",
+      "count": 2
+    },
+    {
+      "word": "금리",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "교체",
+        "count": 3
+      },
+      {
+        "word": "주택가격",
+        "count": 2
+      },
+      {
+        "word": "폭락",
+        "count": 2
+      },
+      {
+        "word": "대비",
+        "count": 2
+      },
+      {
+        "word": "공소취소",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "연속",
+        "count": 5
+      },
+      {
+        "word": "이강인",
+        "count": 3
+      },
+      {
+        "word": "경기",
+        "count": 3
+      },
+      {
+        "word": "도움",
+        "count": 3
+      },
+      {
+        "word": "패스",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "회장",
+        "count": 2
+      },
+      {
+        "word": "알리바바",
+        "count": 1
+      },
+      {
+        "word": "브라질에",
+        "count": 1
+      },
+      {
+        "word": "남미",
+        "count": 1
+      },
+      {
+        "word": "데이터센터",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "네팔",
+        "count": 1
+      },
+      {
+        "word": "실종자",
+        "count": 1
+      },
+      {
+        "word": "가족들",
+        "count": 1
+      },
+      {
+        "word": "상류에도",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "대홍수",
+        "count": 4
+      },
+      {
+        "word": "원유",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "네팔",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "오디세이",
+        "count": 2
+      },
+      {
+        "word": "푸른거탑",
+        "count": 2
+      },
+      {
+        "word": "배우",
+        "count": 2
+      },
+      {
+        "word": "이용주",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      }
+    ]
   }
 }
