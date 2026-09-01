@@ -1,37 +1,65 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T15:14:06.572786+09:00",
+  "generated_at": "2026-09-01T19:24:13.167810+09:00",
   "daily_top_keywords": [
     {
-      "word": "네팔",
-      "count": 4
+      "word": "만원",
+      "count": 7
     },
     {
       "word": "가능성",
+      "count": 7
+    },
+    {
+      "word": "네팔",
+      "count": 6
+    },
+    {
+      "word": "논란",
       "count": 4
+    },
+    {
+      "word": "비거주",
+      "count": 4
+    },
+    {
+      "word": "주택",
+      "count": 4
+    },
+    {
+      "word": "종부세",
+      "count": 4
+    },
+    {
+      "word": "공제",
+      "count": 4
+    },
+    {
+      "word": "지명",
+      "count": 4
+    },
+    {
+      "word": "역대",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 3
     },
     {
       "word": "가능",
       "count": 3
     },
     {
-      "word": "논란",
+      "word": "공급",
       "count": 3
     },
     {
-      "word": "비거주",
+      "word": "유럽",
       "count": 3
     },
     {
-      "word": "주택",
-      "count": 3
-    },
-    {
-      "word": "종부세",
-      "count": 3
-    },
-    {
-      "word": "공제",
+      "word": "억원",
       "count": 3
     },
     {
@@ -53,82 +81,58 @@
     {
       "word": "내정",
       "count": 3
-    },
-    {
-      "word": "지명",
-      "count": 3
-    },
-    {
-      "word": "만원",
-      "count": 3
-    },
-    {
-      "word": "역대",
-      "count": 3
-    },
-    {
-      "word": "최대",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "감독",
-      "count": 2
-    },
-    {
-      "word": "대홍수",
-      "count": 2
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "가능성",
+        "count": 4
+      },
+      {
         "word": "비거주",
-        "count": 3
+        "count": 4
       },
       {
         "word": "주택",
-        "count": 3
+        "count": 4
       },
       {
         "word": "종부세",
-        "count": 3
+        "count": 4
       },
       {
         "word": "공제",
-        "count": 3
-      },
-      {
-        "word": "김주애",
-        "count": 3
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "한화",
-        "count": 2
+        "count": 3
       },
       {
         "word": "임시",
-        "count": 2
+        "count": 3
       },
       {
         "word": "드래프트",
+        "count": 3
+      },
+      {
+        "word": "미래",
         "count": 2
       },
       {
-        "word": "연봉",
-        "count": 2
-      },
-      {
-        "word": "남편의",
+        "word": "당겨쓰는",
         "count": 2
       }
     ],
     "economy": [
+      {
+        "word": "국내",
+        "count": 3
+      },
       {
         "word": "역대",
         "count": 3
@@ -138,38 +142,34 @@
         "count": 3
       },
       {
-        "word": "국내",
+        "word": "카드론",
         "count": 2
       },
       {
-        "word": "치폴레",
-        "count": 2
-      },
-      {
-        "word": "아시아",
+        "word": "조이니",
         "count": 2
       }
     ],
     "society": [
       {
-        "word": "남편",
-        "count": 2
+        "word": "만원",
+        "count": 3
       },
       {
         "word": "기초연금",
-        "count": 1
+        "count": 2
       },
       {
         "word": "하위",
-        "count": 1
-      },
-      {
-        "word": "만원",
-        "count": 1
+        "count": 2
       },
       {
         "word": "준다",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "내란",
+        "count": 2
       }
     ],
     "international": [
@@ -179,41 +179,41 @@
       },
       {
         "word": "트럼프",
-        "count": 2
-      },
-      {
-        "word": "대홍수",
-        "count": 2
+        "count": 3
       },
       {
         "word": "승조원",
-        "count": 1
+        "count": 2
       },
       {
         "word": "투신",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "시도",
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "대만관",
-        "count": 1
+        "word": "자수의",
+        "count": 2
       },
       {
-        "word": "명칭에",
-        "count": 1
+        "word": "최유현",
+        "count": 2
       },
       {
-        "word": "반발",
-        "count": 1
+        "word": "기증",
+        "count": 2
       },
       {
-        "word": "광주비엔날레",
-        "count": 1
+        "word": "년대",
+        "count": 2
       },
       {
-        "word": "갈등",
-        "count": 1
+        "word": "감성에",
+        "count": 2
       }
     ]
   }
