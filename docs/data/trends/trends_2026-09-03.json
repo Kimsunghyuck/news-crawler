@@ -1,219 +1,219 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T15:14:26.627407+09:00",
+  "generated_at": "2026-09-03T19:17:58.925050+09:00",
   "daily_top_keywords": [
     {
+      "word": "우즈",
+      "count": 6
+    },
+    {
       "word": "서울",
-      "count": 3
-    },
-    {
-      "word": "용혜인",
-      "count": 3
-    },
-    {
-      "word": "경찰",
-      "count": 3
+      "count": 6
     },
     {
       "word": "골프",
-      "count": 3
-    },
-    {
-      "word": "우즈",
-      "count": 3
-    },
-    {
-      "word": "실종",
-      "count": 3
+      "count": 5
     },
     {
       "word": "트럼프",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "수입차",
-      "count": 2
+      "word": "용혜인",
+      "count": 5
     },
     {
-      "word": "가고",
-      "count": 2
+      "word": "만원",
+      "count": 5
     },
     {
-      "word": "출시",
-      "count": 2
-    },
-    {
-      "word": "티빙",
-      "count": 2
-    },
-    {
-      "word": "만개",
-      "count": 2
-    },
-    {
-      "word": "계정",
-      "count": 2
-    },
-    {
-      "word": "유출",
-      "count": 2
-    },
-    {
-      "word": "강남",
-      "count": 2
-    },
-    {
-      "word": "서초",
-      "count": 2
-    },
-    {
-      "word": "아파트",
-      "count": 2
-    },
-    {
-      "word": "경기",
-      "count": 2
-    },
-    {
-      "word": "구글",
-      "count": 2
+      "word": "실종",
+      "count": 4
     },
     {
       "word": "정부",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "이석연",
+      "count": 4
+    },
+    {
+      "word": "김승원",
+      "count": 4
+    },
+    {
+      "word": "경찰",
+      "count": 4
+    },
+    {
+      "word": "티빙",
+      "count": 4
+    },
+    {
+      "word": "계정",
+      "count": 4
+    },
+    {
+      "word": "유출",
+      "count": 4
+    },
+    {
+      "word": "남편의",
+      "count": 4
+    },
+    {
+      "word": "강남",
+      "count": 4
+    },
+    {
+      "word": "구글",
+      "count": 4
+    },
+    {
+      "word": "연패",
+      "count": 4
+    },
+    {
+      "word": "아시안게임",
+      "count": 4
+    },
+    {
+      "word": "면허정지",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "용혜인",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "법무부",
-        "count": 2
+        "word": "이석연",
+        "count": 4
       },
       {
         "word": "성평등부",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "이전",
-        "count": 2
+        "word": "김승원",
+        "count": 3
       },
       {
         "word": "발언",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
+        "word": "아시안게임",
+        "count": 4
+      },
+      {
         "word": "우즈",
-        "count": 2
+        "count": 4
       },
       {
         "word": "면허정지",
-        "count": 2
+        "count": 4
       },
       {
         "word": "운전하면",
-        "count": 2
+        "count": 4
       },
       {
         "word": "감독",
-        "count": 2
-      },
-      {
-        "word": "아시안게임",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "수입차",
-        "count": 2
+        "word": "강남",
+        "count": 4
       },
       {
         "word": "서울",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "출시",
-        "count": 2
-      },
-      {
-        "word": "강남",
-        "count": 2
+        "word": "구글",
+        "count": 4
       },
       {
         "word": "서초",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "아파트",
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "처남",
-        "count": 2
-      },
-      {
-        "word": "아내가",
-        "count": 2
-      },
-      {
-        "word": "비디오",
-        "count": 2
-      },
-      {
         "word": "예인선",
-        "count": 2
+        "count": 3
       },
       {
         "word": "전복",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "처남",
+        "count": 3
+      },
+      {
+        "word": "아내가",
+        "count": 3
+      },
+      {
+        "word": "비디오",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "튀르키예",
         "count": 3
       },
       {
         "word": "충남급",
+        "count": 3
+      },
+      {
+        "word": "면허",
         "count": 2
       },
       {
-        "word": "튀르키예",
+        "word": "정지",
         "count": 2
-      },
-      {
-        "word": "한국인",
-        "count": 1
-      },
-      {
-        "word": "실종",
-        "count": 1
       }
     ],
     "culture": [
+      {
+        "word": "담은",
+        "count": 3
+      },
       {
         "word": "데뷔",
         "count": 2
       },
       {
-        "word": "결혼했어도",
-        "count": 1
+        "word": "죽은",
+        "count": 2
       },
       {
-        "word": "연애는",
-        "count": 1
+        "word": "시인의",
+        "count": 2
       },
       {
-        "word": "자유",
-        "count": 1
-      },
-      {
-        "word": "이광수와",
-        "count": 1
+        "word": "사회",
+        "count": 2
       }
     ]
   }
