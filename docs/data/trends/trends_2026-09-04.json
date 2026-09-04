@@ -1,219 +1,219 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T15:12:08.844318+09:00",
+  "generated_at": "2026-09-04T19:14:37.097596+09:00",
   "daily_top_keywords": [
     {
-      "word": "만원",
-      "count": 5
+      "word": "네팔",
+      "count": 10
     },
     {
-      "word": "네팔",
-      "count": 5
+      "word": "만원",
+      "count": 8
     },
     {
       "word": "용혜인",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "수상",
-      "count": 3
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "모레노",
+      "count": 5
     },
     {
       "word": "은행",
-      "count": 2
+      "count": 4
     },
     {
       "word": "된다",
-      "count": 2
+      "count": 4
     },
     {
       "word": "뒤집을",
-      "count": 2
+      "count": 4
     },
     {
       "word": "텐배거",
-      "count": 2
+      "count": 4
     },
     {
       "word": "내년부터",
-      "count": 2
-    },
-    {
-      "word": "최초",
-      "count": 2
-    },
-    {
-      "word": "지원",
-      "count": 2
-    },
-    {
-      "word": "테슬라",
-      "count": 2
-    },
-    {
-      "word": "간다",
-      "count": 2
+      "count": 4
     },
     {
       "word": "정부",
-      "count": 2
-    },
-    {
-      "word": "절반이",
-      "count": 2
+      "count": 4
     },
     {
       "word": "됐다",
-      "count": 2
-    },
-    {
-      "word": "정치인",
-      "count": 2
-    },
-    {
-      "word": "하나",
-      "count": 2
+      "count": 4
     },
     {
       "word": "김승원",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "국고보조금",
-      "count": 2
+      "word": "파병",
+      "count": 4
+    },
+    {
+      "word": "검토",
+      "count": 4
+    },
+    {
+      "word": "호르무즈",
+      "count": 4
+    },
+    {
+      "word": "지지율",
+      "count": 4
+    },
+    {
+      "word": "수상",
+      "count": 4
+    },
+    {
+      "word": "축구",
+      "count": 4
+    },
+    {
+      "word": "남편의",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "용혜인",
-        "count": 3
+        "count": 5
       },
       {
         "word": "김승원",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "국고보조금",
-        "count": 2
+        "word": "파병",
+        "count": 4
       },
       {
-        "word": "기생충",
-        "count": 2
+        "word": "검토",
+        "count": 4
       },
       {
-        "word": "주택",
-        "count": 2
+        "word": "호르무즈",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "모레노",
-        "count": 2
-      },
-      {
-        "word": "배드민턴",
-        "count": 2
-      },
-      {
-        "word": "임시선장",
-        "count": 1
+        "count": 5
       },
       {
         "word": "한국",
-        "count": 1
+        "count": 3
       },
       {
         "word": "축구",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "보여주겠다",
+        "count": 3
+      },
+      {
+        "word": "우즈",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "은행",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만원",
-        "count": 2
+        "count": 4
       },
       {
         "word": "된다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "뒤집을",
-        "count": 2
+        "count": 4
       },
       {
         "word": "텐배거",
-        "count": 2
+        "count": 4
       }
     ],
     "society": [
       {
         "word": "제주",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "현직",
-        "count": 2
-      },
-      {
-        "word": "취해",
-        "count": 2
+        "word": "네팔",
+        "count": 3
       },
       {
         "word": "캠핑",
-        "count": 1
+        "count": 2
       },
       {
         "word": "사라져",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "밖서",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "네팔",
+        "count": 7
+      },
+      {
+        "word": "터널",
         "count": 4
       },
       {
         "word": "대박",
-        "count": 2
+        "count": 3
       },
       {
         "word": "대홍수",
-        "count": 2
-      },
-      {
-        "word": "터널",
-        "count": 2
+        "count": 3
       },
       {
         "word": "구조",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "파격",
-        "count": 2
+        "count": 3
       },
       {
         "word": "수상",
-        "count": 2
+        "count": 3
       },
       {
         "word": "민낯",
-        "count": 1
+        "count": 2
       },
       {
         "word": "보여줘야",
-        "count": 1
+        "count": 2
       },
       {
         "word": "탱크데이",
-        "count": 1
+        "count": 2
       }
     ]
   }
