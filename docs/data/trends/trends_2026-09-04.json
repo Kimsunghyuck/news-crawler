@@ -1,13 +1,220 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T09:41:23.488735+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-09-04T15:12:08.844318+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "네팔",
+      "count": 5
+    },
+    {
+      "word": "용혜인",
+      "count": 3
+    },
+    {
+      "word": "수상",
+      "count": 3
+    },
+    {
+      "word": "은행",
+      "count": 2
+    },
+    {
+      "word": "된다",
+      "count": 2
+    },
+    {
+      "word": "뒤집을",
+      "count": 2
+    },
+    {
+      "word": "텐배거",
+      "count": 2
+    },
+    {
+      "word": "내년부터",
+      "count": 2
+    },
+    {
+      "word": "최초",
+      "count": 2
+    },
+    {
+      "word": "지원",
+      "count": 2
+    },
+    {
+      "word": "테슬라",
+      "count": 2
+    },
+    {
+      "word": "간다",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    },
+    {
+      "word": "절반이",
+      "count": 2
+    },
+    {
+      "word": "됐다",
+      "count": 2
+    },
+    {
+      "word": "정치인",
+      "count": 2
+    },
+    {
+      "word": "하나",
+      "count": 2
+    },
+    {
+      "word": "김승원",
+      "count": 2
+    },
+    {
+      "word": "국고보조금",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "용혜인",
+        "count": 3
+      },
+      {
+        "word": "김승원",
+        "count": 2
+      },
+      {
+        "word": "국고보조금",
+        "count": 2
+      },
+      {
+        "word": "기생충",
+        "count": 2
+      },
+      {
+        "word": "주택",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "모레노",
+        "count": 2
+      },
+      {
+        "word": "배드민턴",
+        "count": 2
+      },
+      {
+        "word": "임시선장",
+        "count": 1
+      },
+      {
+        "word": "한국",
+        "count": 1
+      },
+      {
+        "word": "축구",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "은행",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "된다",
+        "count": 2
+      },
+      {
+        "word": "뒤집을",
+        "count": 2
+      },
+      {
+        "word": "텐배거",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "제주",
+        "count": 2
+      },
+      {
+        "word": "현직",
+        "count": 2
+      },
+      {
+        "word": "취해",
+        "count": 2
+      },
+      {
+        "word": "캠핑",
+        "count": 1
+      },
+      {
+        "word": "사라져",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "네팔",
+        "count": 4
+      },
+      {
+        "word": "대박",
+        "count": 2
+      },
+      {
+        "word": "대홍수",
+        "count": 2
+      },
+      {
+        "word": "터널",
+        "count": 2
+      },
+      {
+        "word": "구조",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "파격",
+        "count": 2
+      },
+      {
+        "word": "수상",
+        "count": 2
+      },
+      {
+        "word": "민낯",
+        "count": 1
+      },
+      {
+        "word": "보여줘야",
+        "count": 1
+      },
+      {
+        "word": "탱크데이",
+        "count": 1
+      }
+    ]
   }
 }
