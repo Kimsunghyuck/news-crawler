@@ -1,13 +1,220 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05T09:50:15.741099+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-09-05T15:12:23.963523+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "김승원",
+      "count": 3
+    },
+    {
+      "word": "네팔",
+      "count": 3
+    },
+    {
+      "word": "축구",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "된다",
+      "count": 2
+    },
+    {
+      "word": "가능성",
+      "count": 2
+    },
+    {
+      "word": "다시",
+      "count": 2
+    },
+    {
+      "word": "금리",
+      "count": 2
+    },
+    {
+      "word": "됐다",
+      "count": 2
+    },
+    {
+      "word": "용혜인",
+      "count": 2
+    },
+    {
+      "word": "외교부",
+      "count": 2
+    },
+    {
+      "word": "조현",
+      "count": 2
+    },
+    {
+      "word": "파병",
+      "count": 2
+    },
+    {
+      "word": "피해",
+      "count": 2
+    },
+    {
+      "word": "오디세이",
+      "count": 2
+    },
+    {
+      "word": "오늘의",
+      "count": 2
+    },
+    {
+      "word": "운세",
+      "count": 2
+    },
+    {
+      "word": "남의",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "김승원",
+        "count": 3
+      },
+      {
+        "word": "됐다",
+        "count": 2
+      },
+      {
+        "word": "용혜인",
+        "count": 2
+      },
+      {
+        "word": "외교부",
+        "count": 2
+      },
+      {
+        "word": "조현",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "우즈",
+        "count": 2
+      },
+      {
+        "word": "축구",
+        "count": 2
+      },
+      {
+        "word": "랭킹",
+        "count": 2
+      },
+      {
+        "word": "오타니",
+        "count": 2
+      },
+      {
+        "word": "타이거",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "가능성",
+        "count": 2
+      },
+      {
+        "word": "굴리는",
+        "count": 1
+      },
+      {
+        "word": "고객도",
+        "count": 1
+      },
+      {
+        "word": "퇴짜",
+        "count": 1
+      },
+      {
+        "word": "부자",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "탈북민",
+        "count": 2
+      },
+      {
+        "word": "정보",
+        "count": 2
+      },
+      {
+        "word": "넘긴",
+        "count": 2
+      },
+      {
+        "word": "징역",
+        "count": 2
+      },
+      {
+        "word": "차량",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "중단",
+        "count": 2
+      },
+      {
+        "word": "네팔",
+        "count": 2
+      },
+      {
+        "word": "천궁",
+        "count": 2
+      },
+      {
+        "word": "칼럼",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "오늘의",
+        "count": 2
+      },
+      {
+        "word": "운세",
+        "count": 2
+      },
+      {
+        "word": "민낯",
+        "count": 1
+      },
+      {
+        "word": "보여줘야",
+        "count": 1
+      },
+      {
+        "word": "탱크데이",
+        "count": 1
+      }
+    ]
   }
 }
