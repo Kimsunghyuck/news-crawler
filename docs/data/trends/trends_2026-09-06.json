@@ -1,153 +1,153 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T15:11:49.804629+09:00",
+  "generated_at": "2026-09-06T19:14:31.506399+09:00",
   "daily_top_keywords": [
     {
       "word": "만에",
-      "count": 6
-    },
-    {
-      "word": "경기",
-      "count": 6
+      "count": 12
     },
     {
       "word": "김승원",
-      "count": 5
+      "count": 11
     },
     {
-      "word": "대통령",
-      "count": 5
-    },
-    {
-      "word": "시간",
-      "count": 5
+      "word": "경기",
+      "count": 11
     },
     {
       "word": "이란",
-      "count": 4
+      "count": 8
     },
     {
       "word": "네팔",
-      "count": 4
+      "count": 8
+    },
+    {
+      "word": "시간",
+      "count": 8
     },
     {
       "word": "손흥민",
-      "count": 4
+      "count": 8
     },
     {
-      "word": "대신",
-      "count": 3
+      "word": "대통령",
+      "count": 6
     },
     {
       "word": "도움",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "대결",
-      "count": 2
+      "word": "녹취",
+      "count": 5
     },
     {
-      "word": "수입",
-      "count": 2
-    },
-    {
-      "word": "물가",
-      "count": 2
-    },
-    {
-      "word": "아파트",
-      "count": 2
-    },
-    {
-      "word": "인상",
-      "count": 2
-    },
-    {
-      "word": "중단",
-      "count": 2
-    },
-    {
-      "word": "막는다",
-      "count": 2
-    },
-    {
-      "word": "가능성",
-      "count": 2
+      "word": "대신",
+      "count": 4
     },
     {
       "word": "과장선에서",
-      "count": 2
+      "count": 4
     },
     {
       "word": "막혀",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "알았어",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "전쟁",
+      "count": 4
+    },
+    {
+      "word": "직접",
+      "count": 4
+    },
+    {
+      "word": "논의",
+      "count": 4
+    },
+    {
+      "word": "지원",
+      "count": 4
+    },
+    {
+      "word": "기적",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "김승원",
-        "count": 4
+        "count": 10
       },
       {
-        "word": "대통령",
-        "count": 4
+        "word": "녹취",
+        "count": 5
       },
       {
         "word": "과장선에서",
-        "count": 2
+        "count": 4
       },
       {
         "word": "막혀",
-        "count": 2
+        "count": 4
       },
       {
         "word": "알았어",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "경기",
-        "count": 6
+        "count": 11
       },
       {
         "word": "손흥민",
-        "count": 4
+        "count": 8
       },
       {
         "word": "도움",
-        "count": 3
+        "count": 6
       },
       {
         "word": "침묵",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "수입",
-        "count": 2
-      },
-      {
-        "word": "물가",
-        "count": 2
-      },
-      {
-        "word": "대신",
-        "count": 2
-      },
-      {
-        "word": "인상",
-        "count": 2
+        "count": 3
       },
       {
         "word": "매달",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "내달",
+        "count": 2
+      },
+      {
+        "word": "노려라",
+        "count": 2
+      },
+      {
+        "word": "파이어족",
+        "count": 2
       }
     ],
     "society": [
@@ -157,63 +157,63 @@
       },
       {
         "word": "가슴",
-        "count": 1
+        "count": 2
       },
       {
         "word": "위로",
-        "count": 1
+        "count": 2
       },
       {
         "word": "올라간",
-        "count": 1
+        "count": 2
       },
       {
         "word": "속옷",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "네팔",
-        "count": 3
+        "count": 6
       },
       {
         "word": "이란",
-        "count": 3
+        "count": 6
       },
       {
         "word": "유조선",
-        "count": 2
-      },
-      {
-        "word": "트럼프",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "트럼프",
+        "count": 3
       }
     ],
     "culture": [
       {
+        "word": "오디세이",
+        "count": 3
+      },
+      {
+        "word": "천만",
+        "count": 3
+      },
+      {
         "word": "김민종",
-        "count": 1
+        "count": 2
       },
       {
         "word": "불법도박",
-        "count": 1
+        "count": 2
       },
       {
         "word": "주장",
-        "count": 1
-      },
-      {
-        "word": "사과",
-        "count": 1
-      },
-      {
-        "word": "직접",
-        "count": 1
+        "count": 2
       }
     ]
   }
