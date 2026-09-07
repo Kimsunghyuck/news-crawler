@@ -1,13 +1,220 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-07T09:46:03.539395+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-09-07T15:16:24.794352+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "경찰",
+      "count": 5
+    },
+    {
+      "word": "오른",
+      "count": 3
+    },
+    {
+      "word": "넘어",
+      "count": 3
+    },
+    {
+      "word": "한동훈",
+      "count": 3
+    },
+    {
+      "word": "의혹",
+      "count": 3
+    },
+    {
+      "word": "김승원",
+      "count": 3
+    },
+    {
+      "word": "용혜인",
+      "count": 3
+    },
+    {
+      "word": "의원",
+      "count": 3
+    },
+    {
+      "word": "이현중",
+      "count": 3
+    },
+    {
+      "word": "포틀랜드와",
+      "count": 3
+    },
+    {
+      "word": "계약",
+      "count": 3
+    },
+    {
+      "word": "최저",
+      "count": 3
+    },
+    {
+      "word": "연봉",
+      "count": 3
+    },
+    {
+      "word": "김병기",
+      "count": 3
+    },
+    {
+      "word": "수사",
+      "count": 3
+    },
+    {
+      "word": "구속영장",
+      "count": 3
+    },
+    {
+      "word": "신청",
+      "count": 3
+    },
+    {
+      "word": "상추",
+      "count": 3
+    },
+    {
+      "word": "인기",
+      "count": 2
+    },
+    {
+      "word": "서울",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "용혜인",
+        "count": 3
+      },
+      {
+        "word": "한동훈",
+        "count": 2
+      },
+      {
+        "word": "민주당",
+        "count": 2
+      },
+      {
+        "word": "오빠들",
+        "count": 2
+      },
+      {
+        "word": "나온다",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "이현중",
+        "count": 3
+      },
+      {
+        "word": "포틀랜드와",
+        "count": 3
+      },
+      {
+        "word": "계약",
+        "count": 3
+      },
+      {
+        "word": "연봉",
+        "count": 3
+      },
+      {
+        "word": "우승",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "최근",
+        "count": 2
+      },
+      {
+        "word": "가장",
+        "count": 2
+      },
+      {
+        "word": "많이",
+        "count": 2
+      },
+      {
+        "word": "오른",
+        "count": 2
+      },
+      {
+        "word": "곳은",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "경찰",
+        "count": 3
+      },
+      {
+        "word": "김병기",
+        "count": 3
+      },
+      {
+        "word": "수사",
+        "count": 3
+      },
+      {
+        "word": "구속영장",
+        "count": 3
+      },
+      {
+        "word": "신청",
+        "count": 3
+      }
+    ],
+    "international": [
+      {
+        "word": "상추",
+        "count": 3
+      },
+      {
+        "word": "정체불명",
+        "count": 2
+      },
+      {
+        "word": "초록",
+        "count": 2
+      },
+      {
+        "word": "풍덩",
+        "count": 2
+      },
+      {
+        "word": "염색",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "이상순",
+        "count": 2
+      },
+      {
+        "word": "임영웅",
+        "count": 2
+      },
+      {
+        "word": "전시",
+        "count": 2
+      },
+      {
+        "word": "김민종",
+        "count": 1
+      },
+      {
+        "word": "불법도박",
+        "count": 1
+      }
+    ]
   }
 }
