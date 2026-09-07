@@ -1,134 +1,138 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-07T15:16:24.794352+09:00",
+  "generated_at": "2026-09-07T19:23:24.150705+09:00",
   "daily_top_keywords": [
     {
       "word": "경찰",
+      "count": 6
+    },
+    {
+      "word": "넘어",
+      "count": 5
+    },
+    {
+      "word": "의혹",
+      "count": 5
+    },
+    {
+      "word": "사망",
+      "count": 5
+    },
+    {
+      "word": "연봉",
       "count": 5
     },
     {
       "word": "오른",
-      "count": 3
-    },
-    {
-      "word": "넘어",
-      "count": 3
-    },
-    {
-      "word": "한동훈",
-      "count": 3
-    },
-    {
-      "word": "의혹",
-      "count": 3
+      "count": 4
     },
     {
       "word": "김승원",
-      "count": 3
+      "count": 4
     },
     {
       "word": "용혜인",
-      "count": 3
-    },
-    {
-      "word": "의원",
-      "count": 3
+      "count": 4
     },
     {
       "word": "이현중",
-      "count": 3
+      "count": 4
     },
     {
       "word": "포틀랜드와",
-      "count": 3
+      "count": 4
     },
     {
       "word": "계약",
-      "count": 3
+      "count": 4
+    },
+    {
+      "word": "사자",
+      "count": 4
     },
     {
       "word": "최저",
-      "count": 3
-    },
-    {
-      "word": "연봉",
-      "count": 3
+      "count": 4
     },
     {
       "word": "김병기",
-      "count": 3
+      "count": 4
     },
     {
       "word": "수사",
-      "count": 3
-    },
-    {
-      "word": "구속영장",
-      "count": 3
+      "count": 4
     },
     {
       "word": "신청",
-      "count": 3
-    },
-    {
-      "word": "상추",
-      "count": 3
-    },
-    {
-      "word": "인기",
-      "count": 2
+      "count": 4
     },
     {
       "word": "서울",
-      "count": 2
+      "count": 3
+    },
+    {
+      "word": "가성비",
+      "count": 3
+    },
+    {
+      "word": "하반기",
+      "count": 3
+    },
+    {
+      "word": "삼성",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "용혜인",
-        "count": 3
+        "word": "의혹",
+        "count": 4
       },
       {
-        "word": "한동훈",
-        "count": 2
+        "word": "용혜인",
+        "count": 4
       },
       {
         "word": "민주당",
-        "count": 2
+        "count": 3
       },
       {
         "word": "오빠들",
-        "count": 2
+        "count": 3
       },
       {
         "word": "나온다",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
+        "word": "연봉",
+        "count": 5
+      },
+      {
         "word": "이현중",
-        "count": 3
+        "count": 4
       },
       {
         "word": "포틀랜드와",
-        "count": 3
+        "count": 4
       },
       {
         "word": "계약",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "연봉",
-        "count": 3
-      },
-      {
-        "word": "우승",
-        "count": 2
+        "word": "사자",
+        "count": 4
       }
     ],
     "economy": [
+      {
+        "word": "하반기",
+        "count": 3
+      },
       {
         "word": "최근",
         "count": 2
@@ -144,31 +148,27 @@
       {
         "word": "오른",
         "count": 2
-      },
-      {
-        "word": "곳은",
-        "count": 2
       }
     ],
     "society": [
       {
         "word": "경찰",
-        "count": 3
+        "count": 4
       },
       {
         "word": "김병기",
-        "count": 3
+        "count": 4
       },
       {
         "word": "수사",
-        "count": 3
-      },
-      {
-        "word": "구속영장",
-        "count": 3
+        "count": 4
       },
       {
         "word": "신청",
+        "count": 4
+      },
+      {
+        "word": "구속영장",
         "count": 3
       }
     ],
@@ -178,42 +178,42 @@
         "count": 3
       },
       {
-        "word": "정체불명",
-        "count": 2
+        "word": "화물기",
+        "count": 3
       },
       {
-        "word": "초록",
-        "count": 2
+        "word": "활주로",
+        "count": 3
       },
       {
-        "word": "풍덩",
-        "count": 2
+        "word": "덮쳐",
+        "count": 3
       },
       {
-        "word": "염색",
-        "count": 2
+        "word": "최소",
+        "count": 3
       }
     ],
     "culture": [
       {
+        "word": "임영웅",
+        "count": 3
+      },
+      {
+        "word": "개최",
+        "count": 3
+      },
+      {
+        "word": "사과",
+        "count": 2
+      },
+      {
+        "word": "직접",
+        "count": 2
+      },
+      {
         "word": "이상순",
         "count": 2
-      },
-      {
-        "word": "임영웅",
-        "count": 2
-      },
-      {
-        "word": "전시",
-        "count": 2
-      },
-      {
-        "word": "김민종",
-        "count": 1
-      },
-      {
-        "word": "불법도박",
-        "count": 1
       }
     ]
   }
