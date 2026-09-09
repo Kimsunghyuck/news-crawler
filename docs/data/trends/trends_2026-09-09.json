@@ -1,13 +1,220 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T09:42:55.906506+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-09-09T15:13:16.191429+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "용혜인",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "이유",
+      "count": 3
+    },
+    {
+      "word": "한동훈",
+      "count": 3
+    },
+    {
+      "word": "김승원",
+      "count": 3
+    },
+    {
+      "word": "오픈",
+      "count": 2
+    },
+    {
+      "word": "시간",
+      "count": 2
+    },
+    {
+      "word": "삼성",
+      "count": 2
+    },
+    {
+      "word": "월세",
+      "count": 2
+    },
+    {
+      "word": "꼼수",
+      "count": 2
+    },
+    {
+      "word": "발칵",
+      "count": 2
+    },
+    {
+      "word": "만든",
+      "count": 2
+    },
+    {
+      "word": "논란",
+      "count": 2
+    },
+    {
+      "word": "서울",
+      "count": 2
+    },
+    {
+      "word": "재산분할",
+      "count": 2
+    },
+    {
+      "word": "도구",
+      "count": 2
+    },
+    {
+      "word": "김민석",
+      "count": 2
+    },
+    {
+      "word": "몰락",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "용혜인",
+        "count": 4
+      },
+      {
+        "word": "한동훈",
+        "count": 3
+      },
+      {
+        "word": "김민석",
+        "count": 2
+      },
+      {
+        "word": "몰락",
+        "count": 2
+      },
+      {
+        "word": "부른",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "옮겼나",
+        "count": 2
+      },
+      {
+        "word": "패배",
+        "count": 2
+      },
+      {
+        "word": "시즌",
+        "count": 2
+      },
+      {
+        "word": "홀이",
+        "count": 1
+      },
+      {
+        "word": "저렇게",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "만원",
+        "count": 4
+      },
+      {
+        "word": "삼성",
+        "count": 2
+      },
+      {
+        "word": "월세",
+        "count": 2
+      },
+      {
+        "word": "꼼수",
+        "count": 2
+      },
+      {
+        "word": "발칵",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "스마일게이트",
+        "count": 2
+      },
+      {
+        "word": "권혁빈",
+        "count": 2
+      },
+      {
+        "word": "역대",
+        "count": 2
+      },
+      {
+        "word": "최대",
+        "count": 2
+      },
+      {
+        "word": "이유",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "공격에",
+        "count": 2
+      },
+      {
+        "word": "유조선",
+        "count": 2
+      },
+      {
+        "word": "참모",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "설경구",
+        "count": 2
+      },
+      {
+        "word": "가능한",
+        "count": 2
+      },
+      {
+        "word": "사랑",
+        "count": 2
+      },
+      {
+        "word": "기립박수에",
+        "count": 1
+      },
+      {
+        "word": "눈물",
+        "count": 1
+      }
+    ]
   }
 }
