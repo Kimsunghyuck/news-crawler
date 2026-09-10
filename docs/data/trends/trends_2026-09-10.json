@@ -1,219 +1,219 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T15:14:40.262490+09:00",
+  "generated_at": "2026-09-10T19:17:03.720693+09:00",
   "daily_top_keywords": [
     {
       "word": "용혜인",
-      "count": 6
+      "count": 10
     },
     {
       "word": "장훈",
-      "count": 5
-    },
-    {
-      "word": "전설",
-      "count": 4
+      "count": 8
     },
     {
       "word": "만원",
-      "count": 3
+      "count": 7
+    },
+    {
+      "word": "전설",
+      "count": 7
     },
     {
       "word": "대신",
-      "count": 3
-    },
-    {
-      "word": "외국인",
-      "count": 3
+      "count": 6
     },
     {
       "word": "남편",
-      "count": 3
+      "count": 6
     },
     {
       "word": "아들",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "장관",
-      "count": 3
+      "word": "서울",
+      "count": 5
     },
     {
-      "word": "재일교포",
-      "count": 3
+      "word": "외국인",
+      "count": 5
     },
     {
-      "word": "안타",
-      "count": 3
+      "word": "김승원",
+      "count": 5
     },
     {
-      "word": "별세",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
+      "word": "승리",
+      "count": 5
     },
     {
       "word": "위기",
-      "count": 2
-    },
-    {
-      "word": "늘리고",
-      "count": 2
+      "count": 4
     },
     {
       "word": "오픈",
-      "count": 2
-    },
-    {
-      "word": "돌파",
-      "count": 2
+      "count": 4
     },
     {
       "word": "때문에",
-      "count": 2
+      "count": 4
     },
     {
       "word": "잃었다",
-      "count": 2
+      "count": 4
     },
     {
       "word": "김건희",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "사퇴",
+      "count": 4
+    },
+    {
+      "word": "장관",
+      "count": 4
+    },
+    {
+      "word": "설경구",
+      "count": 4
+    },
+    {
+      "word": "가능한",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "용혜인",
+        "count": 8
+      },
+      {
+        "word": "김승원",
         "count": 5
       },
       {
         "word": "사퇴",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대신",
-        "count": 2
+        "count": 4
       },
       {
         "word": "겸직은",
-        "count": 2
-      },
-      {
-        "word": "법률이",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "전설",
-        "count": 3
+        "count": 5
       },
       {
         "word": "장훈",
-        "count": 3
+        "count": 5
       },
       {
         "word": "옮겼나",
-        "count": 2
-      },
-      {
-        "word": "재일교포",
-        "count": 2
+        "count": 4
       },
       {
         "word": "코뼈",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "김도영",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "위기",
-        "count": 2
+        "count": 4
       },
       {
         "word": "외국인",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "도입",
+        "count": 3
       },
       {
         "word": "만원",
-        "count": 1
+        "count": 2
       },
       {
         "word": "루이비통백",
-        "count": 1
-      },
-      {
-        "word": "대신",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "남편",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 3
       },
       {
         "word": "모친",
-        "count": 2
+        "count": 3
       },
       {
         "word": "챙긴",
-        "count": 2
-      },
-      {
-        "word": "김건희",
-        "count": 1
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 4
       },
       {
         "word": "안타",
-        "count": 2
+        "count": 3
       },
       {
         "word": "장훈",
-        "count": 2
+        "count": 3
       },
       {
         "word": "별세",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "장관",
+        "word": "히딩크",
         "count": 2
       }
     ],
     "culture": [
       {
         "word": "서울",
-        "count": 2
+        "count": 4
       },
       {
         "word": "설경구",
-        "count": 2
+        "count": 4
       },
       {
         "word": "가능한",
-        "count": 2
+        "count": 4
       },
       {
         "word": "사랑",
-        "count": 2
+        "count": 4
       },
       {
         "word": "경기도자비엔날레",
-        "count": 2
+        "count": 3
       }
     ]
   }
