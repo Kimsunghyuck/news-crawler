@@ -1,219 +1,219 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T15:14:25.806128+09:00",
+  "generated_at": "2026-09-11T19:15:43.612915+09:00",
   "daily_top_keywords": [
     {
-      "word": "요청",
-      "count": 3
+      "word": "최고",
+      "count": 6
     },
     {
       "word": "서울",
-      "count": 3
-    },
-    {
-      "word": "사발렌카",
-      "count": 3
+      "count": 6
     },
     {
       "word": "이유",
-      "count": 2
-    },
-    {
-      "word": "비트코인",
-      "count": 2
-    },
-    {
-      "word": "만원",
-      "count": 2
-    },
-    {
-      "word": "역대",
-      "count": 2
-    },
-    {
-      "word": "최고",
-      "count": 2
-    },
-    {
-      "word": "급증",
-      "count": 2
-    },
-    {
-      "word": "맞춤형",
-      "count": 2
-    },
-    {
-      "word": "시장",
-      "count": 2
-    },
-    {
-      "word": "반반",
-      "count": 2
-    },
-    {
-      "word": "발목",
-      "count": 2
-    },
-    {
-      "word": "잡은",
-      "count": 2
-    },
-    {
-      "word": "은행",
-      "count": 2
-    },
-    {
-      "word": "지지율",
-      "count": 2
-    },
-    {
-      "word": "되레",
-      "count": 2
+      "count": 5
     },
     {
       "word": "김승원",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "대통령",
-      "count": 2
+      "word": "합류",
+      "count": 5
     },
     {
-      "word": "네팔",
-      "count": 2
+      "word": "울린",
+      "count": 5
+    },
+    {
+      "word": "비트코인",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "사우디",
+      "count": 4
+    },
+    {
+      "word": "반반",
+      "count": 4
+    },
+    {
+      "word": "요청",
+      "count": 4
+    },
+    {
+      "word": "공무원",
+      "count": 4
+    },
+    {
+      "word": "정장",
+      "count": 4
+    },
+    {
+      "word": "김도영",
+      "count": 4
+    },
+    {
+      "word": "사발렌카",
+      "count": 4
+    },
+    {
+      "word": "이게",
+      "count": 3
+    },
+    {
+      "word": "대신",
+      "count": 3
+    },
+    {
+      "word": "이것",
+      "count": 3
+    },
+    {
+      "word": "급증",
+      "count": 3
+    },
+    {
+      "word": "의혹",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "지지율",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "되레",
-        "count": 2
+        "word": "이진숙",
+        "count": 3
       },
       {
-        "word": "대통령",
-        "count": 2
+        "word": "국회",
+        "count": 3
       },
       {
-        "word": "도난",
-        "count": 1
+        "word": "영정사진",
+        "count": 3
       },
       {
-        "word": "당했다",
-        "count": 1
+        "word": "김승원",
+        "count": 3
       }
     ],
     "sports": [
       {
+        "word": "합류",
+        "count": 5
+      },
+      {
+        "word": "김도영",
+        "count": 4
+      },
+      {
         "word": "사발렌카",
+        "count": 4
+      },
+      {
+        "word": "코뼈",
         "count": 3
       },
       {
-        "word": "합류",
-        "count": 2
-      },
-      {
         "word": "오픈",
-        "count": 2
-      },
-      {
-        "word": "결승",
-        "count": 2
-      },
-      {
-        "word": "사우디",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "맞춤형",
-        "count": 2
-      },
-      {
-        "word": "시장",
-        "count": 2
+        "word": "만원",
+        "count": 3
       },
       {
         "word": "권사님",
-        "count": 1
+        "count": 2
       },
       {
         "word": "딸도",
-        "count": 1
+        "count": 2
       },
       {
         "word": "염주팔찌",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "샀다",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "노숙자",
-        "count": 1
+        "word": "노소영",
+        "count": 3
       },
       {
-        "word": "보육원",
-        "count": 1
+        "word": "공무원",
+        "count": 3
       },
       {
-        "word": "전국민",
-        "count": 1
+        "word": "면접",
+        "count": 3
       },
       {
-        "word": "울린",
-        "count": 1
+        "word": "정장",
+        "count": 3
       },
       {
-        "word": "천재",
-        "count": 1
+        "word": "자제령",
+        "count": 3
       }
     ],
     "international": [
       {
-        "word": "수정",
-        "count": 2
-      },
-      {
-        "word": "요청",
-        "count": 2
+        "word": "트럼프",
+        "count": 3
       },
       {
         "word": "우크라",
-        "count": 2
-      },
-      {
-        "word": "걱정",
-        "count": 2
+        "count": 3
       },
       {
         "word": "중국인",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "아무데서나",
+        "count": 2
+      },
+      {
+        "word": "대변",
+        "count": 2
       }
     ],
     "culture": [
       {
+        "word": "최고",
+        "count": 3
+      },
+      {
+        "word": "진짜",
+        "count": 3
+      },
+      {
         "word": "공연장",
-        "count": 1
+        "count": 2
       },
       {
         "word": "세계",
-        "count": 1
-      },
-      {
-        "word": "최고",
-        "count": 1
+        "count": 2
       },
       {
         "word": "소리",
-        "count": 1
-      },
-      {
-        "word": "음알못",
-        "count": 1
+        "count": 2
       }
     ]
   }
