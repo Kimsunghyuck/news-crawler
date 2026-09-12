@@ -1,219 +1,219 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T15:13:00.185109+09:00",
+  "generated_at": "2026-09-12T19:14:07.592612+09:00",
   "daily_top_keywords": [
     {
       "word": "호르무즈",
-      "count": 3
-    },
-    {
-      "word": "김승원",
-      "count": 3
-    },
-    {
-      "word": "김민석",
-      "count": 3
+      "count": 6
     },
     {
       "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "당장",
-      "count": 2
-    },
-    {
-      "word": "빠진",
-      "count": 2
-    },
-    {
-      "word": "이유",
-      "count": 2
-    },
-    {
-      "word": "경고",
-      "count": 2
-    },
-    {
-      "word": "반전",
-      "count": 2
-    },
-    {
-      "word": "약국",
-      "count": 2
-    },
-    {
-      "word": "공격",
-      "count": 2
-    },
-    {
-      "word": "미사일",
-      "count": 2
-    },
-    {
-      "word": "반대",
-      "count": 2
-    },
-    {
-      "word": "안보",
-      "count": 2
+      "count": 6
     },
     {
       "word": "위한",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "중립성",
-      "count": 2
+      "word": "김승원",
+      "count": 5
     },
     {
-      "word": "재판",
-      "count": 2
+      "word": "김민석",
+      "count": 5
     },
     {
-      "word": "아냐",
-      "count": 2
+      "word": "당장",
+      "count": 4
     },
     {
-      "word": "국힘",
-      "count": 2
+      "word": "빠진",
+      "count": 4
+    },
+    {
+      "word": "이유",
+      "count": 4
+    },
+    {
+      "word": "경고",
+      "count": 4
+    },
+    {
+      "word": "반전",
+      "count": 4
+    },
+    {
+      "word": "공격",
+      "count": 4
+    },
+    {
+      "word": "미사일",
+      "count": 4
+    },
+    {
+      "word": "반대",
+      "count": 4
+    },
+    {
+      "word": "안보",
+      "count": 4
     },
     {
       "word": "얼굴",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "합류",
+      "count": 4
+    },
+    {
+      "word": "부상",
+      "count": 4
+    },
+    {
+      "word": "고백",
+      "count": 4
+    },
+    {
+      "word": "현직",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "김승원",
-        "count": 3
+        "count": 5
       },
       {
         "word": "김민석",
-        "count": 3
+        "count": 5
       },
       {
         "word": "반대",
-        "count": 2
+        "count": 4
       },
       {
         "word": "안보",
-        "count": 2
+        "count": 4
       },
       {
         "word": "위한",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "합류",
-        "count": 2
-      },
-      {
-        "word": "옮겼나",
-        "count": 2
-      },
-      {
-        "word": "만에",
-        "count": 2
-      },
-      {
-        "word": "도움",
-        "count": 2
+        "count": 4
       },
       {
         "word": "모레노",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "임시감독",
+        "count": 2
+      },
+      {
+        "word": "체제",
+        "count": 2
+      },
+      {
+        "word": "축구대표팀에",
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "빠진",
-        "count": 2
-      },
-      {
         "word": "이유",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "약국",
-        "count": 2
+        "word": "빠진",
+        "count": 3
       },
       {
         "word": "당장",
-        "count": 1
+        "count": 2
       },
       {
         "word": "억을",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "어디서",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "질환",
-        "count": 2
+        "count": 3
       },
       {
         "word": "수천만원대",
-        "count": 2
+        "count": 3
       },
       {
         "word": "뇌물",
-        "count": 2
+        "count": 3
       },
       {
         "word": "수수",
-        "count": 2
+        "count": 3
       },
       {
         "word": "국회의원",
-        "count": 2
+        "count": 3
       }
     ],
     "international": [
       {
+        "word": "만에",
+        "count": 3
+      },
+      {
         "word": "다이애나",
-        "count": 2
+        "count": 3
       },
       {
         "word": "복수",
-        "count": 2
+        "count": 3
       },
       {
         "word": "드레스",
-        "count": 2
+        "count": 3
       },
       {
         "word": "예상",
-        "count": 2
-      },
-      {
-        "word": "호르무즈",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "들여",
-        "count": 1
+        "count": 2
       },
       {
         "word": "샀는데",
-        "count": 1
+        "count": 2
       },
       {
         "word": "신사옥",
-        "count": 1
+        "count": 2
       },
       {
         "word": "철수설에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "내놓은",
-        "count": 1
+        "count": 2
       }
     ]
   }
