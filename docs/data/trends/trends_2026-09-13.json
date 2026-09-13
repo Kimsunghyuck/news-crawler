@@ -1,175 +1,175 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T15:15:17.213196+09:00",
+  "generated_at": "2026-09-13T19:21:54.750735+09:00",
   "daily_top_keywords": [
     {
       "word": "만에",
-      "count": 8
+      "count": 12
     },
     {
       "word": "용혜인",
-      "count": 5
-    },
-    {
-      "word": "사퇴",
-      "count": 4
-    },
-    {
-      "word": "트럼프",
-      "count": 4
-    },
-    {
-      "word": "딛고",
-      "count": 3
+      "count": 9
     },
     {
       "word": "우승",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "대신",
-      "count": 2
+      "word": "사퇴",
+      "count": 6
     },
     {
-      "word": "파주",
-      "count": 2
+      "word": "개혁",
+      "count": 6
     },
     {
-      "word": "만명",
-      "count": 2
+      "word": "딛고",
+      "count": 5
     },
     {
-      "word": "집단대출",
-      "count": 2
-    },
-    {
-      "word": "규제",
-      "count": 2
+      "word": "모레노",
+      "count": 5
     },
     {
       "word": "검토",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "한동훈",
+      "count": 4
     },
     {
       "word": "결국",
-      "count": 2
+      "count": 4
     },
     {
       "word": "민주당서",
-      "count": 2
+      "count": 4
     },
     {
       "word": "김민석",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "지분",
-      "count": 2
+      "word": "김승원",
+      "count": 4
     },
     {
-      "word": "나누는",
-      "count": 2
+      "word": "샀는데",
+      "count": 4
     },
     {
-      "word": "시대",
-      "count": 2
+      "word": "이창동",
+      "count": 4
     },
     {
-      "word": "누가",
-      "count": 2
+      "word": "세계",
+      "count": 4
     },
     {
-      "word": "반발",
-      "count": 2
+      "word": "인간",
+      "count": 4
+    },
+    {
+      "word": "오픈",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "찾는",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "용혜인",
-        "count": 5
+        "count": 9
       },
       {
         "word": "사퇴",
+        "count": 6
+      },
+      {
+        "word": "개혁",
+        "count": 6
+      },
+      {
+        "word": "한동훈",
         "count": 4
       },
       {
         "word": "결국",
-        "count": 2
-      },
-      {
-        "word": "민주당서",
-        "count": 2
-      },
-      {
-        "word": "김민석",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "우승",
-        "count": 3
-      },
-      {
-        "word": "만에",
-        "count": 3
+        "count": 7
       },
       {
         "word": "모레노",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "리바키나",
-        "count": 2
+        "word": "만에",
+        "count": 5
       },
       {
-        "word": "오픈",
-        "count": 2
+        "word": "한국",
+        "count": 4
+      },
+      {
+        "word": "대표팀",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "집단대출",
-        "count": 2
+        "count": 3
       },
       {
         "word": "규제",
-        "count": 2
+        "count": 3
       },
       {
         "word": "검토",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "소규모",
-        "count": 1
+        "word": "주택자",
+        "count": 3
       },
       {
-        "word": "사업장도",
-        "count": 1
+        "word": "종부세",
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "아이들",
-        "count": 1
+        "word": "아이",
+        "count": 3
       },
       {
-        "word": "살리려",
-        "count": 1
+        "word": "양치부터",
+        "count": 2
       },
       {
-        "word": "진도",
-        "count": 1
+        "word": "하고",
+        "count": 2
       },
       {
-        "word": "바다",
-        "count": 1
+        "word": "걸어라",
+        "count": 2
       },
       {
-        "word": "뛰어든",
-        "count": 1
+        "word": "은밀히",
+        "count": 2
       }
     ],
     "international": [
@@ -178,42 +178,42 @@
         "count": 4
       },
       {
-        "word": "만에",
-        "count": 2
-      },
-      {
         "word": "사우디",
-        "count": 2
+        "count": 4
       },
       {
         "word": "후티",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "중간선거",
-        "count": 2
+        "word": "만에",
+        "count": 3
+      },
+      {
+        "word": "원유",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "이창동",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "비법은",
+        "count": 3
       },
       {
         "word": "들여",
-        "count": 1
+        "count": 2
       },
       {
         "word": "샀는데",
-        "count": 1
+        "count": 2
       },
       {
         "word": "신사옥",
-        "count": 1
-      },
-      {
-        "word": "철수설에",
-        "count": 1
+        "count": 2
       }
     ]
   }
