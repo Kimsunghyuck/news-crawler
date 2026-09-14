@@ -1,153 +1,153 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T15:23:15.559612+09:00",
+  "generated_at": "2026-09-14T19:15:35.149213+09:00",
   "daily_top_keywords": [
     {
       "word": "김승원",
-      "count": 4
+      "count": 6
     },
     {
       "word": "추석",
+      "count": 4
+    },
+    {
+      "word": "용혜인",
+      "count": 4
+    },
+    {
+      "word": "겸직",
+      "count": 4
+    },
+    {
+      "word": "정승원",
+      "count": 4
+    },
+    {
+      "word": "김민수",
+      "count": 4
+    },
+    {
+      "word": "미리",
       "count": 3
     },
     {
-      "word": "앞두고",
-      "count": 2
+      "word": "대상",
+      "count": 3
     },
     {
-      "word": "조기",
-      "count": 2
-    },
-    {
-      "word": "지급",
-      "count": 2
+      "word": "연속",
+      "count": 3
     },
     {
       "word": "있어",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "김성수",
-      "count": 2
+      "word": "장관",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
     },
     {
       "word": "치료제",
-      "count": 2
+      "count": 3
     },
     {
       "word": "명에",
-      "count": 2
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
     },
     {
       "word": "없어",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "서울시",
-      "count": 2
+      "word": "총리",
+      "count": 3
     },
     {
       "word": "발탁",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "아시안게임",
-      "count": 2
+      "word": "이강인",
+      "count": 3
     },
     {
       "word": "관왕",
-      "count": 2
-    },
-    {
-      "word": "감독",
-      "count": 2
-    },
-    {
-      "word": "서울",
-      "count": 2
-    },
-    {
-      "word": "의혹",
-      "count": 2
-    },
-    {
-      "word": "드론",
-      "count": 2
-    },
-    {
-      "word": "삼성",
-      "count": 1
-    },
-    {
-      "word": "협력사에",
-      "count": 1
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "김승원",
+        "count": 5
+      },
+      {
+        "word": "용혜인",
+        "count": 4
+      },
+      {
+        "word": "겸직",
+        "count": 4
+      },
+      {
+        "word": "장관",
         "count": 3
       },
       {
-        "word": "김성수",
-        "count": 2
-      },
-      {
         "word": "치료제",
-        "count": 2
-      },
-      {
-        "word": "명에",
-        "count": 2
-      },
-      {
-        "word": "사건",
-        "count": 1
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "아시안게임",
-        "count": 2
-      },
-      {
-        "word": "관왕",
-        "count": 2
+        "word": "정승원",
+        "count": 4
       },
       {
         "word": "김민수",
-        "count": 1
+        "count": 4
       },
       {
-        "word": "정승원",
-        "count": 1
+        "word": "이강인",
+        "count": 3
       },
       {
-        "word": "모레노호",
-        "count": 1
+        "word": "관왕",
+        "count": 3
+      },
+      {
+        "word": "게임",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "추석",
+        "word": "살에",
         "count": 2
       },
       {
-        "word": "앞두고",
+        "word": "만들었다",
         "count": 2
       },
       {
-        "word": "조기",
+        "word": "년생",
         "count": 2
       },
       {
-        "word": "지급",
+        "word": "노을",
         "count": 2
       },
       {
-        "word": "삼성",
-        "count": 1
+        "word": "언론",
+        "count": 2
       }
     ],
     "society": [
@@ -160,60 +160,60 @@
         "count": 2
       },
       {
-        "word": "토지거래허가",
+        "word": "원서",
+        "count": 2
+      },
+      {
+        "word": "버스기사",
         "count": 1
       },
       {
-        "word": "신청",
-        "count": 1
-      },
-      {
-        "word": "건수",
+        "word": "연봉",
         "count": 1
       }
     ],
     "international": [
       {
-        "word": "드론",
-        "count": 2
+        "word": "열차",
+        "count": 3
       },
       {
-        "word": "실종",
-        "count": 1
+        "word": "드론",
+        "count": 3
       },
       {
         "word": "아동",
-        "count": 1
-      },
-      {
-        "word": "얼굴로",
-        "count": 1
+        "count": 2
       },
       {
         "word": "포르쉐",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "기적",
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "생각을",
-        "count": 1
+        "word": "최민식",
+        "count": 2
       },
       {
-        "word": "비우고",
-        "count": 1
+        "word": "박해일",
+        "count": 2
       },
       {
-        "word": "수없이",
-        "count": 1
+        "word": "변요한",
+        "count": 2
       },
       {
-        "word": "쌓은",
-        "count": 1
+        "word": "추석",
+        "count": 2
       },
       {
-        "word": "끝에",
-        "count": 1
+        "word": "극장가",
+        "count": 2
       }
     ]
   }
