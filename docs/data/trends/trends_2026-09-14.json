@@ -1,13 +1,220 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T09:48:28.644685+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-09-14T15:23:15.559612+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "김승원",
+      "count": 4
+    },
+    {
+      "word": "추석",
+      "count": 3
+    },
+    {
+      "word": "앞두고",
+      "count": 2
+    },
+    {
+      "word": "조기",
+      "count": 2
+    },
+    {
+      "word": "지급",
+      "count": 2
+    },
+    {
+      "word": "있어",
+      "count": 2
+    },
+    {
+      "word": "김성수",
+      "count": 2
+    },
+    {
+      "word": "치료제",
+      "count": 2
+    },
+    {
+      "word": "명에",
+      "count": 2
+    },
+    {
+      "word": "없어",
+      "count": 2
+    },
+    {
+      "word": "서울시",
+      "count": 2
+    },
+    {
+      "word": "발탁",
+      "count": 2
+    },
+    {
+      "word": "아시안게임",
+      "count": 2
+    },
+    {
+      "word": "관왕",
+      "count": 2
+    },
+    {
+      "word": "감독",
+      "count": 2
+    },
+    {
+      "word": "서울",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "드론",
+      "count": 2
+    },
+    {
+      "word": "삼성",
+      "count": 1
+    },
+    {
+      "word": "협력사에",
+      "count": 1
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "김승원",
+        "count": 3
+      },
+      {
+        "word": "김성수",
+        "count": 2
+      },
+      {
+        "word": "치료제",
+        "count": 2
+      },
+      {
+        "word": "명에",
+        "count": 2
+      },
+      {
+        "word": "사건",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "아시안게임",
+        "count": 2
+      },
+      {
+        "word": "관왕",
+        "count": 2
+      },
+      {
+        "word": "김민수",
+        "count": 1
+      },
+      {
+        "word": "정승원",
+        "count": 1
+      },
+      {
+        "word": "모레노호",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "추석",
+        "count": 2
+      },
+      {
+        "word": "앞두고",
+        "count": 2
+      },
+      {
+        "word": "조기",
+        "count": 2
+      },
+      {
+        "word": "지급",
+        "count": 2
+      },
+      {
+        "word": "삼성",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "의혹",
+        "count": 2
+      },
+      {
+        "word": "토지거래허가",
+        "count": 1
+      },
+      {
+        "word": "신청",
+        "count": 1
+      },
+      {
+        "word": "건수",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "드론",
+        "count": 2
+      },
+      {
+        "word": "실종",
+        "count": 1
+      },
+      {
+        "word": "아동",
+        "count": 1
+      },
+      {
+        "word": "얼굴로",
+        "count": 1
+      },
+      {
+        "word": "포르쉐",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "생각을",
+        "count": 1
+      },
+      {
+        "word": "비우고",
+        "count": 1
+      },
+      {
+        "word": "수없이",
+        "count": 1
+      },
+      {
+        "word": "쌓은",
+        "count": 1
+      },
+      {
+        "word": "끝에",
+        "count": 1
+      }
+    ]
   }
 }
