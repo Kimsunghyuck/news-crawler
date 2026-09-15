@@ -1,219 +1,219 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T15:14:16.818142+09:00",
+  "generated_at": "2026-09-15T19:15:59.110738+09:00",
   "daily_top_keywords": [
     {
       "word": "김승원",
-      "count": 9
+      "count": 15
     },
     {
       "word": "트럼프",
-      "count": 4
-    },
-    {
-      "word": "만원",
-      "count": 3
-    },
-    {
-      "word": "청문회",
-      "count": 3
-    },
-    {
-      "word": "피의사실",
-      "count": 3
-    },
-    {
-      "word": "추미애",
-      "count": 3
+      "count": 7
     },
     {
       "word": "추진",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "적자",
-      "count": 2
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "청문회",
+      "count": 5
+    },
+    {
+      "word": "지원",
+      "count": 5
+    },
+    {
+      "word": "이어",
+      "count": 5
+    },
+    {
+      "word": "장남",
+      "count": 5
+    },
+    {
+      "word": "푸틴",
+      "count": 5
     },
     {
       "word": "서울",
-      "count": 2
-    },
-    {
-      "word": "아닌",
-      "count": 2
+      "count": 4
     },
     {
       "word": "종부세",
-      "count": 2
-    },
-    {
-      "word": "자율주행",
-      "count": 2
-    },
-    {
-      "word": "계약",
-      "count": 2
+      "count": 4
     },
     {
       "word": "정부",
-      "count": 2
-    },
-    {
-      "word": "가족",
-      "count": 2
-    },
-    {
-      "word": "의혹에",
-      "count": 2
-    },
-    {
-      "word": "아냐",
-      "count": 2
+      "count": 4
     },
     {
       "word": "김부장",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "아들",
-      "count": 2
+      "word": "세계",
+      "count": 4
     },
     {
-      "word": "의혹",
-      "count": 2
+      "word": "모레노",
+      "count": 4
+    },
+    {
+      "word": "비용",
+      "count": 4
+    },
+    {
+      "word": "결혼식",
+      "count": 4
+    },
+    {
+      "word": "측근",
+      "count": 4
+    },
+    {
+      "word": "재벌이",
+      "count": 4
+    },
+    {
+      "word": "대출",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "김승원",
-        "count": 9
+        "count": 13
       },
       {
         "word": "청문회",
-        "count": 3
-      },
-      {
-        "word": "피의사실",
-        "count": 3
+        "count": 4
       },
       {
         "word": "의혹에",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "대통령",
+        "count": 3
       },
       {
         "word": "의혹",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "우승",
-        "count": 2
+        "word": "모레노",
+        "count": 4
       },
       {
-        "word": "모레노",
-        "count": 2
+        "word": "우승",
+        "count": 3
       },
       {
         "word": "김기자의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "토크",
-        "count": 1
+        "count": 2
       },
       {
         "word": "만에",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "적자",
-        "count": 2
-      },
-      {
-        "word": "서울",
-        "count": 2
-      },
-      {
         "word": "만원",
-        "count": 2
+        "count": 4
       },
       {
         "word": "종부세",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "조문객도",
-        "count": 1
+        "word": "대출",
+        "count": 3
+      },
+      {
+        "word": "서울",
+        "count": 3
+      },
+      {
+        "word": "증가",
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "오세훈이",
-        "count": 2
+        "count": 3
       },
       {
         "word": "원한",
-        "count": 2
+        "count": 3
       },
       {
         "word": "아니고",
-        "count": 2
+        "count": 3
       },
       {
         "word": "혼자",
-        "count": 2
+        "count": 3
       },
       {
         "word": "여론조사",
-        "count": 2
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 6
       },
       {
         "word": "장남",
-        "count": 2
-      },
-      {
-        "word": "결혼식",
-        "count": 2
+        "count": 5
       },
       {
         "word": "푸틴",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "결혼식",
+        "count": 4
       },
       {
         "word": "측근",
-        "count": 2
+        "count": 4
       }
     ],
     "culture": [
       {
+        "word": "다시",
+        "count": 3
+      },
+      {
         "word": "김부장",
-        "count": 1
+        "count": 2
       },
       {
         "word": "땅강아지",
-        "count": 1
+        "count": 2
       },
       {
         "word": "장가",
-        "count": 1
+        "count": 2
       },
       {
         "word": "간다",
-        "count": 1
-      },
-      {
-        "word": "원현준",
-        "count": 1
+        "count": 2
       }
     ]
   }
