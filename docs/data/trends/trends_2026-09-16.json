@@ -1,219 +1,219 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T15:13:49.667387+09:00",
+  "generated_at": "2026-09-16T19:15:20.508888+09:00",
   "daily_top_keywords": [
     {
-      "word": "농구",
-      "count": 4
-    },
-    {
-      "word": "내달",
-      "count": 3
-    },
-    {
-      "word": "진출",
-      "count": 3
-    },
-    {
       "word": "같은",
-      "count": 3
+      "count": 7
     },
     {
       "word": "추석",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "이현중",
-      "count": 3
+      "word": "농구",
+      "count": 5
     },
     {
       "word": "만에",
-      "count": 3
+      "count": 5
+    },
+    {
+      "word": "명이",
+      "count": 5
     },
     {
       "word": "반도체",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "지역",
-      "count": 2
+      "word": "진출",
+      "count": 4
     },
     {
-      "word": "추진",
-      "count": 2
-    },
-    {
-      "word": "금리",
-      "count": 2
+      "word": "서울",
+      "count": 4
     },
     {
       "word": "상가",
-      "count": 2
+      "count": 4
     },
     {
       "word": "전용기",
-      "count": 2
+      "count": 4
     },
     {
       "word": "전화",
-      "count": 2
+      "count": 4
     },
     {
       "word": "받았다",
-      "count": 2
+      "count": 4
     },
     {
       "word": "바보",
-      "count": 2
+      "count": 4
     },
     {
       "word": "자식",
-      "count": 2
+      "count": 4
     },
     {
       "word": "장제원의",
-      "count": 2
+      "count": 4
     },
     {
       "word": "선택",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "이모",
-      "count": 2
+      "word": "강신철",
+      "count": 4
+    },
+    {
+      "word": "진짜",
+      "count": 4
+    },
+    {
+      "word": "개최",
+      "count": 4
+    },
+    {
+      "word": "시간",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "같은",
+        "count": 5
+      },
+      {
         "word": "전용기",
-        "count": 2
+        "count": 4
       },
       {
         "word": "전화",
-        "count": 2
+        "count": 4
       },
       {
         "word": "받았다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "바보",
-        "count": 2
-      },
-      {
-        "word": "같은",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "농구",
-        "count": 4
+        "count": 5
       },
       {
         "word": "이현중",
-        "count": 3
+        "count": 4
       },
       {
         "word": "요르단",
-        "count": 2
+        "count": 3
       },
       {
         "word": "대파하고",
-        "count": 2
+        "count": 3
       },
       {
         "word": "준결승",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "반도체",
-        "count": 2
-      },
-      {
-        "word": "추진",
-        "count": 2
+        "count": 4
       },
       {
         "word": "조문객도",
-        "count": 1
+        "count": 2
       },
       {
         "word": "빈소도",
-        "count": 1
+        "count": 2
       },
       {
         "word": "이별",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "스몰엔딩",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "노인",
-        "count": 2
+        "word": "명이",
+        "count": 5
       },
       {
-        "word": "명이",
-        "count": 2
+        "word": "노인",
+        "count": 4
       },
       {
         "word": "달라붙어",
-        "count": 2
+        "count": 4
       },
       {
         "word": "벌인",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "의혹",
+        "word": "자살한",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "화장품",
-        "count": 1
+        "count": 2
       },
       {
         "word": "싹쓸이",
-        "count": 1
+        "count": 2
       },
       {
         "word": "쇼핑",
-        "count": 1
+        "count": 2
       },
       {
         "word": "끝났다",
-        "count": 1
+        "count": 2
       },
       {
         "word": "요즘",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "작가",
-        "count": 2
-      },
-      {
-        "word": "개최",
-        "count": 2
-      },
-      {
         "word": "추석",
-        "count": 2
+        "count": 3
       },
       {
         "word": "왕년",
-        "count": 1
+        "count": 2
       },
       {
         "word": "자랑",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "접고",
+        "count": 2
+      },
+      {
+        "word": "나잇값",
+        "count": 2
       }
     ]
   }
