@@ -1,13 +1,220 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T09:44:34.137184+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-09-17T15:20:43.250998+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "청문보고서",
+      "count": 4
+    },
+    {
+      "word": "채택",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "김승원",
+      "count": 3
+    },
+    {
+      "word": "출신",
+      "count": 2
+    },
+    {
+      "word": "까지",
+      "count": 2
+    },
+    {
+      "word": "인프라",
+      "count": 2
+    },
+    {
+      "word": "대응",
+      "count": 2
+    },
+    {
+      "word": "강신철",
+      "count": 2
+    },
+    {
+      "word": "주도",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "퇴장",
+      "count": 2
+    },
+    {
+      "word": "파병",
+      "count": 2
+    },
+    {
+      "word": "논의",
+      "count": 2
+    },
+    {
+      "word": "지지율",
+      "count": 2
+    },
+    {
+      "word": "전시",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "시간",
+      "count": 2
+    },
+    {
+      "word": "근대",
+      "count": 2
+    },
+    {
+      "word": "성승민",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "청문보고서",
+        "count": 4
+      },
+      {
+        "word": "채택",
+        "count": 4
+      },
+      {
+        "word": "김승원",
+        "count": 3
+      },
+      {
+        "word": "강신철",
+        "count": 2
+      },
+      {
+        "word": "주도",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "근대",
+        "count": 2
+      },
+      {
+        "word": "성승민",
+        "count": 2
+      },
+      {
+        "word": "사격",
+        "count": 2
+      },
+      {
+        "word": "진출",
+        "count": 2
+      },
+      {
+        "word": "태권도보다",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "인프라",
+        "count": 2
+      },
+      {
+        "word": "우리은행과",
+        "count": 1
+      },
+      {
+        "word": "원화",
+        "count": 1
+      },
+      {
+        "word": "스테이블코인",
+        "count": 1
+      },
+      {
+        "word": "손잡은",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "안전",
+        "count": 2
+      },
+      {
+        "word": "검찰",
+        "count": 2
+      },
+      {
+        "word": "최원철",
+        "count": 1
+      },
+      {
+        "word": "공주시장",
+        "count": 1
+      },
+      {
+        "word": "백제의",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "발견",
+        "count": 2
+      },
+      {
+        "word": "재난",
+        "count": 1
+      },
+      {
+        "word": "생명줄",
+        "count": 1
+      },
+      {
+        "word": "테슬라가",
+        "count": 1
+      },
+      {
+        "word": "라디오",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "전시",
+        "count": 2
+      },
+      {
+        "word": "의족",
+        "count": 1
+      },
+      {
+        "word": "신고",
+        "count": 1
+      },
+      {
+        "word": "새벽부터",
+        "count": 1
+      },
+      {
+        "word": "컵밥",
+        "count": 1
+      }
+    ]
   }
 }
