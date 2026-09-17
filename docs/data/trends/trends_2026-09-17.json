@@ -1,9 +1,21 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T15:20:43.250998+09:00",
+  "generated_at": "2026-09-17T19:23:18.676663+09:00",
   "daily_top_keywords": [
     {
+      "word": "만원",
+      "count": 6
+    },
+    {
       "word": "청문보고서",
+      "count": 5
+    },
+    {
+      "word": "시간",
+      "count": 5
+    },
+    {
+      "word": "김승원",
       "count": 4
     },
     {
@@ -11,82 +23,74 @@
       "count": 4
     },
     {
-      "word": "만원",
-      "count": 3
+      "word": "지지율",
+      "count": 4
     },
     {
-      "word": "김승원",
-      "count": 3
+      "word": "진출",
+      "count": 4
     },
     {
-      "word": "출신",
-      "count": 2
+      "word": "발견",
+      "count": 4
     },
     {
       "word": "까지",
-      "count": 2
+      "count": 3
     },
     {
       "word": "인프라",
-      "count": 2
+      "count": 3
     },
     {
       "word": "대응",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "강신철",
-      "count": 2
-    },
-    {
-      "word": "주도",
-      "count": 2
-    },
-    {
-      "word": "국힘",
-      "count": 2
-    },
-    {
-      "word": "퇴장",
-      "count": 2
+      "word": "이제",
+      "count": 3
     },
     {
       "word": "파병",
-      "count": 2
+      "count": 3
     },
     {
       "word": "논의",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "지지율",
-      "count": 2
+      "word": "신고",
+      "count": 3
     },
     {
-      "word": "전시",
-      "count": 2
+      "word": "추석",
+      "count": 3
     },
     {
-      "word": "한국",
-      "count": 2
+      "word": "사격",
+      "count": 3
     },
     {
-      "word": "시간",
-      "count": 2
+      "word": "발칵",
+      "count": 3
     },
     {
-      "word": "근대",
-      "count": 2
+      "word": "최고",
+      "count": 3
     },
     {
-      "word": "성승민",
-      "count": 2
+      "word": "유족",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "청문보고서",
+        "count": 5
+      },
+      {
+        "word": "김승원",
         "count": 4
       },
       {
@@ -94,19 +98,23 @@
         "count": 4
       },
       {
-        "word": "김승원",
+        "word": "지지율",
+        "count": 4
+      },
+      {
+        "word": "파병",
         "count": 3
-      },
-      {
-        "word": "강신철",
-        "count": 2
-      },
-      {
-        "word": "주도",
-        "count": 2
       }
     ],
     "sports": [
+      {
+        "word": "진출",
+        "count": 4
+      },
+      {
+        "word": "사격",
+        "count": 3
+      },
       {
         "word": "근대",
         "count": 2
@@ -116,104 +124,96 @@
         "count": 2
       },
       {
-        "word": "사격",
+        "word": "테크볼",
         "count": 2
-      },
-      {
-        "word": "진출",
-        "count": 2
-      },
-      {
-        "word": "태권도보다",
-        "count": 1
       }
     ],
     "economy": [
       {
         "word": "인프라",
+        "count": 3
+      },
+      {
+        "word": "농협은행",
         "count": 2
       },
       {
-        "word": "우리은행과",
-        "count": 1
+        "word": "저커버그",
+        "count": 2
       },
       {
-        "word": "원화",
-        "count": 1
+        "word": "안전은",
+        "count": 2
       },
       {
-        "word": "스테이블코인",
-        "count": 1
-      },
-      {
-        "word": "손잡은",
-        "count": 1
+        "word": "책임",
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "시간",
+        "count": 3
+      },
       {
         "word": "안전",
         "count": 2
       },
       {
-        "word": "검찰",
+        "word": "유족",
         "count": 2
       },
       {
-        "word": "최원철",
-        "count": 1
+        "word": "만원",
+        "count": 2
       },
       {
-        "word": "공주시장",
-        "count": 1
-      },
-      {
-        "word": "백제의",
-        "count": 1
+        "word": "예산",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "발견",
+        "count": 3
+      },
+      {
+        "word": "다카이치",
         "count": 2
       },
       {
-        "word": "재난",
-        "count": 1
+        "word": "시신에",
+        "count": 2
       },
       {
-        "word": "생명줄",
-        "count": 1
+        "word": "남아공",
+        "count": 2
       },
       {
-        "word": "테슬라가",
-        "count": 1
-      },
-      {
-        "word": "라디오",
-        "count": 1
+        "word": "발칵",
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "전시",
+        "word": "의족",
         "count": 2
       },
       {
-        "word": "의족",
-        "count": 1
-      },
-      {
         "word": "신고",
-        "count": 1
+        "count": 2
       },
       {
         "word": "새벽부터",
-        "count": 1
+        "count": 2
       },
       {
         "word": "컵밥",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "가게로",
+        "count": 2
       }
     ]
   }
