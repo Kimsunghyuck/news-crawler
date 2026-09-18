@@ -1,219 +1,219 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T15:14:57.516085+09:00",
+  "generated_at": "2026-09-18T19:14:41.860213+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 7
-    },
-    {
-      "word": "이유",
-      "count": 4
+      "count": 13
     },
     {
       "word": "발칵",
+      "count": 6
+    },
+    {
+      "word": "시간",
+      "count": 5
+    },
+    {
+      "word": "목숨",
+      "count": 5
+    },
+    {
+      "word": "생각",
+      "count": 5
+    },
+    {
+      "word": "이유",
+      "count": 5
+    },
+    {
+      "word": "태극기",
+      "count": 5
+    },
+    {
+      "word": "된다",
+      "count": 4
+    },
+    {
+      "word": "있었다",
       "count": 4
     },
     {
       "word": "인상",
-      "count": 3
-    },
-    {
-      "word": "목숨",
-      "count": 3
-    },
-    {
-      "word": "모두",
-      "count": 3
-    },
-    {
-      "word": "안돼",
-      "count": 3
-    },
-    {
-      "word": "태극기",
-      "count": 3
-    },
-    {
-      "word": "가격",
-      "count": 2
-    },
-    {
-      "word": "된다",
-      "count": 2
-    },
-    {
-      "word": "시간",
-      "count": 2
-    },
-    {
-      "word": "빠른",
-      "count": 2
-    },
-    {
-      "word": "속도",
-      "count": 2
-    },
-    {
-      "word": "연속",
-      "count": 2
-    },
-    {
-      "word": "브랜드",
-      "count": 2
-    },
-    {
-      "word": "아시안게임",
-      "count": 2
-    },
-    {
-      "word": "만원대",
-      "count": 2
+      "count": 4
     },
     {
       "word": "정청래",
-      "count": 2
+      "count": 4
     },
     {
       "word": "일째",
-      "count": 2
+      "count": 4
     },
     {
       "word": "마셔",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "입원",
+      "count": 4
+    },
+    {
+      "word": "처음",
+      "count": 4
+    },
+    {
+      "word": "모두",
+      "count": 4
+    },
+    {
+      "word": "파격",
+      "count": 4
+    },
+    {
+      "word": "같은",
+      "count": 4
+    },
+    {
+      "word": "이란",
+      "count": 4
+    },
+    {
+      "word": "정체",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "정청래",
-        "count": 2
+        "count": 4
       },
       {
         "word": "일째",
-        "count": 2
+        "count": 4
       },
       {
         "word": "마셔",
-        "count": 2
+        "count": 4
       },
       {
         "word": "입원",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "연임할",
-        "count": 2
+        "word": "생각",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "스포츠",
-        "count": 2
-      },
-      {
-        "word": "금메달",
-        "count": 2
-      },
-      {
         "word": "이강인",
-        "count": 2
+        "count": 3
       },
       {
         "word": "김기자의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "토크",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "눈물",
+        "count": 2
+      },
+      {
+        "word": "엔딩은",
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "가격",
-        "count": 2
+        "count": 3
       },
       {
         "word": "속도",
-        "count": 2
-      },
-      {
-        "word": "브랜드",
-        "count": 2
+        "count": 3
       },
       {
         "word": "인상",
-        "count": 2
+        "count": 3
       },
       {
         "word": "분담금커녕",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "받아",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "넘는",
+        "word": "아버지",
         "count": 2
       },
       {
-        "word": "아버지",
-        "count": 1
-      },
-      {
         "word": "미라",
-        "count": 1
+        "count": 2
       },
       {
         "word": "됐는데",
-        "count": 1
+        "count": 2
       },
       {
         "word": "백골",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "연금",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 5
+        "count": 10
       },
       {
         "word": "태극기",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "발칵",
+        "count": 4
       },
       {
         "word": "신유빈",
-        "count": 2
+        "count": 3
       },
       {
         "word": "빈손",
-        "count": 2
-      },
-      {
-        "word": "안돼",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
+        "word": "만원",
+        "count": 3
+      },
+      {
         "word": "담배",
-        "count": 1
+        "count": 2
       },
       {
         "word": "뻑뻑",
-        "count": 1
+        "count": 2
       },
       {
         "word": "피우고",
-        "count": 1
+        "count": 2
       },
       {
         "word": "노상방뇨",
-        "count": 1
-      },
-      {
-        "word": "경복궁",
-        "count": 1
+        "count": 2
       }
     ]
   }
