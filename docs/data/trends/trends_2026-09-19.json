@@ -1,219 +1,219 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T15:12:33.820305+09:00",
+  "generated_at": "2026-09-19T19:14:42.495585+09:00",
   "daily_top_keywords": [
     {
-      "word": "트럭",
-      "count": 4
-    },
-    {
       "word": "시간",
-      "count": 4
+      "count": 8
     },
     {
       "word": "김승원",
-      "count": 4
+      "count": 8
     },
     {
       "word": "트럼프",
-      "count": 4
+      "count": 6
     },
     {
       "word": "태극기",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "플리마켓",
-      "count": 3
-    },
-    {
-      "word": "심정지",
-      "count": 3
-    },
-    {
-      "word": "전환",
-      "count": 2
-    },
-    {
-      "word": "중간선거",
-      "count": 2
-    },
-    {
-      "word": "동료",
-      "count": 2
+      "word": "트럭",
+      "count": 5
     },
     {
       "word": "사우디",
-      "count": 2
-    },
-    {
-      "word": "회견",
-      "count": 2
-    },
-    {
-      "word": "만에",
-      "count": 2
-    },
-    {
-      "word": "대신",
-      "count": 2
-    },
-    {
-      "word": "이렇게",
-      "count": 2
-    },
-    {
-      "word": "줄이야",
-      "count": 2
+      "count": 5
     },
     {
       "word": "국힘",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "사퇴",
-      "count": 2
+      "word": "한국",
+      "count": 5
     },
     {
-      "word": "있다고",
-      "count": 2
+      "word": "정체",
+      "count": 5
     },
     {
-      "word": "낙마",
-      "count": 2
+      "word": "중간선거",
+      "count": 4
+    },
+    {
+      "word": "동료",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "이렇게",
+      "count": 4
+    },
+    {
+      "word": "비밀",
+      "count": 4
+    },
+    {
+      "word": "유전자",
+      "count": 4
+    },
+    {
+      "word": "청계천",
+      "count": 4
+    },
+    {
+      "word": "사진관",
+      "count": 4
+    },
+    {
+      "word": "추석",
+      "count": 4
+    },
+    {
+      "word": "뒤집힌",
+      "count": 4
+    },
+    {
+      "word": "진출",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "김승원",
-        "count": 4
-      },
-      {
-        "word": "회견",
-        "count": 2
+        "count": 8
       },
       {
         "word": "국힘",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "사퇴",
-        "count": 2
+        "word": "회견",
+        "count": 3
       },
       {
-        "word": "낙마",
-        "count": 2
+        "word": "성추행",
+        "count": 3
+      },
+      {
+        "word": "의혹",
+        "count": 3
       }
     ],
     "sports": [
       {
+        "word": "한국",
+        "count": 5
+      },
+      {
+        "word": "진출",
+        "count": 4
+      },
+      {
+        "word": "타점",
+        "count": 4
+      },
+      {
         "word": "테크볼",
-        "count": 2
+        "count": 3
       },
       {
         "word": "이준석",
-        "count": 2
-      },
-      {
-        "word": "시즌",
-        "count": 2
-      },
-      {
-        "word": "번째",
-        "count": 2
-      },
-      {
-        "word": "선수",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "의식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "있느냐",
-        "count": 1
+        "count": 2
       },
       {
         "word": "묻자",
-        "count": 1
+        "count": 2
       },
       {
         "word": "얼어붙게",
-        "count": 1
+        "count": 2
       },
       {
         "word": "만든",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "플리마켓",
-        "count": 3
-      },
-      {
-        "word": "트럭",
-        "count": 3
-      },
-      {
-        "word": "심정지",
-        "count": 3
-      },
-      {
         "word": "시간",
-        "count": 2
+        "count": 4
       },
       {
         "word": "징역",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "트럭",
+        "count": 4
+      },
+      {
+        "word": "안성",
+        "count": 3
+      },
+      {
+        "word": "플리마켓",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 5
       },
       {
         "word": "태극기",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이란",
-        "count": 2
+        "word": "정체",
+        "count": 3
       },
       {
-        "word": "두잔",
-        "count": 1
+        "word": "만찬",
+        "count": 3
       },
       {
-        "word": "마신",
-        "count": 1
+        "word": "방미",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "비밀",
-        "count": 2
+        "count": 4
       },
       {
         "word": "유전자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "청계천",
-        "count": 2
+        "count": 4
       },
       {
         "word": "사진관",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "담배",
-        "count": 1
+        "word": "있을까",
+        "count": 3
       }
     ]
   }
