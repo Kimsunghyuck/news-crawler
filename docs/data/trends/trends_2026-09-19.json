@@ -1,13 +1,220 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T09:41:10.718624+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-09-19T15:12:33.820305+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럭",
+      "count": 4
+    },
+    {
+      "word": "시간",
+      "count": 4
+    },
+    {
+      "word": "김승원",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "태극기",
+      "count": 3
+    },
+    {
+      "word": "플리마켓",
+      "count": 3
+    },
+    {
+      "word": "심정지",
+      "count": 3
+    },
+    {
+      "word": "전환",
+      "count": 2
+    },
+    {
+      "word": "중간선거",
+      "count": 2
+    },
+    {
+      "word": "동료",
+      "count": 2
+    },
+    {
+      "word": "사우디",
+      "count": 2
+    },
+    {
+      "word": "회견",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "대신",
+      "count": 2
+    },
+    {
+      "word": "이렇게",
+      "count": 2
+    },
+    {
+      "word": "줄이야",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    },
+    {
+      "word": "사퇴",
+      "count": 2
+    },
+    {
+      "word": "있다고",
+      "count": 2
+    },
+    {
+      "word": "낙마",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "김승원",
+        "count": 4
+      },
+      {
+        "word": "회견",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "사퇴",
+        "count": 2
+      },
+      {
+        "word": "낙마",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "테크볼",
+        "count": 2
+      },
+      {
+        "word": "이준석",
+        "count": 2
+      },
+      {
+        "word": "시즌",
+        "count": 2
+      },
+      {
+        "word": "번째",
+        "count": 2
+      },
+      {
+        "word": "선수",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "의식",
+        "count": 1
+      },
+      {
+        "word": "있느냐",
+        "count": 1
+      },
+      {
+        "word": "묻자",
+        "count": 1
+      },
+      {
+        "word": "얼어붙게",
+        "count": 1
+      },
+      {
+        "word": "만든",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "플리마켓",
+        "count": 3
+      },
+      {
+        "word": "트럭",
+        "count": 3
+      },
+      {
+        "word": "심정지",
+        "count": 3
+      },
+      {
+        "word": "시간",
+        "count": 2
+      },
+      {
+        "word": "징역",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "태극기",
+        "count": 2
+      },
+      {
+        "word": "이란",
+        "count": 2
+      },
+      {
+        "word": "두잔",
+        "count": 1
+      },
+      {
+        "word": "마신",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "비밀",
+        "count": 2
+      },
+      {
+        "word": "유전자",
+        "count": 2
+      },
+      {
+        "word": "청계천",
+        "count": 2
+      },
+      {
+        "word": "사진관",
+        "count": 2
+      },
+      {
+        "word": "담배",
+        "count": 1
+      }
+    ]
   }
 }
