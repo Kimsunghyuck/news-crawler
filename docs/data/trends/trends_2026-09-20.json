@@ -1,13 +1,220 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T09:46:46.947938+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-09-20T15:12:44.010908+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "김승원",
+      "count": 4
+    },
+    {
+      "word": "아시안게임",
+      "count": 4
+    },
+    {
+      "word": "결승",
+      "count": 4
+    },
+    {
+      "word": "훈련",
+      "count": 4
+    },
+    {
+      "word": "결국",
+      "count": 3
+    },
+    {
+      "word": "탄원서",
+      "count": 3
+    },
+    {
+      "word": "억원",
+      "count": 3
+    },
+    {
+      "word": "개헌",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "한일전",
+      "count": 3
+    },
+    {
+      "word": "버스",
+      "count": 3
+    },
+    {
+      "word": "노쇼",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 2
+    },
+    {
+      "word": "이제",
+      "count": 2
+    },
+    {
+      "word": "대신",
+      "count": 2
+    },
+    {
+      "word": "터졌다",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "공유했다",
+      "count": 2
+    },
+    {
+      "word": "삭제",
+      "count": 2
+    },
+    {
+      "word": "이렇게",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "김승원",
+        "count": 3
+      },
+      {
+        "word": "개헌",
+        "count": 3
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "공유했다",
+        "count": 2
+      },
+      {
+        "word": "삭제",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "아시안게임",
+        "count": 4
+      },
+      {
+        "word": "한국",
+        "count": 3
+      },
+      {
+        "word": "결승",
+        "count": 3
+      },
+      {
+        "word": "훈련",
+        "count": 3
+      },
+      {
+        "word": "근대",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "휴게소",
+        "count": 1
+      },
+      {
+        "word": "돈가스에",
+        "count": 1
+      },
+      {
+        "word": "커피",
+        "count": 1
+      },
+      {
+        "word": "한잔",
+        "count": 1
+      },
+      {
+        "word": "만원",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "공무원",
+        "count": 2
+      },
+      {
+        "word": "입을까",
+        "count": 2
+      },
+      {
+        "word": "억원",
+        "count": 2
+      },
+      {
+        "word": "구속",
+        "count": 2
+      },
+      {
+        "word": "파나메라",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "찰스",
+        "count": 2
+      },
+      {
+        "word": "걸린",
+        "count": 2
+      },
+      {
+        "word": "앞두고",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "세계",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "인간",
+        "count": 2
+      },
+      {
+        "word": "담배",
+        "count": 1
+      },
+      {
+        "word": "뻑뻑",
+        "count": 1
+      },
+      {
+        "word": "피우고",
+        "count": 1
+      },
+      {
+        "word": "노상방뇨",
+        "count": 1
+      }
+    ]
   }
 }
