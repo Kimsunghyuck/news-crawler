@@ -1,219 +1,219 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T15:16:35.944030+09:00",
+  "generated_at": "2026-09-21T19:17:58.435524+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 7
+      "count": 10
     },
     {
       "word": "강훈식",
-      "count": 5
+      "count": 7
     },
     {
       "word": "폭발",
-      "count": 4
-    },
-    {
-      "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "사의",
-      "count": 3
-    },
-    {
-      "word": "책임",
-      "count": 3
-    },
-    {
-      "word": "있어",
-      "count": 3
-    },
-    {
-      "word": "출신",
-      "count": 3
-    },
-    {
-      "word": "추가",
-      "count": 3
-    },
-    {
-      "word": "부른",
-      "count": 2
-    },
-    {
-      "word": "의혹",
-      "count": 2
+      "count": 7
     },
     {
       "word": "만원",
-      "count": 2
+      "count": 6
     },
     {
-      "word": "투자",
-      "count": 2
+      "word": "한국",
+      "count": 6
     },
     {
-      "word": "조건",
-      "count": 2
+      "word": "사의",
+      "count": 5
     },
     {
-      "word": "미래",
-      "count": 2
+      "word": "지뢰",
+      "count": 5
+    },
+    {
+      "word": "금메달",
+      "count": 5
+    },
+    {
+      "word": "의혹",
+      "count": 4
+    },
+    {
+      "word": "대회",
+      "count": 4
     },
     {
       "word": "표명",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "책임",
+      "count": 4
     },
     {
       "word": "내가",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "헬기",
-      "count": 2
+      "word": "추정",
+      "count": 4
     },
     {
-      "word": "몰랐던",
-      "count": 2
+      "word": "사고",
+      "count": 4
     },
     {
-      "word": "육군",
-      "count": 2
+      "word": "엄마",
+      "count": 4
+    },
+    {
+      "word": "있어",
+      "count": 4
+    },
+    {
+      "word": "인간",
+      "count": 4
+    },
+    {
+      "word": "출신",
+      "count": 4
+    },
+    {
+      "word": "이강인",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "강훈식",
-        "count": 5
+        "count": 7
       },
       {
         "word": "사의",
-        "count": 3
-      },
-      {
-        "word": "책임",
-        "count": 3
+        "count": 5
       },
       {
         "word": "폭발",
-        "count": 3
+        "count": 5
       },
       {
         "word": "표명",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "책임",
+        "count": 4
       }
     ],
     "sports": [
       {
+        "word": "금메달",
+        "count": 5
+      },
+      {
         "word": "마드리드",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "형제는",
-        "count": 1
+        "word": "김영범",
+        "count": 4
       },
       {
-        "word": "용감했다",
-        "count": 1
+        "word": "수영",
+        "count": 3
       },
       {
-        "word": "남자농구",
-        "count": 1
-      },
-      {
-        "word": "문정현",
-        "count": 1
+        "word": "자유형",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "투자",
-        "count": 2
-      },
-      {
-        "word": "만에",
-        "count": 2
-      },
-      {
         "word": "낮에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "행동",
-        "count": 1
+        "count": 2
       },
       {
         "word": "몇년",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "치매왔다",
+        "count": 2
+      },
+      {
+        "word": "밤잠",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "국어",
-        "count": 2
+        "count": 4
       },
       {
         "word": "등급",
-        "count": 2
+        "count": 4
       },
       {
         "word": "서울대",
-        "count": 2
+        "count": 4
       },
       {
         "word": "치대",
-        "count": 2
+        "count": 4
       },
       {
         "word": "합격",
-        "count": 2
+        "count": 4
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 6
-      },
-      {
-        "word": "있어",
-        "count": 2
+        "count": 9
       },
       {
         "word": "회담",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "들고",
+        "count": 3
       },
       {
         "word": "엄마에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "아들이었다",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "인간",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "김다현",
-        "count": 2
+        "word": "대응",
+        "count": 3
       },
       {
         "word": "레전드",
-        "count": 1
+        "count": 2
       },
       {
         "word": "걸그룹",
-        "count": 1
+        "count": 2
       },
       {
         "word": "핑클",
-        "count": 1
+        "count": 2
       }
     ]
   }
