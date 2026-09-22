@@ -1,219 +1,219 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T15:14:05.082445+09:00",
+  "generated_at": "2026-09-22T19:17:41.574598+09:00",
   "daily_top_keywords": [
     {
       "word": "대통령",
-      "count": 4
-    },
-    {
-      "word": "재제청",
-      "count": 4
+      "count": 8
     },
     {
       "word": "조희대",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "재제청",
+      "count": 6
     },
     {
       "word": "대법관",
-      "count": 3
-    },
-    {
-      "word": "아냐",
-      "count": 3
-    },
-    {
-      "word": "후티",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
+      "count": 5
     },
     {
       "word": "대신",
-      "count": 2
+      "count": 4
     },
     {
       "word": "되나",
-      "count": 2
+      "count": 4
     },
     {
       "word": "만원",
-      "count": 2
-    },
-    {
-      "word": "추석",
-      "count": 2
-    },
-    {
-      "word": "적발",
-      "count": 2
-    },
-    {
-      "word": "공무원",
-      "count": 2
-    },
-    {
-      "word": "카드",
-      "count": 2
+      "count": 4
     },
     {
       "word": "예금",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "으로",
-      "count": 2
+      "word": "국민",
+      "count": 4
     },
     {
-      "word": "대출",
-      "count": 2
+      "word": "없었다",
+      "count": 4
     },
     {
-      "word": "취소",
-      "count": 2
+      "word": "년만에",
+      "count": 4
     },
     {
-      "word": "민주당",
-      "count": 2
+      "word": "아냐",
+      "count": 4
     },
     {
-      "word": "헌법",
-      "count": 2
+      "word": "남북전",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "누적",
+      "count": 3
+    },
+    {
+      "word": "추석",
+      "count": 3
+    },
+    {
+      "word": "적발",
+      "count": 3
+    },
+    {
+      "word": "아닌",
+      "count": 3
+    },
+    {
+      "word": "년간",
+      "count": 3
+    },
+    {
+      "word": "공무원",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 3
+        "count": 7
       },
       {
         "word": "민주당",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "조희대",
+        "count": 3
       },
       {
         "word": "재제청",
-        "count": 2
-      },
-      {
-        "word": "오세훈",
-        "count": 2
+        "count": 3
       },
       {
         "word": "핵무기",
-        "count": 1
+        "count": 2
       }
     ],
     "sports": [
       {
-        "word": "홈런",
-        "count": 2
-      },
-      {
-        "word": "조직위",
-        "count": 2
+        "word": "대만",
+        "count": 3
       },
       {
         "word": "이정후",
-        "count": 2
-      },
-      {
-        "word": "사타구니",
-        "count": 2
+        "count": 3
       },
       {
         "word": "시즌",
+        "count": 3
+      },
+      {
+        "word": "마감",
+        "count": 3
+      },
+      {
+        "word": "야구",
         "count": 2
       }
     ],
     "economy": [
       {
         "word": "대신",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만원",
-        "count": 2
-      },
-      {
-        "word": "카드",
-        "count": 2
+        "count": 4
       },
       {
         "word": "예금",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "아들도",
-        "count": 1
+        "word": "누적",
+        "count": 3
+      },
+      {
+        "word": "카드",
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "조희대",
-        "count": 2
+        "count": 3
       },
       {
         "word": "대법관",
-        "count": 2
+        "count": 3
       },
       {
         "word": "재제청",
-        "count": 2
+        "count": 3
       },
       {
         "word": "징역",
-        "count": 2
+        "count": 3
       },
       {
         "word": "응할",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
       {
         "word": "후티",
         "count": 3
       },
       {
-        "word": "트럼프",
+        "word": "촉구",
         "count": 3
       },
       {
-        "word": "촉구",
-        "count": 2
+        "word": "개방",
+        "count": 3
       },
       {
         "word": "모델은",
-        "count": 1
-      },
-      {
-        "word": "안세영",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "년만에",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "아내",
-        "count": 2
+        "word": "건강",
+        "count": 3
+      },
+      {
+        "word": "김다현",
+        "count": 3
       },
       {
         "word": "인간",
-        "count": 2
+        "count": 3
       },
       {
         "word": "원작",
-        "count": 1
-      },
-      {
-        "word": "팬들",
-        "count": 1
+        "count": 2
       }
     ]
   }
