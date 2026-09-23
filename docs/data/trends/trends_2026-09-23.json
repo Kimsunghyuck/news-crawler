@@ -1,219 +1,219 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T15:14:06.900389+09:00",
+  "generated_at": "2026-09-23T19:17:44.433866+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 5
-    },
-    {
-      "word": "시간",
-      "count": 4
+      "count": 8
     },
     {
       "word": "조희대",
-      "count": 3
-    },
-    {
-      "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "대만",
-      "count": 3
-    },
-    {
-      "word": "안세영",
-      "count": 3
+      "count": 8
     },
     {
       "word": "추석",
-      "count": 2
+      "count": 7
+    },
+    {
+      "word": "시간",
+      "count": 7
+    },
+    {
+      "word": "만에",
+      "count": 6
     },
     {
       "word": "대미투자",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "논의",
-      "count": 2
-    },
-    {
-      "word": "주식",
-      "count": 2
+      "word": "민주당",
+      "count": 4
     },
     {
       "word": "회장",
-      "count": 2
+      "count": 4
     },
     {
       "word": "인형",
-      "count": 2
+      "count": 4
     },
     {
       "word": "네가",
-      "count": 2
+      "count": 4
     },
     {
       "word": "책임져",
-      "count": 2
+      "count": 4
     },
     {
       "word": "술친구",
-      "count": 2
+      "count": 4
     },
     {
       "word": "장제원에",
-      "count": 2
+      "count": 4
     },
     {
       "word": "전화",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "대통령",
-      "count": 2
+      "word": "김민석",
+      "count": 4
     },
     {
       "word": "여사",
-      "count": 2
+      "count": 4
     },
     {
       "word": "바로",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "북한군",
+      "count": 4
+    },
+    {
+      "word": "없었다",
+      "count": 4
+    },
+    {
+      "word": "다시",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "네가",
-        "count": 2
+        "count": 4
       },
       {
         "word": "책임져",
-        "count": 2
+        "count": 4
       },
       {
         "word": "시간",
-        "count": 2
+        "count": 4
       },
       {
         "word": "술친구",
-        "count": 2
+        "count": 4
       },
       {
         "word": "장제원에",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
+      {
+        "word": "이강인",
+        "count": 4
+      },
+      {
+        "word": "발목",
+        "count": 4
+      },
+      {
+        "word": "야구",
+        "count": 3
+      },
       {
         "word": "안세영",
         "count": 3
       },
       {
-        "word": "야구",
-        "count": 2
-      },
-      {
-        "word": "이강인",
-        "count": 2
-      },
-      {
-        "word": "발목",
-        "count": 2
-      },
-      {
-        "word": "단체전",
-        "count": 2
+        "word": "동메달",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "회장",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "만원",
+        "count": 3
       },
       {
         "word": "반포자이",
-        "count": 1
+        "count": 2
       },
       {
         "word": "호재",
-        "count": 1
+        "count": 2
       },
       {
         "word": "틀렸다",
-        "count": 1
-      },
-      {
-        "word": "서초",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "벗방",
-        "count": 2
+        "count": 4
       },
       {
         "word": "그곳서",
-        "count": 2
+        "count": 4
       },
       {
         "word": "별풍선",
-        "count": 2
+        "count": 4
       },
       {
         "word": "받았다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "벌었던",
-        "count": 2
+        "count": 4
       }
     ],
     "international": [
       {
         "word": "트럼프",
+        "count": 6
+      },
+      {
+        "word": "만났다",
         "count": 4
       },
       {
-        "word": "위대한",
+        "word": "북한군",
+        "count": 3
+      },
+      {
+        "word": "뚜껑",
         "count": 2
       },
       {
-        "word": "총리",
-        "count": 2
-      },
-      {
-        "word": "대만",
-        "count": 2
-      },
-      {
-        "word": "최대",
+        "word": "열어",
         "count": 2
       }
     ],
     "culture": [
       {
+        "word": "만에",
+        "count": 3
+      },
+      {
+        "word": "추석",
+        "count": 3
+      },
+      {
         "word": "배우",
-        "count": 1
+        "count": 2
       },
       {
         "word": "한다감",
-        "count": 1
+        "count": 2
       },
       {
         "word": "결혼",
-        "count": 1
-      },
-      {
-        "word": "만에",
-        "count": 1
-      },
-      {
-        "word": "엄마",
-        "count": 1
+        "count": 2
       }
     ]
   }
