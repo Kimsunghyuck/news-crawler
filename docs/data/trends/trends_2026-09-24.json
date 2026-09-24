@@ -1,219 +1,219 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T15:14:30.315457+09:00",
+  "generated_at": "2026-09-24T19:16:33.114880+09:00",
   "daily_top_keywords": [
     {
-      "word": "추석",
-      "count": 5
+      "word": "만에",
+      "count": 12
     },
     {
       "word": "시간",
-      "count": 4
+      "count": 10
+    },
+    {
+      "word": "추석",
+      "count": 8
     },
     {
       "word": "포로",
-      "count": 4
-    },
-    {
-      "word": "도착",
-      "count": 4
-    },
-    {
-      "word": "대통령",
-      "count": 4
-    },
-    {
-      "word": "만에",
-      "count": 4
-    },
-    {
-      "word": "지나도",
-      "count": 3
-    },
-    {
-      "word": "서울",
-      "count": 3
-    },
-    {
-      "word": "집값",
-      "count": 3
-    },
-    {
-      "word": "중국",
-      "count": 3
-    },
-    {
-      "word": "싶다",
-      "count": 3
-    },
-    {
-      "word": "금메달",
-      "count": 3
+      "count": 8
     },
     {
       "word": "트럼프",
-      "count": 3
+      "count": 8
+    },
+    {
+      "word": "서울",
+      "count": 6
+    },
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "집값",
+      "count": 5
+    },
+    {
+      "word": "도착",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "싶다",
+      "count": 5
+    },
+    {
+      "word": "금메달",
+      "count": 5
     },
     {
       "word": "없이",
-      "count": 2
+      "count": 4
     },
     {
       "word": "같은",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "공장",
+      "count": 4
     },
     {
       "word": "엄마",
-      "count": 2
+      "count": 4
     },
     {
       "word": "아들",
-      "count": 2
+      "count": 4
     },
     {
       "word": "연속",
-      "count": 2
+      "count": 4
     },
     {
       "word": "상승",
-      "count": 2
+      "count": 4
     },
     {
       "word": "난제",
-      "count": 2
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "도착",
-        "count": 3
-      },
-      {
-        "word": "대통령",
-        "count": 3
-      },
-      {
         "word": "포로",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "도착",
+        "count": 4
       },
       {
         "word": "우크라",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "지나도",
-        "count": 2
+        "word": "대통령",
+        "count": 4
+      },
+      {
+        "word": "멕시코",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "수영",
-        "count": 2
+        "count": 4
       },
       {
         "word": "남자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "금메달",
-        "count": 2
-      },
-      {
-        "word": "중국",
-        "count": 2
+        "count": 3
       },
       {
         "word": "다저스",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "오타니",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "집값",
-        "count": 3
+        "count": 5
       },
       {
         "word": "없이",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "만원",
+        "count": 4
       },
       {
         "word": "서울",
-        "count": 2
+        "count": 4
       },
       {
         "word": "연속",
-        "count": 2
-      },
-      {
-        "word": "상승",
-        "count": 2
+        "count": 4
       }
     ],
     "society": [
       {
-        "word": "집유",
-        "count": 2
+        "word": "시간",
+        "count": 4
       },
       {
-        "word": "추석",
-        "count": 2
+        "word": "만에",
+        "count": 4
+      },
+      {
+        "word": "사과",
+        "count": 3
       },
       {
         "word": "공소취소",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "조선시대",
-        "count": 1
-      },
-      {
-        "word": "과부",
-        "count": 1
+        "word": "인천",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 8
+      },
+      {
+        "word": "언론사",
+        "count": 4
       },
       {
         "word": "포로",
-        "count": 2
+        "count": 3
       },
       {
         "word": "마중",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "똑바로",
-        "count": 1
-      },
-      {
-        "word": "다시",
-        "count": 1
+        "word": "출입금지",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "사랑",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 4
       },
       {
         "word": "싶다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "추석",
-        "count": 2
+        "count": 4
       },
       {
         "word": "하와이서",
-        "count": 1
+        "count": 2
       }
     ]
   }
