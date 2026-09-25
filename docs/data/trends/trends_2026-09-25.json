@@ -1,13 +1,220 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T09:45:11.564207+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-09-25T15:14:20.238637+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "추석",
+      "count": 6
+    },
+    {
+      "word": "논란",
+      "count": 3
+    },
+    {
+      "word": "손흥민",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "남자",
+      "count": 3
+    },
+    {
+      "word": "신유빈",
+      "count": 3
+    },
+    {
+      "word": "확보",
+      "count": 3
+    },
+    {
+      "word": "유시민",
+      "count": 3
+    },
+    {
+      "word": "당첨",
+      "count": 2
+    },
+    {
+      "word": "아들",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "성범죄",
+      "count": 2
+    },
+    {
+      "word": "시간",
+      "count": 2
+    },
+    {
+      "word": "명절",
+      "count": 2
+    },
+    {
+      "word": "음식",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "모레노",
+      "count": 2
+    },
+    {
+      "word": "나란히",
+      "count": 2
+    },
+    {
+      "word": "청계천",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "유시민",
+        "count": 3
+      },
+      {
+        "word": "조사",
+        "count": 2
+      },
+      {
+        "word": "누군가",
+        "count": 2
+      },
+      {
+        "word": "절대",
+        "count": 2
+      },
+      {
+        "word": "포로",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "신유빈",
+        "count": 3
+      },
+      {
+        "word": "확보",
+        "count": 3
+      },
+      {
+        "word": "금메달",
+        "count": 2
+      },
+      {
+        "word": "남자",
+        "count": 2
+      },
+      {
+        "word": "연패",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "삼전닉스",
+        "count": 2
+      },
+      {
+        "word": "종목",
+        "count": 2
+      },
+      {
+        "word": "없이",
+        "count": 2
+      },
+      {
+        "word": "세에",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "성범죄",
+        "count": 2
+      },
+      {
+        "word": "보호구역으로",
+        "count": 1
+      },
+      {
+        "word": "묶어달라",
+        "count": 1
+      },
+      {
+        "word": "산주인",
+        "count": 1
+      },
+      {
+        "word": "인생",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "손흥민",
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "모레노",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 1
+      },
+      {
+        "word": "골프",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "추석",
+        "count": 3
+      },
+      {
+        "word": "연휴",
+        "count": 2
+      },
+      {
+        "word": "앞에선",
+        "count": 2
+      },
+      {
+        "word": "천만영화",
+        "count": 1
+      },
+      {
+        "word": "변호인",
+        "count": 1
+      }
+    ]
   }
 }
