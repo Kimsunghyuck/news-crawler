@@ -1,219 +1,219 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T15:13:48.166901+09:00",
+  "generated_at": "2026-09-26T19:14:36.496135+09:00",
   "daily_top_keywords": [
     {
       "word": "추석",
-      "count": 7
+      "count": 13
     },
     {
       "word": "만원",
-      "count": 5
-    },
-    {
-      "word": "연휴",
-      "count": 4
-    },
-    {
-      "word": "하루",
-      "count": 3
-    },
-    {
-      "word": "포로",
-      "count": 3
+      "count": 10
     },
     {
       "word": "이란",
-      "count": 3
+      "count": 9
     },
     {
-      "word": "대통령",
-      "count": 3
+      "word": "연휴",
+      "count": 8
     },
     {
-      "word": "청계천",
-      "count": 3
-    },
-    {
-      "word": "사진관",
-      "count": 3
+      "word": "트럼프",
+      "count": 8
     },
     {
       "word": "서울",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "만에",
-      "count": 3
+      "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "포로",
+      "count": 6
+    },
+    {
+      "word": "대통령",
+      "count": 6
+    },
+    {
+      "word": "야구",
+      "count": 6
+    },
+    {
+      "word": "부캉이",
+      "count": 5
+    },
+    {
+      "word": "청계천",
+      "count": 5
+    },
+    {
+      "word": "사진관",
+      "count": 5
     },
     {
       "word": "부부",
-      "count": 3
+      "count": 5
     },
     {
       "word": "대학생",
-      "count": 2
+      "count": 4
     },
     {
       "word": "만명",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "사연",
-      "count": 2
+      "word": "시간",
+      "count": 4
     },
     {
-      "word": "넘었다",
-      "count": 2
+      "word": "여배우",
+      "count": 4
     },
     {
-      "word": "노모",
-      "count": 2
+      "word": "합의",
+      "count": 4
     },
     {
-      "word": "비극",
-      "count": 2
-    },
-    {
-      "word": "위험",
-      "count": 2
-    },
-    {
-      "word": "모르는",
-      "count": 2
+      "word": "핵무기",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "부부",
-        "count": 3
+        "count": 5
       },
       {
         "word": "한동훈",
-        "count": 2
-      },
-      {
-        "word": "조사",
-        "count": 2
-      },
-      {
-        "word": "공방",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대통령",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "지뢰",
+        "count": 4
+      },
+      {
+        "word": "조사",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "야구",
-        "count": 2
+        "count": 6
       },
       {
-        "word": "인승",
-        "count": 2
-      },
-      {
-        "word": "혼성",
-        "count": 2
+        "word": "한국",
+        "count": 4
       },
       {
         "word": "김시우",
-        "count": 1
+        "count": 2
       },
       {
         "word": "김주형",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "연승",
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "만원",
-        "count": 4
+        "count": 8
       },
       {
         "word": "서울",
-        "count": 2
+        "count": 4
       },
       {
         "word": "특급",
-        "count": 1
+        "count": 2
       },
       {
         "word": "신라호텔",
-        "count": 1
+        "count": 2
       },
       {
         "word": "맞은편에",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "추석",
-        "count": 4
-      },
-      {
-        "word": "하루",
-        "count": 2
-      },
-      {
-        "word": "노모",
-        "count": 2
+        "count": 7
       },
       {
         "word": "연휴",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "비극",
-        "count": 2
+        "word": "허위로",
+        "count": 3
+      },
+      {
+        "word": "병가",
+        "count": 3
+      },
+      {
+        "word": "선관위",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "이란",
-        "count": 3
-      },
-      {
-        "word": "백악관",
-        "count": 2
+        "count": 9
       },
       {
         "word": "트럼프",
-        "count": 2
+        "count": 8
+      },
+      {
+        "word": "핵무기",
+        "count": 4
+      },
+      {
+        "word": "포로",
+        "count": 3
       },
       {
         "word": "시진핑",
-        "count": 2
-      },
-      {
-        "word": "장례",
-        "count": 1
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "추석",
-        "count": 3
+        "count": 6
       },
       {
         "word": "결혼",
-        "count": 2
-      },
-      {
-        "word": "만에",
-        "count": 2
+        "count": 4
       },
       {
         "word": "연휴",
-        "count": 2
+        "count": 4
       },
       {
         "word": "앞에선",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "만에",
+        "count": 3
       }
     ]
   }
