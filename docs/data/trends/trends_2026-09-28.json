@@ -1,13 +1,77 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T15:16:51.401074+09:00",
+  "generated_at": "2026-09-28T19:18:35.401565+09:00",
   "daily_top_keywords": [
+    {
+      "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "최초",
+      "count": 6
+    },
+    {
+      "word": "조희대",
+      "count": 5
+    },
+    {
+      "word": "발견",
+      "count": 5
+    },
+    {
+      "word": "시신",
+      "count": 4
+    },
+    {
+      "word": "결국",
+      "count": 4
+    },
+    {
+      "word": "일본",
+      "count": 4
+    },
+    {
+      "word": "인간",
+      "count": 4
+    },
+    {
+      "word": "손흥민",
+      "count": 4
+    },
+    {
+      "word": "금메달",
+      "count": 4
+    },
+    {
+      "word": "곽빈",
+      "count": 4
+    },
+    {
+      "word": "꺾고",
+      "count": 4
+    },
     {
       "word": "연패",
       "count": 4
     },
     {
-      "word": "최초",
+      "word": "육영수",
+      "count": 4
+    },
+    {
+      "word": "박정희",
+      "count": 4
+    },
+    {
+      "word": "황당",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "솔로",
       "count": 4
     },
     {
@@ -15,204 +79,140 @@
       "count": 3
     },
     {
-      "word": "한국",
+      "word": "수사",
       "count": 3
-    },
-    {
-      "word": "꺾고",
-      "count": 3
-    },
-    {
-      "word": "황당",
-      "count": 3
-    },
-    {
-      "word": "시신",
-      "count": 2
-    },
-    {
-      "word": "가면",
-      "count": 2
-    },
-    {
-      "word": "조희대",
-      "count": 2
-    },
-    {
-      "word": "발견",
-      "count": 2
-    },
-    {
-      "word": "김건희",
-      "count": 2
-    },
-    {
-      "word": "징역",
-      "count": 2
-    },
-    {
-      "word": "구형",
-      "count": 2
-    },
-    {
-      "word": "드론",
-      "count": 2
-    },
-    {
-      "word": "미사일",
-      "count": 2
-    },
-    {
-      "word": "강화",
-      "count": 2
-    },
-    {
-      "word": "여성",
-      "count": 2
-    },
-    {
-      "word": "법인",
-      "count": 2
-    },
-    {
-      "word": "한화",
-      "count": 2
-    },
-    {
-      "word": "농지",
-      "count": 2
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "황당",
-        "count": 3
-      },
-      {
-        "word": "목함지뢰",
-        "count": 2
-      },
-      {
         "word": "육영수",
-        "count": 2
+        "count": 4
       },
       {
         "word": "박정희",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "역사왜곡",
-        "count": 2
+        "word": "황당",
+        "count": 4
+      },
+      {
+        "word": "국힘",
+        "count": 4
+      },
+      {
+        "word": "조희대",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "연패",
+        "word": "손흥민",
+        "count": 4
+      },
+      {
+        "word": "금메달",
+        "count": 4
+      },
+      {
+        "word": "곽빈",
         "count": 4
       },
       {
         "word": "꺾고",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "손흥민",
-        "count": 2
-      },
-      {
-        "word": "감독",
-        "count": 2
-      },
-      {
-        "word": "에이스",
-        "count": 2
+        "word": "연패",
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "농지",
-        "count": 2
-      },
-      {
         "word": "서울",
-        "count": 2
+        "count": 3
       },
       {
         "word": "우리집",
-        "count": 1
+        "count": 2
       },
       {
         "word": "막내",
-        "count": 1
+        "count": 2
       },
       {
         "word": "이름은",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "법인",
+        "count": 2
       }
     ],
     "society": [
+      {
+        "word": "발견",
+        "count": 4
+      },
       {
         "word": "경찰",
         "count": 3
       },
       {
-        "word": "발견",
+        "word": "수사",
+        "count": 3
+      },
+      {
+        "word": "말기암",
         "count": 2
       },
       {
-        "word": "김건희",
-        "count": 2
-      },
-      {
-        "word": "징역",
-        "count": 2
-      },
-      {
-        "word": "구형",
+        "word": "엄마와",
         "count": 2
       }
     ],
     "international": [
       {
+        "word": "한국인",
+        "count": 3
+      },
+      {
         "word": "드론",
-        "count": 2
+        "count": 3
       },
       {
         "word": "미사일",
-        "count": 2
+        "count": 3
       },
       {
         "word": "벗겨진",
-        "count": 1
+        "count": 2
       },
       {
         "word": "시신",
-        "count": 1
-      },
-      {
-        "word": "나왔다",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "솔로",
-        "count": 2
+        "count": 4
       },
       {
         "word": "최초",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "대상",
+        "count": 3
       },
       {
         "word": "결국",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "노벨문학상",
-        "count": 2
-      },
-      {
-        "word": "하버드",
+        "word": "리사",
         "count": 2
       }
     ]
