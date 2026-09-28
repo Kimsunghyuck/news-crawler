@@ -1,13 +1,220 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T09:49:16.128567+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-09-28T15:16:51.401074+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "연패",
+      "count": 4
+    },
+    {
+      "word": "최초",
+      "count": 4
+    },
+    {
+      "word": "경찰",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "꺾고",
+      "count": 3
+    },
+    {
+      "word": "황당",
+      "count": 3
+    },
+    {
+      "word": "시신",
+      "count": 2
+    },
+    {
+      "word": "가면",
+      "count": 2
+    },
+    {
+      "word": "조희대",
+      "count": 2
+    },
+    {
+      "word": "발견",
+      "count": 2
+    },
+    {
+      "word": "김건희",
+      "count": 2
+    },
+    {
+      "word": "징역",
+      "count": 2
+    },
+    {
+      "word": "구형",
+      "count": 2
+    },
+    {
+      "word": "드론",
+      "count": 2
+    },
+    {
+      "word": "미사일",
+      "count": 2
+    },
+    {
+      "word": "강화",
+      "count": 2
+    },
+    {
+      "word": "여성",
+      "count": 2
+    },
+    {
+      "word": "법인",
+      "count": 2
+    },
+    {
+      "word": "한화",
+      "count": 2
+    },
+    {
+      "word": "농지",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "황당",
+        "count": 3
+      },
+      {
+        "word": "목함지뢰",
+        "count": 2
+      },
+      {
+        "word": "육영수",
+        "count": 2
+      },
+      {
+        "word": "박정희",
+        "count": 2
+      },
+      {
+        "word": "역사왜곡",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "연패",
+        "count": 4
+      },
+      {
+        "word": "꺾고",
+        "count": 3
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "감독",
+        "count": 2
+      },
+      {
+        "word": "에이스",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "농지",
+        "count": 2
+      },
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "우리집",
+        "count": 1
+      },
+      {
+        "word": "막내",
+        "count": 1
+      },
+      {
+        "word": "이름은",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "경찰",
+        "count": 3
+      },
+      {
+        "word": "발견",
+        "count": 2
+      },
+      {
+        "word": "김건희",
+        "count": 2
+      },
+      {
+        "word": "징역",
+        "count": 2
+      },
+      {
+        "word": "구형",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "드론",
+        "count": 2
+      },
+      {
+        "word": "미사일",
+        "count": 2
+      },
+      {
+        "word": "벗겨진",
+        "count": 1
+      },
+      {
+        "word": "시신",
+        "count": 1
+      },
+      {
+        "word": "나왔다",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "솔로",
+        "count": 2
+      },
+      {
+        "word": "최초",
+        "count": 2
+      },
+      {
+        "word": "결국",
+        "count": 2
+      },
+      {
+        "word": "노벨문학상",
+        "count": 2
+      },
+      {
+        "word": "하버드",
+        "count": 2
+      }
+    ]
   }
 }
