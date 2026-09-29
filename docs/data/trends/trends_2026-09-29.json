@@ -1,219 +1,219 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-29T15:15:02.721880+09:00",
+  "generated_at": "2026-09-29T19:16:37.949877+09:00",
   "daily_top_keywords": [
     {
+      "word": "만에",
+      "count": 7
+    },
+    {
       "word": "금메달",
-      "count": 4
+      "count": 7
     },
     {
       "word": "년만에",
-      "count": 4
+      "count": 7
     },
     {
-      "word": "암살자",
-      "count": 3
-    },
-    {
-      "word": "음모론",
-      "count": 3
-    },
-    {
-      "word": "한강",
-      "count": 3
-    },
-    {
-      "word": "이소희",
-      "count": 3
-    },
-    {
-      "word": "백하나",
-      "count": 3
-    },
-    {
-      "word": "꺾고",
-      "count": 3
-    },
-    {
-      "word": "중국",
-      "count": 3
+      "word": "지뢰",
+      "count": 7
     },
     {
       "word": "동메달",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "암살자",
+      "count": 5
+    },
+    {
+      "word": "한강",
+      "count": 5
+    },
+    {
+      "word": "이소희",
+      "count": 5
+    },
+    {
+      "word": "백하나",
+      "count": 5
+    },
+    {
+      "word": "꺾고",
+      "count": 5
+    },
+    {
+      "word": "야구",
+      "count": 5
+    },
+    {
+      "word": "음모론",
+      "count": 4
+    },
+    {
+      "word": "억원",
+      "count": 4
     },
     {
       "word": "비공개",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "인사",
-      "count": 2
-    },
-    {
-      "word": "시진핑",
-      "count": 2
-    },
-    {
-      "word": "포로",
-      "count": 2
-    },
-    {
-      "word": "여자복식",
-      "count": 2
-    },
-    {
-      "word": "만에",
-      "count": 2
+      "word": "부캉이",
+      "count": 4
     },
     {
       "word": "하마스",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "테러범",
-      "count": 2
+      "word": "없어",
+      "count": 4
     },
     {
-      "word": "모레노호",
-      "count": 2
+      "word": "안보",
+      "count": 4
     },
     {
-      "word": "우루과이에",
-      "count": 2
+      "word": "중국",
+      "count": 4
+    },
+    {
+      "word": "계주",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "지뢰",
+        "count": 7
+      },
+      {
         "word": "지뢰사고",
-        "count": 2
+        "count": 3
       },
       {
         "word": "진상",
-        "count": 2
+        "count": 3
       },
       {
         "word": "음모론",
-        "count": 2
+        "count": 3
       },
       {
         "word": "부추기면",
-        "count": 2
-      },
-      {
-        "word": "영화",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "동메달",
-        "count": 3
+        "count": 6
       },
       {
         "word": "계주",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "배드민턴",
+        "count": 4
       },
       {
         "word": "금메달",
-        "count": 2
-      },
-      {
-        "word": "연승",
-        "count": 2
+        "count": 3
       },
       {
         "word": "이소희",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "년만에",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "창신메모리",
+        "count": 3
       },
       {
         "word": "은행",
-        "count": 2
+        "count": 3
       },
       {
         "word": "문연다",
-        "count": 2
+        "count": 3
       },
       {
         "word": "월부터",
-        "count": 2
-      },
-      {
-        "word": "영업시간",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "내년부터",
-        "count": 1
+        "count": 2
       },
       {
         "word": "등록금",
-        "count": 1
+        "count": 2
       },
       {
         "word": "공짜",
-        "count": 1
+        "count": 2
       },
       {
         "word": "서울대급",
-        "count": 1
+        "count": 2
       },
       {
         "word": "지원받는",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "포로",
-        "count": 2
-      },
-      {
         "word": "하마스",
-        "count": 2
-      },
-      {
-        "word": "테러범",
-        "count": 2
+        "count": 4
       },
       {
         "word": "년만에",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "포로",
+        "count": 3
+      },
+      {
+        "word": "테러범",
+        "count": 3
       },
       {
         "word": "여학생",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "암살자",
-        "count": 2
-      },
-      {
         "word": "가수",
-        "count": 2
-      },
-      {
-        "word": "왜곡",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한강",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "암살자",
+        "count": 3
+      },
+      {
+        "word": "눈물",
+        "count": 3
       },
       {
         "word": "밀어낸",
-        "count": 1
+        "count": 2
       }
     ]
   }
