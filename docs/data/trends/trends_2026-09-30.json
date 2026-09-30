@@ -1,90 +1,102 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T15:13:26.711304+09:00",
+  "generated_at": "2026-09-30T19:24:02.574550+09:00",
   "daily_top_keywords": [
     {
       "word": "만에",
-      "count": 4
+      "count": 8
     },
     {
       "word": "만원",
-      "count": 4
+      "count": 6
+    },
+    {
+      "word": "결혼",
+      "count": 3
+    },
+    {
+      "word": "제넨셀",
+      "count": 3
+    },
+    {
+      "word": "창업자",
+      "count": 3
+    },
+    {
+      "word": "김승원",
+      "count": 3
+    },
+    {
+      "word": "청탁",
+      "count": 3
+    },
+    {
+      "word": "명백",
+      "count": 3
+    },
+    {
+      "word": "아내",
+      "count": 3
+    },
+    {
+      "word": "묻자",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "알래스카",
+      "count": 3
+    },
+    {
+      "word": "투자",
+      "count": 3
+    },
+    {
+      "word": "억달러",
+      "count": 3
+    },
+    {
+      "word": "이후",
+      "count": 3
+    },
+    {
+      "word": "분기",
+      "count": 3
+    },
+    {
+      "word": "사우디",
+      "count": 3
     },
     {
       "word": "기부",
       "count": 3
     },
     {
-      "word": "결혼",
-      "count": 2
+      "word": "지뢰",
+      "count": 3
     },
     {
-      "word": "앞둔",
-      "count": 2
-    },
-    {
-      "word": "제넨셀",
-      "count": 2
-    },
-    {
-      "word": "창업자",
-      "count": 2
-    },
-    {
-      "word": "김승원",
-      "count": 2
-    },
-    {
-      "word": "청탁",
-      "count": 2
-    },
-    {
-      "word": "명백",
-      "count": 2
-    },
-    {
-      "word": "제주",
-      "count": 2
-    },
-    {
-      "word": "평균",
-      "count": 2
-    },
-    {
-      "word": "아내",
-      "count": 2
-    },
-    {
-      "word": "묻자",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "알래스카",
-      "count": 2
-    },
-    {
-      "word": "투자",
-      "count": 2
-    },
-    {
-      "word": "억달러",
-      "count": 2
-    },
-    {
-      "word": "묵살",
-      "count": 2
-    },
-    {
-      "word": "이후",
-      "count": 2
+      "word": "국정원",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
+      {
+        "word": "지뢰",
+        "count": 3
+      },
+      {
+        "word": "국정원",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 3
+      },
       {
         "word": "한동훈",
         "count": 2
@@ -92,45 +104,37 @@
       {
         "word": "허파에",
         "count": 2
-      },
-      {
-        "word": "바람",
-        "count": 2
-      },
-      {
-        "word": "넣지마",
-        "count": 2
-      },
-      {
-        "word": "그뒤",
-        "count": 2
       }
     ],
     "sports": [
       {
-        "word": "양궁",
+        "word": "만에",
         "count": 2
       },
       {
-        "word": "우루과이",
-        "count": 1
+        "word": "금메달",
+        "count": 2
       },
       {
-        "word": "평가전",
-        "count": 1
+        "word": "김효주",
+        "count": 2
       },
       {
-        "word": "비교하니",
-        "count": 1
+        "word": "연패",
+        "count": 2
       },
       {
-        "word": "만드는",
-        "count": 1
+        "word": "아람코",
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "만원",
+        "count": 4
+      },
+      {
+        "word": "만에",
         "count": 3
       },
       {
@@ -142,78 +146,74 @@
         "count": 2
       },
       {
-        "word": "만에",
+        "word": "돌아온",
         "count": 2
-      },
-      {
-        "word": "장투",
-        "count": 1
       }
     ],
     "society": [
       {
         "word": "제넨셀",
-        "count": 2
+        "count": 3
       },
       {
         "word": "창업자",
-        "count": 2
+        "count": 3
       },
       {
         "word": "김승원",
-        "count": 2
+        "count": 3
       },
       {
         "word": "청탁",
-        "count": 2
+        "count": 3
       },
       {
         "word": "명백",
-        "count": 2
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 2
+        "count": 3
       },
       {
         "word": "알래스카",
-        "count": 2
+        "count": 3
       },
       {
         "word": "투자",
-        "count": 2
+        "count": 3
       },
       {
         "word": "억달러",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "묵살",
+        "word": "아내",
         "count": 2
       }
     ],
     "culture": [
       {
         "word": "같은",
+        "count": 3
+      },
+      {
+        "word": "최민식",
         "count": 2
       },
       {
-        "word": "배성재",
-        "count": 1
+        "word": "박해일",
+        "count": 2
       },
       {
-        "word": "아빠",
-        "count": 1
+        "word": "변요한",
+        "count": 2
       },
       {
-        "word": "된다",
-        "count": 1
-      },
-      {
-        "word": "연하",
-        "count": 1
+        "word": "추석",
+        "count": 2
       }
     ]
   }
