@@ -1,13 +1,220 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01T09:53:26.129501+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-10-01T15:13:32.732027+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "동료",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "알래스카",
+      "count": 3
+    },
+    {
+      "word": "도전",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "진출",
+      "count": 3
+    },
+    {
+      "word": "문신학",
+      "count": 3
+    },
+    {
+      "word": "아내",
+      "count": 2
+    },
+    {
+      "word": "자격증",
+      "count": 2
+    },
+    {
+      "word": "흉기",
+      "count": 2
+    },
+    {
+      "word": "휘두른",
+      "count": 2
+    },
+    {
+      "word": "중국인",
+      "count": 2
+    },
+    {
+      "word": "징역",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "투자",
+      "count": 2
+    },
+    {
+      "word": "위험",
+      "count": 2
+    },
+    {
+      "word": "탈출",
+      "count": 2
+    },
+    {
+      "word": "앞둔",
+      "count": 2
+    },
+    {
+      "word": "대치맘",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "문신학",
+        "count": 3
+      },
+      {
+        "word": "기어갈테니",
+        "count": 2
+      },
+      {
+        "word": "신임",
+        "count": 2
+      },
+      {
+        "word": "정책실장에",
+        "count": 2
+      },
+      {
+        "word": "하준경",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "도전",
+        "count": 3
+      },
+      {
+        "word": "만에",
+        "count": 3
+      },
+      {
+        "word": "진출",
+        "count": 3
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "호날두",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "대치맘",
+        "count": 2
+      },
+      {
+        "word": "구할",
+        "count": 2
+      },
+      {
+        "word": "카메라",
+        "count": 2
+      },
+      {
+        "word": "빌라",
+        "count": 1
+      },
+      {
+        "word": "사라",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "동료",
+        "count": 2
+      },
+      {
+        "word": "흉기",
+        "count": 2
+      },
+      {
+        "word": "휘두른",
+        "count": 2
+      },
+      {
+        "word": "중국인",
+        "count": 2
+      },
+      {
+        "word": "징역",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "알래스카",
+        "count": 2
+      },
+      {
+        "word": "투자",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "위험",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "배우",
+        "count": 1
+      },
+      {
+        "word": "구교환",
+        "count": 1
+      },
+      {
+        "word": "유부남이었다",
+        "count": 1
+      },
+      {
+        "word": "이옥섭",
+        "count": 1
+      },
+      {
+        "word": "감독과",
+        "count": 1
+      }
+    ]
   }
 }
