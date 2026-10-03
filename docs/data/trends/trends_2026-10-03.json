@@ -1,219 +1,219 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T15:16:53.875975+09:00",
+  "generated_at": "2026-10-03T19:14:29.883602+09:00",
   "daily_top_keywords": [
     {
       "word": "만원",
-      "count": 6
-    },
-    {
-      "word": "양궁",
-      "count": 5
+      "count": 11
     },
     {
       "word": "부산",
-      "count": 4
+      "count": 7
     },
     {
-      "word": "금메달",
-      "count": 4
-    },
-    {
-      "word": "학생",
-      "count": 3
+      "word": "양궁",
+      "count": 7
     },
     {
       "word": "트럼프",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "금메달",
+      "count": 6
+    },
+    {
+      "word": "학생",
+      "count": 5
     },
     {
       "word": "이강인",
-      "count": 3
+      "count": 5
     },
     {
       "word": "아닌",
-      "count": 3
-    },
-    {
-      "word": "여자",
-      "count": 3
+      "count": 5
     },
     {
       "word": "헌재소장",
-      "count": 3
-    },
-    {
-      "word": "아내",
-      "count": 3
+      "count": 5
     },
     {
       "word": "스페인",
-      "count": 3
+      "count": 5
     },
     {
       "word": "김민석",
-      "count": 3
+      "count": 5
     },
     {
       "word": "총선",
-      "count": 3
+      "count": 5
     },
     {
       "word": "낙동강",
-      "count": 3
+      "count": 5
     },
     {
       "word": "부캉이",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "부모님",
-      "count": 2
+      "word": "만에",
+      "count": 4
     },
     {
       "word": "추석",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "용돈",
-      "count": 2
+      "word": "동네는",
+      "count": 4
     },
     {
-      "word": "집주인",
-      "count": 2
+      "word": "코끼리",
+      "count": 4
+    },
+    {
+      "word": "조종석",
+      "count": 4
+    },
+    {
+      "word": "기장",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "헌재소장",
-        "count": 3
-      },
-      {
-        "word": "아내",
-        "count": 3
+        "count": 5
       },
       {
         "word": "스페인",
-        "count": 3
+        "count": 5
       },
       {
         "word": "만원",
-        "count": 3
+        "count": 5
       },
       {
         "word": "부산",
-        "count": 3
+        "count": 5
+      },
+      {
+        "word": "김민석",
+        "count": 5
       }
     ],
     "sports": [
       {
         "word": "양궁",
-        "count": 5
+        "count": 7
       },
       {
         "word": "여자",
-        "count": 3
+        "count": 4
       },
       {
         "word": "금메달",
-        "count": 3
+        "count": 4
+      },
+      {
+        "word": "도전",
+        "count": 4
       },
       {
         "word": "인도",
-        "count": 2
-      },
-      {
-        "word": "신예에",
-        "count": 2
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "만원",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "은행",
+        "count": 3
+      },
+      {
+        "word": "해킹",
+        "count": 3
       },
       {
         "word": "빌라",
-        "count": 1
+        "count": 2
       },
       {
         "word": "공급",
-        "count": 1
-      },
-      {
-        "word": "분의",
-        "count": 1
-      },
-      {
-        "word": "토막",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "부캉이",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "동네는",
+        "count": 4
       },
       {
         "word": "학생",
-        "count": 2
+        "count": 3
       },
       {
         "word": "부모님",
-        "count": 2
+        "count": 3
       },
       {
         "word": "용돈",
-        "count": 2
-      },
-      {
-        "word": "집주인",
-        "count": 2
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
-      },
-      {
-        "word": "하와이",
-        "count": 2
-      },
-      {
-        "word": "붕괴",
-        "count": 2
+        "count": 6
       },
       {
         "word": "조종석",
-        "count": 2
+        "count": 4
       },
       {
         "word": "기장",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "하와이",
+        "count": 3
+      },
+      {
+        "word": "붕괴",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "향하거나",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "하석진",
+        "count": 3
       },
       {
         "word": "오늘의",
-        "count": 2
+        "count": 3
       },
       {
         "word": "운세",
-        "count": 2
+        "count": 3
       },
       {
         "word": "군대서",
-        "count": 1
-      },
-      {
-        "word": "아들",
-        "count": 1
+        "count": 2
       }
     ]
   }
