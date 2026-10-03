@@ -1,13 +1,220 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T09:50:21.385583+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-10-03T15:16:53.875975+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 6
+    },
+    {
+      "word": "양궁",
+      "count": 5
+    },
+    {
+      "word": "부산",
+      "count": 4
+    },
+    {
+      "word": "금메달",
+      "count": 4
+    },
+    {
+      "word": "학생",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "이강인",
+      "count": 3
+    },
+    {
+      "word": "아닌",
+      "count": 3
+    },
+    {
+      "word": "여자",
+      "count": 3
+    },
+    {
+      "word": "헌재소장",
+      "count": 3
+    },
+    {
+      "word": "아내",
+      "count": 3
+    },
+    {
+      "word": "스페인",
+      "count": 3
+    },
+    {
+      "word": "김민석",
+      "count": 3
+    },
+    {
+      "word": "총선",
+      "count": 3
+    },
+    {
+      "word": "낙동강",
+      "count": 3
+    },
+    {
+      "word": "부캉이",
+      "count": 2
+    },
+    {
+      "word": "부모님",
+      "count": 2
+    },
+    {
+      "word": "추석",
+      "count": 2
+    },
+    {
+      "word": "용돈",
+      "count": 2
+    },
+    {
+      "word": "집주인",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "헌재소장",
+        "count": 3
+      },
+      {
+        "word": "아내",
+        "count": 3
+      },
+      {
+        "word": "스페인",
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "부산",
+        "count": 3
+      }
+    ],
+    "sports": [
+      {
+        "word": "양궁",
+        "count": 5
+      },
+      {
+        "word": "여자",
+        "count": 3
+      },
+      {
+        "word": "금메달",
+        "count": 3
+      },
+      {
+        "word": "인도",
+        "count": 2
+      },
+      {
+        "word": "신예에",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "빌라",
+        "count": 1
+      },
+      {
+        "word": "공급",
+        "count": 1
+      },
+      {
+        "word": "분의",
+        "count": 1
+      },
+      {
+        "word": "토막",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "부캉이",
+        "count": 2
+      },
+      {
+        "word": "학생",
+        "count": 2
+      },
+      {
+        "word": "부모님",
+        "count": 2
+      },
+      {
+        "word": "용돈",
+        "count": 2
+      },
+      {
+        "word": "집주인",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "하와이",
+        "count": 2
+      },
+      {
+        "word": "붕괴",
+        "count": 2
+      },
+      {
+        "word": "조종석",
+        "count": 2
+      },
+      {
+        "word": "기장",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "향하거나",
+        "count": 2
+      },
+      {
+        "word": "오늘의",
+        "count": 2
+      },
+      {
+        "word": "운세",
+        "count": 2
+      },
+      {
+        "word": "군대서",
+        "count": 1
+      },
+      {
+        "word": "아들",
+        "count": 1
+      }
+    ]
   }
 }
