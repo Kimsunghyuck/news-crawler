@@ -1,219 +1,219 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T17:11:28.748726+09:00",
+  "generated_at": "2026-10-04T20:28:56.849276+09:00",
   "daily_top_keywords": [
     {
       "word": "판매",
-      "count": 4
-    },
-    {
-      "word": "대통령",
-      "count": 3
+      "count": 7
     },
     {
       "word": "사건",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "암살자",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
     },
     {
       "word": "핼러윈",
-      "count": 3
+      "count": 5
     },
     {
       "word": "나치",
-      "count": 3
+      "count": 5
     },
     {
       "word": "중단",
+      "count": 5
+    },
+    {
+      "word": "다시",
+      "count": 5
+    },
+    {
+      "word": "감찰부장",
+      "count": 4
+    },
+    {
+      "word": "검사",
+      "count": 4
+    },
+    {
+      "word": "위협",
+      "count": 4
+    },
+    {
+      "word": "결국",
+      "count": 4
+    },
+    {
+      "word": "수용복",
+      "count": 4
+    },
+    {
+      "word": "유도",
+      "count": 3
+    },
+    {
+      "word": "정수진",
+      "count": 3
+    },
+    {
+      "word": "계체",
+      "count": 3
+    },
+    {
+      "word": "폭로",
       "count": 3
     },
     {
       "word": "하나",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "감찰부장",
-      "count": 2
-    },
-    {
-      "word": "검사",
-      "count": 2
-    },
-    {
-      "word": "위협",
-      "count": 2
+      "word": "유해진",
+      "count": 3
     },
     {
       "word": "공소청",
-      "count": 2
-    },
-    {
-      "word": "요청",
-      "count": 2
-    },
-    {
-      "word": "시진핑",
-      "count": 2
-    },
-    {
-      "word": "결국",
-      "count": 2
-    },
-    {
-      "word": "수용복",
-      "count": 2
-    },
-    {
-      "word": "자라",
-      "count": 2
-    },
-    {
-      "word": "의상",
-      "count": 2
-    },
-    {
-      "word": "기름값",
-      "count": 2
-    },
-    {
-      "word": "다시",
-      "count": 2
-    },
-    {
-      "word": "억원",
-      "count": 2
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "조희대",
-        "count": 2
+        "count": 3
       },
       {
         "word": "국감",
-        "count": 2
+        "count": 3
       },
       {
         "word": "불출석",
-        "count": 2
+        "count": 3
       },
       {
         "word": "대통령",
-        "count": 2
+        "count": 3
       },
       {
         "word": "남북정상선언",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "금메달",
+        "word": "시즌",
+        "count": 3
+      },
+      {
+        "word": "우승",
+        "count": 3
+      },
+      {
+        "word": "메이저",
+        "count": 3
+      },
+      {
+        "word": "감독이",
         "count": 2
       },
       {
-        "word": "오스틴도",
-        "count": 1
-      },
-      {
-        "word": "시즌",
-        "count": 1
-      },
-      {
-        "word": "폭발",
-        "count": 1
-      },
-      {
-        "word": "홈런왕",
-        "count": 1
+        "word": "유도",
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "기름값",
-        "count": 2
+        "word": "해킹",
+        "count": 3
       },
       {
-        "word": "예비비",
-        "count": 2
+        "word": "기름값",
+        "count": 3
+      },
+      {
+        "word": "다시",
+        "count": 3
       },
       {
         "word": "저축은행도",
-        "count": 1
-      },
-      {
-        "word": "해킹",
-        "count": 1
+        "count": 2
       },
       {
         "word": "개인정보",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "암살자",
+        "count": 3
+      },
+      {
         "word": "이러고",
-        "count": 1
+        "count": 2
       },
       {
         "word": "현장",
-        "count": 1
+        "count": 2
       },
       {
         "word": "남으라",
-        "count": 1
+        "count": 2
       },
       {
         "word": "하나",
-        "count": 1
-      },
-      {
-        "word": "응급실",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "핼러윈",
-        "count": 3
+        "count": 5
       },
       {
         "word": "나치",
-        "count": 3
+        "count": 5
       },
       {
         "word": "판매",
-        "count": 3
+        "count": 5
       },
       {
         "word": "중단",
-        "count": 3
+        "count": 5
       },
       {
-        "word": "요청",
-        "count": 2
+        "word": "결국",
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
       },
       {
         "word": "추석",
-        "count": 1
+        "count": 2
       },
       {
         "word": "극장가",
-        "count": 1
+        "count": 2
       }
     ]
   }
