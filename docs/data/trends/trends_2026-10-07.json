@@ -1,219 +1,219 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T15:13:57.273930+09:00",
+  "generated_at": "2026-10-07T19:17:35.172131+09:00",
   "daily_top_keywords": [
     {
-      "word": "트럼프",
-      "count": 4
+      "word": "만원",
+      "count": 7
     },
     {
       "word": "은퇴",
-      "count": 3
+      "count": 6
     },
     {
       "word": "김민재",
-      "count": 3
+      "count": 6
     },
     {
       "word": "황인범",
-      "count": 3
+      "count": 6
     },
     {
       "word": "황희찬",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "만원",
-      "count": 3
+      "word": "트럼프",
+      "count": 6
     },
     {
       "word": "명태균",
-      "count": 3
+      "count": 5
     },
     {
       "word": "여론조사",
-      "count": 3
-    },
-    {
-      "word": "논란",
-      "count": 3
-    },
-    {
-      "word": "억에",
-      "count": 2
-    },
-    {
-      "word": "쪼개기",
-      "count": 2
-    },
-    {
-      "word": "부부",
-      "count": 2
-    },
-    {
-      "word": "목표",
-      "count": 2
-    },
-    {
-      "word": "윤석열",
-      "count": 2
-    },
-    {
-      "word": "무상",
-      "count": 2
-    },
-    {
-      "word": "무죄",
-      "count": 2
-    },
-    {
-      "word": "뒤집혀",
-      "count": 2
-    },
-    {
-      "word": "함께",
-      "count": 2
+      "count": 5
     },
     {
       "word": "국대",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "경찰",
+      "count": 4
+    },
+    {
+      "word": "민주당",
+      "count": 4
+    },
+    {
+      "word": "압수수색",
+      "count": 4
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "있을까",
+      "count": 4
+    },
+    {
+      "word": "회장님",
+      "count": 4
+    },
+    {
+      "word": "계약금",
+      "count": 4
+    },
+    {
+      "word": "하현승",
+      "count": 4
+    },
+    {
+      "word": "논란에",
+      "count": 4
+    },
+    {
+      "word": "암살자",
+      "count": 4
+    },
+    {
+      "word": "받아",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "논란",
-        "count": 2
-      },
-      {
-        "word": "국가",
-        "count": 2
-      },
-      {
         "word": "한동훈이",
-        "count": 1
+        "count": 2
       },
       {
         "word": "작업",
-        "count": 1
+        "count": 2
       },
       {
         "word": "쌍욕",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "전화",
+        "count": 2
+      },
+      {
+        "word": "왔다",
+        "count": 2
       }
     ],
     "sports": [
       {
         "word": "회장님",
-        "count": 2
-      },
-      {
-        "word": "신인",
-        "count": 2
+        "count": 4
       },
       {
         "word": "계약금",
-        "count": 2
+        "count": 4
       },
       {
         "word": "하현승",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "역사",
-        "count": 1
+        "word": "국대",
+        "count": 3
+      },
+      {
+        "word": "신인",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "만원",
-        "count": 2
-      },
-      {
-        "word": "누리호",
-        "count": 1
-      },
-      {
-        "word": "번째",
-        "count": 1
-      },
-      {
-        "word": "비행",
-        "count": 1
+        "count": 4
       },
       {
         "word": "성공",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "팩플",
+        "count": 3
+      },
+      {
+        "word": "누리호",
+        "count": 2
+      },
+      {
+        "word": "번째",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "명태균",
-        "count": 3
+        "count": 5
       },
       {
         "word": "여론조사",
+        "count": 5
+      },
+      {
+        "word": "받아",
         "count": 3
       },
       {
-        "word": "억에",
-        "count": 2
-      },
-      {
-        "word": "윤석열",
-        "count": 2
-      },
-      {
         "word": "무상",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "무죄",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
+        "count": 6
       },
       {
-        "word": "밴스",
-        "count": 2
+        "word": "여성",
+        "count": 3
       },
       {
-        "word": "정부든",
-        "count": 2
+        "word": "만에",
+        "count": 3
       },
       {
         "word": "김민재",
-        "count": 1
+        "count": 2
       },
       {
         "word": "황인범",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "암살자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "최휘영",
-        "count": 1
+        "count": 2
       },
       {
         "word": "배우",
-        "count": 1
+        "count": 2
       },
       {
         "word": "안전조치",
-        "count": 1
+        "count": 2
       },
       {
         "word": "요청",
-        "count": 1
+        "count": 2
       }
     ]
   }
