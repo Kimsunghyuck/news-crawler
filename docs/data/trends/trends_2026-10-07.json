@@ -1,13 +1,220 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T09:47:00.772854+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-10-07T15:13:57.273930+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "은퇴",
+      "count": 3
+    },
+    {
+      "word": "김민재",
+      "count": 3
+    },
+    {
+      "word": "황인범",
+      "count": 3
+    },
+    {
+      "word": "황희찬",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "명태균",
+      "count": 3
+    },
+    {
+      "word": "여론조사",
+      "count": 3
+    },
+    {
+      "word": "논란",
+      "count": 3
+    },
+    {
+      "word": "억에",
+      "count": 2
+    },
+    {
+      "word": "쪼개기",
+      "count": 2
+    },
+    {
+      "word": "부부",
+      "count": 2
+    },
+    {
+      "word": "목표",
+      "count": 2
+    },
+    {
+      "word": "윤석열",
+      "count": 2
+    },
+    {
+      "word": "무상",
+      "count": 2
+    },
+    {
+      "word": "무죄",
+      "count": 2
+    },
+    {
+      "word": "뒤집혀",
+      "count": 2
+    },
+    {
+      "word": "함께",
+      "count": 2
+    },
+    {
+      "word": "국대",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "논란",
+        "count": 2
+      },
+      {
+        "word": "국가",
+        "count": 2
+      },
+      {
+        "word": "한동훈이",
+        "count": 1
+      },
+      {
+        "word": "작업",
+        "count": 1
+      },
+      {
+        "word": "쌍욕",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "회장님",
+        "count": 2
+      },
+      {
+        "word": "신인",
+        "count": 2
+      },
+      {
+        "word": "계약금",
+        "count": 2
+      },
+      {
+        "word": "하현승",
+        "count": 2
+      },
+      {
+        "word": "역사",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "누리호",
+        "count": 1
+      },
+      {
+        "word": "번째",
+        "count": 1
+      },
+      {
+        "word": "비행",
+        "count": 1
+      },
+      {
+        "word": "성공",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "명태균",
+        "count": 3
+      },
+      {
+        "word": "여론조사",
+        "count": 3
+      },
+      {
+        "word": "억에",
+        "count": 2
+      },
+      {
+        "word": "윤석열",
+        "count": 2
+      },
+      {
+        "word": "무상",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "밴스",
+        "count": 2
+      },
+      {
+        "word": "정부든",
+        "count": 2
+      },
+      {
+        "word": "김민재",
+        "count": 1
+      },
+      {
+        "word": "황인범",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "암살자",
+        "count": 2
+      },
+      {
+        "word": "최휘영",
+        "count": 1
+      },
+      {
+        "word": "배우",
+        "count": 1
+      },
+      {
+        "word": "안전조치",
+        "count": 1
+      },
+      {
+        "word": "요청",
+        "count": 1
+      }
+    ]
   }
 }
