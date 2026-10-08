@@ -1,13 +1,220 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T09:46:18.170675+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-10-08T15:13:17.062060+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "라인",
+      "count": 2
+    },
+    {
+      "word": "엄마",
+      "count": 2
+    },
+    {
+      "word": "최서원",
+      "count": 2
+    },
+    {
+      "word": "병원비",
+      "count": 2
+    },
+    {
+      "word": "이화영",
+      "count": 2
+    },
+    {
+      "word": "아냐",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "휴게소",
+      "count": 2
+    },
+    {
+      "word": "생존한",
+      "count": 2
+    },
+    {
+      "word": "사형수",
+      "count": 2
+    },
+    {
+      "word": "간다",
+      "count": 2
+    },
+    {
+      "word": "억원",
+      "count": 2
+    },
+    {
+      "word": "다시",
+      "count": 2
+    },
+    {
+      "word": "역사",
+      "count": 2
+    },
+    {
+      "word": "수준",
+      "count": 2
+    },
+    {
+      "word": "분기",
+      "count": 2
+    },
+    {
+      "word": "확인할",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "김여정",
+        "count": 2
+      },
+      {
+        "word": "의료장비",
+        "count": 2
+      },
+      {
+        "word": "광대극",
+        "count": 2
+      },
+      {
+        "word": "상속",
+        "count": 2
+      },
+      {
+        "word": "고령농",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "회장님",
+        "count": 2
+      },
+      {
+        "word": "전국체전",
+        "count": 2
+      },
+      {
+        "word": "국대",
+        "count": 2
+      },
+      {
+        "word": "은퇴",
+        "count": 2
+      },
+      {
+        "word": "은퇴전",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "분기",
+        "count": 2
+      },
+      {
+        "word": "최대",
+        "count": 2
+      },
+      {
+        "word": "떡은",
+        "count": 1
+      },
+      {
+        "word": "되고",
+        "count": 1
+      },
+      {
+        "word": "빵은",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "이화영",
+        "count": 2
+      },
+      {
+        "word": "손흥민",
+        "count": 1
+      },
+      {
+        "word": "주장",
+        "count": 1
+      },
+      {
+        "word": "라인",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "생존한",
+        "count": 2
+      },
+      {
+        "word": "사형수",
+        "count": 2
+      },
+      {
+        "word": "억원",
+        "count": 2
+      },
+      {
+        "word": "독극물",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "김부선",
+        "count": 1
+      },
+      {
+        "word": "더는",
+        "count": 1
+      },
+      {
+        "word": "참겠다",
+        "count": 1
+      },
+      {
+        "word": "무분별한",
+        "count": 1
+      },
+      {
+        "word": "비방에",
+        "count": 1
+      }
+    ]
   }
 }
