@@ -1,219 +1,219 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09T15:21:12.398125+09:00",
+  "generated_at": "2026-10-09T19:15:55.466219+09:00",
   "daily_top_keywords": [
     {
-      "word": "논란",
-      "count": 3
+      "word": "정청래",
+      "count": 7
+    },
+    {
+      "word": "비자",
+      "count": 6
     },
     {
       "word": "시간",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "여성",
-      "count": 2
-    },
-    {
-      "word": "나주",
-      "count": 2
-    },
-    {
-      "word": "질문에",
-      "count": 2
-    },
-    {
-      "word": "수도권",
-      "count": 2
-    },
-    {
-      "word": "실형",
-      "count": 2
+      "word": "최태원",
+      "count": 5
     },
     {
       "word": "우크라",
-      "count": 2
-    },
-    {
-      "word": "감정보다",
-      "count": 2
-    },
-    {
-      "word": "외교가",
-      "count": 2
-    },
-    {
-      "word": "아닌",
-      "count": 2
+      "count": 5
     },
     {
       "word": "트럼프",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "호남",
+      "count": 4
+    },
+    {
+      "word": "반도체",
+      "count": 4
     },
     {
       "word": "인간",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "상황",
-      "count": 2
+      "word": "감정보다",
+      "count": 4
     },
     {
-      "word": "매치",
-      "count": 2
+      "word": "외교가",
+      "count": 4
+    },
+    {
+      "word": "아닌",
+      "count": 4
+    },
+    {
+      "word": "논란",
+      "count": 4
     },
     {
       "word": "있을까",
-      "count": 2
-    },
-    {
-      "word": "최원준",
-      "count": 2
+      "count": 4
     },
     {
       "word": "최다",
-      "count": 2
+      "count": 4
     },
     {
       "word": "안타",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "강경파",
-      "count": 2
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "요구",
+      "count": 4
+    },
+    {
+      "word": "카슨",
+      "count": 4
+    },
+    {
+      "word": "오늘의",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "강경파",
-        "count": 2
-      },
-      {
         "word": "정청래",
-        "count": 2
+        "count": 6
       },
       {
         "word": "비자",
-        "count": 2
+        "count": 5
       },
       {
         "word": "대통령",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "국힘",
-        "count": 2
+        "word": "요구",
+        "count": 4
+      },
+      {
+        "word": "능력도",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "매치",
-        "count": 2
-      },
-      {
-        "word": "최원준",
-        "count": 2
-      },
-      {
         "word": "최다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "안타",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "논란",
-        "count": 2
+        "word": "매치",
+        "count": 3
+      },
+      {
+        "word": "싸움",
+        "count": 3
+      },
+      {
+        "word": "최원준",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "수도권",
-        "count": 1
+        "word": "최태원",
+        "count": 4
       },
       {
-        "word": "주택",
-        "count": 1
+        "word": "된다",
+        "count": 3
       },
       {
-        "word": "착공부터",
-        "count": 1
+        "word": "호남",
+        "count": 3
       },
       {
-        "word": "미분양",
-        "count": 1
+        "word": "반도체",
+        "count": 3
       },
       {
-        "word": "나도",
-        "count": 1
+        "word": "가장",
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "나주",
+        "word": "덮친",
         "count": 2
       },
       {
-        "word": "서울",
-        "count": 1
+        "word": "정체",
+        "count": 2
       },
       {
-        "word": "자금출처",
-        "count": 1
+        "word": "표차",
+        "count": 2
       },
       {
-        "word": "조사",
-        "count": 1
+        "word": "당선",
+        "count": 2
       },
       {
-        "word": "집주인",
-        "count": 1
+        "word": "성주군수",
+        "count": 2
       }
     ],
     "international": [
       {
+        "word": "트럼프",
+        "count": 5
+      },
+      {
         "word": "우크라",
-        "count": 2
+        "count": 4
       },
       {
         "word": "감정보다",
-        "count": 2
+        "count": 3
       },
       {
         "word": "외교가",
-        "count": 2
+        "count": 3
       },
       {
         "word": "아닌",
-        "count": 2
-      },
-      {
-        "word": "트럼프",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
+        "word": "카슨",
+        "count": 4
+      },
+      {
         "word": "시간",
+        "count": 4
+      },
+      {
+        "word": "노벨문학상",
         "count": 2
       },
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
-      },
-      {
-        "word": "변요한",
-        "count": 1
-      },
-      {
-        "word": "추석",
-        "count": 1
+        "count": 2
       }
     ]
   }
