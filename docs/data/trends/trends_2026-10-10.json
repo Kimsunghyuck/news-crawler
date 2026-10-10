@@ -1,219 +1,219 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T15:22:40.606976+09:00",
+  "generated_at": "2026-10-10T19:16:09.998805+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 4
+      "count": 10
     },
     {
       "word": "한국",
-      "count": 4
+      "count": 7
     },
     {
       "word": "경쟁",
-      "count": 3
-    },
-    {
-      "word": "온다",
-      "count": 2
-    },
-    {
-      "word": "부부",
-      "count": 2
-    },
-    {
-      "word": "최고",
-      "count": 2
+      "count": 5
     },
     {
       "word": "만원",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "백악관",
-      "count": 2
+      "word": "최고",
+      "count": 4
     },
     {
       "word": "남북한",
-      "count": 2
+      "count": 4
     },
     {
       "word": "전쟁도",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "노벨상",
-      "count": 2
-    },
-    {
-      "word": "불발에",
-      "count": 2
+      "word": "우크라",
+      "count": 4
     },
     {
       "word": "살까",
-      "count": 2
+      "count": 4
     },
     {
       "word": "비크닉",
-      "count": 2
+      "count": 4
     },
     {
       "word": "오픈",
-      "count": 2
+      "count": 4
     },
     {
       "word": "손가락",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "여자농구",
-      "count": 2
-    },
-    {
-      "word": "있던",
-      "count": 2
+      "word": "만에",
+      "count": 4
     },
     {
       "word": "선수",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "시간",
-      "count": 2
+      "word": "온다",
+      "count": 3
+    },
+    {
+      "word": "부부",
+      "count": 3
+    },
+    {
+      "word": "사망",
+      "count": 3
+    },
+    {
+      "word": "발견",
+      "count": 3
+    },
+    {
+      "word": "확정",
+      "count": 3
+    },
+    {
+      "word": "발언에",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "민주당",
+        "count": 3
+      },
+      {
+        "word": "사건",
+        "count": 3
+      },
+      {
+        "word": "덮었나",
+        "count": 3
+      },
+      {
         "word": "굳어",
-        "count": 1
+        "count": 2
       },
       {
         "word": "있던",
-        "count": 1
-      },
-      {
-        "word": "박정희",
-        "count": 1
-      },
-      {
-        "word": "쓸쓸한",
-        "count": 1
-      },
-      {
-        "word": "미소",
-        "count": 1
+        "count": 2
       }
     ],
     "sports": [
       {
+        "word": "선수",
+        "count": 4
+      },
+      {
         "word": "경쟁",
-        "count": 2
+        "count": 3
       },
       {
         "word": "여자농구",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "선수",
-        "count": 2
+        "word": "이강인",
+        "count": 3
       },
       {
-        "word": "간판도",
-        "count": 1
-      },
-      {
-        "word": "미국",
-        "count": 1
+        "word": "만에",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "살까",
-        "count": 2
+        "count": 4
       },
       {
         "word": "비크닉",
-        "count": 2
+        "count": 4
       },
       {
         "word": "오픈",
-        "count": 2
+        "count": 4
       },
       {
         "word": "손가락",
-        "count": 2
+        "count": 4
       },
       {
         "word": "삼전",
-        "count": 1
+        "count": 3
       }
     ],
     "society": [
       {
+        "word": "확정",
+        "count": 3
+      },
+      {
         "word": "일장",
-        "count": 1
+        "count": 2
       },
       {
         "word": "장례",
-        "count": 1
+        "count": 2
       },
       {
         "word": "늘어난",
-        "count": 1
+        "count": 2
       },
       {
         "word": "이유",
-        "count": 1
-      },
-      {
-        "word": "있었다",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
-      },
-      {
-        "word": "백악관",
-        "count": 2
+        "count": 10
       },
       {
         "word": "남북한",
-        "count": 2
+        "count": 4
       },
       {
         "word": "전쟁도",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "내가",
+        "count": 3
       },
       {
         "word": "노벨상",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "구준엽",
-        "count": 1
+        "count": 2
       },
       {
         "word": "한국",
-        "count": 1
+        "count": 2
       },
       {
         "word": "안돌아간다",
-        "count": 1
+        "count": 2
       },
       {
         "word": "서희원",
-        "count": 1
+        "count": 2
       },
       {
         "word": "생일에",
-        "count": 1
+        "count": 2
       }
     ]
   }
