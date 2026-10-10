@@ -1,13 +1,220 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T09:47:02.694710+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-10-10T15:22:40.606976+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "경쟁",
+      "count": 3
+    },
+    {
+      "word": "온다",
+      "count": 2
+    },
+    {
+      "word": "부부",
+      "count": 2
+    },
+    {
+      "word": "최고",
+      "count": 2
+    },
+    {
+      "word": "만원",
+      "count": 2
+    },
+    {
+      "word": "백악관",
+      "count": 2
+    },
+    {
+      "word": "남북한",
+      "count": 2
+    },
+    {
+      "word": "전쟁도",
+      "count": 2
+    },
+    {
+      "word": "노벨상",
+      "count": 2
+    },
+    {
+      "word": "불발에",
+      "count": 2
+    },
+    {
+      "word": "살까",
+      "count": 2
+    },
+    {
+      "word": "비크닉",
+      "count": 2
+    },
+    {
+      "word": "오픈",
+      "count": 2
+    },
+    {
+      "word": "손가락",
+      "count": 2
+    },
+    {
+      "word": "여자농구",
+      "count": 2
+    },
+    {
+      "word": "있던",
+      "count": 2
+    },
+    {
+      "word": "선수",
+      "count": 2
+    },
+    {
+      "word": "시간",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "굳어",
+        "count": 1
+      },
+      {
+        "word": "있던",
+        "count": 1
+      },
+      {
+        "word": "박정희",
+        "count": 1
+      },
+      {
+        "word": "쓸쓸한",
+        "count": 1
+      },
+      {
+        "word": "미소",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "경쟁",
+        "count": 2
+      },
+      {
+        "word": "여자농구",
+        "count": 2
+      },
+      {
+        "word": "선수",
+        "count": 2
+      },
+      {
+        "word": "간판도",
+        "count": 1
+      },
+      {
+        "word": "미국",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "살까",
+        "count": 2
+      },
+      {
+        "word": "비크닉",
+        "count": 2
+      },
+      {
+        "word": "오픈",
+        "count": 2
+      },
+      {
+        "word": "손가락",
+        "count": 2
+      },
+      {
+        "word": "삼전",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "일장",
+        "count": 1
+      },
+      {
+        "word": "장례",
+        "count": 1
+      },
+      {
+        "word": "늘어난",
+        "count": 1
+      },
+      {
+        "word": "이유",
+        "count": 1
+      },
+      {
+        "word": "있었다",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "백악관",
+        "count": 2
+      },
+      {
+        "word": "남북한",
+        "count": 2
+      },
+      {
+        "word": "전쟁도",
+        "count": 2
+      },
+      {
+        "word": "노벨상",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "구준엽",
+        "count": 1
+      },
+      {
+        "word": "한국",
+        "count": 1
+      },
+      {
+        "word": "안돌아간다",
+        "count": 1
+      },
+      {
+        "word": "서희원",
+        "count": 1
+      },
+      {
+        "word": "생일에",
+        "count": 1
+      }
+    ]
   }
 }
