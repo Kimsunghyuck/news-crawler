@@ -1,30 +1,70 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T15:14:56.230273+09:00",
+  "generated_at": "2026-10-11T19:22:45.559006+09:00",
   "daily_top_keywords": [
     {
       "word": "대통령",
-      "count": 4
+      "count": 7
     },
     {
       "word": "한국",
-      "count": 4
+      "count": 7
     },
     {
       "word": "유도",
-      "count": 4
+      "count": 6
     },
     {
       "word": "추미애",
-      "count": 4
+      "count": 6
     },
     {
       "word": "겨냥했나",
-      "count": 4
+      "count": 6
     },
     {
       "word": "서민",
+      "count": 6
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "삼전닉스",
+      "count": 5
+    },
+    {
+      "word": "이현지",
+      "count": 5
+    },
+    {
+      "word": "지시",
       "count": 4
+    },
+    {
+      "word": "못해",
+      "count": 4
+    },
+    {
+      "word": "제패",
+      "count": 4
+    },
+    {
+      "word": "세계선수권",
+      "count": 4
+    },
+    {
+      "word": "혈세로",
+      "count": 4
+    },
+    {
+      "word": "호사",
+      "count": 4
+    },
+    {
+      "word": "아내",
+      "count": 3
     },
     {
       "word": "행안장관",
@@ -39,47 +79,7 @@
       "count": 3
     },
     {
-      "word": "지시",
-      "count": 3
-    },
-    {
       "word": "중수청장",
-      "count": 3
-    },
-    {
-      "word": "골몰",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "삼전닉스",
-      "count": 3
-    },
-    {
-      "word": "우승",
-      "count": 3
-    },
-    {
-      "word": "제패",
-      "count": 3
-    },
-    {
-      "word": "이현지",
-      "count": 3
-    },
-    {
-      "word": "세계선수권",
-      "count": 3
-    },
-    {
-      "word": "혈세로",
-      "count": 3
-    },
-    {
-      "word": "호사",
       "count": 3
     }
   ],
@@ -87,70 +87,74 @@
     "politics": [
       {
         "word": "추미애",
-        "count": 4
+        "count": 6
       },
       {
         "word": "겨냥했나",
-        "count": 4
+        "count": 6
       },
       {
         "word": "서민",
-        "count": 4
+        "count": 6
       },
       {
         "word": "혈세로",
-        "count": 3
+        "count": 4
       },
       {
         "word": "호사",
-        "count": 3
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "유도",
+        "count": 6
+      },
+      {
+        "word": "이현지",
+        "count": 5
+      },
+      {
+        "word": "제패",
+        "count": 4
+      },
+      {
+        "word": "세계선수권",
         "count": 4
       },
       {
         "word": "우승",
-        "count": 3
-      },
-      {
-        "word": "제패",
-        "count": 3
-      },
-      {
-        "word": "이현지",
-        "count": 3
-      },
-      {
-        "word": "세계선수권",
         "count": 3
       }
     ],
     "economy": [
       {
         "word": "삼전닉스",
-        "count": 3
+        "count": 5
       },
       {
         "word": "반도체",
+        "count": 3
+      },
+      {
+        "word": "해킹",
+        "count": 3
+      },
+      {
+        "word": "시도",
+        "count": 3
+      },
+      {
+        "word": "국책은행",
         "count": 2
-      },
-      {
-        "word": "살에",
-        "count": 1
-      },
-      {
-        "word": "모았다",
-        "count": 1
-      },
-      {
-        "word": "없이",
-        "count": 1
       }
     ],
     "society": [
+      {
+        "word": "아내",
+        "count": 3
+      },
       {
         "word": "행안장관",
         "count": 2
@@ -166,54 +170,50 @@
       {
         "word": "지시",
         "count": 2
-      },
-      {
-        "word": "중수청장",
-        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 5
       },
       {
         "word": "사망",
-        "count": 2
+        "count": 3
       },
       {
         "word": "대통령",
-        "count": 2
+        "count": 3
       },
       {
         "word": "필요",
-        "count": 2
+        "count": 3
       },
       {
         "word": "경유",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "다시",
-        "count": 1
+        "word": "최민식",
+        "count": 2
       },
       {
-        "word": "만날",
-        "count": 1
+        "word": "박해일",
+        "count": 2
       },
       {
-        "word": "기대",
-        "count": 1
+        "word": "변요한",
+        "count": 2
       },
       {
-        "word": "비자",
-        "count": 1
+        "word": "추석",
+        "count": 2
       },
       {
-        "word": "소송",
-        "count": 1
+        "word": "극장가",
+        "count": 2
       }
     ]
   }
