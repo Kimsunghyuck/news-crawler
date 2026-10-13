@@ -1,219 +1,219 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T15:17:15.658590+09:00",
+  "generated_at": "2026-10-13T19:18:46.828143+09:00",
   "daily_top_keywords": [
     {
       "word": "한화",
-      "count": 4
+      "count": 7
+    },
+    {
+      "word": "인천",
+      "count": 5
     },
     {
       "word": "만원",
-      "count": 3
-    },
-    {
-      "word": "통산",
-      "count": 3
-    },
-    {
-      "word": "추미애",
-      "count": 3
-    },
-    {
-      "word": "국방부",
-      "count": 2
-    },
-    {
-      "word": "세종시로",
-      "count": 2
-    },
-    {
-      "word": "간다",
-      "count": 2
-    },
-    {
-      "word": "늘어",
-      "count": 2
-    },
-    {
-      "word": "필리조선소",
-      "count": 2
-    },
-    {
-      "word": "수출",
-      "count": 2
-    },
-    {
-      "word": "이상",
-      "count": 2
-    },
-    {
-      "word": "수상",
-      "count": 2
-    },
-    {
-      "word": "후티",
-      "count": 2
-    },
-    {
-      "word": "반군",
-      "count": 2
-    },
-    {
-      "word": "고통스러운",
-      "count": 2
-    },
-    {
-      "word": "보복",
-      "count": 2
-    },
-    {
-      "word": "경고",
-      "count": 2
+      "count": 5
     },
     {
       "word": "년간",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "코스피",
-      "count": 2
+      "word": "통산",
+      "count": 5
+    },
+    {
+      "word": "김도영",
+      "count": 5
+    },
+    {
+      "word": "후티",
+      "count": 4
+    },
+    {
+      "word": "반군",
+      "count": 4
+    },
+    {
+      "word": "고통스러운",
+      "count": 4
+    },
+    {
+      "word": "보복",
+      "count": 4
+    },
+    {
+      "word": "경고",
+      "count": 4
     },
     {
       "word": "팔아도",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "류지현",
+      "count": 4
+    },
+    {
+      "word": "추미애",
+      "count": 4
+    },
+    {
+      "word": "김혜자",
+      "count": 4
+    },
+    {
+      "word": "국방부",
+      "count": 3
+    },
+    {
+      "word": "세종시로",
+      "count": 3
+    },
+    {
+      "word": "간다",
+      "count": 3
+    },
+    {
+      "word": "재정",
+      "count": 3
+    },
+    {
+      "word": "늘어",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "추미애",
-        "count": 3
-      },
-      {
-        "word": "대통령",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한미관계",
+        "count": 3
+      },
+      {
+        "word": "정부",
+        "count": 3
+      },
+      {
+        "word": "김지용",
         "count": 2
       },
       {
-        "word": "법무",
-        "count": 2
-      },
-      {
-        "word": "외교",
+        "word": "중수청장",
         "count": 2
       }
     ],
     "sports": [
       {
-        "word": "통산",
-        "count": 3
-      },
-      {
         "word": "한화",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "사령탑에",
-        "count": 2
+        "word": "통산",
+        "count": 5
+      },
+      {
+        "word": "김도영",
+        "count": 5
       },
       {
         "word": "류지현",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "두산이라",
-        "count": 1
+        "word": "사령탑에",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "코스피",
-        "count": 2
+        "word": "팔아도",
+        "count": 4
       },
       {
-        "word": "팔아도",
-        "count": 2
+        "word": "년간",
+        "count": 3
       },
       {
         "word": "반도체",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "조원",
+        "count": 3
       },
       {
         "word": "문과",
-        "count": 1
-      },
-      {
-        "word": "중년",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "인천",
+        "count": 5
+      },
+      {
         "word": "둘째",
-        "count": 1
+        "count": 2
       },
       {
         "word": "아들",
-        "count": 1
+        "count": 2
       },
       {
         "word": "여자",
-        "count": 1
+        "count": 2
       },
       {
         "word": "닮았네",
-        "count": 1
-      },
-      {
-        "word": "새엄마",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "한화",
-        "count": 2
-      },
-      {
-        "word": "필리조선소",
-        "count": 2
-      },
-      {
         "word": "후티",
-        "count": 2
+        "count": 4
       },
       {
         "word": "반군",
-        "count": 2
+        "count": 4
       },
       {
         "word": "고통스러운",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "보복",
+        "count": 4
+      },
+      {
+        "word": "경고",
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "김혜자",
-        "count": 2
-      },
-      {
-        "word": "만원",
-        "count": 2
+        "count": 4
       },
       {
         "word": "닥터",
-        "count": 1
+        "count": 2
       },
       {
         "word": "일의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "거짓말",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "배우",
+        "count": 2
       }
     ]
   }
