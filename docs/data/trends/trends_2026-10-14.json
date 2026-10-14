@@ -1,13 +1,220 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T09:39:50.261611+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-10-14T15:13:39.770083+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "강선우",
+      "count": 3
+    },
+    {
+      "word": "징역",
+      "count": 3
+    },
+    {
+      "word": "정부",
+      "count": 3
+    },
+    {
+      "word": "사고",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "한동훈",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "비서실장에",
+      "count": 3
+    },
+    {
+      "word": "임광현",
+      "count": 3
+    },
+    {
+      "word": "국세청장",
+      "count": 3
+    },
+    {
+      "word": "공천헌금",
+      "count": 2
+    },
+    {
+      "word": "개월",
+      "count": 2
+    },
+    {
+      "word": "김지용",
+      "count": 2
+    },
+    {
+      "word": "법정구속",
+      "count": 2
+    },
+    {
+      "word": "일부터",
+      "count": 2
+    },
+    {
+      "word": "연다",
+      "count": 2
+    },
+    {
+      "word": "하정우",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "비서실장에",
+        "count": 3
+      },
+      {
+        "word": "임광현",
+        "count": 3
+      },
+      {
+        "word": "국세청장",
+        "count": 3
+      },
+      {
+        "word": "한동훈",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "이강인",
+        "count": 2
+      },
+      {
+        "word": "맨유",
+        "count": 2
+      },
+      {
+        "word": "손잡고",
+        "count": 2
+      },
+      {
+        "word": "엄지성",
+        "count": 2
+      },
+      {
+        "word": "영국서",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "기업",
+        "count": 2
+      },
+      {
+        "word": "최대",
+        "count": 2
+      },
+      {
+        "word": "수학",
+        "count": 1
+      },
+      {
+        "word": "루퍼트",
+        "count": 1
+      },
+      {
+        "word": "가설",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "강선우",
+        "count": 3
+      },
+      {
+        "word": "징역",
+        "count": 3
+      },
+      {
+        "word": "공천헌금",
+        "count": 2
+      },
+      {
+        "word": "개월",
+        "count": 2
+      },
+      {
+        "word": "법정구속",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "강경화",
+        "count": 2
+      },
+      {
+        "word": "불의의",
+        "count": 2
+      },
+      {
+        "word": "사고",
+        "count": 2
+      },
+      {
+        "word": "아냐",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "시간",
+        "count": 2
+      },
+      {
+        "word": "같은",
+        "count": 2
+      },
+      {
+        "word": "선수",
+        "count": 1
+      },
+      {
+        "word": "활동",
+        "count": 1
+      },
+      {
+        "word": "중단",
+        "count": 1
+      }
+    ]
   }
 }
