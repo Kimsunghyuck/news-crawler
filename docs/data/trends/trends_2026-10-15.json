@@ -1,174 +1,174 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T15:13:34.593261+09:00",
+  "generated_at": "2026-10-15T19:15:11.609561+09:00",
   "daily_top_keywords": [
+    {
+      "word": "도움",
+      "count": 10
+    },
+    {
+      "word": "만에",
+      "count": 9
+    },
+    {
+      "word": "손흥민",
+      "count": 8
+    },
+    {
+      "word": "경기",
+      "count": 7
+    },
+    {
+      "word": "승리",
+      "count": 6
+    },
+    {
+      "word": "한국",
+      "count": 5
+    },
+    {
+      "word": "징역",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "특검",
+      "count": 4
+    },
     {
       "word": "전환",
       "count": 4
     },
     {
-      "word": "만에",
+      "word": "트럼프",
       "count": 4
     },
     {
-      "word": "징역",
-      "count": 3
+      "word": "다저스",
+      "count": 4
     },
     {
-      "word": "특검",
-      "count": 3
+      "word": "관리비",
+      "count": 4
     },
     {
-      "word": "전작권",
-      "count": 3
+      "word": "지도부",
+      "count": 4
     },
     {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "공습",
-      "count": 3
-    },
-    {
-      "word": "승리",
-      "count": 3
-    },
-    {
-      "word": "손흥민",
-      "count": 3
-    },
-    {
-      "word": "경기",
-      "count": 3
-    },
-    {
-      "word": "도움",
-      "count": 3
+      "word": "장동혁",
+      "count": 4
     },
     {
       "word": "바꾼",
-      "count": 2
+      "count": 3
     },
     {
       "word": "결국",
-      "count": 2
+      "count": 3
+    },
+    {
+      "word": "사진",
+      "count": 3
+    },
+    {
+      "word": "오세훈",
+      "count": 3
     },
     {
       "word": "아냐",
-      "count": 2
-    },
-    {
-      "word": "나서",
-      "count": 2
-    },
-    {
-      "word": "허위",
-      "count": 2
-    },
-    {
-      "word": "개월",
-      "count": 2
-    },
-    {
-      "word": "장모",
-      "count": 2
-    },
-    {
-      "word": "유기",
-      "count": 2
-    },
-    {
-      "word": "조재복",
-      "count": 2
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "관리비",
-        "count": 2
+        "count": 4
       },
       {
         "word": "지도부",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "추미애",
-        "count": 2
+        "word": "장동혁",
+        "count": 4
       },
       {
-        "word": "골치",
-        "count": 2
+        "word": "가장",
+        "count": 3
       },
       {
-        "word": "아픈",
-        "count": 2
+        "word": "국힘",
+        "count": 3
       }
     ],
     "sports": [
       {
+        "word": "도움",
+        "count": 8
+      },
+      {
         "word": "손흥민",
-        "count": 3
+        "count": 7
       },
       {
         "word": "경기",
-        "count": 3
+        "count": 7
       },
       {
-        "word": "도움",
-        "count": 3
+        "word": "만에",
+        "count": 5
       },
       {
-        "word": "폭발",
-        "count": 2
-      },
-      {
-        "word": "레알",
-        "count": 2
+        "word": "승리",
+        "count": 5
       }
     ],
     "economy": [
       {
         "word": "로봇",
-        "count": 2
+        "count": 3
       },
       {
         "word": "검은",
-        "count": 2
+        "count": 3
       },
       {
         "word": "목요일",
-        "count": 2
+        "count": 3
       },
       {
         "word": "만닉스",
-        "count": 2
+        "count": 3
       },
       {
         "word": "깨졌다",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "징역",
-        "count": 3
+        "count": 4
       },
       {
         "word": "결국",
-        "count": 2
+        "count": 3
       },
       {
         "word": "특검",
+        "count": 3
+      },
+      {
+        "word": "오늘의",
         "count": 2
       },
       {
-        "word": "장모",
-        "count": 2
-      },
-      {
-        "word": "유기",
+        "word": "운세",
         "count": 2
       }
     ],
@@ -178,42 +178,42 @@
         "count": 4
       },
       {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
         "word": "전작권",
         "count": 3
       },
       {
-        "word": "조건",
-        "count": 2
+        "word": "대변인",
+        "count": 3
       },
       {
-        "word": "변해",
-        "count": 2
-      },
-      {
-        "word": "트럼프",
-        "count": 2
+        "word": "일부",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "활동",
-        "count": 2
+        "count": 3
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 3
       },
       {
         "word": "유묵",
-        "count": 2
+        "count": 3
       },
       {
         "word": "유홍준",
-        "count": 2
+        "count": 3
       },
       {
         "word": "솔비",
-        "count": 1
+        "count": 2
       }
     ]
   }
