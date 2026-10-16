@@ -1,13 +1,220 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T09:41:18.938567+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-10-16T15:12:39.781649+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "추미애",
+      "count": 5
+    },
+    {
+      "word": "발언",
+      "count": 5
+    },
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "빨대",
+      "count": 4
+    },
+    {
+      "word": "소방관",
+      "count": 4
+    },
+    {
+      "word": "재정",
+      "count": 3
+    },
+    {
+      "word": "부천",
+      "count": 3
+    },
+    {
+      "word": "심정지",
+      "count": 3
+    },
+    {
+      "word": "소방",
+      "count": 3
+    },
+    {
+      "word": "세계",
+      "count": 3
+    },
+    {
+      "word": "배우",
+      "count": 3
+    },
+    {
+      "word": "우크라",
+      "count": 3
+    },
+    {
+      "word": "드론",
+      "count": 3
+    },
+    {
+      "word": "전략",
+      "count": 3
+    },
+    {
+      "word": "이유",
+      "count": 3
+    },
+    {
+      "word": "도움",
+      "count": 3
+    },
+    {
+      "word": "공장",
+      "count": 2
+    },
+    {
+      "word": "찾은",
+      "count": 2
+    },
+    {
+      "word": "지원",
+      "count": 2
+    },
+    {
+      "word": "부상",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "총선",
+        "count": 2
+      },
+      {
+        "word": "당선돼야",
+        "count": 2
+      },
+      {
+        "word": "조희대",
+        "count": 2
+      },
+      {
+        "word": "탄핵",
+        "count": 2
+      },
+      {
+        "word": "중앙대",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "도움",
+        "count": 3
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "다저스",
+        "count": 2
+      },
+      {
+        "word": "월드시리즈",
+        "count": 2
+      },
+      {
+        "word": "밀워키에",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "전략",
+        "count": 3
+      },
+      {
+        "word": "삼전",
+        "count": 2
+      },
+      {
+        "word": "하닉",
+        "count": 2
+      },
+      {
+        "word": "하나는",
+        "count": 2
+      },
+      {
+        "word": "빠진다",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "추미애",
+        "count": 4
+      },
+      {
+        "word": "빨대",
+        "count": 3
+      },
+      {
+        "word": "발언",
+        "count": 3
+      },
+      {
+        "word": "부천",
+        "count": 3
+      },
+      {
+        "word": "소방관",
+        "count": 3
+      }
+    ],
+    "international": [
+      {
+        "word": "우크라",
+        "count": 3
+      },
+      {
+        "word": "드론",
+        "count": 3
+      },
+      {
+        "word": "황당",
+        "count": 2
+      },
+      {
+        "word": "주장",
+        "count": 2
+      },
+      {
+        "word": "결과",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "배우",
+        "count": 2
+      },
+      {
+        "word": "의사",
+        "count": 2
+      },
+      {
+        "word": "시간",
+        "count": 2
+      },
+      {
+        "word": "결혼",
+        "count": 2
+      },
+      {
+        "word": "다시",
+        "count": 2
+      }
+    ]
   }
 }
