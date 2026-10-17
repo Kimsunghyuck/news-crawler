@@ -1,219 +1,219 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T15:12:53.839846+09:00",
+  "generated_at": "2026-10-17T19:14:21.115027+09:00",
   "daily_top_keywords": [
     {
-      "word": "백악관",
-      "count": 5
+      "word": "시간",
+      "count": 8
     },
     {
-      "word": "시간",
-      "count": 4
+      "word": "백악관",
+      "count": 7
     },
     {
       "word": "만에",
-      "count": 4
-    },
-    {
-      "word": "대변인",
-      "count": 4
+      "count": 6
     },
     {
       "word": "순직",
-      "count": 3
-    },
-    {
-      "word": "변호사",
-      "count": 3
-    },
-    {
-      "word": "경질",
-      "count": 3
-    },
-    {
-      "word": "화장실",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "정부",
-      "count": 3
-    },
-    {
-      "word": "찾은",
-      "count": 2
-    },
-    {
-      "word": "두고",
-      "count": 2
-    },
-    {
-      "word": "김진석",
-      "count": 2
-    },
-    {
-      "word": "소방위",
-      "count": 2
-    },
-    {
-      "word": "수수",
-      "count": 2
-    },
-    {
-      "word": "최고",
-      "count": 2
-    },
-    {
-      "word": "소방관",
-      "count": 2
+      "count": 5
     },
     {
       "word": "추미애",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "화재",
-      "count": 2
+      "word": "변호사",
+      "count": 5
+    },
+    {
+      "word": "대변인",
+      "count": 5
+    },
+    {
+      "word": "경질",
+      "count": 5
+    },
+    {
+      "word": "정부",
+      "count": 5
     },
     {
       "word": "사칭",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "초고속",
+      "count": 4
+    },
+    {
+      "word": "화장실",
+      "count": 4
+    },
+    {
+      "word": "터진",
+      "count": 4
+    },
+    {
+      "word": "김도영",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "의사",
+      "count": 4
+    },
+    {
+      "word": "찾은",
+      "count": 3
+    },
+    {
+      "word": "두고",
+      "count": 3
+    },
+    {
+      "word": "김진석",
+      "count": 3
+    },
+    {
+      "word": "소방위",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "추미애",
+        "count": 4
+      },
+      {
+        "word": "국힘",
+        "count": 4
+      },
+      {
+        "word": "순직",
+        "count": 4
+      },
+      {
+        "word": "장동혁",
+        "count": 3
+      },
+      {
         "word": "정부",
-        "count": 2
-      },
-      {
-        "word": "다카이치",
-        "count": 2
-      },
-      {
-        "word": "야스쿠니",
-        "count": 2
-      },
-      {
-        "word": "봉납에",
-        "count": 2
-      },
-      {
-        "word": "유감",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "강행",
-        "count": 2
-      },
-      {
-        "word": "실격",
-        "count": 2
-      },
-      {
-        "word": "정성숙",
-        "count": 2
-      },
-      {
-        "word": "감독",
-        "count": 2
+        "word": "김도영",
+        "count": 4
       },
       {
         "word": "골든글러브",
+        "count": 3
+      },
+      {
+        "word": "후보",
+        "count": 3
+      },
+      {
+        "word": "전국체전",
+        "count": 3
+      },
+      {
+        "word": "이강인",
         "count": 2
       }
     ],
     "economy": [
       {
-        "word": "만원",
+        "word": "기업",
         "count": 2
       },
       {
-        "word": "기업",
-        "count": 1
-      },
-      {
         "word": "몰빵해",
-        "count": 1
+        "count": 2
       },
       {
         "word": "수익",
-        "count": 1
+        "count": 2
       },
       {
         "word": "반도체",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "뜻밖",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "시간",
-        "count": 2
+        "count": 3
       },
       {
         "word": "찾은",
-        "count": 2
+        "count": 3
       },
       {
         "word": "수수",
-        "count": 2
+        "count": 3
       },
       {
         "word": "부모님",
-        "count": 1
+        "count": 2
       },
       {
         "word": "돌아가셔도",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "백악관",
+        "count": 7
+      },
+      {
+        "word": "변호사",
         "count": 5
       },
       {
         "word": "대변인",
-        "count": 4
-      },
-      {
-        "word": "변호사",
-        "count": 3
+        "count": 5
       },
       {
         "word": "만에",
-        "count": 3
+        "count": 5
       },
       {
         "word": "경질",
-        "count": 3
+        "count": 5
       }
     ],
     "culture": [
       {
         "word": "의사",
-        "count": 2
+        "count": 4
       },
       {
         "word": "시간",
-        "count": 2
-      },
-      {
-        "word": "오늘의",
-        "count": 2
-      },
-      {
-        "word": "운세",
-        "count": 2
+        "count": 4
       },
       {
         "word": "한국",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "신작",
+        "count": 2
+      },
+      {
+        "word": "년치",
+        "count": 2
       }
     ]
   }
