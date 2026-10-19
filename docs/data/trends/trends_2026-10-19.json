@@ -1,13 +1,220 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T09:44:32.592748+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-10-19T15:23:04.825303+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "최고",
+      "count": 3
+    },
+    {
+      "word": "해외",
+      "count": 3
+    },
+    {
+      "word": "사건",
+      "count": 2
+    },
+    {
+      "word": "지하철",
+      "count": 2
+    },
+    {
+      "word": "혼잡도",
+      "count": 2
+    },
+    {
+      "word": "경기",
+      "count": 2
+    },
+    {
+      "word": "길고양이",
+      "count": 2
+    },
+    {
+      "word": "여수서",
+      "count": 2
+    },
+    {
+      "word": "잇따라",
+      "count": 2
+    },
+    {
+      "word": "경찰",
+      "count": 2
+    },
+    {
+      "word": "만원",
+      "count": 2
+    },
+    {
+      "word": "다시",
+      "count": 2
+    },
+    {
+      "word": "경쟁",
+      "count": 2
+    },
+    {
+      "word": "넘어",
+      "count": 2
+    },
+    {
+      "word": "감독",
+      "count": 2
+    },
+    {
+      "word": "만나",
+      "count": 2
+    },
+    {
+      "word": "시대",
+      "count": 2
+    },
+    {
+      "word": "국힘",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "김혜경",
+        "count": 2
+      },
+      {
+        "word": "여사",
+        "count": 2
+      },
+      {
+        "word": "특별감찰관",
+        "count": 1
+      },
+      {
+        "word": "인선",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "감독",
+        "count": 2
+      },
+      {
+        "word": "최고",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "안세영",
+        "count": 1
+      },
+      {
+        "word": "국제대회",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "해외",
+        "count": 2
+      },
+      {
+        "word": "정기예금",
+        "count": 1
+      },
+      {
+        "word": "발행어음",
+        "count": 1
+      },
+      {
+        "word": "고금리",
+        "count": 1
+      },
+      {
+        "word": "상품",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "혼잡도",
+        "count": 2
+      },
+      {
+        "word": "길고양이",
+        "count": 2
+      },
+      {
+        "word": "여수서",
+        "count": 2
+      },
+      {
+        "word": "잇따라",
+        "count": 2
+      },
+      {
+        "word": "경찰",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "하노이에",
+        "count": 1
+      },
+      {
+        "word": "북한군",
+        "count": 1
+      },
+      {
+        "word": "참전",
+        "count": 1
+      },
+      {
+        "word": "동상",
+        "count": 1
+      },
+      {
+        "word": "뒤에는",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "최민식",
+        "count": 1
+      },
+      {
+        "word": "박해일",
+        "count": 1
+      },
+      {
+        "word": "변요한",
+        "count": 1
+      },
+      {
+        "word": "추석",
+        "count": 1
+      },
+      {
+        "word": "극장가",
+        "count": 1
+      }
+    ]
   }
 }
