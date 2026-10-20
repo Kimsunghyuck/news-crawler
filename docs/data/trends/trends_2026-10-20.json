@@ -1,219 +1,219 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T15:20:12.729214+09:00",
+  "generated_at": "2026-10-20T19:16:11.897720+09:00",
   "daily_top_keywords": [
     {
-      "word": "부승찬",
+      "word": "같은",
+      "count": 4
+    },
+    {
+      "word": "사과",
+      "count": 4
+    },
+    {
+      "word": "사망",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "시간",
+      "count": 4
+    },
+    {
+      "word": "우승",
+      "count": 4
+    },
+    {
+      "word": "월드시리즈",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "일부",
+      "count": 4
+    },
+    {
+      "word": "철수",
+      "count": 4
+    },
+    {
+      "word": "역삼동",
+      "count": 3
+    },
+    {
+      "word": "화재",
+      "count": 3
+    },
+    {
+      "word": "여명",
+      "count": 3
+    },
+    {
+      "word": "발언",
       "count": 3
     },
     {
       "word": "서울",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "개월",
-      "count": 2
-    },
-    {
-      "word": "숨지게",
-      "count": 2
-    },
-    {
-      "word": "년만에",
-      "count": 2
-    },
-    {
-      "word": "정부",
-      "count": 2
-    },
-    {
-      "word": "만원",
-      "count": 2
-    },
-    {
-      "word": "여성",
-      "count": 2
-    },
-    {
-      "word": "공급",
-      "count": 2
-    },
-    {
-      "word": "소방",
-      "count": 2
+      "word": "추미애",
+      "count": 3
     },
     {
       "word": "재정",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "공관원",
-      "count": 2
+      "word": "개월",
+      "count": 3
     },
     {
-      "word": "일부",
-      "count": 2
+      "word": "년만에",
+      "count": 3
     },
     {
-      "word": "철수",
-      "count": 2
-    },
-    {
-      "word": "시간",
-      "count": 2
-    },
-    {
-      "word": "년간",
-      "count": 2
-    },
-    {
-      "word": "직접",
-      "count": 2
-    },
-    {
-      "word": "역삼동",
-      "count": 1
-    },
-    {
-      "word": "건물",
-      "count": 1
-    },
-    {
-      "word": "화재",
-      "count": 1
+      "word": "민주당",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "부승찬",
-        "count": 3
+        "word": "일부",
+        "count": 4
       },
       {
-        "word": "소방",
-        "count": 2
-      },
-      {
-        "word": "재정",
-        "count": 2
+        "word": "철수",
+        "count": 4
       },
       {
         "word": "공관원",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "일부",
-        "count": 2
+        "word": "조치",
+        "count": 3
+      },
+      {
+        "word": "부승찬",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "대표팀",
-        "count": 1
+        "word": "우승",
+        "count": 4
       },
       {
-        "word": "무단",
-        "count": 1
+        "word": "월드시리즈",
+        "count": 4
       },
       {
-        "word": "이탈",
-        "count": 1
+        "word": "육상",
+        "count": 2
       },
       {
-        "word": "호날두",
-        "count": 1
+        "word": "연속",
+        "count": 2
       },
       {
-        "word": "솜방망이",
-        "count": 1
+        "word": "탬파베이",
+        "count": 2
       }
     ],
     "economy": [
       {
+        "word": "시간",
+        "count": 2
+      },
+      {
         "word": "전쟁에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "무기",
-        "count": 1
+        "count": 2
       },
       {
         "word": "수요",
-        "count": 1
+        "count": 2
       },
       {
         "word": "늘었는데",
-        "count": 1
-      },
-      {
-        "word": "방산주",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "서울",
-        "count": 2
-      },
-      {
-        "word": "개월",
-        "count": 2
-      },
-      {
-        "word": "숨지게",
-        "count": 2
-      },
-      {
         "word": "역삼동",
-        "count": 1
+        "count": 3
       },
       {
-        "word": "건물",
-        "count": 1
+        "word": "화재",
+        "count": 3
+      },
+      {
+        "word": "사과",
+        "count": 3
+      },
+      {
+        "word": "같은",
+        "count": 2
+      },
+      {
+        "word": "방화",
+        "count": 2
       }
     ],
     "international": [
       {
+        "word": "사망",
+        "count": 3
+      },
+      {
+        "word": "정부",
+        "count": 2
+      },
+      {
         "word": "트럼프와",
-        "count": 1
+        "count": 2
       },
       {
         "word": "골프",
-        "count": 1
-      },
-      {
-        "word": "친다면",
-        "count": 1
-      },
-      {
-        "word": "유력",
-        "count": 1
+        "count": 2
       },
       {
         "word": "후보지는",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
       },
       {
         "word": "추석",
-        "count": 1
+        "count": 2
       },
       {
         "word": "극장가",
-        "count": 1
+        "count": 2
       }
     ]
   }
