@@ -1,114 +1,118 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T15:14:11.745699+09:00",
+  "generated_at": "2026-10-21T19:22:33.070371+09:00",
   "daily_top_keywords": [
     {
       "word": "사망",
-      "count": 5
+      "count": 7
     },
     {
       "word": "특검",
-      "count": 3
+      "count": 4
     },
     {
       "word": "정의용",
-      "count": 3
+      "count": 4
     },
     {
       "word": "서훈",
-      "count": 3
+      "count": 4
     },
     {
       "word": "징역형",
-      "count": 3
+      "count": 4
     },
     {
       "word": "집유",
-      "count": 3
-    },
-    {
-      "word": "이강인",
-      "count": 3
-    },
-    {
-      "word": "직원",
-      "count": 2
-    },
-    {
-      "word": "전쟁",
-      "count": 2
-    },
-    {
-      "word": "약속",
-      "count": 2
-    },
-    {
-      "word": "무죄",
-      "count": 2
-    },
-    {
-      "word": "탈북어민",
-      "count": 2
-    },
-    {
-      "word": "강제북송",
-      "count": 2
-    },
-    {
-      "word": "심서",
-      "count": 2
-    },
-    {
-      "word": "카일",
-      "count": 2
-    },
-    {
-      "word": "아들",
-      "count": 2
+      "count": 4
     },
     {
       "word": "프랑스",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "중수청장",
-      "count": 2
+      "word": "없었다",
+      "count": 4
     },
     {
-      "word": "배석",
-      "count": 2
+      "word": "투자",
+      "count": 4
     },
     {
-      "word": "개인",
-      "count": 2
+      "word": "직원",
+      "count": 3
+    },
+    {
+      "word": "전쟁",
+      "count": 3
+    },
+    {
+      "word": "징역",
+      "count": 3
+    },
+    {
+      "word": "시간",
+      "count": 3
+    },
+    {
+      "word": "카일",
+      "count": 3
+    },
+    {
+      "word": "아들",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "사전",
+      "count": 3
+    },
+    {
+      "word": "젤렌스키",
+      "count": 3
+    },
+    {
+      "word": "조희대",
+      "count": 3
+    },
+    {
+      "word": "국조",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "중수청장",
-        "count": 2
+        "word": "조희대",
+        "count": 3
       },
       {
-        "word": "배석",
-        "count": 2
+        "word": "국조",
+        "count": 3
       },
       {
         "word": "장동혁",
-        "count": 1
+        "count": 2
       },
       {
         "word": "욕설",
-        "count": 1
+        "count": 2
       },
       {
         "word": "녹취",
-        "count": 1
+        "count": 2
       }
     ],
     "sports": [
       {
         "word": "이강인",
+        "count": 3
+      },
+      {
+        "word": "우승",
         "count": 3
       },
       {
@@ -122,98 +126,94 @@
       {
         "word": "무승부",
         "count": 2
-      },
-      {
-        "word": "시즌",
-        "count": 2
       }
     ],
     "economy": [
       {
         "word": "투자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "젠슨",
-        "count": 1
+        "count": 2
       },
       {
         "word": "으로",
-        "count": 1
+        "count": 2
       },
       {
         "word": "기업",
-        "count": 1
+        "count": 2
       },
       {
         "word": "선별",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "특검",
-        "count": 2
-      },
-      {
         "word": "정의용",
-        "count": 2
+        "count": 3
       },
       {
         "word": "서훈",
-        "count": 2
+        "count": 3
       },
       {
         "word": "징역형",
-        "count": 2
+        "count": 3
       },
       {
         "word": "집유",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "징역",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "사망",
-        "count": 3
+        "count": 4
       },
       {
         "word": "카일",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "젤렌스키",
+        "count": 3
       },
       {
         "word": "케네디가",
-        "count": 1
-      },
-      {
-        "word": "저주",
-        "count": 1
-      },
-      {
-        "word": "인가",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "작가",
-        "count": 2
-      },
-      {
-        "word": "듀오",
-        "count": 2
-      },
-      {
-        "word": "스튜디오",
-        "count": 2
-      },
-      {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "변요한",
+        "count": 2
+      },
+      {
+        "word": "추석",
+        "count": 2
+      },
+      {
+        "word": "극장가",
+        "count": 2
       }
     ]
   }
