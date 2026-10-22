@@ -1,153 +1,153 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T15:13:18.523968+09:00",
+  "generated_at": "2026-10-22T19:14:40.983396+09:00",
   "daily_top_keywords": [
+    {
+      "word": "한국",
+      "count": 6
+    },
+    {
+      "word": "중수청",
+      "count": 6
+    },
+    {
+      "word": "시간",
+      "count": 5
+    },
+    {
+      "word": "세계",
+      "count": 5
+    },
+    {
+      "word": "전국체전",
+      "count": 5
+    },
     {
       "word": "심도",
       "count": 4
     },
     {
-      "word": "중수청",
+      "word": "징역",
       "count": 4
     },
     {
-      "word": "세계",
+      "word": "공격",
+      "count": 4
+    },
+    {
+      "word": "무슨",
+      "count": 4
+    },
+    {
+      "word": "결국",
+      "count": 4
+    },
+    {
+      "word": "지휘감독",
+      "count": 4
+    },
+    {
+      "word": "매출",
+      "count": 4
+    },
+    {
+      "word": "유럽",
+      "count": 4
+    },
+    {
+      "word": "관왕",
+      "count": 4
+    },
+    {
+      "word": "여서정",
+      "count": 4
+    },
+    {
+      "word": "잠실구장",
+      "count": 4
+    },
+    {
+      "word": "라스트",
+      "count": 4
+    },
+    {
+      "word": "부캉이",
+      "count": 3
+    },
+    {
+      "word": "만에",
       "count": 3
     },
     {
       "word": "아들",
       "count": 3
-    },
-    {
-      "word": "징역",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "지휘감독",
-      "count": 3
-    },
-    {
-      "word": "로또",
-      "count": 2
-    },
-    {
-      "word": "부캉이",
-      "count": 2
-    },
-    {
-      "word": "공소청",
-      "count": 2
-    },
-    {
-      "word": "나나",
-      "count": 2
-    },
-    {
-      "word": "모녀",
-      "count": 2
-    },
-    {
-      "word": "강도상해",
-      "count": 2
-    },
-    {
-      "word": "남성",
-      "count": 2
-    },
-    {
-      "word": "피해",
-      "count": 2
-    },
-    {
-      "word": "무슨",
-      "count": 2
-    },
-    {
-      "word": "결국",
-      "count": 2
-    },
-    {
-      "word": "공격",
-      "count": 2
-    },
-    {
-      "word": "웹사이트",
-      "count": 2
-    },
-    {
-      "word": "보안",
-      "count": 2
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "중수청",
-        "count": 4
+        "count": 6
       },
       {
         "word": "지휘감독",
-        "count": 3
-      },
-      {
-        "word": "포기하는",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "포기탄핵",
         "count": 2
       },
       {
-        "word": "탄핵사유",
+        "word": "사유이자",
         "count": 2
       }
     ],
     "sports": [
       {
-        "word": "잠실구장",
-        "count": 2
+        "word": "전국체전",
+        "count": 5
       },
       {
         "word": "유럽",
-        "count": 2
-      },
-      {
-        "word": "라스트",
-        "count": 2
-      },
-      {
-        "word": "출전",
-        "count": 2
+        "count": 4
       },
       {
         "word": "관왕",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "여서정",
+        "count": 4
+      },
+      {
+        "word": "잠실구장",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "한국",
-        "count": 1
+        "count": 3
       },
       {
-        "word": "미래다",
-        "count": 1
+        "word": "금융",
+        "count": 2
       },
       {
-        "word": "불타는",
-        "count": 1
+        "word": "자산가",
+        "count": 2
       },
       {
-        "word": "프랑스가",
-        "count": 1
+        "word": "예금",
+        "count": 2
       },
       {
-        "word": "보낸",
-        "count": 1
+        "word": "빼서",
+        "count": 2
       }
     ],
     "society": [
@@ -160,60 +160,60 @@
         "count": 3
       },
       {
-        "word": "나나",
+        "word": "부캉이",
         "count": 2
       },
       {
-        "word": "모녀",
+        "word": "갑질",
         "count": 2
       },
       {
-        "word": "강도상해",
+        "word": "피해로",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "공격",
+        "count": 4
+      },
+      {
+        "word": "사우디",
+        "count": 3
+      },
+      {
+        "word": "후티",
         "count": 2
       },
       {
-        "word": "비즈니스석",
-        "count": 1
+        "word": "반군에",
+        "count": 2
       },
       {
-        "word": "몰래",
-        "count": 1
-      },
-      {
-        "word": "앉았다",
-        "count": 1
-      },
-      {
-        "word": "들키자",
-        "count": 1
+        "word": "주재",
+        "count": 2
       }
     ],
     "culture": [
       {
-        "word": "중국산이냐",
-        "count": 1
+        "word": "처음",
+        "count": 3
       },
       {
-        "word": "묻자",
-        "count": 1
+        "word": "최민식",
+        "count": 2
       },
       {
-        "word": "차단",
-        "count": 1
+        "word": "박해일",
+        "count": 2
       },
       {
-        "word": "개그맨",
-        "count": 1
+        "word": "변요한",
+        "count": 2
       },
       {
-        "word": "김수영",
-        "count": 1
+        "word": "추석",
+        "count": 2
       }
     ]
   }
