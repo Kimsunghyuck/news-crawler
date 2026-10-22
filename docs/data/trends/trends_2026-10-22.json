@@ -1,13 +1,220 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T09:41:38.688971+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-10-22T15:13:18.523968+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "심도",
+      "count": 4
+    },
+    {
+      "word": "중수청",
+      "count": 4
+    },
+    {
+      "word": "세계",
+      "count": 3
+    },
+    {
+      "word": "아들",
+      "count": 3
+    },
+    {
+      "word": "징역",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "지휘감독",
+      "count": 3
+    },
+    {
+      "word": "로또",
+      "count": 2
+    },
+    {
+      "word": "부캉이",
+      "count": 2
+    },
+    {
+      "word": "공소청",
+      "count": 2
+    },
+    {
+      "word": "나나",
+      "count": 2
+    },
+    {
+      "word": "모녀",
+      "count": 2
+    },
+    {
+      "word": "강도상해",
+      "count": 2
+    },
+    {
+      "word": "남성",
+      "count": 2
+    },
+    {
+      "word": "피해",
+      "count": 2
+    },
+    {
+      "word": "무슨",
+      "count": 2
+    },
+    {
+      "word": "결국",
+      "count": 2
+    },
+    {
+      "word": "공격",
+      "count": 2
+    },
+    {
+      "word": "웹사이트",
+      "count": 2
+    },
+    {
+      "word": "보안",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "중수청",
+        "count": 4
+      },
+      {
+        "word": "지휘감독",
+        "count": 3
+      },
+      {
+        "word": "포기하는",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "탄핵사유",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "잠실구장",
+        "count": 2
+      },
+      {
+        "word": "유럽",
+        "count": 2
+      },
+      {
+        "word": "라스트",
+        "count": 2
+      },
+      {
+        "word": "출전",
+        "count": 2
+      },
+      {
+        "word": "관왕",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "한국",
+        "count": 1
+      },
+      {
+        "word": "미래다",
+        "count": 1
+      },
+      {
+        "word": "불타는",
+        "count": 1
+      },
+      {
+        "word": "프랑스가",
+        "count": 1
+      },
+      {
+        "word": "보낸",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "심도",
+        "count": 4
+      },
+      {
+        "word": "징역",
+        "count": 3
+      },
+      {
+        "word": "나나",
+        "count": 2
+      },
+      {
+        "word": "모녀",
+        "count": 2
+      },
+      {
+        "word": "강도상해",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "공격",
+        "count": 2
+      },
+      {
+        "word": "비즈니스석",
+        "count": 1
+      },
+      {
+        "word": "몰래",
+        "count": 1
+      },
+      {
+        "word": "앉았다",
+        "count": 1
+      },
+      {
+        "word": "들키자",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "중국산이냐",
+        "count": 1
+      },
+      {
+        "word": "묻자",
+        "count": 1
+      },
+      {
+        "word": "차단",
+        "count": 1
+      },
+      {
+        "word": "개그맨",
+        "count": 1
+      },
+      {
+        "word": "김수영",
+        "count": 1
+      }
+    ]
   }
 }
