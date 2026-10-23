@@ -1,17 +1,41 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T15:13:10.943867+09:00",
+  "generated_at": "2026-10-23T19:17:12.358560+09:00",
   "daily_top_keywords": [
     {
       "word": "한국",
-      "count": 5
+      "count": 10
     },
     {
       "word": "만에",
-      "count": 5
+      "count": 10
     },
     {
       "word": "오세훈",
+      "count": 8
+    },
+    {
+      "word": "결혼",
+      "count": 6
+    },
+    {
+      "word": "감독",
+      "count": 5
+    },
+    {
+      "word": "무죄",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "있나",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
       "count": 4
     },
     {
@@ -19,72 +43,52 @@
       "count": 4
     },
     {
-      "word": "대통령",
+      "word": "모델",
       "count": 4
     },
     {
-      "word": "결혼",
-      "count": 3
+      "word": "최소",
+      "count": 4
     },
     {
-      "word": "만원",
-      "count": 3
+      "word": "보안",
+      "count": 4
     },
     {
-      "word": "무죄",
-      "count": 3
+      "word": "일본",
+      "count": 4
     },
     {
-      "word": "트럼프",
-      "count": 3
+      "word": "요미우리",
+      "count": 4
     },
     {
-      "word": "지뢰",
-      "count": 3
+      "word": "고질라",
+      "count": 4
     },
     {
-      "word": "감독",
-      "count": 3
+      "word": "마쓰이",
+      "count": 4
     },
     {
       "word": "남자",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "번다",
-      "count": 2
+      "word": "탁구",
+      "count": 4
     },
     {
-      "word": "세계",
-      "count": 2
-    },
-    {
-      "word": "국제학교",
-      "count": 2
-    },
-    {
-      "word": "아기",
-      "count": 2
-    },
-    {
-      "word": "보니",
-      "count": 2
-    },
-    {
-      "word": "나라",
-      "count": 2
-    },
-    {
-      "word": "요구",
-      "count": 2
-    },
-    {
-      "word": "공격",
-      "count": 2
+      "word": "대통령",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
+      {
+        "word": "오세훈",
+        "count": 4
+      },
       {
         "word": "대통령",
         "count": 4
@@ -94,126 +98,122 @@
         "count": 3
       },
       {
-        "word": "오세훈",
-        "count": 2
-      },
-      {
-        "word": "무죄",
-        "count": 2
-      },
-      {
         "word": "지지율",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "탄핵",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "감독",
-        "count": 2
+        "word": "한국",
+        "count": 5
       },
       {
-        "word": "한국",
-        "count": 2
+        "word": "감독",
+        "count": 4
       },
       {
         "word": "일본",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "매치",
-        "count": 2
+        "word": "요미우리",
+        "count": 4
       },
       {
-        "word": "남자",
-        "count": 2
+        "word": "고질라",
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "최소",
-        "count": 2
+        "count": 4
       },
       {
         "word": "보안",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "기업",
+        "count": 3
+      },
+      {
+        "word": "매출",
+        "count": 3
       },
       {
         "word": "천당",
-        "count": 1
-      },
-      {
-        "word": "분당",
-        "count": 1
-      },
-      {
-        "word": "억은",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "오세훈",
-        "count": 2
+        "count": 3
       },
       {
         "word": "황정음",
-        "count": 1
+        "count": 2
       },
       {
         "word": "이혼하는",
-        "count": 1
+        "count": 2
       },
       {
         "word": "데만",
-        "count": 1
+        "count": 2
       },
       {
         "word": "걸렸다",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
+      {
+        "word": "요구",
+        "count": 3
+      },
+      {
+        "word": "공격",
+        "count": 3
+      },
       {
         "word": "트럼프",
         "count": 3
       },
       {
-        "word": "요구",
-        "count": 2
-      },
-      {
-        "word": "공격",
-        "count": 2
-      },
-      {
-        "word": "국가",
-        "count": 2
+        "word": "시위",
+        "count": 3
       },
       {
         "word": "비즈니스석",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "결혼",
-        "count": 2
+        "count": 4
       },
       {
         "word": "서울서",
-        "count": 1
+        "count": 2
       },
       {
         "word": "태어난",
-        "count": 1
+        "count": 2
       },
       {
         "word": "미국인",
-        "count": 1
+        "count": 2
       },
       {
         "word": "아기",
-        "count": 1
+        "count": 2
       }
     ]
   }
