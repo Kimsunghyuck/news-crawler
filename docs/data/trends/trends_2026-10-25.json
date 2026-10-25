@@ -1,219 +1,219 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T15:14:00.705497+09:00",
+  "generated_at": "2026-10-25T19:15:24.370373+09:00",
   "daily_top_keywords": [
     {
       "word": "만에",
-      "count": 4
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "차전",
-      "count": 3
-    },
-    {
-      "word": "시즌",
-      "count": 3
-    },
-    {
-      "word": "불륜",
-      "count": 2
-    },
-    {
-      "word": "반전",
-      "count": 2
-    },
-    {
-      "word": "추미애",
-      "count": 2
-    },
-    {
-      "word": "화형",
-      "count": 2
-    },
-    {
-      "word": "소방",
-      "count": 2
+      "count": 7
     },
     {
       "word": "시간",
-      "count": 2
+      "count": 6
     },
     {
-      "word": "늘어",
-      "count": 2
+      "word": "트럼프",
+      "count": 6
     },
     {
-      "word": "떴다",
-      "count": 2
-    },
-    {
-      "word": "묶고",
-      "count": 2
+      "word": "차전",
+      "count": 6
     },
     {
       "word": "마라톤",
-      "count": 2
-    },
-    {
-      "word": "출전",
-      "count": 2
-    },
-    {
-      "word": "금지",
-      "count": 2
-    },
-    {
-      "word": "드론",
-      "count": 2
-    },
-    {
-      "word": "시위에",
-      "count": 2
-    },
-    {
-      "word": "무능",
-      "count": 2
+      "count": 5
     },
     {
       "word": "오바마",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "무능",
+      "count": 5
+    },
+    {
+      "word": "가능성",
+      "count": 5
+    },
+    {
+      "word": "시즌",
+      "count": 5
+    },
+    {
+      "word": "불륜",
+      "count": 4
+    },
+    {
+      "word": "추미애",
+      "count": 4
+    },
+    {
+      "word": "화형",
+      "count": 4
+    },
+    {
+      "word": "소방",
+      "count": 4
+    },
+    {
+      "word": "싶다",
+      "count": 4
+    },
+    {
+      "word": "떴다",
+      "count": 4
+    },
+    {
+      "word": "묶고",
+      "count": 4
+    },
+    {
+      "word": "출전",
+      "count": 4
+    },
+    {
+      "word": "금지",
+      "count": 4
+    },
+    {
+      "word": "산다",
+      "count": 4
+    },
+    {
+      "word": "다시",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "김민석",
+        "count": 4
+      },
+      {
         "word": "양부남",
-        "count": 2
+        "count": 3
       },
       {
         "word": "압축",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "김정은",
-        "count": 2
+        "word": "세대",
+        "count": 3
       },
       {
-        "word": "주진우",
-        "count": 2
-      },
-      {
-        "word": "결과값",
-        "count": 2
+        "word": "거의",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "차전",
-        "count": 3
+        "count": 6
       },
       {
         "word": "시즌",
-        "count": 3
+        "count": 5
       },
       {
         "word": "취소",
-        "count": 2
+        "count": 4
       },
       {
         "word": "최민정",
-        "count": 2
+        "count": 4
       },
       {
         "word": "쇼트트랙",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "산다",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "삼전닉스",
+        "count": 3
       },
       {
         "word": "결혼식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "돈으로",
-        "count": 1
+        "count": 2
       },
       {
         "word": "종목",
-        "count": 1
-      },
-      {
-        "word": "샀다",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "엄마",
-        "count": 1
+        "count": 2
       },
       {
         "word": "불륜",
-        "count": 1
+        "count": 2
       },
       {
         "word": "목격한",
-        "count": 1
+        "count": 2
       },
       {
         "word": "아들",
-        "count": 1
+        "count": 2
       },
       {
         "word": "남녀",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "오바마",
+        "count": 5
+      },
+      {
+        "word": "무능",
+        "count": 5
       },
       {
         "word": "묶고",
-        "count": 2
+        "count": 4
       },
       {
         "word": "마라톤",
-        "count": 2
-      },
-      {
-        "word": "출전",
-        "count": 2
-      },
-      {
-        "word": "금지",
-        "count": 2
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "서울서",
-        "count": 1
+        "count": 2
       },
       {
         "word": "태어난",
-        "count": 1
+        "count": 2
       },
       {
         "word": "미국인",
-        "count": 1
+        "count": 2
       },
       {
         "word": "아기",
-        "count": 1
+        "count": 2
       },
       {
         "word": "그의",
-        "count": 1
+        "count": 2
       }
     ]
   }
