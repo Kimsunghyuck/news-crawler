@@ -1,219 +1,219 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T15:16:28.998365+09:00",
+  "generated_at": "2026-10-26T19:17:58.227267+09:00",
   "daily_top_keywords": [
     {
+      "word": "롯데",
+      "count": 9
+    },
+    {
+      "word": "시간",
+      "count": 6
+    },
+    {
       "word": "브라질",
+      "count": 6
+    },
+    {
+      "word": "대선",
+      "count": 6
+    },
+    {
+      "word": "이동욱",
+      "count": 6
+    },
+    {
+      "word": "의혹",
       "count": 5
     },
     {
       "word": "룰라",
-      "count": 4
+      "count": 5
     },
     {
       "word": "대통령",
-      "count": 4
+      "count": 5
     },
     {
-      "word": "롯데",
-      "count": 4
+      "word": "이택근",
+      "count": 5
     },
     {
-      "word": "이동욱",
+      "word": "만원",
       "count": 4
     },
     {
       "word": "확정",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "대선",
-      "count": 3
+      "word": "없이",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "호골",
+      "count": 4
     },
     {
       "word": "손흥민",
+      "count": 4
+    },
+    {
+      "word": "사령탑으로",
+      "count": 4
+    },
+    {
+      "word": "결혼",
+      "count": 4
+    },
+    {
+      "word": "중수청장",
       "count": 3
     },
     {
-      "word": "일부",
-      "count": 2
+      "word": "한동훈",
+      "count": 3
     },
     {
-      "word": "받아",
-      "count": 2
-    },
-    {
-      "word": "만원",
-      "count": 2
-    },
-    {
-      "word": "마약",
-      "count": 2
-    },
-    {
-      "word": "바둑",
-      "count": 2
-    },
-    {
-      "word": "밀수",
-      "count": 2
-    },
-    {
-      "word": "검거",
-      "count": 2
-    },
-    {
-      "word": "미스터",
-      "count": 2
-    },
-    {
-      "word": "김치",
-      "count": 2
-    },
-    {
-      "word": "홍콩",
-      "count": 2
-    },
-    {
-      "word": "전쟁",
-      "count": 2
-    },
-    {
-      "word": "시간",
-      "count": 2
+      "word": "필요",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 3
+        "count": 4
       },
       {
         "word": "주진우",
-        "count": 2
+        "count": 3
       },
       {
         "word": "황제",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "골프",
-        "count": 2
+        "word": "민통선",
+        "count": 3
       },
       {
-        "word": "김정은",
-        "count": 2
+        "word": "김현지",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "롯데",
-        "count": 4
+        "count": 8
       },
       {
         "word": "이동욱",
+        "count": 6
+      },
+      {
+        "word": "이택근",
+        "count": 5
+      },
+      {
+        "word": "호골",
         "count": 4
       },
       {
         "word": "손흥민",
-        "count": 3
-      },
-      {
-        "word": "이택근",
-        "count": 2
-      },
-      {
-        "word": "감독",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "주가",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "역대",
-        "count": 2
+        "word": "민간",
+        "count": 3
       },
       {
         "word": "삼전닉스",
-        "count": 1
+        "count": 2
       },
       {
         "word": "없이",
-        "count": 1
+        "count": 2
       },
       {
         "word": "만원",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
+        "word": "중수청장",
+        "count": 3
+      },
+      {
+        "word": "한동훈",
+        "count": 3
+      },
+      {
+        "word": "필요",
+        "count": 3
+      },
+      {
         "word": "마약",
-        "count": 2
-      },
-      {
-        "word": "밀수",
-        "count": 2
-      },
-      {
-        "word": "검거",
-        "count": 2
+        "count": 3
       },
       {
         "word": "남녀",
-        "count": 1
-      },
-      {
-        "word": "숨진",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
+        "word": "대선",
+        "count": 6
+      },
+      {
         "word": "브라질",
-        "count": 4
+        "count": 5
       },
       {
         "word": "룰라",
-        "count": 3
-      },
-      {
-        "word": "대선",
-        "count": 3
+        "count": 4
       },
       {
         "word": "미스터",
-        "count": 2
+        "count": 3
       },
       {
         "word": "김치",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "결혼",
-        "count": 1
+        "count": 4
+      },
+      {
+        "word": "무대",
+        "count": 3
       },
       {
         "word": "일만에",
-        "count": 1
+        "count": 2
       },
       {
         "word": "불륜",
-        "count": 1
+        "count": 2
       },
       {
         "word": "의혹",
-        "count": 1
-      },
-      {
-        "word": "양홍원",
-        "count": 1
+        "count": 2
       }
     ]
   }
