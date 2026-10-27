@@ -1,153 +1,153 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T15:14:23.660514+09:00",
+  "generated_at": "2026-10-27T19:17:19.967690+09:00",
   "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 6
+    },
+    {
+      "word": "롯데",
+      "count": 6
+    },
+    {
+      "word": "밀워키",
+      "count": 6
+    },
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "추가",
+      "count": 5
+    },
+    {
+      "word": "수상",
+      "count": 5
+    },
+    {
+      "word": "이택근",
+      "count": 5
+    },
+    {
+      "word": "단장",
+      "count": 5
+    },
+    {
+      "word": "시간",
+      "count": 5
+    },
+    {
+      "word": "조희대",
+      "count": 5
+    },
+    {
+      "word": "연봉",
+      "count": 4
+    },
+    {
+      "word": "먼저",
+      "count": 4
+    },
+    {
+      "word": "만명",
+      "count": 4
+    },
     {
       "word": "징역",
       "count": 4
     },
     {
-      "word": "수상",
+      "word": "니하오",
       "count": 4
     },
     {
-      "word": "경찰에",
-      "count": 3
-    },
-    {
-      "word": "개월",
-      "count": 3
-    },
-    {
       "word": "케인",
-      "count": 3
+      "count": 4
     },
     {
       "word": "발롱도르",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "만에",
-      "count": 3
+      "word": "최대",
+      "count": 4
     },
     {
-      "word": "롯데",
-      "count": 3
+      "word": "없이",
+      "count": 4
     },
     {
-      "word": "이택근",
-      "count": 3
-    },
-    {
-      "word": "단장",
-      "count": 3
-    },
-    {
-      "word": "감독",
-      "count": 3
-    },
-    {
-      "word": "연봉",
-      "count": 2
-    },
-    {
-      "word": "없었다",
-      "count": 2
-    },
-    {
-      "word": "아내의",
-      "count": 2
-    },
-    {
-      "word": "충격",
-      "count": 2
-    },
-    {
-      "word": "깜짝",
-      "count": 2
-    },
-    {
-      "word": "만원",
-      "count": 2
-    },
-    {
-      "word": "관여",
-      "count": 2
-    },
-    {
-      "word": "의혹",
-      "count": 2
-    },
-    {
-      "word": "오세훈",
-      "count": 2
+      "word": "추진",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "만찬",
-        "count": 2
+        "word": "조희대",
+        "count": 5
       },
       {
-        "word": "조희대",
-        "count": 2
+        "word": "만찬",
+        "count": 3
+      },
+      {
+        "word": "탄핵",
+        "count": 3
       },
       {
         "word": "민통선",
-        "count": 2
+        "count": 3
       },
       {
         "word": "뚫렸다",
-        "count": 2
-      },
-      {
-        "word": "대통령",
-        "count": 1
+        "count": 3
       }
     ],
     "sports": [
       {
+        "word": "밀워키",
+        "count": 6
+      },
+      {
         "word": "롯데",
-        "count": 3
+        "count": 5
       },
       {
         "word": "이택근",
-        "count": 3
+        "count": 5
       },
       {
         "word": "단장",
-        "count": 3
+        "count": 5
       },
       {
         "word": "감독",
-        "count": 3
-      },
-      {
-        "word": "수상",
-        "count": 3
+        "count": 4
       }
     ],
     "economy": [
       {
         "word": "아들",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "기업",
-        "count": 2
-      },
-      {
-        "word": "연체율",
-        "count": 2
+        "word": "만원",
+        "count": 4
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "걱정에",
-        "count": 1
+        "word": "없이",
+        "count": 3
+      },
+      {
+        "word": "근로자",
+        "count": 3
       }
     ],
     "society": [
@@ -156,64 +156,64 @@
         "count": 4
       },
       {
+        "word": "연봉",
+        "count": 3
+      },
+      {
+        "word": "화재",
+        "count": 3
+      },
+      {
+        "word": "시신",
+        "count": 3
+      },
+      {
         "word": "경찰에",
         "count": 3
-      },
-      {
-        "word": "개월",
-        "count": 3
-      },
-      {
-        "word": "연봉",
-        "count": 2
-      },
-      {
-        "word": "잠실",
-        "count": 2
       }
     ],
     "international": [
       {
         "word": "니하오",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "국방부",
-        "count": 2
+        "word": "발칵",
+        "count": 3
+      },
+      {
+        "word": "음바페",
+        "count": 3
+      },
+      {
+        "word": "고객",
+        "count": 3
       },
       {
         "word": "트럼프",
-        "count": 2
-      },
-      {
-        "word": "해변서",
-        "count": 1
-      },
-      {
-        "word": "주운",
-        "count": 1
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "아버지",
-        "count": 1
+        "count": 2
       },
       {
         "word": "홍상수",
-        "count": 1
+        "count": 2
       },
       {
         "word": "보인다",
-        "count": 1
+        "count": 2
       },
       {
         "word": "김민희와",
-        "count": 1
+        "count": 2
       },
       {
         "word": "관왕",
-        "count": 1
+        "count": 2
       }
     ]
   }
