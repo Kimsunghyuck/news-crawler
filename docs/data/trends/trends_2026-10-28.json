@@ -1,13 +1,220 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T09:33:49.137579+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-10-28T15:11:31.683084+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "대선",
+      "count": 3
+    },
+    {
+      "word": "총선",
+      "count": 3
+    },
+    {
+      "word": "분기",
+      "count": 3
+    },
+    {
+      "word": "탬파베이",
+      "count": 3
+    },
+    {
+      "word": "다시",
+      "count": 3
+    },
+    {
+      "word": "전쟁",
+      "count": 3
+    },
+    {
+      "word": "늘었다",
+      "count": 2
+    },
+    {
+      "word": "발칵",
+      "count": 2
+    },
+    {
+      "word": "연봉",
+      "count": 2
+    },
+    {
+      "word": "아시아나",
+      "count": 2
+    },
+    {
+      "word": "기장",
+      "count": 2
+    },
+    {
+      "word": "화장실",
+      "count": 2
+    },
+    {
+      "word": "청소로",
+      "count": 2
+    },
+    {
+      "word": "얼마",
+      "count": 2
+    },
+    {
+      "word": "버나",
+      "count": 2
+    },
+    {
+      "word": "봤더니",
+      "count": 2
+    },
+    {
+      "word": "징역",
+      "count": 2
+    },
+    {
+      "word": "복직",
+      "count": 2
+    },
+    {
+      "word": "확정",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "들어",
+        "count": 2
+      },
+      {
+        "word": "허벅지",
+        "count": 2
+      },
+      {
+        "word": "총선",
+        "count": 2
+      },
+      {
+        "word": "최악의",
+        "count": 2
+      },
+      {
+        "word": "패착",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "탬파베이",
+        "count": 3
+      },
+      {
+        "word": "고종현",
+        "count": 2
+      },
+      {
+        "word": "팔꿈치",
+        "count": 2
+      },
+      {
+        "word": "축구협회",
+        "count": 2
+      },
+      {
+        "word": "오심",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "분기",
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "영업익",
+        "count": 2
+      },
+      {
+        "word": "매출",
+        "count": 2
+      },
+      {
+        "word": "디자이너",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "늘었다",
+        "count": 2
+      },
+      {
+        "word": "연봉",
+        "count": 2
+      },
+      {
+        "word": "아시아나",
+        "count": 2
+      },
+      {
+        "word": "기장",
+        "count": 2
+      },
+      {
+        "word": "화장실",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "대선",
+        "count": 3
+      },
+      {
+        "word": "니하오",
+        "count": 2
+      },
+      {
+        "word": "브라질",
+        "count": 2
+      },
+      {
+        "word": "보우소나루",
+        "count": 2
+      },
+      {
+        "word": "제출",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "전쟁",
+        "count": 3
+      },
+      {
+        "word": "다시",
+        "count": 2
+      },
+      {
+        "word": "아버지",
+        "count": 1
+      },
+      {
+        "word": "홍상수",
+        "count": 1
+      },
+      {
+        "word": "보인다",
+        "count": 1
+      }
+    ]
   }
 }
