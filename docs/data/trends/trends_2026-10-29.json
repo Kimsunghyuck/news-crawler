@@ -1,13 +1,220 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T09:34:59.288966+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-10-29T15:12:25.871570+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "신해철",
+      "count": 3
+    },
+    {
+      "word": "받는다",
+      "count": 3
+    },
+    {
+      "word": "유재석",
+      "count": 3
+    },
+    {
+      "word": "문화훈장",
+      "count": 3
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "역대",
+      "count": 3
+    },
+    {
+      "word": "탄도미사일",
+      "count": 3
+    },
+    {
+      "word": "정체",
+      "count": 3
+    },
+    {
+      "word": "대선",
+      "count": 3
+    },
+    {
+      "word": "보우소나루",
+      "count": 3
+    },
+    {
+      "word": "재발탁",
+      "count": 2
+    },
+    {
+      "word": "재미교포",
+      "count": 2
+    },
+    {
+      "word": "오드리",
+      "count": 2
+    },
+    {
+      "word": "스페인",
+      "count": 2
+    },
+    {
+      "word": "열차",
+      "count": 2
+    },
+    {
+      "word": "드래프트",
+      "count": 2
+    },
+    {
+      "word": "리그",
+      "count": 2
+    },
+    {
+      "word": "니하오",
+      "count": 2
+    },
+    {
+      "word": "미호",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "탄도미사일",
+        "count": 2
+      },
+      {
+        "word": "한미",
+        "count": 2
+      },
+      {
+        "word": "오세훈",
+        "count": 2
+      },
+      {
+        "word": "압승한",
+        "count": 2
+      },
+      {
+        "word": "송파",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "재발탁",
+        "count": 2
+      },
+      {
+        "word": "재미교포",
+        "count": 2
+      },
+      {
+        "word": "오드리",
+        "count": 2
+      },
+      {
+        "word": "드래프트",
+        "count": 2
+      },
+      {
+        "word": "리그",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "삼성전자",
+        "count": 2
+      },
+      {
+        "word": "나스닥으로",
+        "count": 1
+      },
+      {
+        "word": "옮기는",
+        "count": 1
+      },
+      {
+        "word": "까닭은",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "예방",
+        "count": 2
+      },
+      {
+        "word": "검토",
+        "count": 2
+      },
+      {
+        "word": "친구",
+        "count": 2
+      },
+      {
+        "word": "시신이",
+        "count": 2
+      },
+      {
+        "word": "이래",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "대선",
+        "count": 3
+      },
+      {
+        "word": "보우소나루",
+        "count": 3
+      },
+      {
+        "word": "패배",
+        "count": 2
+      },
+      {
+        "word": "야반도주",
+        "count": 2
+      },
+      {
+        "word": "이시바",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "신해철",
+        "count": 3
+      },
+      {
+        "word": "받는다",
+        "count": 3
+      },
+      {
+        "word": "유재석",
+        "count": 3
+      },
+      {
+        "word": "문화훈장",
+        "count": 3
+      },
+      {
+        "word": "최민식",
+        "count": 1
+      }
+    ]
   }
 }
