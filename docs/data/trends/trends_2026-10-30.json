@@ -1,219 +1,219 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T15:12:46.992959+09:00",
+  "generated_at": "2026-10-30T19:14:13.203388+09:00",
   "daily_top_keywords": [
     {
       "word": "라인",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "최불암",
+      "count": 6
     },
     {
       "word": "역대",
-      "count": 3
-    },
-    {
-      "word": "대응",
-      "count": 3
-    },
-    {
-      "word": "장애",
-      "count": 3
-    },
-    {
-      "word": "대통령",
-      "count": 3
-    },
-    {
-      "word": "젠슨",
-      "count": 3
-    },
-    {
-      "word": "같은",
-      "count": 2
-    },
-    {
-      "word": "여신",
-      "count": 2
-    },
-    {
-      "word": "논란",
-      "count": 2
-    },
-    {
-      "word": "전원",
-      "count": 2
-    },
-    {
-      "word": "재발탁",
-      "count": 2
-    },
-    {
-      "word": "육상",
-      "count": 2
-    },
-    {
-      "word": "은퇴",
-      "count": 2
-    },
-    {
-      "word": "삼성",
-      "count": 2
-    },
-    {
-      "word": "손흥민",
-      "count": 2
+      "count": 5
     },
     {
       "word": "영상",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "아버지",
+      "count": 5
+    },
+    {
+      "word": "진실",
+      "count": 5
+    },
+    {
+      "word": "장애",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "젠슨",
+      "count": 5
+    },
+    {
+      "word": "같은",
+      "count": 4
     },
     {
       "word": "최고",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "만에",
-      "count": 2
+      "word": "전원",
+      "count": 4
     },
     {
-      "word": "이유",
-      "count": 2
+      "word": "감독",
+      "count": 4
     },
     {
-      "word": "엑스맨",
-      "count": 2
+      "word": "손흥민",
+      "count": 4
+    },
+    {
+      "word": "정부",
+      "count": 4
+    },
+    {
+      "word": "대응",
+      "count": 4
+    },
+    {
+      "word": "갈까",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "축구",
+      "count": 4
+    },
+    {
+      "word": "여신",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "행위",
-        "count": 2
-      },
-      {
-        "word": "넘어오는",
-        "count": 2
+        "word": "김정은",
+        "count": 3
       },
       {
         "word": "행위에",
+        "count": 3
+      },
+      {
+        "word": "대통령",
+        "count": 3
+      },
+      {
+        "word": "무인기로",
         "count": 2
       },
       {
-        "word": "엄정",
-        "count": 2
-      },
-      {
-        "word": "대응",
+        "word": "협박보란듯",
         "count": 2
       }
     ],
     "sports": [
       {
         "word": "라인",
-        "count": 3
-      },
-      {
-        "word": "여신",
-        "count": 2
+        "count": 6
       },
       {
         "word": "전원",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "재발탁",
-        "count": 2
+        "word": "감독",
+        "count": 4
       },
       {
-        "word": "육상",
-        "count": 2
+        "word": "손흥민",
+        "count": 4
+      },
+      {
+        "word": "여신",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "반도체",
-        "count": 2
+        "word": "갈까",
+        "count": 4
       },
       {
-        "word": "갈까",
-        "count": 2
+        "word": "반도체",
+        "count": 3
       },
       {
         "word": "기업",
-        "count": 2
+        "count": 3
       },
       {
         "word": "시총",
-        "count": 2
+        "count": 3
       },
       {
         "word": "알파벳",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "인천공항",
+        "word": "영상",
+        "count": 3
+      },
+      {
+        "word": "안민석",
         "count": 2
       },
       {
-        "word": "터미널",
+        "word": "황현필",
         "count": 2
       },
       {
-        "word": "항공사",
+        "word": "강연",
         "count": 2
       },
       {
-        "word": "발권",
-        "count": 2
-      },
-      {
-        "word": "장애",
+        "word": "비판",
         "count": 2
       }
     ],
     "international": [
       {
         "word": "젠슨",
-        "count": 3
+        "count": 5
       },
       {
         "word": "축구",
+        "count": 4
+      },
+      {
+        "word": "중국",
+        "count": 3
+      },
+      {
+        "word": "브라질",
         "count": 2
       },
       {
-        "word": "역대",
+        "word": "룰라",
         "count": 2
-      },
-      {
-        "word": "밀착녀는",
-        "count": 1
-      },
-      {
-        "word": "스파이",
-        "count": 1
       }
     ],
     "culture": [
       {
-        "word": "이유",
-        "count": 2
-      },
-      {
-        "word": "별세",
-        "count": 2
-      },
-      {
-        "word": "수사반장",
-        "count": 2
-      },
-      {
         "word": "아버지",
-        "count": 2
+        "count": 5
       },
       {
         "word": "최불암",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "별세",
+        "count": 3
+      },
+      {
+        "word": "국민",
+        "count": 3
+      },
+      {
+        "word": "최불암에",
+        "count": 3
       }
     ]
   }
