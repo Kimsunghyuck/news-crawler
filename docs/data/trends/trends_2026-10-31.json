@@ -1,219 +1,219 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T15:11:02.086211+09:00",
+  "generated_at": "2026-10-31T19:11:48.041791+09:00",
   "daily_top_keywords": [
     {
-      "word": "감독",
-      "count": 5
+      "word": "대통령",
+      "count": 9
     },
     {
-      "word": "대통령",
-      "count": 5
+      "word": "감독",
+      "count": 8
     },
     {
       "word": "트럼프",
-      "count": 4
-    },
-    {
-      "word": "손흥민",
-      "count": 3
+      "count": 8
     },
     {
       "word": "지하철",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "만원",
-      "count": 3
-    },
-    {
-      "word": "진성준",
-      "count": 3
-    },
-    {
-      "word": "비자",
-      "count": 3
+      "word": "최불암",
+      "count": 6
     },
     {
       "word": "잦은",
-      "count": 3
+      "count": 6
     },
     {
       "word": "해외순방",
-      "count": 3
+      "count": 6
     },
     {
       "word": "링거",
-      "count": 3
+      "count": 6
     },
     {
       "word": "맞고",
-      "count": 3
+      "count": 6
     },
     {
       "word": "코피",
-      "count": 3
+      "count": 6
     },
     {
       "word": "바이낸스",
-      "count": 3
+      "count": 6
     },
     {
       "word": "해킹",
-      "count": 3
+      "count": 6
+    },
+    {
+      "word": "손흥민",
+      "count": 5
+    },
+    {
+      "word": "중국",
+      "count": 5
+    },
+    {
+      "word": "진성준",
+      "count": 5
+    },
+    {
+      "word": "비자",
+      "count": 5
+    },
+    {
+      "word": "서울",
+      "count": 5
     },
     {
       "word": "중간선거",
-      "count": 3
+      "count": 5
     },
     {
       "word": "후라도",
-      "count": 2
+      "count": 4
     },
     {
       "word": "호날두처럼",
-      "count": 2
-    },
-    {
-      "word": "분열",
-      "count": 2
-    },
-    {
-      "word": "초래",
-      "count": 2
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "대통령",
-        "count": 4
-      },
-      {
-        "word": "진성준",
-        "count": 3
-      },
-      {
-        "word": "비자",
-        "count": 3
+        "count": 7
       },
       {
         "word": "잦은",
-        "count": 3
+        "count": 6
       },
       {
         "word": "해외순방",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "링거",
+        "count": 6
+      },
+      {
+        "word": "맞고",
+        "count": 6
       }
     ],
     "sports": [
       {
         "word": "감독",
-        "count": 5
+        "count": 8
       },
       {
         "word": "후라도",
-        "count": 2
+        "count": 4
       },
       {
         "word": "손흥민",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "깜짝",
+        "count": 3
       },
       {
         "word": "삼성은",
-        "count": 1
-      },
-      {
-        "word": "카드",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "공격",
-        "count": 2
+        "count": 4
       },
       {
         "word": "삼전",
-        "count": 2
+        "count": 3
       },
       {
         "word": "삼성전자",
-        "count": 1
+        "count": 2
       },
       {
         "word": "하이닉스",
-        "count": 1
+        "count": 2
       },
       {
         "word": "투자",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "경찰",
-        "count": 2
-      },
-      {
-        "word": "만원",
-        "count": 2
-      },
-      {
         "word": "최불암",
-        "count": 2
+        "count": 4
       },
       {
         "word": "다문화가정",
-        "count": 1
+        "count": 2
       },
       {
         "word": "우대",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "정책",
+        "count": 2
+      },
+      {
+        "word": "지적에",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 4
+        "count": 8
       },
       {
         "word": "바이낸스",
-        "count": 3
+        "count": 6
       },
       {
         "word": "해킹",
-        "count": 3
+        "count": 6
       },
       {
         "word": "중간선거",
-        "count": 3
+        "count": 5
       },
       {
         "word": "소행인지",
-        "count": 2
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "지하철",
-        "count": 2
+        "count": 4
       },
       {
         "word": "이유",
-        "count": 2
+        "count": 3
       },
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
       }
     ]
   }
