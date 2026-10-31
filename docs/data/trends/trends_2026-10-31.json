@@ -1,13 +1,220 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T09:29:04.638314+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-10-31T15:11:02.086211+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "감독",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "손흥민",
+      "count": 3
+    },
+    {
+      "word": "지하철",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "진성준",
+      "count": 3
+    },
+    {
+      "word": "비자",
+      "count": 3
+    },
+    {
+      "word": "잦은",
+      "count": 3
+    },
+    {
+      "word": "해외순방",
+      "count": 3
+    },
+    {
+      "word": "링거",
+      "count": 3
+    },
+    {
+      "word": "맞고",
+      "count": 3
+    },
+    {
+      "word": "코피",
+      "count": 3
+    },
+    {
+      "word": "바이낸스",
+      "count": 3
+    },
+    {
+      "word": "해킹",
+      "count": 3
+    },
+    {
+      "word": "중간선거",
+      "count": 3
+    },
+    {
+      "word": "후라도",
+      "count": 2
+    },
+    {
+      "word": "호날두처럼",
+      "count": 2
+    },
+    {
+      "word": "분열",
+      "count": 2
+    },
+    {
+      "word": "초래",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "대통령",
+        "count": 4
+      },
+      {
+        "word": "진성준",
+        "count": 3
+      },
+      {
+        "word": "비자",
+        "count": 3
+      },
+      {
+        "word": "잦은",
+        "count": 3
+      },
+      {
+        "word": "해외순방",
+        "count": 3
+      }
+    ],
+    "sports": [
+      {
+        "word": "감독",
+        "count": 5
+      },
+      {
+        "word": "후라도",
+        "count": 2
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "삼성은",
+        "count": 1
+      },
+      {
+        "word": "카드",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "공격",
+        "count": 2
+      },
+      {
+        "word": "삼전",
+        "count": 2
+      },
+      {
+        "word": "삼성전자",
+        "count": 1
+      },
+      {
+        "word": "하이닉스",
+        "count": 1
+      },
+      {
+        "word": "투자",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "경찰",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "최불암",
+        "count": 2
+      },
+      {
+        "word": "다문화가정",
+        "count": 1
+      },
+      {
+        "word": "우대",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 4
+      },
+      {
+        "word": "바이낸스",
+        "count": 3
+      },
+      {
+        "word": "해킹",
+        "count": 3
+      },
+      {
+        "word": "중간선거",
+        "count": 3
+      },
+      {
+        "word": "소행인지",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "지하철",
+        "count": 2
+      },
+      {
+        "word": "이유",
+        "count": 2
+      },
+      {
+        "word": "최민식",
+        "count": 1
+      },
+      {
+        "word": "박해일",
+        "count": 1
+      },
+      {
+        "word": "변요한",
+        "count": 1
+      }
+    ]
   }
 }
