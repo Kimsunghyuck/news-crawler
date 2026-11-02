@@ -1,219 +1,219 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T15:13:25.907793+09:00",
+  "generated_at": "2026-11-02T19:14:17.048202+09:00",
   "daily_top_keywords": [
     {
       "word": "최불암",
-      "count": 4
+      "count": 7
+    },
+    {
+      "word": "만에",
+      "count": 6
+    },
+    {
+      "word": "트럼프",
+      "count": 6
+    },
+    {
+      "word": "시간",
+      "count": 5
+    },
+    {
+      "word": "바이낸스",
+      "count": 5
+    },
+    {
+      "word": "자꾸",
+      "count": 5
     },
     {
       "word": "사망",
+      "count": 5
+    },
+    {
+      "word": "삼성",
+      "count": 4
+    },
+    {
+      "word": "완패",
       "count": 4
     },
     {
       "word": "억원",
-      "count": 3
-    },
-    {
-      "word": "시간",
-      "count": 3
-    },
-    {
-      "word": "몰렸다",
-      "count": 3
-    },
-    {
-      "word": "바이낸스",
-      "count": 3
-    },
-    {
-      "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "조원",
-      "count": 3
-    },
-    {
-      "word": "전원",
-      "count": 3
-    },
-    {
-      "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "김치맨",
-      "count": 2
-    },
-    {
-      "word": "태국",
-      "count": 2
-    },
-    {
-      "word": "삼성",
-      "count": 2
-    },
-    {
-      "word": "가을",
-      "count": 2
-    },
-    {
-      "word": "축제",
-      "count": 2
-    },
-    {
-      "word": "미네소타에",
-      "count": 2
-    },
-    {
-      "word": "완패",
-      "count": 2
+      "count": 4
     },
     {
       "word": "안토넬리",
-      "count": 2
+      "count": 4
     },
     {
       "word": "최연소",
-      "count": 2
+      "count": 4
     },
     {
       "word": "드라이버",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "챔피언",
+      "count": 4
+    },
+    {
+      "word": "등극",
+      "count": 4
+    },
+    {
+      "word": "진짜",
+      "count": 4
+    },
+    {
+      "word": "죽으면",
+      "count": 4
+    },
+    {
+      "word": "들러달라",
+      "count": 4
+    },
+    {
+      "word": "서울",
+      "count": 4
+    },
+    {
+      "word": "찍은",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "장동혁",
-        "count": 2
-      },
-      {
-        "word": "정청래",
-        "count": 2
+        "word": "자꾸",
+        "count": 5
       },
       {
         "word": "재판",
-        "count": 2
+        "count": 4
       },
       {
         "word": "재개하라",
-        "count": 2
+        "count": 3
       },
       {
         "word": "야유",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "방해하는",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "가을",
-        "count": 2
-      },
-      {
-        "word": "미네소타에",
-        "count": 2
-      },
-      {
         "word": "완패",
-        "count": 2
+        "count": 4
       },
       {
         "word": "안토넬리",
-        "count": 2
+        "count": 4
       },
       {
         "word": "최연소",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "드라이버",
+        "count": 4
+      },
+      {
+        "word": "챔피언",
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "조원",
-        "count": 2
+        "word": "삼전닉스만",
+        "count": 3
       },
       {
-        "word": "몰렸다",
-        "count": 2
+        "word": "반토막난",
+        "count": 3
       },
       {
-        "word": "투자에",
-        "count": 1
+        "word": "진짜",
+        "count": 3
       },
       {
-        "word": "현금",
-        "count": 1
+        "word": "이유",
+        "count": 3
       },
       {
-        "word": "마른",
-        "count": 1
+        "word": "가지",
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "착수",
-        "count": 2
-      },
-      {
         "word": "서울",
-        "count": 1
+        "count": 3
       },
       {
         "word": "만의",
-        "count": 1
+        "count": 2
       },
       {
         "word": "황사",
-        "count": 1
+        "count": 2
       },
       {
         "word": "내일까지",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "미세먼지",
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "사망",
-        "count": 3
+        "word": "트럼프",
+        "count": 6
       },
       {
-        "word": "트럼프",
-        "count": 3
+        "word": "사망",
+        "count": 4
       },
       {
         "word": "주택가",
-        "count": 2
+        "count": 3
       },
       {
         "word": "제트기",
-        "count": 2
+        "count": 3
       },
       {
         "word": "추락",
-        "count": 2
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "최불암",
-        "count": 4
+        "count": 7
       },
       {
         "word": "시간",
-        "count": 2
+        "count": 4
       },
       {
         "word": "죽으면",
-        "count": 2
+        "count": 4
       },
       {
         "word": "들러달라",
-        "count": 2
+        "count": 4
       },
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       }
     ]
   }
