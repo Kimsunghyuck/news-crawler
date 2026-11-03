@@ -1,131 +1,131 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T15:11:17.334030+09:00",
+  "generated_at": "2026-11-03T19:11:42.913207+09:00",
   "daily_top_keywords": [
+    {
+      "word": "서울",
+      "count": 6
+    },
+    {
+      "word": "시간",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "추진",
+      "count": 5
+    },
+    {
+      "word": "감독",
+      "count": 4
+    },
+    {
+      "word": "챔피언스",
+      "count": 4
+    },
+    {
+      "word": "도전",
+      "count": 4
+    },
+    {
+      "word": "아시안컵",
+      "count": 4
+    },
+    {
+      "word": "연기",
+      "count": 4
+    },
+    {
+      "word": "주식",
+      "count": 4
+    },
+    {
+      "word": "집값",
+      "count": 4
+    },
+    {
+      "word": "김민석",
+      "count": 4
+    },
     {
       "word": "해킹",
       "count": 4
     },
     {
-      "word": "노시환",
-      "count": 3
-    },
-    {
-      "word": "협상",
-      "count": 3
-    },
-    {
-      "word": "시간",
-      "count": 3
-    },
-    {
-      "word": "추진",
-      "count": 3
-    },
-    {
-      "word": "기술",
-      "count": 3
-    },
-    {
-      "word": "서울",
-      "count": 3
-    },
-    {
-      "word": "조치",
-      "count": 3
-    },
-    {
       "word": "장동혁",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "예산",
-      "count": 3
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "최신",
+      "count": 4
+    },
+    {
+      "word": "한본어",
+      "count": 4
     },
     {
       "word": "만에",
-      "count": 2
+      "count": 3
     },
     {
       "word": "삼성",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "칸터",
-      "count": 2
-    },
-    {
-      "word": "프로농구",
-      "count": 2
-    },
-    {
-      "word": "감독",
-      "count": 2
-    },
-    {
-      "word": "장우진",
-      "count": 2
-    },
-    {
-      "word": "선수",
-      "count": 2
-    },
-    {
-      "word": "챔피언스",
-      "count": 2
-    },
-    {
-      "word": "도전",
-      "count": 2
-    },
-    {
-      "word": "구단과",
-      "count": 2
+      "word": "노시환",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "해킹",
-        "count": 3
+        "word": "김민석",
+        "count": 4
       },
       {
         "word": "장동혁",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "예산",
-        "count": 3
+        "word": "국힘",
+        "count": 4
+      },
+      {
+        "word": "최신",
+        "count": 4
       },
       {
         "word": "서울",
-        "count": 2
-      },
-      {
-        "word": "아파트",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "노시환",
-        "count": 3
+        "word": "챔피언스",
+        "count": 4
       },
       {
-        "word": "협상",
-        "count": 3
+        "word": "도전",
+        "count": 4
       },
       {
         "word": "삼성",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "칸터",
-        "count": 2
+        "word": "감독",
+        "count": 3
       },
       {
-        "word": "프로농구",
-        "count": 2
+        "word": "노시환",
+        "count": 3
       }
     ],
     "economy": [
@@ -135,85 +135,85 @@
       },
       {
         "word": "만원",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "강남",
+        "count": 3
       },
       {
         "word": "망원경",
-        "count": 1
+        "count": 2
       },
       {
         "word": "스위프트",
-        "count": 1
-      },
-      {
-        "word": "지구로",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "화물차",
+        "word": "보석",
+        "count": 3
+      },
+      {
+        "word": "한학자",
         "count": 2
       },
       {
-        "word": "바퀴",
+        "word": "취소",
         "count": 2
       },
       {
-        "word": "빠져",
+        "word": "송치",
         "count": 2
       },
       {
-        "word": "정비",
+        "word": "평생",
         "count": 2
-      },
-      {
-        "word": "대법원장",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "한본어",
-        "count": 2
-      },
-      {
-        "word": "명품",
-        "count": 2
-      },
-      {
-        "word": "세기",
-        "count": 1
-      },
-      {
-        "word": "오디세우스",
-        "count": 1
+        "count": 4
       },
       {
         "word": "탐험가",
-        "count": 1
+        "count": 3
+      },
+      {
+        "word": "년간",
+        "count": 3
+      },
+      {
+        "word": "아시안컵",
+        "count": 3
+      },
+      {
+        "word": "연기",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "시간",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "여로",
-        "count": 2
+        "word": "내가",
+        "count": 3
+      },
+      {
+        "word": "작가",
+        "count": 3
       },
       {
         "word": "무대",
-        "count": 2
+        "count": 3
       },
       {
         "word": "최민식",
-        "count": 1
-      },
-      {
-        "word": "박해일",
-        "count": 1
+        "count": 2
       }
     ]
   }
