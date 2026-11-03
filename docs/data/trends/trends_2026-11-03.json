@@ -1,13 +1,220 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T09:29:50.628991+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-03T15:11:17.334030+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "해킹",
+      "count": 4
+    },
+    {
+      "word": "노시환",
+      "count": 3
+    },
+    {
+      "word": "협상",
+      "count": 3
+    },
+    {
+      "word": "시간",
+      "count": 3
+    },
+    {
+      "word": "추진",
+      "count": 3
+    },
+    {
+      "word": "기술",
+      "count": 3
+    },
+    {
+      "word": "서울",
+      "count": 3
+    },
+    {
+      "word": "조치",
+      "count": 3
+    },
+    {
+      "word": "장동혁",
+      "count": 3
+    },
+    {
+      "word": "예산",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "삼성",
+      "count": 2
+    },
+    {
+      "word": "칸터",
+      "count": 2
+    },
+    {
+      "word": "프로농구",
+      "count": 2
+    },
+    {
+      "word": "감독",
+      "count": 2
+    },
+    {
+      "word": "장우진",
+      "count": 2
+    },
+    {
+      "word": "선수",
+      "count": 2
+    },
+    {
+      "word": "챔피언스",
+      "count": 2
+    },
+    {
+      "word": "도전",
+      "count": 2
+    },
+    {
+      "word": "구단과",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "해킹",
+        "count": 3
+      },
+      {
+        "word": "장동혁",
+        "count": 3
+      },
+      {
+        "word": "예산",
+        "count": 3
+      },
+      {
+        "word": "서울",
+        "count": 2
+      },
+      {
+        "word": "아파트",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "노시환",
+        "count": 3
+      },
+      {
+        "word": "협상",
+        "count": 3
+      },
+      {
+        "word": "삼성",
+        "count": 2
+      },
+      {
+        "word": "칸터",
+        "count": 2
+      },
+      {
+        "word": "프로농구",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "기술",
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "망원경",
+        "count": 1
+      },
+      {
+        "word": "스위프트",
+        "count": 1
+      },
+      {
+        "word": "지구로",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "화물차",
+        "count": 2
+      },
+      {
+        "word": "바퀴",
+        "count": 2
+      },
+      {
+        "word": "빠져",
+        "count": 2
+      },
+      {
+        "word": "정비",
+        "count": 2
+      },
+      {
+        "word": "대법원장",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "한본어",
+        "count": 2
+      },
+      {
+        "word": "명품",
+        "count": 2
+      },
+      {
+        "word": "세기",
+        "count": 1
+      },
+      {
+        "word": "오디세우스",
+        "count": 1
+      },
+      {
+        "word": "탐험가",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "시간",
+        "count": 2
+      },
+      {
+        "word": "여로",
+        "count": 2
+      },
+      {
+        "word": "무대",
+        "count": 2
+      },
+      {
+        "word": "최민식",
+        "count": 1
+      },
+      {
+        "word": "박해일",
+        "count": 1
+      }
+    ]
   }
 }
