@@ -1,219 +1,219 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T15:10:01.590178+09:00",
+  "generated_at": "2026-11-04T19:14:02.229206+09:00",
   "daily_top_keywords": [
     {
+      "word": "트럼프",
+      "count": 12
+    },
+    {
+      "word": "하원",
+      "count": 7
+    },
+    {
       "word": "국힘",
+      "count": 6
+    },
+    {
+      "word": "집값",
+      "count": 6
+    },
+    {
+      "word": "내가",
       "count": 5
     },
     {
-      "word": "트럼프",
+      "word": "민주",
       "count": 5
     },
     {
       "word": "만원",
-      "count": 4
+      "count": 5
     },
     {
-      "word": "확보",
-      "count": 3
-    },
-    {
-      "word": "내가",
-      "count": 3
-    },
-    {
-      "word": "연말",
-      "count": 3
-    },
-    {
-      "word": "비상",
-      "count": 3
-    },
-    {
-      "word": "조작기소",
-      "count": 3
-    },
-    {
-      "word": "퇴장",
-      "count": 3
-    },
-    {
-      "word": "집값",
-      "count": 3
+      "word": "의사",
+      "count": 5
     },
     {
       "word": "당선",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "하원",
-      "count": 3
+      "word": "확보",
+      "count": 4
     },
     {
-      "word": "선수",
-      "count": 2
+      "word": "시간",
+      "count": 4
     },
     {
-      "word": "사망",
-      "count": 2
+      "word": "소송",
+      "count": 4
     },
     {
-      "word": "반효진",
-      "count": 2
+      "word": "주식",
+      "count": 4
     },
     {
-      "word": "세계선수권",
-      "count": 2
+      "word": "연말",
+      "count": 4
     },
     {
-      "word": "올림픽",
-      "count": 2
+      "word": "종목",
+      "count": 4
     },
     {
-      "word": "삼성에",
-      "count": 2
+      "word": "선거",
+      "count": 4
     },
     {
-      "word": "진땀승",
-      "count": 2
+      "word": "조작기소",
+      "count": 4
     },
     {
-      "word": "최다골",
-      "count": 2
+      "word": "퇴장",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 4
+    },
+    {
+      "word": "나때는",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "조작기소",
-        "count": 3
-      },
-      {
-        "word": "국힘",
-        "count": 3
-      },
-      {
         "word": "집값",
-        "count": 3
+        "count": 6
       },
       {
-        "word": "법사위",
-        "count": 2
+        "word": "조작기소",
+        "count": 4
       },
       {
-        "word": "상정",
-        "count": 2
+        "word": "대통령",
+        "count": 4
+      },
+      {
+        "word": "나때는",
+        "count": 4
+      },
+      {
+        "word": "법대가",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "선수",
+        "count": 3
+      },
+      {
+        "word": "최다골",
+        "count": 3
+      },
+      {
+        "word": "신인",
+        "count": 3
+      },
+      {
+        "word": "충돌",
         "count": 2
       },
       {
-        "word": "반효진",
-        "count": 2
-      },
-      {
-        "word": "세계선수권",
-        "count": 2
-      },
-      {
-        "word": "올림픽",
-        "count": 2
-      },
-      {
-        "word": "삼성에",
+        "word": "스페인",
         "count": 2
       }
     ],
     "economy": [
       {
-        "word": "만원",
-        "count": 3
+        "word": "종목",
+        "count": 4
       },
       {
-        "word": "연말",
-        "count": 2
+        "word": "만원",
+        "count": 4
       },
       {
         "word": "휴직",
-        "count": 2
-      },
-      {
-        "word": "종목",
-        "count": 2
+        "count": 3
       },
       {
         "word": "몰빵했다",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "만든",
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "선거법",
-        "count": 2
-      },
-      {
-        "word": "당선무효형",
-        "count": 2
+        "count": 3
       },
       {
         "word": "국힘",
-        "count": 2
-      },
-      {
-        "word": "반환",
-        "count": 2
+        "count": 3
       },
       {
         "word": "혐의",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "무죄",
+        "count": 3
+      },
+      {
+        "word": "심도",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 5
+        "count": 11
       },
       {
         "word": "하원",
-        "count": 3
-      },
-      {
-        "word": "탈환",
-        "count": 2
-      },
-      {
-        "word": "과반",
-        "count": 2
+        "count": 7
       },
       {
         "word": "당선",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "민주",
+        "count": 4
+      },
+      {
+        "word": "패배",
+        "count": 4
       }
     ],
     "culture": [
       {
         "word": "시간",
-        "count": 2
+        "count": 4
       },
       {
         "word": "논란",
-        "count": 2
+        "count": 3
       },
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
       }
     ]
   }
