@@ -1,13 +1,220 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T09:30:06.771074+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-04T15:10:01.590178+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "국힘",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
+      "word": "확보",
+      "count": 3
+    },
+    {
+      "word": "내가",
+      "count": 3
+    },
+    {
+      "word": "연말",
+      "count": 3
+    },
+    {
+      "word": "비상",
+      "count": 3
+    },
+    {
+      "word": "조작기소",
+      "count": 3
+    },
+    {
+      "word": "퇴장",
+      "count": 3
+    },
+    {
+      "word": "집값",
+      "count": 3
+    },
+    {
+      "word": "당선",
+      "count": 3
+    },
+    {
+      "word": "하원",
+      "count": 3
+    },
+    {
+      "word": "선수",
+      "count": 2
+    },
+    {
+      "word": "사망",
+      "count": 2
+    },
+    {
+      "word": "반효진",
+      "count": 2
+    },
+    {
+      "word": "세계선수권",
+      "count": 2
+    },
+    {
+      "word": "올림픽",
+      "count": 2
+    },
+    {
+      "word": "삼성에",
+      "count": 2
+    },
+    {
+      "word": "진땀승",
+      "count": 2
+    },
+    {
+      "word": "최다골",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "조작기소",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 3
+      },
+      {
+        "word": "집값",
+        "count": 3
+      },
+      {
+        "word": "법사위",
+        "count": 2
+      },
+      {
+        "word": "상정",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "선수",
+        "count": 2
+      },
+      {
+        "word": "반효진",
+        "count": 2
+      },
+      {
+        "word": "세계선수권",
+        "count": 2
+      },
+      {
+        "word": "올림픽",
+        "count": 2
+      },
+      {
+        "word": "삼성에",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "연말",
+        "count": 2
+      },
+      {
+        "word": "휴직",
+        "count": 2
+      },
+      {
+        "word": "종목",
+        "count": 2
+      },
+      {
+        "word": "몰빵했다",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "선거법",
+        "count": 2
+      },
+      {
+        "word": "당선무효형",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "반환",
+        "count": 2
+      },
+      {
+        "word": "혐의",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "하원",
+        "count": 3
+      },
+      {
+        "word": "탈환",
+        "count": 2
+      },
+      {
+        "word": "과반",
+        "count": 2
+      },
+      {
+        "word": "당선",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "시간",
+        "count": 2
+      },
+      {
+        "word": "논란",
+        "count": 2
+      },
+      {
+        "word": "최민식",
+        "count": 1
+      },
+      {
+        "word": "박해일",
+        "count": 1
+      },
+      {
+        "word": "변요한",
+        "count": 1
+      }
+    ]
   }
 }
