@@ -1,219 +1,219 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T15:11:15.898199+09:00",
+  "generated_at": "2026-11-05T19:12:10.171038+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 7
-    },
-    {
-      "word": "반도체",
-      "count": 3
-    },
-    {
-      "word": "다문화",
-      "count": 3
-    },
-    {
-      "word": "민주당",
-      "count": 3
-    },
-    {
-      "word": "정부",
-      "count": 3
-    },
-    {
-      "word": "의회",
-      "count": 3
-    },
-    {
-      "word": "경기",
-      "count": 2
-    },
-    {
-      "word": "위기",
-      "count": 2
-    },
-    {
-      "word": "트리스탄",
-      "count": 2
-    },
-    {
-      "word": "영입",
-      "count": 2
-    },
-    {
-      "word": "잘했다",
-      "count": 2
-    },
-    {
-      "word": "서울",
-      "count": 2
-    },
-    {
-      "word": "마음",
-      "count": 2
-    },
-    {
-      "word": "태권도",
-      "count": 2
-    },
-    {
-      "word": "만에",
-      "count": 2
-    },
-    {
-      "word": "바닷속",
-      "count": 2
-    },
-    {
-      "word": "공개한",
-      "count": 2
-    },
-    {
-      "word": "상승",
-      "count": 2
+      "count": 11
     },
     {
       "word": "코스피",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "쌍은",
-      "count": 2
+      "word": "민주당",
+      "count": 5
+    },
+    {
+      "word": "의회",
+      "count": 5
+    },
+    {
+      "word": "잘했다",
+      "count": 4
+    },
+    {
+      "word": "서울",
+      "count": 4
+    },
+    {
+      "word": "바닷속",
+      "count": 4
+    },
+    {
+      "word": "반도체",
+      "count": 4
+    },
+    {
+      "word": "다문화",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
+    },
+    {
+      "word": "논란",
+      "count": 4
+    },
+    {
+      "word": "조작기소",
+      "count": 4
+    },
+    {
+      "word": "민주",
+      "count": 4
+    },
+    {
+      "word": "경기",
+      "count": 3
+    },
+    {
+      "word": "위기",
+      "count": 3
+    },
+    {
+      "word": "트리스탄",
+      "count": 3
+    },
+    {
+      "word": "영입",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "태권도",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "국힘",
-        "count": 2
-      },
-      {
-        "word": "정부",
-        "count": 2
+        "count": 4
       },
       {
         "word": "조작기소",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "필버",
-        "count": 2
+        "word": "청해부대",
+        "count": 3
       },
       {
-        "word": "부정행위",
+        "word": "특검법",
+        "count": 3
+      },
+      {
+        "word": "고개드는",
         "count": 2
       }
     ],
     "sports": [
       {
+        "word": "잘했다",
+        "count": 4
+      },
+      {
         "word": "트리스탄",
-        "count": 2
+        "count": 3
       },
       {
         "word": "영입",
-        "count": 2
-      },
-      {
-        "word": "잘했다",
-        "count": 2
+        "count": 3
       },
       {
         "word": "변방팀",
-        "count": 1
+        "count": 2
       },
       {
         "word": "코모",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "상승",
-        "count": 2
+        "word": "코스피",
+        "count": 5
       },
       {
-        "word": "코스피",
-        "count": 2
+        "word": "상승",
+        "count": 3
       },
       {
         "word": "매도",
-        "count": 2
+        "count": 3
       },
       {
         "word": "사이드카",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "내년부터",
-        "count": 1
+        "word": "숙박",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "다문화",
-        "count": 2
-      },
-      {
-        "word": "혼인",
-        "count": 2
-      },
-      {
         "word": "딸은",
+        "count": 3
+      },
+      {
+        "word": "세브란스",
         "count": 2
       },
       {
-        "word": "토요일",
-        "count": 1
+        "word": "집에서",
+        "count": 2
       },
       {
-        "word": "영하권",
-        "count": 1
+        "word": "부엌칼",
+        "count": 2
+      },
+      {
+        "word": "추미애",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 7
+        "count": 11
       },
       {
         "word": "의회",
-        "count": 3
+        "count": 5
       },
       {
         "word": "민주",
-        "count": 2
+        "count": 3
       },
       {
         "word": "민주당",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "참패",
-        "count": 2
+        "word": "패배",
+        "count": 3
       }
     ],
     "culture": [
       {
-        "word": "마음",
-        "count": 2
-      },
-      {
         "word": "바닷속",
-        "count": 2
+        "count": 4
       },
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "추석",
+        "count": 2
       }
     ]
   }
