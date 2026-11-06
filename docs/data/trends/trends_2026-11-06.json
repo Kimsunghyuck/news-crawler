@@ -1,13 +1,220 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T09:30:59.701878+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-06T15:12:21.581678+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "이어",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "피해",
+      "count": 3
+    },
+    {
+      "word": "구글",
+      "count": 3
+    },
+    {
+      "word": "천피",
+      "count": 3
+    },
+    {
+      "word": "루비오",
+      "count": 2
+    },
+    {
+      "word": "참패",
+      "count": 2
+    },
+    {
+      "word": "유럽",
+      "count": 2
+    },
+    {
+      "word": "메달",
+      "count": 2
+    },
+    {
+      "word": "이틀",
+      "count": 2
+    },
+    {
+      "word": "세계",
+      "count": 2
+    },
+    {
+      "word": "사망",
+      "count": 2
+    },
+    {
+      "word": "여성",
+      "count": 2
+    },
+    {
+      "word": "최대",
+      "count": 2
+    },
+    {
+      "word": "추진",
+      "count": 2
+    },
+    {
+      "word": "폭락",
+      "count": 2
+    },
+    {
+      "word": "검은",
+      "count": 2
+    },
+    {
+      "word": "금요일",
+      "count": 2
+    },
+    {
+      "word": "붕괴",
+      "count": 2
+    },
+    {
+      "word": "코스피",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "조작기소",
+        "count": 2
+      },
+      {
+        "word": "국민",
+        "count": 2
+      },
+      {
+        "word": "한동훈",
+        "count": 2
+      },
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "박성준",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "대표팀",
+        "count": 2
+      },
+      {
+        "word": "골프",
+        "count": 2
+      },
+      {
+        "word": "연습경기",
+        "count": 1
+      },
+      {
+        "word": "수퍼스타",
+        "count": 1
+      },
+      {
+        "word": "김도영",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "구글",
+        "count": 3
+      },
+      {
+        "word": "검은",
+        "count": 2
+      },
+      {
+        "word": "금요일",
+        "count": 2
+      },
+      {
+        "word": "천피",
+        "count": 2
+      },
+      {
+        "word": "최태원",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "송치",
+        "count": 2
+      },
+      {
+        "word": "아들",
+        "count": 2
+      },
+      {
+        "word": "쿠팡",
+        "count": 1
+      },
+      {
+        "word": "과징금",
+        "count": 1
+      },
+      {
+        "word": "처분",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 3
+      },
+      {
+        "word": "이어",
+        "count": 2
+      },
+      {
+        "word": "루비오",
+        "count": 2
+      },
+      {
+        "word": "참패",
+        "count": 2
+      },
+      {
+        "word": "유럽",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "바닷속",
+        "count": 2
+      },
+      {
+        "word": "최민식",
+        "count": 1
+      },
+      {
+        "word": "박해일",
+        "count": 1
+      },
+      {
+        "word": "변요한",
+        "count": 1
+      },
+      {
+        "word": "추석",
+        "count": 1
+      }
+    ]
   }
 }
