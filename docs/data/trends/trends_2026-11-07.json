@@ -1,219 +1,219 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T15:10:42.119547+09:00",
+  "generated_at": "2026-11-07T19:13:04.690059+09:00",
   "daily_top_keywords": [
     {
       "word": "트럼프",
-      "count": 5
-    },
-    {
-      "word": "이란",
-      "count": 3
+      "count": 9
     },
     {
       "word": "삼성",
-      "count": 3
+      "count": 9
+    },
+    {
+      "word": "이란",
+      "count": 7
     },
     {
       "word": "결국",
-      "count": 3
-    },
-    {
-      "word": "민주당",
-      "count": 3
+      "count": 6
     },
     {
       "word": "만에",
-      "count": 3
+      "count": 6
     },
     {
       "word": "만원",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "부상",
-      "count": 3
-    },
-    {
-      "word": "중간선거",
-      "count": 2
-    },
-    {
-      "word": "이후",
-      "count": 2
+      "word": "국힘",
+      "count": 6
     },
     {
       "word": "스파이",
-      "count": 2
+      "count": 5
+    },
+    {
+      "word": "조작기소",
+      "count": 5
+    },
+    {
+      "word": "중간선거",
+      "count": 4
     },
     {
       "word": "의혹",
-      "count": 2
+      "count": 4
     },
     {
       "word": "밀러",
-      "count": 2
-    },
-    {
-      "word": "대통령",
-      "count": 2
+      "count": 4
     },
     {
       "word": "참패",
-      "count": 2
+      "count": 4
     },
     {
       "word": "얼음",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "민주당",
+      "count": 4
     },
     {
       "word": "투자",
-      "count": 2
+      "count": 4
     },
     {
       "word": "개인정보",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "털렸다",
-      "count": 2
+      "word": "첫날",
+      "count": 4
     },
     {
-      "word": "대신",
-      "count": 2
+      "word": "위문열차",
+      "count": 4
+    },
+    {
+      "word": "월드컵",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "이용철",
-        "count": 2
+        "word": "국힘",
+        "count": 6
+      },
+      {
+        "word": "조작기소",
+        "count": 5
       },
       {
         "word": "위문열차",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "성남",
-        "count": 1
+        "word": "이용철",
+        "count": 3
       },
       {
-        "word": "라인",
-        "count": 1
-      },
-      {
-        "word": "공소취소",
-        "count": 1
+        "word": "특검법",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "닷컴",
-        "count": 2
-      },
-      {
-        "word": "최하위",
-        "count": 2
+        "word": "삼성",
+        "count": 6
       },
       {
         "word": "월드컵",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "공동",
+        "count": 4
       },
       {
         "word": "대표팀",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "복귀",
-        "count": 2
+        "word": "닷컴",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "투자",
-        "count": 2
+        "count": 4
       },
       {
         "word": "개인정보",
-        "count": 2
+        "count": 4
       },
       {
         "word": "털렸다",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "하나",
+        "count": 3
       },
       {
         "word": "만원",
-        "count": 2
-      },
-      {
-        "word": "배경훈",
-        "count": 1
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "부상",
+        "word": "남편",
+        "count": 3
+      },
+      {
+        "word": "마지막",
+        "count": 3
+      },
+      {
+        "word": "입동",
         "count": 2
       },
       {
-        "word": "중대재해",
-        "count": 1
+        "word": "전국",
+        "count": 2
       },
       {
-        "word": "특별감독",
-        "count": 1
-      },
-      {
-        "word": "비용",
-        "count": 1
-      },
-      {
-        "word": "앞세우다간",
-        "count": 1
+        "word": "곳곳",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 5
+        "count": 9
       },
       {
         "word": "이란",
-        "count": 3
-      },
-      {
-        "word": "중간선거",
-        "count": 2
-      },
-      {
-        "word": "이후",
-        "count": 2
+        "count": 7
       },
       {
         "word": "스파이",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "중간선거",
+        "count": 4
+      },
+      {
+        "word": "의혹",
+        "count": 4
       }
     ],
     "culture": [
       {
-        "word": "오늘의",
-        "count": 2
-      },
-      {
-        "word": "운세",
-        "count": 2
+        "word": "가장",
+        "count": 3
       },
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "추석",
+        "count": 2
       }
     ]
   }
