@@ -1,13 +1,220 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T09:28:23.830060+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-07T15:10:42.119547+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "이란",
+      "count": 3
+    },
+    {
+      "word": "삼성",
+      "count": 3
+    },
+    {
+      "word": "결국",
+      "count": 3
+    },
+    {
+      "word": "민주당",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "부상",
+      "count": 3
+    },
+    {
+      "word": "중간선거",
+      "count": 2
+    },
+    {
+      "word": "이후",
+      "count": 2
+    },
+    {
+      "word": "스파이",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "밀러",
+      "count": 2
+    },
+    {
+      "word": "대통령",
+      "count": 2
+    },
+    {
+      "word": "참패",
+      "count": 2
+    },
+    {
+      "word": "얼음",
+      "count": 2
+    },
+    {
+      "word": "투자",
+      "count": 2
+    },
+    {
+      "word": "개인정보",
+      "count": 2
+    },
+    {
+      "word": "털렸다",
+      "count": 2
+    },
+    {
+      "word": "대신",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "이용철",
+        "count": 2
+      },
+      {
+        "word": "위문열차",
+        "count": 2
+      },
+      {
+        "word": "성남",
+        "count": 1
+      },
+      {
+        "word": "라인",
+        "count": 1
+      },
+      {
+        "word": "공소취소",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "닷컴",
+        "count": 2
+      },
+      {
+        "word": "최하위",
+        "count": 2
+      },
+      {
+        "word": "월드컵",
+        "count": 2
+      },
+      {
+        "word": "대표팀",
+        "count": 2
+      },
+      {
+        "word": "복귀",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "투자",
+        "count": 2
+      },
+      {
+        "word": "개인정보",
+        "count": 2
+      },
+      {
+        "word": "털렸다",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "배경훈",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "부상",
+        "count": 2
+      },
+      {
+        "word": "중대재해",
+        "count": 1
+      },
+      {
+        "word": "특별감독",
+        "count": 1
+      },
+      {
+        "word": "비용",
+        "count": 1
+      },
+      {
+        "word": "앞세우다간",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "이란",
+        "count": 3
+      },
+      {
+        "word": "중간선거",
+        "count": 2
+      },
+      {
+        "word": "이후",
+        "count": 2
+      },
+      {
+        "word": "스파이",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "오늘의",
+        "count": 2
+      },
+      {
+        "word": "운세",
+        "count": 2
+      },
+      {
+        "word": "최민식",
+        "count": 1
+      },
+      {
+        "word": "박해일",
+        "count": 1
+      },
+      {
+        "word": "변요한",
+        "count": 1
+      }
+    ]
   }
 }
