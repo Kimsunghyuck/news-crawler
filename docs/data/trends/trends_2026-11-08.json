@@ -1,13 +1,220 @@
 {
   "date": "2026-11-08",
-  "generated_at": "2026-11-08T09:32:02.198470+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-08T15:10:35.147961+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "폴란드",
+      "count": 3
+    },
+    {
+      "word": "조작기소",
+      "count": 3
+    },
+    {
+      "word": "김태근",
+      "count": 3
+    },
+    {
+      "word": "총기",
+      "count": 2
+    },
+    {
+      "word": "난사로",
+      "count": 2
+    },
+    {
+      "word": "사망",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "대변인",
+      "count": 2
+    },
+    {
+      "word": "민주당",
+      "count": 2
+    },
+    {
+      "word": "말한",
+      "count": 2
+    },
+    {
+      "word": "총격범",
+      "count": 2
+    },
+    {
+      "word": "가족",
+      "count": 2
+    },
+    {
+      "word": "기업",
+      "count": 2
+    },
+    {
+      "word": "핵잠",
+      "count": 2
+    },
+    {
+      "word": "집값",
+      "count": 2
+    },
+    {
+      "word": "삼성전자",
+      "count": 2
+    },
+    {
+      "word": "현대차",
+      "count": 2
+    },
+    {
+      "word": "논란",
+      "count": 2
+    },
+    {
+      "word": "서울",
+      "count": 2
+    },
+    {
+      "word": "벌써",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "조작기소",
+        "count": 3
+      },
+      {
+        "word": "김태근",
+        "count": 3
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "탄핵",
+        "count": 2
+      },
+      {
+        "word": "김정우",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "이재희",
+        "count": 2
+      },
+      {
+        "word": "시즌",
+        "count": 2
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "이해인",
+        "count": 2
+      },
+      {
+        "word": "트리플",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "기업",
+        "count": 2
+      },
+      {
+        "word": "집값",
+        "count": 2
+      },
+      {
+        "word": "삼성전자",
+        "count": 2
+      },
+      {
+        "word": "좀비기업",
+        "count": 1
+      },
+      {
+        "word": "느는데",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "벌써",
+        "count": 2
+      },
+      {
+        "word": "작년보다",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "서울엔",
+        "count": 1
+      },
+      {
+        "word": "빨라",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "폴란드",
+        "count": 3
+      },
+      {
+        "word": "총기",
+        "count": 2
+      },
+      {
+        "word": "난사로",
+        "count": 2
+      },
+      {
+        "word": "사망",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "윤이상국제음악콩쿠르",
+        "count": 2
+      },
+      {
+        "word": "최민식",
+        "count": 1
+      },
+      {
+        "word": "박해일",
+        "count": 1
+      },
+      {
+        "word": "변요한",
+        "count": 1
+      },
+      {
+        "word": "추석",
+        "count": 1
+      }
+    ]
   }
 }
