@@ -1,13 +1,220 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T09:31:08.222009+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-09T15:12:25.506948+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "젠슨",
+      "count": 4
+    },
+    {
+      "word": "불륜",
+      "count": 4
+    },
+    {
+      "word": "시간",
+      "count": 4
+    },
+    {
+      "word": "대통령",
+      "count": 3
+    },
+    {
+      "word": "삼성",
+      "count": 3
+    },
+    {
+      "word": "최대",
+      "count": 2
+    },
+    {
+      "word": "징역",
+      "count": 2
+    },
+    {
+      "word": "유럽",
+      "count": 2
+    },
+    {
+      "word": "지진",
+      "count": 2
+    },
+    {
+      "word": "년만에",
+      "count": 2
+    },
+    {
+      "word": "안경",
+      "count": 2
+    },
+    {
+      "word": "허리",
+      "count": 2
+    },
+    {
+      "word": "스킨십",
+      "count": 2
+    },
+    {
+      "word": "엔비디아",
+      "count": 2
+    },
+    {
+      "word": "기업",
+      "count": 2
+    },
+    {
+      "word": "경기도",
+      "count": 2
+    },
+    {
+      "word": "행사",
+      "count": 2
+    },
+    {
+      "word": "참석",
+      "count": 2
+    },
+    {
+      "word": "코스피",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 2
+      },
+      {
+        "word": "대통령",
+        "count": 2
+      },
+      {
+        "word": "노무현",
+        "count": 2
+      },
+      {
+        "word": "줬나",
+        "count": 2
+      },
+      {
+        "word": "대선",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "챔피언십",
+        "count": 2
+      },
+      {
+        "word": "정상",
+        "count": 2
+      },
+      {
+        "word": "대표팀",
+        "count": 2
+      },
+      {
+        "word": "삼성",
+        "count": 2
+      },
+      {
+        "word": "년만에",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "행사",
+        "count": 2
+      },
+      {
+        "word": "코스피",
+        "count": 2
+      },
+      {
+        "word": "물렸다고",
+        "count": 2
+      },
+      {
+        "word": "버티는",
+        "count": 2
+      },
+      {
+        "word": "최악",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "의대",
+        "count": 2
+      },
+      {
+        "word": "붙고도",
+        "count": 2
+      },
+      {
+        "word": "안갔다",
+        "count": 2
+      },
+      {
+        "word": "수시",
+        "count": 2
+      },
+      {
+        "word": "관왕",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "젠슨",
+        "count": 4
+      },
+      {
+        "word": "불륜",
+        "count": 4
+      },
+      {
+        "word": "만에",
+        "count": 3
+      },
+      {
+        "word": "지진",
+        "count": 2
+      },
+      {
+        "word": "허리",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "우승",
+        "count": 2
+      },
+      {
+        "word": "최민식",
+        "count": 1
+      },
+      {
+        "word": "박해일",
+        "count": 1
+      },
+      {
+        "word": "변요한",
+        "count": 1
+      },
+      {
+        "word": "추석",
+        "count": 1
+      }
+    ]
   }
 }
