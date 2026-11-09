@@ -1,219 +1,219 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T15:12:25.506948+09:00",
+  "generated_at": "2026-11-09T19:13:32.501603+09:00",
   "daily_top_keywords": [
     {
-      "word": "만에",
-      "count": 5
+      "word": "젠슨",
+      "count": 9
     },
     {
-      "word": "젠슨",
-      "count": 4
+      "word": "만에",
+      "count": 8
     },
     {
       "word": "불륜",
-      "count": 4
+      "count": 8
     },
     {
       "word": "시간",
-      "count": 4
-    },
-    {
-      "word": "대통령",
-      "count": 3
+      "count": 7
     },
     {
       "word": "삼성",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "최대",
-      "count": 2
-    },
-    {
-      "word": "징역",
-      "count": 2
-    },
-    {
-      "word": "유럽",
-      "count": 2
+      "word": "대통령",
+      "count": 5
     },
     {
       "word": "지진",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "년만에",
-      "count": 2
+      "word": "우승",
+      "count": 5
     },
     {
-      "word": "안경",
-      "count": 2
-    },
-    {
-      "word": "허리",
-      "count": 2
-    },
-    {
-      "word": "스킨십",
-      "count": 2
+      "word": "징역",
+      "count": 4
     },
     {
       "word": "엔비디아",
-      "count": 2
-    },
-    {
-      "word": "기업",
-      "count": 2
-    },
-    {
-      "word": "경기도",
-      "count": 2
-    },
-    {
-      "word": "행사",
-      "count": 2
-    },
-    {
-      "word": "참석",
-      "count": 2
+      "count": 4
     },
     {
       "word": "코스피",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "물렸다고",
+      "count": 4
+    },
+    {
+      "word": "버티는",
+      "count": 4
+    },
+    {
+      "word": "최악",
+      "count": 4
+    },
+    {
+      "word": "삼전닉스",
+      "count": 4
+    },
+    {
+      "word": "팔고",
+      "count": 4
+    },
+    {
+      "word": "갈아탈",
+      "count": 4
+    },
+    {
+      "word": "종목",
+      "count": 4
+    },
+    {
+      "word": "긴급진단",
+      "count": 4
+    },
+    {
+      "word": "수원",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "국힘",
-        "count": 2
-      },
-      {
-        "word": "대통령",
-        "count": 2
-      },
-      {
         "word": "노무현",
-        "count": 2
+        "count": 4
       },
       {
         "word": "줬나",
-        "count": 2
+        "count": 4
       },
       {
         "word": "대선",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "전날",
+        "count": 4
+      },
+      {
+        "word": "김만복",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "챔피언십",
-        "count": 2
+        "word": "삼성",
+        "count": 5
       },
       {
-        "word": "정상",
-        "count": 2
+        "word": "원태인",
+        "count": 3
+      },
+      {
+        "word": "감독",
+        "count": 3
       },
       {
         "word": "대표팀",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "삼성",
-        "count": 2
-      },
-      {
-        "word": "년만에",
-        "count": 1
+        "word": "수원",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "행사",
-        "count": 2
-      },
-      {
         "word": "코스피",
-        "count": 2
+        "count": 4
       },
       {
         "word": "물렸다고",
-        "count": 2
+        "count": 4
       },
       {
         "word": "버티는",
-        "count": 2
+        "count": 4
       },
       {
         "word": "최악",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "삼전닉스",
+        "count": 4
       }
     ],
     "society": [
       {
+        "word": "수능",
+        "count": 4
+      },
+      {
         "word": "의대",
-        "count": 2
+        "count": 4
       },
       {
         "word": "붙고도",
-        "count": 2
+        "count": 4
       },
       {
         "word": "안갔다",
-        "count": 2
+        "count": 4
       },
       {
         "word": "수시",
-        "count": 2
-      },
-      {
-        "word": "관왕",
-        "count": 2
+        "count": 4
       }
     ],
     "international": [
       {
         "word": "젠슨",
-        "count": 4
+        "count": 8
       },
       {
         "word": "불륜",
-        "count": 4
-      },
-      {
-        "word": "만에",
-        "count": 3
+        "count": 7
       },
       {
         "word": "지진",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "허리",
-        "count": 2
+        "word": "만에",
+        "count": 4
+      },
+      {
+        "word": "대통령",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "우승",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "창덕궁",
+        "count": 3
+      },
+      {
+        "word": "돈화문",
+        "count": 3
+      },
+      {
+        "word": "지붕",
+        "count": 3
       },
       {
         "word": "최민식",
-        "count": 1
-      },
-      {
-        "word": "박해일",
-        "count": 1
-      },
-      {
-        "word": "변요한",
-        "count": 1
-      },
-      {
-        "word": "추석",
-        "count": 1
+        "count": 2
       }
     ]
   }
