@@ -1,219 +1,219 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T15:11:29.450072+09:00",
+  "generated_at": "2026-11-10T19:13:53.975166+09:00",
   "daily_top_keywords": [
     {
       "word": "젠슨",
-      "count": 4
-    },
-    {
-      "word": "불륜",
-      "count": 4
+      "count": 10
     },
     {
       "word": "삼성",
-      "count": 4
+      "count": 6
+    },
+    {
+      "word": "불륜",
+      "count": 5
     },
     {
       "word": "우승",
-      "count": 3
+      "count": 5
     },
     {
-      "word": "하원",
-      "count": 2
+      "word": "시즌",
+      "count": 5
     },
     {
       "word": "한국계",
-      "count": 2
+      "count": 4
+    },
+    {
+      "word": "내연녀",
+      "count": 4
+    },
+    {
+      "word": "일부",
+      "count": 4
+    },
+    {
+      "word": "논란",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "국적",
+      "count": 4
+    },
+    {
+      "word": "시간",
+      "count": 4
+    },
+    {
+      "word": "국무회의",
+      "count": 4
+    },
+    {
+      "word": "하원",
+      "count": 3
     },
     {
       "word": "유도",
-      "count": 2
+      "count": 3
     },
     {
       "word": "영웅",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "처음",
-      "count": 2
+      "word": "선언",
+      "count": 3
     },
     {
-      "word": "여행",
-      "count": 2
+      "word": "다카이치",
+      "count": 3
     },
     {
-      "word": "충격",
-      "count": 2
+      "word": "행방",
+      "count": 3
     },
     {
-      "word": "엔비디아",
-      "count": 2
-    },
-    {
-      "word": "확보",
-      "count": 2
-    },
-    {
-      "word": "아들",
-      "count": 2
-    },
-    {
-      "word": "지원",
-      "count": 2
-    },
-    {
-      "word": "서울",
-      "count": 2
-    },
-    {
-      "word": "무신사",
-      "count": 2
-    },
-    {
-      "word": "한덕수",
-      "count": 2
-    },
-    {
-      "word": "석방되나",
-      "count": 2
-    },
-    {
-      "word": "대법",
-      "count": 2
+      "word": "묘연",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "국무회의",
+        "count": 4
+      },
+      {
         "word": "무력",
-        "count": 2
+        "count": 3
       },
       {
         "word": "저항",
-        "count": 2
+        "count": 3
       },
       {
         "word": "무인기",
-        "count": 2
+        "count": 3
       },
       {
         "word": "청해부대",
-        "count": 2
-      },
-      {
-        "word": "확대",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "삼성",
-        "count": 3
+        "count": 5
       },
       {
         "word": "우승",
-        "count": 2
+        "count": 4
       },
       {
         "word": "시즌",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "구자욱",
-        "count": 2
+        "word": "맥고니글",
+        "count": 3
       },
       {
-        "word": "만달러",
-        "count": 1
+        "word": "프로야구",
+        "count": 3
       }
     ],
     "economy": [
       {
-        "word": "무신사",
+        "word": "닭장",
         "count": 2
       },
       {
-        "word": "닭장",
-        "count": 1
-      },
-      {
         "word": "항공기는",
-        "count": 1
+        "count": 2
       },
       {
         "word": "옛말",
-        "count": 1
+        "count": 2
       },
       {
         "word": "좌석",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "간격",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "병원",
-        "count": 2
+        "word": "국적",
+        "count": 4
       },
       {
-        "word": "국적",
-        "count": 2
+        "word": "매각",
+        "count": 3
       },
       {
         "word": "담당자",
-        "count": 1
+        "count": 2
       },
       {
         "word": "누구냐",
-        "count": 1
+        "count": 2
       },
       {
         "word": "한숨",
-        "count": 1
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "젠슨",
+        "count": 9
+      },
+      {
+        "word": "한국계",
+        "count": 4
+      },
+      {
+        "word": "내연녀",
         "count": 4
       },
       {
         "word": "불륜",
-        "count": 3
+        "count": 4
       },
       {
         "word": "하원",
-        "count": 2
-      },
-      {
-        "word": "한국계",
-        "count": 2
-      },
-      {
-        "word": "트럼프식",
-        "count": 1
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
       },
       {
         "word": "추석",
-        "count": 1
+        "count": 2
       },
       {
         "word": "극장가",
-        "count": 1
+        "count": 2
       }
     ]
   }
