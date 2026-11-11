@@ -1,219 +1,219 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T15:10:57.337674+09:00",
+  "generated_at": "2026-11-11T19:12:28.303684+09:00",
   "daily_top_keywords": [
     {
       "word": "젠슨",
-      "count": 4
+      "count": 9
     },
     {
       "word": "세계",
-      "count": 4
-    },
-    {
-      "word": "젠슨황",
-      "count": 3
-    },
-    {
-      "word": "불륜",
-      "count": 3
-    },
-    {
-      "word": "돌파",
-      "count": 3
+      "count": 6
     },
     {
       "word": "총선",
-      "count": 3
-    },
-    {
-      "word": "김민석",
-      "count": 3
+      "count": 6
     },
     {
       "word": "국힘",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "탄핵",
-      "count": 2
+      "word": "불륜",
+      "count": 5
     },
     {
-      "word": "내연녀",
-      "count": 2
+      "word": "돌파",
+      "count": 5
     },
     {
-      "word": "딸이",
-      "count": 2
+      "word": "한동훈",
+      "count": 5
     },
     {
-      "word": "재산",
-      "count": 2
+      "word": "젠슨황",
+      "count": 4
     },
     {
-      "word": "트럼프",
-      "count": 2
+      "word": "조사",
+      "count": 4
     },
     {
       "word": "국내",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "인재",
-      "count": 2
+      "word": "이유",
+      "count": 4
     },
     {
-      "word": "한국",
-      "count": 2
+      "word": "윤리위원",
+      "count": 4
     },
     {
-      "word": "목표",
-      "count": 2
+      "word": "실체",
+      "count": 4
     },
     {
-      "word": "성범죄",
-      "count": 2
+      "word": "자기",
+      "count": 4
     },
     {
-      "word": "거절하자",
-      "count": 2
+      "word": "나랑",
+      "count": 4
     },
     {
-      "word": "엄마",
-      "count": 2
+      "word": "내기할래",
+      "count": 4
+    },
+    {
+      "word": "본다",
+      "count": 4
+    },
+    {
+      "word": "주전",
+      "count": 4
+    },
+    {
+      "word": "장담",
+      "count": 4
+    },
+    {
+      "word": "프로야구",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "총선",
-        "count": 3
-      },
-      {
-        "word": "김민석",
-        "count": 3
+        "count": 6
       },
       {
         "word": "국힘",
-        "count": 3
+        "count": 6
       },
       {
-        "word": "조정식",
-        "count": 2
+        "word": "한동훈",
+        "count": 5
       },
       {
-        "word": "연임",
-        "count": 2
+        "word": "윤리위원",
+        "count": 4
+      },
+      {
+        "word": "자기",
+        "count": 4
       }
     ],
     "sports": [
       {
-        "word": "왓슨",
-        "count": 2
+        "word": "프로야구",
+        "count": 4
       },
       {
         "word": "세계",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "프로야구",
-        "count": 2
+        "word": "손흥민",
+        "count": 3
       },
       {
         "word": "타율",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "선발",
+        "word": "왓슨",
         "count": 2
       }
     ],
     "economy": [
       {
+        "word": "만원",
+        "count": 3
+      },
+      {
         "word": "매출",
-        "count": 1
-      },
-      {
-        "word": "대만달러",
-        "count": 1
-      },
-      {
-        "word": "월간",
-        "count": 1
-      },
-      {
-        "word": "최대",
-        "count": 1
+        "count": 2
       },
       {
         "word": "실적",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "분기",
+        "count": 2
+      },
+      {
+        "word": "그래",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "성범죄",
-        "count": 2
-      },
-      {
         "word": "거절하자",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "엄마",
-        "count": 2
+        "word": "강남",
+        "count": 3
       },
       {
-        "word": "출근길",
-        "count": 1
+        "word": "여성",
+        "count": 3
       },
       {
-        "word": "분당서",
-        "count": 1
+        "word": "당했다",
+        "count": 3
+      },
+      {
+        "word": "합승할래요",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "젠슨",
-        "count": 4
-      },
-      {
-        "word": "젠슨황",
-        "count": 3
+        "count": 9
       },
       {
         "word": "불륜",
+        "count": 5
+      },
+      {
+        "word": "젠슨황",
+        "count": 4
+      },
+      {
+        "word": "조사",
+        "count": 4
+      },
+      {
+        "word": "스캔들",
         "count": 3
-      },
-      {
-        "word": "내연녀",
-        "count": 2
-      },
-      {
-        "word": "트럼프",
-        "count": 2
       }
     ],
     "culture": [
       {
+        "word": "예능",
+        "count": 3
+      },
+      {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
       },
       {
         "word": "추석",
-        "count": 1
-      },
-      {
-        "word": "극장가",
-        "count": 1
+        "count": 2
       }
     ]
   }
