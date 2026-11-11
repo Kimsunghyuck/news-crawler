@@ -1,13 +1,220 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T09:30:49.463118+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-11T15:10:57.337674+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "젠슨",
+      "count": 4
+    },
+    {
+      "word": "세계",
+      "count": 4
+    },
+    {
+      "word": "젠슨황",
+      "count": 3
+    },
+    {
+      "word": "불륜",
+      "count": 3
+    },
+    {
+      "word": "돌파",
+      "count": 3
+    },
+    {
+      "word": "총선",
+      "count": 3
+    },
+    {
+      "word": "김민석",
+      "count": 3
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "탄핵",
+      "count": 2
+    },
+    {
+      "word": "내연녀",
+      "count": 2
+    },
+    {
+      "word": "딸이",
+      "count": 2
+    },
+    {
+      "word": "재산",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "국내",
+      "count": 2
+    },
+    {
+      "word": "인재",
+      "count": 2
+    },
+    {
+      "word": "한국",
+      "count": 2
+    },
+    {
+      "word": "목표",
+      "count": 2
+    },
+    {
+      "word": "성범죄",
+      "count": 2
+    },
+    {
+      "word": "거절하자",
+      "count": 2
+    },
+    {
+      "word": "엄마",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "총선",
+        "count": 3
+      },
+      {
+        "word": "김민석",
+        "count": 3
+      },
+      {
+        "word": "국힘",
+        "count": 3
+      },
+      {
+        "word": "조정식",
+        "count": 2
+      },
+      {
+        "word": "연임",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "왓슨",
+        "count": 2
+      },
+      {
+        "word": "세계",
+        "count": 2
+      },
+      {
+        "word": "프로야구",
+        "count": 2
+      },
+      {
+        "word": "타율",
+        "count": 2
+      },
+      {
+        "word": "선발",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "매출",
+        "count": 1
+      },
+      {
+        "word": "대만달러",
+        "count": 1
+      },
+      {
+        "word": "월간",
+        "count": 1
+      },
+      {
+        "word": "최대",
+        "count": 1
+      },
+      {
+        "word": "실적",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "성범죄",
+        "count": 2
+      },
+      {
+        "word": "거절하자",
+        "count": 2
+      },
+      {
+        "word": "엄마",
+        "count": 2
+      },
+      {
+        "word": "출근길",
+        "count": 1
+      },
+      {
+        "word": "분당서",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "젠슨",
+        "count": 4
+      },
+      {
+        "word": "젠슨황",
+        "count": 3
+      },
+      {
+        "word": "불륜",
+        "count": 3
+      },
+      {
+        "word": "내연녀",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "최민식",
+        "count": 1
+      },
+      {
+        "word": "박해일",
+        "count": 1
+      },
+      {
+        "word": "변요한",
+        "count": 1
+      },
+      {
+        "word": "추석",
+        "count": 1
+      },
+      {
+        "word": "극장가",
+        "count": 1
+      }
+    ]
   }
 }
