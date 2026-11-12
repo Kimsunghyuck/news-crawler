@@ -1,197 +1,197 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T15:12:02.145152+09:00",
+  "generated_at": "2026-11-12T19:12:35.305018+09:00",
   "daily_top_keywords": [
     {
       "word": "젠슨",
+      "count": 10
+    },
+    {
+      "word": "강남",
+      "count": 7
+    },
+    {
+      "word": "만원",
       "count": 6
+    },
+    {
+      "word": "만에",
+      "count": 5
+    },
+    {
+      "word": "아파트",
+      "count": 5
+    },
+    {
+      "word": "같은",
+      "count": 5
+    },
+    {
+      "word": "이유",
+      "count": 4
+    },
+    {
+      "word": "착수",
+      "count": 4
+    },
+    {
+      "word": "불륜",
+      "count": 4
+    },
+    {
+      "word": "젠슨황",
+      "count": 4
+    },
+    {
+      "word": "놓고",
+      "count": 4
+    },
+    {
+      "word": "충돌",
+      "count": 4
     },
     {
       "word": "대만",
       "count": 4
     },
     {
-      "word": "만에",
-      "count": 3
+      "word": "은마도",
+      "count": 4
     },
     {
-      "word": "만원",
-      "count": 3
+      "word": "빠졌다",
+      "count": 4
     },
     {
-      "word": "불륜",
-      "count": 3
+      "word": "갈아타기",
+      "count": 4
     },
     {
-      "word": "외국인",
-      "count": 3
+      "word": "노릴",
+      "count": 4
     },
     {
-      "word": "아파트",
-      "count": 3
+      "word": "국내",
+      "count": 4
     },
     {
-      "word": "놓고",
-      "count": 3
+      "word": "조희대",
+      "count": 4
     },
     {
-      "word": "충돌",
-      "count": 3
-    },
-    {
-      "word": "같은",
-      "count": 3
-    },
-    {
-      "word": "정숙하라",
-      "count": 2
-    },
-    {
-      "word": "호통",
-      "count": 2
-    },
-    {
-      "word": "업체",
-      "count": 2
-    },
-    {
-      "word": "이유",
-      "count": 2
-    },
-    {
-      "word": "이사회",
-      "count": 2
-    },
-    {
-      "word": "해임",
-      "count": 2
-    },
-    {
-      "word": "서울서",
-      "count": 2
-    },
-    {
-      "word": "한국",
-      "count": 2
-    },
-    {
-      "word": "시장",
-      "count": 2
-    },
-    {
-      "word": "공략",
-      "count": 2
+      "word": "이재용",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "놓고",
-        "count": 3
+        "word": "조희대",
+        "count": 4
       },
       {
-        "word": "탈북민",
-        "count": 2
+        "word": "이재용",
+        "count": 4
       },
       {
         "word": "북향민",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "명칭",
-        "count": 2
+        "word": "장동혁",
+        "count": 3
       },
       {
-        "word": "쐈는데",
-        "count": 2
+        "word": "한동훈",
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "불화설",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "라인",
+        "count": 3
       },
       {
         "word": "같은",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "외국인",
-        "count": 2
+        "word": "올림픽",
+        "count": 3
       },
       {
-        "word": "오스틴",
-        "count": 2
-      },
-      {
-        "word": "인터뷰",
-        "count": 2
+        "word": "감독",
+        "count": 3
       }
     ],
     "economy": [
       {
+        "word": "강남",
+        "count": 5
+      },
+      {
         "word": "아파트",
-        "count": 3
+        "count": 5
       },
       {
         "word": "은마도",
-        "count": 2
+        "count": 4
       },
       {
         "word": "빠졌다",
-        "count": 2
-      },
-      {
-        "word": "강남",
-        "count": 2
+        "count": 4
       },
       {
         "word": "갈아타기",
-        "count": 2
+        "count": 4
       }
     ],
     "society": [
       {
-        "word": "만에",
-        "count": 1
+        "word": "세무사",
+        "count": 3
       },
       {
-        "word": "수능",
-        "count": 1
+        "word": "수석",
+        "count": 3
       },
       {
-        "word": "한파",
-        "count": 1
+        "word": "안경",
+        "count": 3
       },
       {
-        "word": "주말",
-        "count": 1
+        "word": "요란했던",
+        "count": 2
       },
       {
-        "word": "지나면",
-        "count": 1
+        "word": "집사",
+        "count": 2
       }
     ],
     "international": [
       {
         "word": "젠슨",
-        "count": 5
-      },
-      {
-        "word": "정숙하라",
-        "count": 2
-      },
-      {
-        "word": "호통",
-        "count": 2
+        "count": 8
       },
       {
         "word": "만원",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "이사회",
-        "count": 2
+        "word": "정숙하라",
+        "count": 3
+      },
+      {
+        "word": "호통",
+        "count": 3
+      },
+      {
+        "word": "불륜녀",
+        "count": 3
       }
     ],
     "culture": [
@@ -200,20 +200,20 @@
         "count": 3
       },
       {
-        "word": "뮤지컬",
+        "word": "최민식",
         "count": 2
       },
       {
-        "word": "최민식",
-        "count": 1
-      },
-      {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "추석",
+        "count": 2
       }
     ]
   }
