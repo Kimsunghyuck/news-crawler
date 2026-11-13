@@ -1,9 +1,21 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T15:10:30.045883+09:00",
+  "generated_at": "2026-11-13T19:13:09.034747+09:00",
   "daily_top_keywords": [
     {
+      "word": "만에",
+      "count": 6
+    },
+    {
       "word": "젠슨",
+      "count": 6
+    },
+    {
+      "word": "젠슨황",
+      "count": 6
+    },
+    {
+      "word": "연속",
       "count": 5
     },
     {
@@ -15,117 +27,105 @@
       "count": 5
     },
     {
+      "word": "이유",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "같은",
+      "count": 4
+    },
+    {
+      "word": "다시",
+      "count": 4
+    },
+    {
+      "word": "만원",
+      "count": 4
+    },
+    {
       "word": "한국",
       "count": 4
     },
     {
-      "word": "대통령",
+      "word": "최고위",
       "count": 4
     },
     {
-      "word": "만에",
-      "count": 3
-    },
-    {
-      "word": "우수브랜드",
-      "count": 3
-    },
-    {
-      "word": "연속",
-      "count": 3
+      "word": "민주당",
+      "count": 4
     },
     {
       "word": "최민희",
-      "count": 3
-    },
-    {
-      "word": "다시",
-      "count": 2
+      "count": 4
     },
     {
       "word": "트럼프",
-      "count": 2
-    },
-    {
-      "word": "민주당",
-      "count": 2
-    },
-    {
-      "word": "젠슨황",
-      "count": 2
+      "count": 4
     },
     {
       "word": "불륜녀",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "이유",
-      "count": 2
+      "word": "프랑스",
+      "count": 3
     },
     {
-      "word": "의혹",
-      "count": 2
+      "word": "바뀐",
+      "count": 3
     },
     {
-      "word": "대학생",
-      "count": 2
-    },
-    {
-      "word": "같은",
-      "count": 2
-    },
-    {
-      "word": "회장",
-      "count": 2
-    },
-    {
-      "word": "이재용",
-      "count": 2
+      "word": "안경",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "최고위",
+        "count": 4
+      },
+      {
         "word": "대통령",
-        "count": 3
+        "count": 4
       },
       {
         "word": "최민희",
+        "count": 4
+      },
+      {
+        "word": "지지율",
         "count": 3
       },
       {
-        "word": "최고위",
-        "count": 2
-      },
-      {
-        "word": "탄핵",
-        "count": 2
-      },
-      {
-        "word": "반대",
+        "word": "친청계",
         "count": 2
       }
     ],
     "sports": [
       {
+        "word": "삼성",
+        "count": 3
+      },
+      {
         "word": "한국",
         "count": 3
       },
       {
-        "word": "투어",
-        "count": 2
-      },
-      {
-        "word": "오스틴",
-        "count": 2
-      },
-      {
-        "word": "세계선수권",
-        "count": 2
-      },
-      {
         "word": "크로암스트롱",
-        "count": 1
+        "count": 2
+      },
+      {
+        "word": "만장일치",
+        "count": 2
+      },
+      {
+        "word": "오타니",
+        "count": 2
       }
     ],
     "economy": [
@@ -138,82 +138,82 @@
         "count": 5
       },
       {
+        "word": "회장",
+        "count": 3
+      },
+      {
         "word": "우수브랜드",
         "count": 3
       },
       {
         "word": "연속",
         "count": 3
-      },
-      {
-        "word": "회장",
-        "count": 2
       }
     ],
     "society": [
       {
-        "word": "세무사",
-        "count": 2
-      },
-      {
-        "word": "안경",
-        "count": 2
-      },
-      {
         "word": "이혜훈",
-        "count": 2
+        "count": 3
       },
       {
         "word": "아파트",
-        "count": 2
+        "count": 3
       },
       {
         "word": "송치",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "지인",
+        "count": 3
+      },
+      {
+        "word": "혐의",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "젠슨",
-        "count": 4
-      },
-      {
-        "word": "트럼프",
-        "count": 2
+        "count": 5
       },
       {
         "word": "젠슨황",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "트럼프",
+        "count": 4
       },
       {
         "word": "불륜녀",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "국립묘지서",
-        "count": 1
+        "word": "엔화",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
       },
       {
         "word": "추석",
-        "count": 1
+        "count": 2
       },
       {
         "word": "극장가",
-        "count": 1
+        "count": 2
       }
     ]
   }
