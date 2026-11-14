@@ -1,13 +1,220 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T09:29:34.352797+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-14T15:11:44.823414+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "안경",
+      "count": 4
+    },
+    {
+      "word": "징계",
+      "count": 4
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "하나",
+      "count": 3
+    },
+    {
+      "word": "가능성",
+      "count": 3
+    },
+    {
+      "word": "사우디전",
+      "count": 3
+    },
+    {
+      "word": "엔비디아",
+      "count": 3
+    },
+    {
+      "word": "감독",
+      "count": 3
+    },
+    {
+      "word": "시간",
+      "count": 2
+    },
+    {
+      "word": "만에",
+      "count": 2
+    },
+    {
+      "word": "경고",
+      "count": 2
+    },
+    {
+      "word": "손흥민",
+      "count": 2
+    },
+    {
+      "word": "모레노호",
+      "count": 2
+    },
+    {
+      "word": "실점",
+      "count": 2
+    },
+    {
+      "word": "아내",
+      "count": 2
+    },
+    {
+      "word": "젠슨",
+      "count": 2
+    },
+    {
+      "word": "직전",
+      "count": 2
+    },
+    {
+      "word": "조현",
+      "count": 2
+    },
+    {
+      "word": "수준",
+      "count": 2
+    },
+    {
+      "word": "아파트",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "특검법",
+        "count": 2
+      },
+      {
+        "word": "한동훈",
+        "count": 2
+      },
+      {
+        "word": "징계",
+        "count": 2
+      },
+      {
+        "word": "조작",
+        "count": 2
+      },
+      {
+        "word": "쳐도",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "감독",
+        "count": 2
+      },
+      {
+        "word": "일본전",
+        "count": 2
+      },
+      {
+        "word": "패배",
+        "count": 2
+      },
+      {
+        "word": "사우디전",
+        "count": 2
+      },
+      {
+        "word": "네덜란드",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "안경",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "연준",
+        "count": 1
+      },
+      {
+        "word": "금리",
+        "count": 1
+      },
+      {
+        "word": "결정",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "안경",
+        "count": 2
+      },
+      {
+        "word": "주민",
+        "count": 2
+      },
+      {
+        "word": "대피",
+        "count": 2
+      },
+      {
+        "word": "경비원",
+        "count": 2
+      },
+      {
+        "word": "시신",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "가능성",
+        "count": 2
+      },
+      {
+        "word": "젠슨",
+        "count": 2
+      },
+      {
+        "word": "엔비디아",
+        "count": 2
+      },
+      {
+        "word": "불법",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "이건희",
+        "count": 2
+      },
+      {
+        "word": "문신",
+        "count": 2
+      },
+      {
+        "word": "최민식",
+        "count": 1
+      },
+      {
+        "word": "박해일",
+        "count": 1
+      },
+      {
+        "word": "변요한",
+        "count": 1
+      }
+    ]
   }
 }
