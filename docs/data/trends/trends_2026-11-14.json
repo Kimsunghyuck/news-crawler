@@ -1,219 +1,219 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T15:11:44.823414+09:00",
+  "generated_at": "2026-11-14T19:12:33.139205+09:00",
   "daily_top_keywords": [
     {
-      "word": "안경",
-      "count": 4
-    },
-    {
-      "word": "징계",
-      "count": 4
-    },
-    {
       "word": "트럼프",
-      "count": 3
-    },
-    {
-      "word": "하나",
-      "count": 3
+      "count": 7
     },
     {
       "word": "가능성",
-      "count": 3
+      "count": 7
     },
     {
-      "word": "사우디전",
-      "count": 3
+      "word": "안경",
+      "count": 7
+    },
+    {
+      "word": "하나",
+      "count": 6
     },
     {
       "word": "엔비디아",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "감독",
-      "count": 3
+      "word": "징계",
+      "count": 6
     },
     {
       "word": "시간",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "만에",
-      "count": 2
+      "word": "국힘",
+      "count": 5
     },
     {
-      "word": "경고",
-      "count": 2
+      "word": "국민",
+      "count": 5
     },
     {
-      "word": "손흥민",
-      "count": 2
-    },
-    {
-      "word": "모레노호",
-      "count": 2
-    },
-    {
-      "word": "실점",
-      "count": 2
-    },
-    {
-      "word": "아내",
-      "count": 2
-    },
-    {
-      "word": "젠슨",
-      "count": 2
-    },
-    {
-      "word": "직전",
-      "count": 2
-    },
-    {
-      "word": "조현",
-      "count": 2
+      "word": "사우디전",
+      "count": 4
     },
     {
       "word": "수준",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "아파트",
-      "count": 2
+      "word": "횟수",
+      "count": 4
+    },
+    {
+      "word": "셀프",
+      "count": 4
+    },
+    {
+      "word": "노리는",
+      "count": 4
+    },
+    {
+      "word": "추진",
+      "count": 4
+    },
+    {
+      "word": "감독",
+      "count": 4
+    },
+    {
+      "word": "특검법",
+      "count": 4
+    },
+    {
+      "word": "쳐도",
+      "count": 4
+    },
+    {
+      "word": "문제",
+      "count": 4
+    },
+    {
+      "word": "이건희",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "국힘",
+        "count": 5
+      },
+      {
+        "word": "국민",
+        "count": 5
+      },
+      {
         "word": "특검법",
-        "count": 2
-      },
-      {
-        "word": "한동훈",
-        "count": 2
-      },
-      {
-        "word": "징계",
-        "count": 2
-      },
-      {
-        "word": "조작",
-        "count": 2
+        "count": 4
       },
       {
         "word": "쳐도",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "문제",
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "감독",
-        "count": 2
+        "count": 3
       },
       {
         "word": "일본전",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "패배",
-        "count": 2
+        "word": "연패",
+        "count": 3
       },
       {
         "word": "사우디전",
-        "count": 2
+        "count": 3
       },
       {
         "word": "네덜란드",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
         "word": "안경",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만원",
-        "count": 2
+        "count": 3
       },
       {
         "word": "연준",
-        "count": 1
+        "count": 2
       },
       {
         "word": "금리",
-        "count": 1
+        "count": 2
       },
       {
         "word": "결정",
-        "count": 1
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "안경",
-        "count": 2
+        "count": 3
       },
       {
         "word": "주민",
-        "count": 2
+        "count": 3
       },
       {
         "word": "대피",
-        "count": 2
+        "count": 3
       },
       {
         "word": "경비원",
-        "count": 2
+        "count": 3
       },
       {
         "word": "시신",
-        "count": 2
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 2
+        "count": 5
       },
       {
         "word": "가능성",
-        "count": 2
-      },
-      {
-        "word": "젠슨",
-        "count": 2
+        "count": 5
       },
       {
         "word": "엔비디아",
-        "count": 2
+        "count": 5
       },
       {
-        "word": "불법",
-        "count": 1
+        "word": "올스톱",
+        "count": 3
+      },
+      {
+        "word": "젠슨",
+        "count": 3
       }
     ],
     "culture": [
       {
         "word": "이건희",
-        "count": 2
+        "count": 4
       },
       {
         "word": "문신",
-        "count": 2
+        "count": 4
       },
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
       }
     ]
   }
