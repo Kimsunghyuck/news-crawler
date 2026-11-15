@@ -1,219 +1,219 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T15:11:20.477920+09:00",
+  "generated_at": "2026-11-15T19:12:21.425067+09:00",
   "daily_top_keywords": [
     {
-      "word": "젠슨",
-      "count": 4
+      "word": "수석",
+      "count": 10
     },
     {
       "word": "만에",
-      "count": 4
+      "count": 9
     },
     {
-      "word": "수석",
+      "word": "세무사",
+      "count": 8
+    },
+    {
+      "word": "부정행위",
+      "count": 8
+    },
+    {
+      "word": "젠슨",
+      "count": 7
+    },
+    {
+      "word": "만원",
+      "count": 6
+    },
+    {
+      "word": "우승",
+      "count": 6
+    },
+    {
+      "word": "노리는",
+      "count": 5
+    },
+    {
+      "word": "김도영",
+      "count": 5
+    },
+    {
+      "word": "불륜",
+      "count": 5
+    },
+    {
+      "word": "최민희",
+      "count": 5
+    },
+    {
+      "word": "트럼프",
       "count": 4
     },
     {
       "word": "패배",
-      "count": 3
+      "count": 4
     },
     {
       "word": "결승포",
-      "count": 3
-    },
-    {
-      "word": "김도영",
-      "count": 3
-    },
-    {
-      "word": "만원",
-      "count": 3
-    },
-    {
-      "word": "불륜",
-      "count": 3
-    },
-    {
-      "word": "가장",
-      "count": 3
-    },
-    {
-      "word": "세무사",
-      "count": 3
-    },
-    {
-      "word": "부정행위",
-      "count": 3
-    },
-    {
-      "word": "우승",
-      "count": 3
+      "count": 4
     },
     {
       "word": "대만",
-      "count": 3
+      "count": 4
     },
     {
-      "word": "헝가리",
-      "count": 2
+      "word": "사흘",
+      "count": 4
     },
     {
-      "word": "트럼프",
-      "count": 2
+      "word": "시간",
+      "count": 4
     },
     {
-      "word": "김정은",
-      "count": 2
+      "word": "차석",
+      "count": 4
     },
     {
-      "word": "노리는",
-      "count": 2
+      "word": "자백",
+      "count": 4
     },
     {
-      "word": "변수",
-      "count": 2
-    },
-    {
-      "word": "출전",
-      "count": 2
-    },
-    {
-      "word": "극적",
-      "count": 2
+      "word": "꺾고",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "발언",
-        "count": 2
-      },
-      {
         "word": "최민희",
-        "count": 2
+        "count": 5
       },
       {
         "word": "신천지",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "대통령",
-        "count": 2
+        "word": "국힘",
+        "count": 3
       },
       {
-        "word": "가장",
-        "count": 2
+        "word": "국가자격시험",
+        "count": 3
+      },
+      {
+        "word": "부정행위",
+        "count": 3
       }
     ],
     "sports": [
+      {
+        "word": "우승",
+        "count": 5
+      },
+      {
+        "word": "꺾고",
+        "count": 4
+      },
+      {
+        "word": "김도영",
+        "count": 4
+      },
       {
         "word": "대만",
         "count": 3
       },
       {
-        "word": "결승",
-        "count": 2
-      },
-      {
-        "word": "영입",
-        "count": 2
-      },
-      {
-        "word": "꺾고",
-        "count": 2
-      },
-      {
-        "word": "우승",
-        "count": 2
+        "word": "노리는",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "만에",
-        "count": 3
+        "count": 6
       },
       {
-        "word": "수도권",
-        "count": 2
+        "word": "사흘",
+        "count": 4
       },
       {
         "word": "만원",
-        "count": 2
+        "count": 4
       },
       {
         "word": "젠슨",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "개월",
-        "count": 2
+        "word": "정체",
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "수석",
-        "count": 4
+        "count": 8
       },
       {
         "word": "세무사",
-        "count": 3
-      },
-      {
-        "word": "차석",
-        "count": 2
+        "count": 6
       },
       {
         "word": "부정행위",
-        "count": 2
+        "count": 5
+      },
+      {
+        "word": "차석",
+        "count": 4
       },
       {
         "word": "자백",
-        "count": 2
+        "count": 4
       }
     ],
     "international": [
       {
         "word": "트럼프",
-        "count": 2
-      },
-      {
-        "word": "김정은",
-        "count": 2
+        "count": 4
       },
       {
         "word": "젠슨",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "김정은",
+        "count": 3
       },
       {
         "word": "변수",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "땅속",
-        "count": 1
+        "word": "오르반",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "같은",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "건강팩트체크",
-        "count": 2
+        "word": "시간",
+        "count": 3
       },
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
       }
     ]
   }
