@@ -1,219 +1,219 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T15:10:57.739299+09:00",
+  "generated_at": "2026-11-17T19:12:41.426177+09:00",
   "daily_top_keywords": [
     {
-      "word": "감독",
-      "count": 5
-    },
-    {
       "word": "수능",
-      "count": 5
-    },
-    {
-      "word": "커닝",
-      "count": 5
-    },
-    {
-      "word": "김정은",
-      "count": 4
-    },
-    {
-      "word": "만에",
-      "count": 4
-    },
-    {
-      "word": "최대",
-      "count": 3
-    },
-    {
-      "word": "한동훈",
-      "count": 3
+      "count": 11
     },
     {
       "word": "조국",
-      "count": 2
+      "count": 7
     },
     {
       "word": "입국",
-      "count": 2
+      "count": 7
     },
     {
-      "word": "의혹",
-      "count": 2
+      "word": "김정은",
+      "count": 7
+    },
+    {
+      "word": "감독",
+      "count": 7
+    },
+    {
+      "word": "만에",
+      "count": 7
+    },
+    {
+      "word": "커닝",
+      "count": 7
     },
     {
       "word": "젠슨",
-      "count": 2
+      "count": 6
     },
     {
-      "word": "인플루언서",
-      "count": 2
+      "word": "최대",
+      "count": 6
     },
     {
-      "word": "만든",
-      "count": 2
+      "word": "거부",
+      "count": 5
+    },
+    {
+      "word": "마지막",
+      "count": 5
+    },
+    {
+      "word": "공항서",
+      "count": 4
     },
     {
       "word": "조원",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "만원",
-      "count": 2
+      "word": "입고",
+      "count": 4
     },
     {
-      "word": "결정",
-      "count": 2
+      "word": "한동훈",
+      "count": 4
     },
     {
-      "word": "방지",
-      "count": 2
+      "word": "안경",
+      "count": 4
     },
     {
-      "word": "개막",
-      "count": 2
+      "word": "은퇴",
+      "count": 4
     },
     {
-      "word": "삼지연",
-      "count": 2
+      "word": "계약",
+      "count": 4
     },
     {
-      "word": "대책",
-      "count": 2
+      "word": "모레노",
+      "count": 4
+    },
+    {
+      "word": "매달",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
+        "word": "수능",
+        "count": 6
+      },
+      {
         "word": "김정은",
-        "count": 3
+        "count": 4
       },
       {
         "word": "커닝",
-        "count": 3
+        "count": 4
       },
       {
         "word": "한동훈",
-        "count": 3
+        "count": 4
       },
       {
         "word": "삼지연",
-        "count": 2
-      },
-      {
-        "word": "수능",
-        "count": 2
+        "count": 3
       }
     ],
     "sports": [
       {
         "word": "감독",
-        "count": 4
+        "count": 6
       },
       {
         "word": "계약",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "벨기에",
-        "count": 2
+        "word": "모레노",
+        "count": 4
       },
       {
-        "word": "루카쿠",
-        "count": 2
+        "word": "마지막",
+        "count": 4
       },
       {
-        "word": "국가대표",
-        "count": 2
+        "word": "양의지",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "최대",
-        "count": 2
+        "count": 4
       },
       {
         "word": "만에",
-        "count": 2
+        "count": 4
       },
       {
         "word": "조원",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "만원",
-        "count": 2
+        "word": "삼성전자",
+        "count": 3
       },
       {
-        "word": "엔비디아",
-        "count": 1
+        "word": "년새",
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "수능",
+        "count": 5
+      },
+      {
+        "word": "아들",
+        "count": 3
+      },
+      {
+        "word": "숨져",
         "count": 3
       },
       {
         "word": "커닝",
+        "count": 3
+      },
+      {
+        "word": "노만석",
         "count": 2
-      },
-      {
-        "word": "리트",
-        "count": 1
-      },
-      {
-        "word": "만점자",
-        "count": 1
-      },
-      {
-        "word": "실력",
-        "count": 1
       }
     ],
     "international": [
       {
         "word": "젠슨",
-        "count": 2
+        "count": 5
       },
       {
         "word": "조국",
-        "count": 1
+        "count": 4
       },
       {
         "word": "입국",
-        "count": 1
+        "count": 4
       },
       {
-        "word": "거부당했다",
-        "count": 1
+        "word": "김정은",
+        "count": 3
       },
       {
-        "word": "과거",
-        "count": 1
+        "word": "거부",
+        "count": 3
       }
     ],
     "culture": [
       {
+        "word": "처음",
+        "count": 3
+      },
+      {
         "word": "민소매",
-        "count": 2
+        "count": 3
       },
       {
         "word": "입고",
-        "count": 2
-      },
-      {
-        "word": "후보에",
-        "count": 2
+        "count": 3
       },
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       }
     ]
   }
