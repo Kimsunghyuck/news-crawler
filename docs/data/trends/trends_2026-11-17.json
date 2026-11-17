@@ -1,13 +1,220 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T09:28:52.182089+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-17T15:10:57.739299+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "감독",
+      "count": 5
+    },
+    {
+      "word": "수능",
+      "count": 5
+    },
+    {
+      "word": "커닝",
+      "count": 5
+    },
+    {
+      "word": "김정은",
+      "count": 4
+    },
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 3
+    },
+    {
+      "word": "한동훈",
+      "count": 3
+    },
+    {
+      "word": "조국",
+      "count": 2
+    },
+    {
+      "word": "입국",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "젠슨",
+      "count": 2
+    },
+    {
+      "word": "인플루언서",
+      "count": 2
+    },
+    {
+      "word": "만든",
+      "count": 2
+    },
+    {
+      "word": "조원",
+      "count": 2
+    },
+    {
+      "word": "만원",
+      "count": 2
+    },
+    {
+      "word": "결정",
+      "count": 2
+    },
+    {
+      "word": "방지",
+      "count": 2
+    },
+    {
+      "word": "개막",
+      "count": 2
+    },
+    {
+      "word": "삼지연",
+      "count": 2
+    },
+    {
+      "word": "대책",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "김정은",
+        "count": 3
+      },
+      {
+        "word": "커닝",
+        "count": 3
+      },
+      {
+        "word": "한동훈",
+        "count": 3
+      },
+      {
+        "word": "삼지연",
+        "count": 2
+      },
+      {
+        "word": "수능",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "감독",
+        "count": 4
+      },
+      {
+        "word": "계약",
+        "count": 2
+      },
+      {
+        "word": "벨기에",
+        "count": 2
+      },
+      {
+        "word": "루카쿠",
+        "count": 2
+      },
+      {
+        "word": "국가대표",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "최대",
+        "count": 2
+      },
+      {
+        "word": "만에",
+        "count": 2
+      },
+      {
+        "word": "조원",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "엔비디아",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "수능",
+        "count": 3
+      },
+      {
+        "word": "커닝",
+        "count": 2
+      },
+      {
+        "word": "리트",
+        "count": 1
+      },
+      {
+        "word": "만점자",
+        "count": 1
+      },
+      {
+        "word": "실력",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "젠슨",
+        "count": 2
+      },
+      {
+        "word": "조국",
+        "count": 1
+      },
+      {
+        "word": "입국",
+        "count": 1
+      },
+      {
+        "word": "거부당했다",
+        "count": 1
+      },
+      {
+        "word": "과거",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "민소매",
+        "count": 2
+      },
+      {
+        "word": "입고",
+        "count": 2
+      },
+      {
+        "word": "후보에",
+        "count": 2
+      },
+      {
+        "word": "최민식",
+        "count": 1
+      },
+      {
+        "word": "박해일",
+        "count": 1
+      }
+    ]
   }
 }
