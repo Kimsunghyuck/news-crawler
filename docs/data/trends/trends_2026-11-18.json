@@ -1,219 +1,219 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T15:10:01.297653+09:00",
+  "generated_at": "2026-11-18T19:13:14.628927+09:00",
   "daily_top_keywords": [
     {
       "word": "혐의",
-      "count": 5
+      "count": 7
     },
     {
       "word": "추경호",
-      "count": 5
+      "count": 7
     },
     {
       "word": "무죄",
-      "count": 4
+      "count": 6
     },
     {
       "word": "년만에",
-      "count": 3
-    },
-    {
-      "word": "한국",
-      "count": 3
-    },
-    {
-      "word": "만원",
-      "count": 3
-    },
-    {
-      "word": "엔비디아",
-      "count": 3
-    },
-    {
-      "word": "젠슨",
-      "count": 3
-    },
-    {
-      "word": "특검",
-      "count": 3
-    },
-    {
-      "word": "선관위",
-      "count": 3
-    },
-    {
-      "word": "구속영장",
-      "count": 3
-    },
-    {
-      "word": "승리",
-      "count": 2
-    },
-    {
-      "word": "상원",
-      "count": 2
+      "count": 5
     },
     {
       "word": "시험",
-      "count": 2
+      "count": 5
     },
     {
-      "word": "남성",
-      "count": 2
+      "word": "엔비디아",
+      "count": 5
     },
     {
-      "word": "푸틴",
-      "count": 2
+      "word": "만원",
+      "count": 5
     },
     {
-      "word": "김정은",
-      "count": 2
+      "word": "특검",
+      "count": 5
     },
     {
-      "word": "이어",
-      "count": 2
+      "word": "한국",
+      "count": 4
+    },
+    {
+      "word": "논란",
+      "count": 4
+    },
+    {
+      "word": "조국",
+      "count": 4
+    },
+    {
+      "word": "입국",
+      "count": 4
     },
     {
       "word": "서울",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "뛰었다",
-      "count": 2
+      "word": "젠슨",
+      "count": 4
+    },
+    {
+      "word": "찍은",
+      "count": 4
+    },
+    {
+      "word": "연속",
+      "count": 4
+    },
+    {
+      "word": "선관위",
+      "count": 4
+    },
+    {
+      "word": "입증",
+      "count": 4
+    },
+    {
+      "word": "방해",
+      "count": 4
+    },
+    {
+      "word": "수능",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "입국",
-        "count": 2
+        "word": "한동훈이",
+        "count": 4
       },
       {
-        "word": "거부당한",
-        "count": 2
+        "word": "개판",
+        "count": 4
       },
       {
-        "word": "조국",
-        "count": 2
+        "word": "쳤어",
+        "count": 4
       },
       {
-        "word": "독도",
-        "count": 2
+        "word": "집무실",
+        "count": 4
       },
       {
-        "word": "다시",
-        "count": 2
+        "word": "밖에서도",
+        "count": 4
       }
     ],
     "sports": [
       {
+        "word": "선수들",
+        "count": 4
+      },
+      {
+        "word": "감독",
+        "count": 4
+      },
+      {
         "word": "축구",
-        "count": 2
+        "count": 3
       },
       {
         "word": "모리야스",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "김도영",
-        "count": 2
-      },
-      {
-        "word": "수상",
-        "count": 2
-      },
-      {
-        "word": "선수들",
-        "count": 2
+        "word": "은퇴",
+        "count": 3
       }
     ],
     "economy": [
       {
         "word": "만원",
-        "count": 3
+        "count": 5
       },
       {
         "word": "엔비디아",
-        "count": 3
+        "count": 4
       },
       {
         "word": "젠슨",
-        "count": 3
+        "count": 4
       },
       {
         "word": "뛰었다",
-        "count": 2
+        "count": 3
       },
       {
         "word": "퇴직금",
-        "count": 2
+        "count": 3
       }
     ],
     "society": [
       {
-        "word": "혐의",
-        "count": 4
-      },
-      {
         "word": "추경호",
-        "count": 4
+        "count": 6
       },
       {
         "word": "무죄",
+        "count": 6
+      },
+      {
+        "word": "혐의",
+        "count": 5
+      },
+      {
+        "word": "방해",
         "count": 4
       },
       {
         "word": "특검",
-        "count": 2
-      },
-      {
-        "word": "선관위",
-        "count": 2
+        "count": 3
       }
     ],
     "international": [
       {
+        "word": "시험",
+        "count": 4
+      },
+      {
         "word": "승리",
-        "count": 2
+        "count": 3
       },
       {
         "word": "상원",
-        "count": 2
+        "count": 3
       },
       {
         "word": "한국",
-        "count": 2
-      },
-      {
-        "word": "시험",
-        "count": 2
+        "count": 3
       },
       {
         "word": "알래스카마저",
-        "count": 1
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "못한",
-        "count": 2
+        "count": 3
       },
       {
         "word": "최민식",
-        "count": 1
+        "count": 2
       },
       {
         "word": "박해일",
-        "count": 1
+        "count": 2
       },
       {
         "word": "변요한",
-        "count": 1
+        "count": 2
       },
       {
         "word": "추석",
-        "count": 1
+        "count": 2
       }
     ]
   }
