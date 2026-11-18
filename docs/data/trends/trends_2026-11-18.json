@@ -1,13 +1,220 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T09:30:41.943655+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-18T15:10:01.297653+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "혐의",
+      "count": 5
+    },
+    {
+      "word": "추경호",
+      "count": 5
+    },
+    {
+      "word": "무죄",
+      "count": 4
+    },
+    {
+      "word": "년만에",
+      "count": 3
+    },
+    {
+      "word": "한국",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "엔비디아",
+      "count": 3
+    },
+    {
+      "word": "젠슨",
+      "count": 3
+    },
+    {
+      "word": "특검",
+      "count": 3
+    },
+    {
+      "word": "선관위",
+      "count": 3
+    },
+    {
+      "word": "구속영장",
+      "count": 3
+    },
+    {
+      "word": "승리",
+      "count": 2
+    },
+    {
+      "word": "상원",
+      "count": 2
+    },
+    {
+      "word": "시험",
+      "count": 2
+    },
+    {
+      "word": "남성",
+      "count": 2
+    },
+    {
+      "word": "푸틴",
+      "count": 2
+    },
+    {
+      "word": "김정은",
+      "count": 2
+    },
+    {
+      "word": "이어",
+      "count": 2
+    },
+    {
+      "word": "서울",
+      "count": 2
+    },
+    {
+      "word": "뛰었다",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "입국",
+        "count": 2
+      },
+      {
+        "word": "거부당한",
+        "count": 2
+      },
+      {
+        "word": "조국",
+        "count": 2
+      },
+      {
+        "word": "독도",
+        "count": 2
+      },
+      {
+        "word": "다시",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "축구",
+        "count": 2
+      },
+      {
+        "word": "모리야스",
+        "count": 2
+      },
+      {
+        "word": "김도영",
+        "count": 2
+      },
+      {
+        "word": "수상",
+        "count": 2
+      },
+      {
+        "word": "선수들",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "엔비디아",
+        "count": 3
+      },
+      {
+        "word": "젠슨",
+        "count": 3
+      },
+      {
+        "word": "뛰었다",
+        "count": 2
+      },
+      {
+        "word": "퇴직금",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "혐의",
+        "count": 4
+      },
+      {
+        "word": "추경호",
+        "count": 4
+      },
+      {
+        "word": "무죄",
+        "count": 4
+      },
+      {
+        "word": "특검",
+        "count": 2
+      },
+      {
+        "word": "선관위",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "승리",
+        "count": 2
+      },
+      {
+        "word": "상원",
+        "count": 2
+      },
+      {
+        "word": "한국",
+        "count": 2
+      },
+      {
+        "word": "시험",
+        "count": 2
+      },
+      {
+        "word": "알래스카마저",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "못한",
+        "count": 2
+      },
+      {
+        "word": "최민식",
+        "count": 1
+      },
+      {
+        "word": "박해일",
+        "count": 1
+      },
+      {
+        "word": "변요한",
+        "count": 1
+      },
+      {
+        "word": "추석",
+        "count": 1
+      }
+    ]
   }
 }
