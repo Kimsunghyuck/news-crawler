@@ -1,13 +1,220 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T09:30:22.846245+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-19T15:12:04.071863+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "수능",
+      "count": 6
+    },
+    {
+      "word": "발견",
+      "count": 5
+    },
+    {
+      "word": "감독",
+      "count": 4
+    },
+    {
+      "word": "리트",
+      "count": 4
+    },
+    {
+      "word": "만점자",
+      "count": 4
+    },
+    {
+      "word": "푸틴",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 3
+    },
+    {
+      "word": "만에",
+      "count": 3
+    },
+    {
+      "word": "년간",
+      "count": 3
+    },
+    {
+      "word": "용인",
+      "count": 3
+    },
+    {
+      "word": "초소형카메라",
+      "count": 3
+    },
+    {
+      "word": "매체",
+      "count": 2
+    },
+    {
+      "word": "아냐",
+      "count": 2
+    },
+    {
+      "word": "우크라",
+      "count": 2
+    },
+    {
+      "word": "유럽",
+      "count": 2
+    },
+    {
+      "word": "시대",
+      "count": 2
+    },
+    {
+      "word": "파괴",
+      "count": 2
+    },
+    {
+      "word": "시험",
+      "count": 2
+    },
+    {
+      "word": "시진핑",
+      "count": 2
+    },
+    {
+      "word": "방문",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "결과",
+        "count": 2
+      },
+      {
+        "word": "박찬종",
+        "count": 2
+      },
+      {
+        "word": "의원",
+        "count": 2
+      },
+      {
+        "word": "별세",
+        "count": 2
+      },
+      {
+        "word": "시신",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "감독",
+        "count": 3
+      },
+      {
+        "word": "허구연",
+        "count": 2
+      },
+      {
+        "word": "연임",
+        "count": 2
+      },
+      {
+        "word": "년까지",
+        "count": 2
+      },
+      {
+        "word": "이강인",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "세대",
+        "count": 2
+      },
+      {
+        "word": "산란계",
+        "count": 1
+      },
+      {
+        "word": "농장",
+        "count": 1
+      },
+      {
+        "word": "중심",
+        "count": 1
+      },
+      {
+        "word": "확산",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "발견",
+        "count": 5
+      },
+      {
+        "word": "수능",
+        "count": 4
+      },
+      {
+        "word": "용인",
+        "count": 3
+      },
+      {
+        "word": "초소형카메라",
+        "count": 3
+      },
+      {
+        "word": "리트",
+        "count": 3
+      }
+    ],
+    "international": [
+      {
+        "word": "푸틴",
+        "count": 3
+      },
+      {
+        "word": "우크라",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "시험",
+        "count": 2
+      },
+      {
+        "word": "시진핑",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "이세영",
+        "count": 1
+      },
+      {
+        "word": "초보운전",
+        "count": 1
+      },
+      {
+        "word": "아직도",
+        "count": 1
+      },
+      {
+        "word": "계속",
+        "count": 1
+      },
+      {
+        "word": "분장팀에서도",
+        "count": 1
+      }
+    ]
   }
 }
