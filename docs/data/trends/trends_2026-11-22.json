@@ -1,13 +1,220 @@
 {
   "date": "2026-11-22",
-  "generated_at": "2026-11-22T09:28:42.132419+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-22T15:11:04.648985+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "조희대",
+      "count": 4
+    },
+    {
+      "word": "탄핵",
+      "count": 4
+    },
+    {
+      "word": "조국",
+      "count": 3
+    },
+    {
+      "word": "발견",
+      "count": 3
+    },
+    {
+      "word": "아르헨티나",
+      "count": 2
+    },
+    {
+      "word": "축구선수",
+      "count": 2
+    },
+    {
+      "word": "낙뢰",
+      "count": 2
+    },
+    {
+      "word": "맞아",
+      "count": 2
+    },
+    {
+      "word": "사망",
+      "count": 2
+    },
+    {
+      "word": "케인",
+      "count": 2
+    },
+    {
+      "word": "발목",
+      "count": 2
+    },
+    {
+      "word": "인대",
+      "count": 2
+    },
+    {
+      "word": "엔비디아",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "드라마",
+      "count": 2
+    },
+    {
+      "word": "젠슨",
+      "count": 2
+    },
+    {
+      "word": "이유",
+      "count": 2
+    },
+    {
+      "word": "요구",
+      "count": 2
+    },
+    {
+      "word": "검토",
+      "count": 2
+    },
+    {
+      "word": "발칵",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "조희대",
+        "count": 4
+      },
+      {
+        "word": "탄핵",
+        "count": 4
+      },
+      {
+        "word": "조국",
+        "count": 3
+      },
+      {
+        "word": "당명",
+        "count": 2
+      },
+      {
+        "word": "아니지만",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "리그",
+        "count": 2
+      },
+      {
+        "word": "경기",
+        "count": 2
+      },
+      {
+        "word": "연속",
+        "count": 2
+      },
+      {
+        "word": "손흥민",
+        "count": 2
+      },
+      {
+        "word": "이현중",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "앤스로픽",
+        "count": 1
+      },
+      {
+        "word": "연구원",
+        "count": 1
+      },
+      {
+        "word": "클로드",
+        "count": 1
+      },
+      {
+        "word": "난제",
+        "count": 1
+      },
+      {
+        "word": "리만",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "발견",
+        "count": 3
+      },
+      {
+        "word": "금천구",
+        "count": 2
+      },
+      {
+        "word": "건물",
+        "count": 2
+      },
+      {
+        "word": "보일러실서",
+        "count": 2
+      },
+      {
+        "word": "미라화",
+        "count": 2
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "앨리스",
+        "count": 1
+      },
+      {
+        "word": "황은",
+        "count": 1
+      },
+      {
+        "word": "얼굴",
+        "count": 1
+      },
+      {
+        "word": "마담",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "로봇",
+        "count": 2
+      },
+      {
+        "word": "비결은",
+        "count": 2
+      },
+      {
+        "word": "시대",
+        "count": 1
+      },
+      {
+        "word": "예견한",
+        "count": 1
+      },
+      {
+        "word": "아시모프의",
+        "count": 1
+      }
+    ]
   }
 }
