@@ -1,219 +1,219 @@
 {
   "date": "2026-11-22",
-  "generated_at": "2026-11-22T15:11:04.648985+09:00",
+  "generated_at": "2026-11-22T19:12:28.817372+09:00",
   "daily_top_keywords": [
     {
       "word": "조희대",
-      "count": 4
-    },
-    {
-      "word": "탄핵",
-      "count": 4
-    },
-    {
-      "word": "조국",
-      "count": 3
-    },
-    {
-      "word": "발견",
-      "count": 3
-    },
-    {
-      "word": "아르헨티나",
-      "count": 2
-    },
-    {
-      "word": "축구선수",
-      "count": 2
-    },
-    {
-      "word": "낙뢰",
-      "count": 2
-    },
-    {
-      "word": "맞아",
-      "count": 2
-    },
-    {
-      "word": "사망",
-      "count": 2
-    },
-    {
-      "word": "케인",
-      "count": 2
-    },
-    {
-      "word": "발목",
-      "count": 2
-    },
-    {
-      "word": "인대",
-      "count": 2
-    },
-    {
-      "word": "엔비디아",
-      "count": 2
+      "count": 7
     },
     {
       "word": "트럼프",
-      "count": 2
+      "count": 6
     },
     {
-      "word": "드라마",
-      "count": 2
+      "word": "조국",
+      "count": 6
+    },
+    {
+      "word": "탄핵",
+      "count": 6
+    },
+    {
+      "word": "개월",
+      "count": 5
+    },
+    {
+      "word": "대통령",
+      "count": 5
+    },
+    {
+      "word": "제안",
+      "count": 4
     },
     {
       "word": "젠슨",
-      "count": 2
+      "count": 4
     },
     {
       "word": "이유",
-      "count": 2
+      "count": 4
     },
     {
       "word": "요구",
-      "count": 2
+      "count": 4
     },
     {
       "word": "검토",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "발칵",
-      "count": 2
+      "word": "리그",
+      "count": 4
+    },
+    {
+      "word": "연속",
+      "count": 4
+    },
+    {
+      "word": "손흥민",
+      "count": 4
+    },
+    {
+      "word": "떠난",
+      "count": 4
+    },
+    {
+      "word": "로봇",
+      "count": 4
+    },
+    {
+      "word": "당명",
+      "count": 4
+    },
+    {
+      "word": "아니지만",
+      "count": 4
+    },
+    {
+      "word": "발견",
+      "count": 4
+    },
+    {
+      "word": "정년연장",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "조희대",
-        "count": 4
-      },
-      {
-        "word": "탄핵",
-        "count": 4
+        "count": 7
       },
       {
         "word": "조국",
-        "count": 3
+        "count": 6
+      },
+      {
+        "word": "탄핵",
+        "count": 6
       },
       {
         "word": "당명",
-        "count": 2
+        "count": 4
       },
       {
         "word": "아니지만",
-        "count": 2
+        "count": 4
       }
     ],
     "sports": [
       {
         "word": "리그",
-        "count": 2
-      },
-      {
-        "word": "경기",
-        "count": 2
+        "count": 4
       },
       {
         "word": "연속",
-        "count": 2
+        "count": 4
       },
       {
         "word": "손흥민",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "경기",
+        "count": 3
       },
       {
         "word": "이현중",
-        "count": 1
+        "count": 2
       }
     ],
     "economy": [
       {
-        "word": "앤스로픽",
-        "count": 1
+        "word": "가구",
+        "count": 3
       },
       {
-        "word": "연구원",
-        "count": 1
+        "word": "주택",
+        "count": 2
       },
       {
-        "word": "클로드",
-        "count": 1
+        "word": "소유",
+        "count": 2
       },
       {
-        "word": "난제",
-        "count": 1
+        "word": "마통",
+        "count": 2
       },
       {
-        "word": "리만",
-        "count": 1
+        "word": "젠슨",
+        "count": 2
       }
     ],
     "society": [
       {
         "word": "발견",
-        "count": 3
+        "count": 4
       },
       {
         "word": "금천구",
-        "count": 2
-      },
-      {
-        "word": "건물",
-        "count": 2
-      },
-      {
-        "word": "보일러실서",
-        "count": 2
+        "count": 3
       },
       {
         "word": "미라화",
-        "count": 2
+        "count": 3
+      },
+      {
+        "word": "시신",
+        "count": 3
+      },
+      {
+        "word": "수사",
+        "count": 3
       }
     ],
     "international": [
       {
         "word": "트럼프",
+        "count": 6
+      },
+      {
+        "word": "멜라니아",
+        "count": 3
+      },
+      {
+        "word": "엔비디아칩",
         "count": 2
       },
       {
-        "word": "앨리스",
-        "count": 1
+        "word": "밀수",
+        "count": 2
       },
       {
-        "word": "황은",
-        "count": 1
-      },
-      {
-        "word": "얼굴",
-        "count": 1
-      },
-      {
-        "word": "마담",
-        "count": 1
+        "word": "공식",
+        "count": 2
       }
     ],
     "culture": [
       {
         "word": "로봇",
-        "count": 2
+        "count": 4
       },
       {
         "word": "비결은",
-        "count": 2
+        "count": 3
       },
       {
         "word": "시대",
-        "count": 1
+        "count": 2
       },
       {
         "word": "예견한",
-        "count": 1
+        "count": 2
       },
       {
         "word": "아시모프의",
-        "count": 1
+        "count": 2
       }
     ]
   }
