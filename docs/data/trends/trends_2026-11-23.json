@@ -1,131 +1,131 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T15:12:45.912281+09:00",
+  "generated_at": "2026-11-23T19:13:01.910085+09:00",
   "daily_top_keywords": [
     {
+      "word": "만원",
+      "count": 6
+    },
+    {
+      "word": "트럼프",
+      "count": 5
+    },
+    {
+      "word": "세계",
+      "count": 5
+    },
+    {
+      "word": "우승",
+      "count": 5
+    },
+    {
       "word": "달러",
-      "count": 4
+      "count": 5
     },
     {
       "word": "억원",
+      "count": 5
+    },
+    {
+      "word": "대상",
+      "count": 5
+    },
+    {
+      "word": "아들",
+      "count": 5
+    },
+    {
+      "word": "경고",
+      "count": 4
+    },
+    {
+      "word": "폭락",
+      "count": 4
+    },
+    {
+      "word": "민주당",
       "count": 4
     },
     {
       "word": "충격",
-      "count": 3
-    },
-    {
-      "word": "세계",
-      "count": 3
-    },
-    {
-      "word": "역대",
-      "count": 3
-    },
-    {
-      "word": "만원",
-      "count": 3
-    },
-    {
-      "word": "경찰",
-      "count": 3
-    },
-    {
-      "word": "수도",
-      "count": 2
-    },
-    {
-      "word": "경고",
-      "count": 2
-    },
-    {
-      "word": "너무",
-      "count": 2
-    },
-    {
-      "word": "젠슨",
-      "count": 2
-    },
-    {
-      "word": "트럼프",
-      "count": 2
+      "count": 4
     },
     {
       "word": "이젠",
-      "count": 2
+      "count": 4
     },
     {
       "word": "뒤집힌",
-      "count": 2
-    },
-    {
-      "word": "민주당",
-      "count": 2
+      "count": 4
     },
     {
       "word": "맨유",
-      "count": 2
+      "count": 4
     },
     {
       "word": "포체티노",
-      "count": 2
+      "count": 4
     },
     {
       "word": "리버풀에",
-      "count": 2
+      "count": 4
     },
     {
       "word": "스쿠벌",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "계약",
-      "count": 2
+      "word": "티띠꾼",
+      "count": 4
+    },
+    {
+      "word": "국힘",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "없어",
-        "count": 2
-      },
-      {
-        "word": "탄핵",
-        "count": 2
-      },
-      {
-        "word": "사유",
-        "count": 2
+        "word": "국힘",
+        "count": 4
       },
       {
         "word": "신천지",
-        "count": 2
+        "count": 4
       },
       {
         "word": "친명",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "이진관",
+        "count": 3
+      },
+      {
+        "word": "판사",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "억원",
-        "count": 3
+        "word": "우승",
+        "count": 5
       },
       {
         "word": "맨유",
-        "count": 2
+        "count": 4
       },
       {
         "word": "포체티노",
-        "count": 2
+        "count": 4
       },
       {
         "word": "리버풀에",
-        "count": 2
+        "count": 4
       },
       {
         "word": "스쿠벌",
-        "count": 2
+        "count": 4
       }
     ],
     "economy": [
@@ -134,86 +134,86 @@
         "count": 3
       },
       {
-        "word": "수출",
-        "count": 2
+        "word": "카카오",
+        "count": 3
       },
       {
-        "word": "금융",
-        "count": 2
+        "word": "주주",
+        "count": 3
       },
       {
-        "word": "역대",
-        "count": 1
+        "word": "상장",
+        "count": 3
       },
       {
-        "word": "최대",
-        "count": 1
+        "word": "반대한",
+        "count": 3
       }
     ],
     "society": [
       {
+        "word": "아들",
+        "count": 5
+      },
+      {
         "word": "경찰",
-        "count": 3
+        "count": 4
       },
       {
         "word": "만원",
+        "count": 3
+      },
+      {
+        "word": "특검",
         "count": 2
       },
       {
-        "word": "아들",
+        "word": "부정행위",
         "count": 2
-      },
-      {
-        "word": "감귤",
-        "count": 1
-      },
-      {
-        "word": "아이돌",
-        "count": 1
       }
     ],
     "international": [
+      {
+        "word": "트럼프",
+        "count": 5
+      },
+      {
+        "word": "젠슨",
+        "count": 3
+      },
+      {
+        "word": "여성",
+        "count": 2
+      },
       {
         "word": "수도",
         "count": 2
       },
       {
-        "word": "젠슨",
+        "word": "경고",
         "count": 2
-      },
-      {
-        "word": "트럼프",
-        "count": 2
-      },
-      {
-        "word": "중국",
-        "count": 1
-      },
-      {
-        "word": "대만도",
-        "count": 1
       }
     ],
     "culture": [
       {
         "word": "대상",
+        "count": 4
+      },
+      {
+        "word": "아빠",
         "count": 2
       },
       {
-        "word": "백진희",
-        "count": 1
+        "word": "최민식",
+        "count": 2
       },
       {
-        "word": "결혼",
-        "count": 1
+        "word": "박해일",
+        "count": 2
       },
       {
-        "word": "앞두고",
-        "count": 1
-      },
-      {
-        "word": "캐나다",
-        "count": 1
+        "word": "변요한",
+        "count": 2
       }
     ]
   }
