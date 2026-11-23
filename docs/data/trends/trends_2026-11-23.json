@@ -1,13 +1,220 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T09:32:03.390143+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-23T15:12:45.912281+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "달러",
+      "count": 4
+    },
+    {
+      "word": "억원",
+      "count": 4
+    },
+    {
+      "word": "충격",
+      "count": 3
+    },
+    {
+      "word": "세계",
+      "count": 3
+    },
+    {
+      "word": "역대",
+      "count": 3
+    },
+    {
+      "word": "만원",
+      "count": 3
+    },
+    {
+      "word": "경찰",
+      "count": 3
+    },
+    {
+      "word": "수도",
+      "count": 2
+    },
+    {
+      "word": "경고",
+      "count": 2
+    },
+    {
+      "word": "너무",
+      "count": 2
+    },
+    {
+      "word": "젠슨",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "이젠",
+      "count": 2
+    },
+    {
+      "word": "뒤집힌",
+      "count": 2
+    },
+    {
+      "word": "민주당",
+      "count": 2
+    },
+    {
+      "word": "맨유",
+      "count": 2
+    },
+    {
+      "word": "포체티노",
+      "count": 2
+    },
+    {
+      "word": "리버풀에",
+      "count": 2
+    },
+    {
+      "word": "스쿠벌",
+      "count": 2
+    },
+    {
+      "word": "계약",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "없어",
+        "count": 2
+      },
+      {
+        "word": "탄핵",
+        "count": 2
+      },
+      {
+        "word": "사유",
+        "count": 2
+      },
+      {
+        "word": "신천지",
+        "count": 2
+      },
+      {
+        "word": "친명",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "억원",
+        "count": 3
+      },
+      {
+        "word": "맨유",
+        "count": 2
+      },
+      {
+        "word": "포체티노",
+        "count": 2
+      },
+      {
+        "word": "리버풀에",
+        "count": 2
+      },
+      {
+        "word": "스쿠벌",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "달러",
+        "count": 3
+      },
+      {
+        "word": "수출",
+        "count": 2
+      },
+      {
+        "word": "금융",
+        "count": 2
+      },
+      {
+        "word": "역대",
+        "count": 1
+      },
+      {
+        "word": "최대",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "경찰",
+        "count": 3
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "아들",
+        "count": 2
+      },
+      {
+        "word": "감귤",
+        "count": 1
+      },
+      {
+        "word": "아이돌",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "수도",
+        "count": 2
+      },
+      {
+        "word": "젠슨",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "중국",
+        "count": 1
+      },
+      {
+        "word": "대만도",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "대상",
+        "count": 2
+      },
+      {
+        "word": "백진희",
+        "count": 1
+      },
+      {
+        "word": "결혼",
+        "count": 1
+      },
+      {
+        "word": "앞두고",
+        "count": 1
+      },
+      {
+        "word": "캐나다",
+        "count": 1
+      }
+    ]
   }
 }
