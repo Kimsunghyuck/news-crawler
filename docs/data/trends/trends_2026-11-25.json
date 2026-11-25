@@ -1,158 +1,162 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T15:11:37.037225+09:00",
+  "generated_at": "2026-11-25T19:13:17.458445+09:00",
   "daily_top_keywords": [
     {
       "word": "탄핵",
-      "count": 6
+      "count": 10
     },
     {
-      "word": "젠슨",
-      "count": 5
-    },
-    {
-      "word": "김하성",
-      "count": 4
+      "word": "만원",
+      "count": 7
     },
     {
       "word": "계약",
-      "count": 4
+      "count": 7
     },
     {
-      "word": "하루",
-      "count": 4
-    },
-    {
-      "word": "조희대",
-      "count": 4
-    },
-    {
-      "word": "번째",
-      "count": 3
-    },
-    {
-      "word": "담긴",
-      "count": 3
+      "word": "젠슨",
+      "count": 6
     },
     {
       "word": "달러",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "디트로이트와",
-      "count": 3
-    },
-    {
-      "word": "결혼",
-      "count": 3
+      "word": "김하성",
+      "count": 6
     },
     {
       "word": "결국",
-      "count": 3
-    },
-    {
-      "word": "국내",
-      "count": 3
+      "count": 6
     },
     {
       "word": "만에",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "대통령",
-      "count": 3
+      "word": "하루",
+      "count": 6
     },
     {
-      "word": "경찰",
-      "count": 3
+      "word": "조희대",
+      "count": 6
     },
     {
       "word": "코스피",
-      "count": 3
+      "count": 6
     },
     {
-      "word": "표적",
-      "count": 2
+      "word": "번째",
+      "count": 5
     },
     {
-      "word": "엄마",
-      "count": 2
+      "word": "디트로이트와",
+      "count": 5
     },
     {
-      "word": "아들",
-      "count": 2
+      "word": "트럼프",
+      "count": 4
+    },
+    {
+      "word": "담긴",
+      "count": 4
+    },
+    {
+      "word": "최대",
+      "count": 4
+    },
+    {
+      "word": "가능",
+      "count": 4
+    },
+    {
+      "word": "결혼",
+      "count": 4
+    },
+    {
+      "word": "국내",
+      "count": 4
+    },
+    {
+      "word": "스위스",
+      "count": 4
     }
   ],
   "category_keywords": {
     "politics": [
       {
         "word": "조희대",
-        "count": 3
+        "count": 5
       },
       {
         "word": "스위스",
-        "count": 2
+        "count": 4
       },
       {
         "word": "폐쇄",
-        "count": 2
+        "count": 4
       },
       {
-        "word": "대통령",
-        "count": 2
+        "word": "탄핵",
+        "count": 4
       },
       {
-        "word": "김민석",
-        "count": 2
+        "word": "외교사무소",
+        "count": 3
       }
     ],
     "sports": [
       {
-        "word": "김하성",
-        "count": 4
+        "word": "계약",
+        "count": 7
       },
       {
-        "word": "계약",
-        "count": 4
+        "word": "김하성",
+        "count": 6
       },
       {
         "word": "디트로이트와",
+        "count": 5
+      },
+      {
+        "word": "달러",
+        "count": 4
+      },
+      {
+        "word": "레알",
         "count": 3
-      },
-      {
-        "word": "모레노",
-        "count": 2
-      },
-      {
-        "word": "합의",
-        "count": 2
       }
     ],
     "economy": [
       {
         "word": "코스피",
-        "count": 3
+        "count": 6
       },
       {
         "word": "하루",
-        "count": 3
+        "count": 4
       },
       {
-        "word": "안팎",
-        "count": 2
+        "word": "반납",
+        "count": 4
       },
       {
         "word": "급락",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "만에",
-        "count": 2
+        "word": "만원",
+        "count": 3
       }
     ],
     "society": [
       {
         "word": "경찰",
+        "count": 3
+      },
+      {
+        "word": "탄핵",
         "count": 3
       },
       {
@@ -166,54 +170,50 @@
       {
         "word": "출석",
         "count": 2
-      },
-      {
-        "word": "죽음이",
-        "count": 2
       }
     ],
     "international": [
       {
         "word": "젠슨",
-        "count": 4
-      },
-      {
-        "word": "표적",
-        "count": 2
+        "count": 5
       },
       {
         "word": "트럼프",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "앨리스",
+        "count": 3
       },
       {
         "word": "탄핵",
-        "count": 2
+        "count": 3
       },
       {
-        "word": "위성",
+        "word": "표적",
         "count": 2
       }
     ],
     "culture": [
       {
         "word": "결혼",
+        "count": 3
+      },
+      {
+        "word": "최민식",
         "count": 2
       },
       {
-        "word": "국립중앙도서관",
-        "count": 1
+        "word": "박해일",
+        "count": 2
       },
       {
-        "word": "미주",
-        "count": 1
+        "word": "변요한",
+        "count": 2
       },
       {
-        "word": "한인",
-        "count": 1
-      },
-      {
-        "word": "기록",
-        "count": 1
+        "word": "추석",
+        "count": 2
       }
     ]
   }
