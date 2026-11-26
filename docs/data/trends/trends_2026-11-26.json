@@ -1,13 +1,220 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T09:30:18.032554+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-26T15:12:22.874660+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "젠슨",
+      "count": 5
+    },
+    {
+      "word": "만원",
+      "count": 5
+    },
+    {
+      "word": "세계",
+      "count": 4
+    },
+    {
+      "word": "엔비디아",
+      "count": 3
+    },
+    {
+      "word": "반도체",
+      "count": 3
+    },
+    {
+      "word": "권순우",
+      "count": 3
+    },
+    {
+      "word": "데이비스컵",
+      "count": 3
+    },
+    {
+      "word": "국힘",
+      "count": 3
+    },
+    {
+      "word": "스캔들",
+      "count": 2
+    },
+    {
+      "word": "까지",
+      "count": 2
+    },
+    {
+      "word": "징역",
+      "count": 2
+    },
+    {
+      "word": "정부",
+      "count": 2
+    },
+    {
+      "word": "관세",
+      "count": 2
+    },
+    {
+      "word": "남자",
+      "count": 2
+    },
+    {
+      "word": "테니스",
+      "count": 2
+    },
+    {
+      "word": "상금",
+      "count": 2
+    },
+    {
+      "word": "넘어",
+      "count": 2
+    },
+    {
+      "word": "최강",
+      "count": 2
+    },
+    {
+      "word": "이탈리아에",
+      "count": 2
+    },
+    {
+      "word": "포체티노의",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "국힘",
+        "count": 3
+      },
+      {
+        "word": "특검",
+        "count": 2
+      },
+      {
+        "word": "후보",
+        "count": 2
+      },
+      {
+        "word": "이임성",
+        "count": 2
+      },
+      {
+        "word": "추천",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "세계",
+        "count": 4
+      },
+      {
+        "word": "권순우",
+        "count": 3
+      },
+      {
+        "word": "데이비스컵",
+        "count": 3
+      },
+      {
+        "word": "테니스",
+        "count": 2
+      },
+      {
+        "word": "상금",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "위기",
+        "count": 2
+      },
+      {
+        "word": "아파트",
+        "count": 2
+      },
+      {
+        "word": "만원",
+        "count": 2
+      },
+      {
+        "word": "업계",
+        "count": 1
+      },
+      {
+        "word": "공정위원장",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "동아리",
+        "count": 2
+      },
+      {
+        "word": "합격",
+        "count": 2
+      },
+      {
+        "word": "문제로",
+        "count": 1
+      },
+      {
+        "word": "친언니",
+        "count": 1
+      },
+      {
+        "word": "살해한",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "젠슨",
+        "count": 5
+      },
+      {
+        "word": "반도체",
+        "count": 3
+      },
+      {
+        "word": "엔비디아",
+        "count": 2
+      },
+      {
+        "word": "스캔들",
+        "count": 2
+      },
+      {
+        "word": "까지",
+        "count": 2
+      }
+    ],
+    "culture": [
+      {
+        "word": "안에",
+        "count": 1
+      },
+      {
+        "word": "연애하고픈",
+        "count": 1
+      },
+      {
+        "word": "서른",
+        "count": 1
+      },
+      {
+        "word": "변상일",
+        "count": 1
+      },
+      {
+        "word": "서정보",
+        "count": 1
+      }
+    ]
   }
 }
