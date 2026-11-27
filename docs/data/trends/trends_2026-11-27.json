@@ -1,13 +1,220 @@
 {
   "date": "2026-11-27",
-  "generated_at": "2026-11-27T09:30:53.521643+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-27T15:11:21.709029+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "만에",
+      "count": 4
+    },
+    {
+      "word": "도전",
+      "count": 3
+    },
+    {
+      "word": "아들",
+      "count": 3
+    },
+    {
+      "word": "전국",
+      "count": 3
+    },
+    {
+      "word": "표류",
+      "count": 3
+    },
+    {
+      "word": "송환",
+      "count": 3
+    },
+    {
+      "word": "귀순",
+      "count": 3
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "젠슨",
+      "count": 2
+    },
+    {
+      "word": "복귀",
+      "count": 2
+    },
+    {
+      "word": "만원",
+      "count": 2
+    },
+    {
+      "word": "쓰촨",
+      "count": 2
+    },
+    {
+      "word": "시간",
+      "count": 2
+    },
+    {
+      "word": "의혹",
+      "count": 2
+    },
+    {
+      "word": "호흡",
+      "count": 2
+    },
+    {
+      "word": "우승",
+      "count": 2
+    },
+    {
+      "word": "구자욱",
+      "count": 2
+    },
+    {
+      "word": "개월",
+      "count": 2
+    },
+    {
+      "word": "키운",
+      "count": 2
+    },
+    {
+      "word": "강호동",
+      "count": 2
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "표류",
+        "count": 3
+      },
+      {
+        "word": "송환",
+        "count": 3
+      },
+      {
+        "word": "귀순",
+        "count": 3
+      },
+      {
+        "word": "강유정",
+        "count": 2
+      },
+      {
+        "word": "민통선",
+        "count": 2
+      }
+    ],
+    "sports": [
+      {
+        "word": "도전",
+        "count": 3
+      },
+      {
+        "word": "우승",
+        "count": 2
+      },
+      {
+        "word": "구자욱",
+        "count": 2
+      },
+      {
+        "word": "탁구",
+        "count": 1
+      },
+      {
+        "word": "임종훈",
+        "count": 1
+      }
+    ],
+    "economy": [
+      {
+        "word": "올해의",
+        "count": 2
+      },
+      {
+        "word": "우수브랜드",
+        "count": 2
+      },
+      {
+        "word": "대상",
+        "count": 2
+      },
+      {
+        "word": "부문",
+        "count": 2
+      },
+      {
+        "word": "연속",
+        "count": 2
+      }
+    ],
+    "society": [
+      {
+        "word": "혐의",
+        "count": 2
+      },
+      {
+        "word": "수능",
+        "count": 2
+      },
+      {
+        "word": "리콜",
+        "count": 1
+      },
+      {
+        "word": "대상이던",
+        "count": 1
+      },
+      {
+        "word": "김치냉장고서",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "젠슨",
+        "count": 2
+      },
+      {
+        "word": "복귀",
+        "count": 2
+      },
+      {
+        "word": "쓰촨",
+        "count": 2
+      },
+      {
+        "word": "이란에",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "강호동",
+        "count": 2
+      },
+      {
+        "word": "아들",
+        "count": 2
+      },
+      {
+        "word": "전국",
+        "count": 2
+      },
+      {
+        "word": "골프대회",
+        "count": 2
+      },
+      {
+        "word": "준우승",
+        "count": 2
+      }
+    ]
   }
 }
