@@ -1,219 +1,219 @@
 {
   "date": "2026-11-28",
-  "generated_at": "2026-11-28T15:15:31.386528+09:00",
+  "generated_at": "2026-11-28T19:12:32.473688+09:00",
   "daily_top_keywords": [
     {
       "word": "영입",
-      "count": 3
-    },
-    {
-      "word": "전국",
-      "count": 2
-    },
-    {
-      "word": "이동연",
-      "count": 2
-    },
-    {
-      "word": "같은",
-      "count": 2
-    },
-    {
-      "word": "계약",
-      "count": 2
-    },
-    {
-      "word": "포기",
-      "count": 2
-    },
-    {
-      "word": "디트로이트",
-      "count": 2
-    },
-    {
-      "word": "김하성",
-      "count": 2
-    },
-    {
-      "word": "억원",
-      "count": 2
-    },
-    {
-      "word": "송민규",
-      "count": 2
-    },
-    {
-      "word": "연봉",
-      "count": 2
-    },
-    {
-      "word": "된다",
-      "count": 2
-    },
-    {
-      "word": "젠슨",
-      "count": 2
-    },
-    {
-      "word": "구매",
-      "count": 2
-    },
-    {
-      "word": "엔비디아",
-      "count": 2
+      "count": 5
     },
     {
       "word": "트럼프",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "반포",
-      "count": 2
+      "word": "억원",
+      "count": 4
+    },
+    {
+      "word": "디트로이트",
+      "count": 4
+    },
+    {
+      "word": "김하성",
+      "count": 4
+    },
+    {
+      "word": "계약",
+      "count": 4
+    },
+    {
+      "word": "우승",
+      "count": 4
+    },
+    {
+      "word": "포기",
+      "count": 4
+    },
+    {
+      "word": "같은",
+      "count": 4
+    },
+    {
+      "word": "전국",
+      "count": 4
     },
     {
       "word": "정보",
-      "count": 2
+      "count": 4
     },
     {
       "word": "유출",
-      "count": 2
+      "count": 4
     },
     {
-      "word": "월급",
-      "count": 1
+      "word": "인간",
+      "count": 3
+    },
+    {
+      "word": "구매",
+      "count": 3
+    },
+    {
+      "word": "젠슨",
+      "count": 3
+    },
+    {
+      "word": "년째",
+      "count": 3
+    },
+    {
+      "word": "연봉",
+      "count": 3
+    },
+    {
+      "word": "다시",
+      "count": 3
+    },
+    {
+      "word": "이유",
+      "count": 3
+    },
+    {
+      "word": "이동연",
+      "count": 3
     }
   ],
   "category_keywords": {
     "politics": [
       {
-        "word": "잘하는",
-        "count": 1
+        "word": "총리",
+        "count": 3
       },
       {
-        "word": "현역",
-        "count": 1
+        "word": "김민석",
+        "count": 3
       },
       {
-        "word": "국회의원",
-        "count": 1
+        "word": "많이",
+        "count": 2
       },
       {
-        "word": "서영교",
-        "count": 1
+        "word": "최민희",
+        "count": 2
       },
       {
-        "word": "정청래",
-        "count": 1
+        "word": "당원권",
+        "count": 2
       }
     ],
     "sports": [
       {
         "word": "영입",
-        "count": 3
-      },
-      {
-        "word": "계약",
-        "count": 2
-      },
-      {
-        "word": "포기",
-        "count": 2
+        "count": 5
       },
       {
         "word": "디트로이트",
-        "count": 2
+        "count": 4
       },
       {
         "word": "김하성",
-        "count": 2
+        "count": 4
+      },
+      {
+        "word": "계약",
+        "count": 4
+      },
+      {
+        "word": "우승",
+        "count": 4
       }
     ],
     "economy": [
       {
-        "word": "반포",
-        "count": 2
-      },
-      {
         "word": "정보",
-        "count": 2
+        "count": 4
       },
       {
         "word": "유출",
+        "count": 4
+      },
+      {
+        "word": "반포",
+        "count": 3
+      },
+      {
+        "word": "그룹",
         "count": 2
       },
       {
-        "word": "같은",
-        "count": 1
-      },
-      {
-        "word": "집인데",
-        "count": 1
+        "word": "회장",
+        "count": 2
       }
     ],
     "society": [
       {
-        "word": "의사",
-        "count": 1
+        "word": "카메라",
+        "count": 2
       },
       {
-        "word": "연봉",
-        "count": 1
+        "word": "막으려",
+        "count": 2
       },
       {
-        "word": "시대",
-        "count": 1
+        "word": "가운까지국가시험에",
+        "count": 2
       },
       {
-        "word": "끝난다",
-        "count": 1
+        "word": "등장한",
+        "count": 2
       },
       {
-        "word": "의대",
-        "count": 1
+        "word": "전신",
+        "count": 2
       }
     ],
     "international": [
       {
-        "word": "젠슨",
-        "count": 2
+        "word": "트럼프",
+        "count": 4
       },
       {
         "word": "구매",
+        "count": 3
+      },
+      {
+        "word": "젠슨",
+        "count": 3
+      },
+      {
+        "word": "이스라엘",
         "count": 2
       },
       {
-        "word": "트럼프",
+        "word": "파장",
         "count": 2
-      },
-      {
-        "word": "만원짜리",
-        "count": 1
-      },
-      {
-        "word": "겸손",
-        "count": 1
       }
     ],
     "culture": [
       {
-        "word": "월급",
-        "count": 1
+        "word": "휴가",
+        "count": 2
       },
       {
-        "word": "통장",
-        "count": 1
+        "word": "최민식",
+        "count": 2
       },
       {
-        "word": "년간",
-        "count": 1
+        "word": "박해일",
+        "count": 2
       },
       {
-        "word": "내줬다",
-        "count": 1
+        "word": "변요한",
+        "count": 2
       },
       {
-        "word": "몸뻬",
-        "count": 1
+        "word": "추석",
+        "count": 2
       }
     ]
   }
