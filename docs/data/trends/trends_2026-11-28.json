@@ -1,13 +1,220 @@
 {
   "date": "2026-11-28",
-  "generated_at": "2026-11-28T09:28:19.044843+09:00",
-  "daily_top_keywords": [],
+  "generated_at": "2026-11-28T15:15:31.386528+09:00",
+  "daily_top_keywords": [
+    {
+      "word": "영입",
+      "count": 3
+    },
+    {
+      "word": "전국",
+      "count": 2
+    },
+    {
+      "word": "이동연",
+      "count": 2
+    },
+    {
+      "word": "같은",
+      "count": 2
+    },
+    {
+      "word": "계약",
+      "count": 2
+    },
+    {
+      "word": "포기",
+      "count": 2
+    },
+    {
+      "word": "디트로이트",
+      "count": 2
+    },
+    {
+      "word": "김하성",
+      "count": 2
+    },
+    {
+      "word": "억원",
+      "count": 2
+    },
+    {
+      "word": "송민규",
+      "count": 2
+    },
+    {
+      "word": "연봉",
+      "count": 2
+    },
+    {
+      "word": "된다",
+      "count": 2
+    },
+    {
+      "word": "젠슨",
+      "count": 2
+    },
+    {
+      "word": "구매",
+      "count": 2
+    },
+    {
+      "word": "엔비디아",
+      "count": 2
+    },
+    {
+      "word": "트럼프",
+      "count": 2
+    },
+    {
+      "word": "반포",
+      "count": 2
+    },
+    {
+      "word": "정보",
+      "count": 2
+    },
+    {
+      "word": "유출",
+      "count": 2
+    },
+    {
+      "word": "월급",
+      "count": 1
+    }
+  ],
   "category_keywords": {
-    "politics": [],
-    "sports": [],
-    "economy": [],
-    "society": [],
-    "international": [],
-    "culture": []
+    "politics": [
+      {
+        "word": "잘하는",
+        "count": 1
+      },
+      {
+        "word": "현역",
+        "count": 1
+      },
+      {
+        "word": "국회의원",
+        "count": 1
+      },
+      {
+        "word": "서영교",
+        "count": 1
+      },
+      {
+        "word": "정청래",
+        "count": 1
+      }
+    ],
+    "sports": [
+      {
+        "word": "영입",
+        "count": 3
+      },
+      {
+        "word": "계약",
+        "count": 2
+      },
+      {
+        "word": "포기",
+        "count": 2
+      },
+      {
+        "word": "디트로이트",
+        "count": 2
+      },
+      {
+        "word": "김하성",
+        "count": 2
+      }
+    ],
+    "economy": [
+      {
+        "word": "반포",
+        "count": 2
+      },
+      {
+        "word": "정보",
+        "count": 2
+      },
+      {
+        "word": "유출",
+        "count": 2
+      },
+      {
+        "word": "같은",
+        "count": 1
+      },
+      {
+        "word": "집인데",
+        "count": 1
+      }
+    ],
+    "society": [
+      {
+        "word": "의사",
+        "count": 1
+      },
+      {
+        "word": "연봉",
+        "count": 1
+      },
+      {
+        "word": "시대",
+        "count": 1
+      },
+      {
+        "word": "끝난다",
+        "count": 1
+      },
+      {
+        "word": "의대",
+        "count": 1
+      }
+    ],
+    "international": [
+      {
+        "word": "젠슨",
+        "count": 2
+      },
+      {
+        "word": "구매",
+        "count": 2
+      },
+      {
+        "word": "트럼프",
+        "count": 2
+      },
+      {
+        "word": "만원짜리",
+        "count": 1
+      },
+      {
+        "word": "겸손",
+        "count": 1
+      }
+    ],
+    "culture": [
+      {
+        "word": "월급",
+        "count": 1
+      },
+      {
+        "word": "통장",
+        "count": 1
+      },
+      {
+        "word": "년간",
+        "count": 1
+      },
+      {
+        "word": "내줬다",
+        "count": 1
+      },
+      {
+        "word": "몸뻬",
+        "count": 1
+      }
+    ]
   }
 }
